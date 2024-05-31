@@ -1,2 +1,2 @@
 # symmetrical-catfish
-Simple warehouse for 10+yrs of static images and text, for use in next portfolio iteration. 
+Simple warehouse for 12+yrs of design artifacts, for use in next portfolio iteration. 
