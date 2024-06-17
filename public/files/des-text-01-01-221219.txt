@@ -1,0 +1,634 @@
+Why data visualization?
+Data visualization is the graphical representation of information and data, and effective visualizations make complex data more accessible, understandable, and usable. Data visualization is a branch of descriptive statistics rooted in inductive reasoning.
+
+In The Visual Display of Quantitative Information, Edward Tufte defined nine principles for effective visualizations that will communicate complex ideas with clarity, precision and efficiency.
+
+show the data
+induce the viewer to think about the substance rather than about methodology
+avoid distorting what the data has to say
+present many numbers in a small space
+make large data sets coherent
+encourage the eye to compare different pieces of data
+reveal the data at several levels of detail, from a broad overview to the fine structure
+serve a reasonably clear purpose: description, exploration, tabulation or decoration
+be closely integrated with the statistical and verbal descriptions of a data set.
+A visualization should reveal data, and a good visualization can be more precise and revealing than conventional statistical computations.
+
+There is no such thing as information overload. There is only bad design.
+- Edward Tufte
+
+Why standardize?
+From a high-level view, standardizing nails down how the IBM visual brand is applied to analytics. If design is a language, a set of standards defines the dialect, and a coherent design-data dialect establishes a convention for users. When a convention exists and is used consistently, the result is reduced friction and faster comprehension.
+
+At the lower levels, standardization also reduces the friction when planning and building data visualizations. Understanding why, when, and how to use data visualizations means more time can be spent in defining and iterating on what the data should say, rather than how it should be said.
+
+This guide is designed to give you the information you need to design, define, and build the most effective visualizations for your users. We recommend reading the entire guide to familiarize yourself with the different moving parts, and then focus on the parts specific to your role.
+
+
+##attributes##
+
+Step one: understand the why (function) of these dashboard categories...
+Summary
+
+ 
+
+big picture
+emphasis on visuals and pattern recognition
+greater focus on visual comparison vs specific datapoints
+longer time-frame view
+less frequent data updates
+Breakdown
+
+ 
+
+granular
+emphasis on numerical values
+greater focus on discreet data points vs visual comparison
+strong use of 'read' elements
+immediate/short time-frame
+frequent data updates
+Explanatory
+
+ 
+
+primarily static
+lower emphasis on animation
+minimal filters, often pre-filtered
+strong use of negative space and grouping to visually link items
+context provided at point-of-use
+assumes parts may be shown separate from whole
+Exploratory
+
+ 
+
+strongly interactive
+frequent use of animations
+extensive filtering, both form-based and in-chart
+full context may be divorced from immediate point-of-use
+encourages user to navigate into higher/lower levels of detail
+...to understand the best how (form).
+The four categories combine into the following options:
+
+explanatory summary  = dark theme
+exploratory summary = light theme
+explanatory breakdown = dark theme
+exploratory breakdown = light theme
+Summary dashboards and reports may also be called analytical, overview, executive, or wide-focused.
+
+Breakdown dashboards and reports may also be called operational, detailed, managerial, or narrow-focused.
+
+##process##
+
+First, a quick review of UX terminology.
+A stakeholder is anyone that is affected by (or interested in) a product's or service's usage and performance.
+
+Every end user is a stakeholder, but not every stakeholder is an end user.
+
+A persona is fictional (not an actual individual) yet also realistic (based on aggregated real data collected from actual users).
+
+Personas are typically of end users, as the people that will interact directly with the product or service.
+
+A scenario describes how and why a persona would complete a specific task in a specific context.
+
+Analyzing scenarios shows where personas without obvious common ground actually perform similar (or even identical) tasks.
+
+A role frames a persona's actions (tasks) within a particular context (ie presenter, reviewer). Any given persona will usually fill multiple roles.
+
+Designing to roles reduces the noise frequently found in personas, to reveal a clean signal of tasks.
+
+Step two: build to what users do, not who they are.
+Note: examples are meant to illustrate the process, and are not a definitive list.
+
+1. Define personas based on identified users.
+
+Badge Program Managers
+BU leaders
+HR Career and Skills
+L&K Professionals
+Profession Leaders
+SMARTER Report Users
+Workforce Mgmt professionals
+2. Determine scenarios for every persona.
+
+Analyze progress against history and present updates on status and gaps
+Investigate causes/impacts of gaps and monitor overall status of projects
+Explore areas for improvement
+Assess KPIs and snapshots
+Identify short-term trends for risk, and monitor ongoing work
+3. Identify common tasks across scenarios.
+
+(A) Analyze short-term trends
+(B) Analyze long-term trends
+(C) Compare analyses to find risks
+(D) Explore data for gaps
+(E) Monitor aggregated status
+(F) Monitor detailed status
+4. Link each task back to the relevant personas.
+
+(A) Analyze short-term trends
+
+Badge Program Managers
+HR Career and Skills
+L&K Professionals
+SMARTER Report Users
+(B) Analyze long-term trends
+
+BU leaders
+Profession Leaders
+HR Career and Skills
+Workforce Mgmt professionals
+(C) Compare analyses to find risks
+
+HR Career and Skills
+SMARTER Report Users
+HR Career and Skills
+Badge Program Managers
+(D) Explore data for gaps
+
+BU leaders
+HR Career and Skill
+sL&K Professionals
+SMARTER Report Users
+(E) Monitor aggregated status
+
+Profession Leaders
+BU leaders
+Workforce Mgmt professionals
+(F) Monitor detailed status
+
+L&K Professionals
+Badge Program Managers
+SMARTER Report Users
+Workforce Mgmt professionals
+HR Career and Skills
+This final step helps determine the access control levels for a dashboard or report, or if multiple versions are necessary due to permission levels.
+
+Step three: sort tasks into the best-fitting categories.
+Note: examples are meant to illustrate the process, and are not a definitive list
+
+Summary
+
+B. Analyze long-term progress
+
+C. Compare analyses to find risks
+
+E. Monitor aggregated status
+
+Breakdown
+
+A. Analyze short-term trends
+
+D. Explore data for gaps
+
+F. Monitor detailed status
+
+Explanatory
+
+B. Analyze long-term progress
+
+E. Monitor aggregated status
+
+F. Monitor detailed status
+
+Exploratory
+
+A. Analyze short-term trends
+
+C. Compare analyses to find risks
+
+D. Explore data for gaps
+
+Step four: apply the best design for that function.
+Note: examples are meant to illustrate the process, and are not a definitive list
+
+Step five: organize and prioritize the dashboard elements.
+For every element (or datapoint) to be included in the dashboard, identify the following:
+
+title:
+question:
+show:
+notes:
+data:
+Title should indicate clearly what the element shows. Avoid abbreviations or highly-specialized jargon. (See the visuals page for examples.) If there's a secondary axis, include this in the title (ie "by month" or "by band").
+
+Question is the primary purpose of the element. This establishes the criteria for assessing whether the element provides relevant and actionable information.
+
+Show provides a preliminary definition of how the element should appear: a line chart, bar chart, etc.
+
+Notes are for indicating standalone (applies only to this element) features, such as in-tile filters, supplemental text, or footer links.
+
+Data lists the source (database, table, file, etc) to be used to populate the tile.
+
+Do this for each element, and then re-order the list from most actionable to least. Mark each element with its prioritized order.
+
+Try to avoid having more than nine elements in a dashboard. If the list is longer than 10 elements, review the least actionable ones and consider whether these might be more useful on another dashboard, or in a second supplemental tab.
+
+Step six: compile everything for the developer(s).
+Items to deliver
+
+Example
+
+Task, and all personas associated with that role.
+
+Task: compare analyses to find risks
+
+Personas using:
+
+HR Career and Skills
+SMARTER Report Users
+HR Career and Skills
+Badge Program Managers
+Dashboard/report type and associated theme.
+
+Type: exploratory-summary
+
+Theme: dark theme
+
+Central question being answered.
+
+Question: which programs are falling short on their targets?
+
+All elements in order of importance.
+
+#1.
+
+title: All program totals, past 30 days
+question: are all aggregated programs rising or falling
+show: BAN tile with increase/decrease over past 30 days
+notes: none
+data: [table name], [table name]
+#2.
+
+title: Program comparison, % of target
+question: how do programs stack up against each other
+show: bar chart listing all plans
+notes: none
+data: [table name], [table name]
+#3.
+
+title: Actuals to targets, selected programs
+question: how are specific programs doing
+show: group of 5 bullet charts of similar (best/worst) plans
+notes: add in-tile dropdown filter with options of: top 5, bottom 5, 5 most changed, 5 least changed
+data: [flat file name]
+etc.
+
+Selected filters to include.
+
+Filters:
+
+CIC Locations
+Markets
+Countries
+Regions
+Service Areas
+etc.
+
+##charts##
+
+Choose length or area based on required speed of use.
+Our brains can compare length at near-instant speed and accuracy. In contrast, our brains are notoriously bad at comparing the sizes of different areas.
+
+If a chart requires the user to compare values with any accuracy, avoid area-based charts like pies, donuts, and heatmaps.
+
+Use a bar chart instead.
+
+Area-based charts can work for at-a-glance, but only if:
+
+there are five or fewer categories
+no category is less than 10%
+precise values are less important than a general impression
+If the dashboard is interactive and the data has a logical hierarchy, simplify the visual with a hierarchical version (ie sunburst or treemap).
+
+Avoid vanity big numbers and mystery labels.
+Avoid vanity numbers, which are single-number tiles that:
+
+only ever change in one direction (up or down)
+change at a slower rate compared to other data
+provide only general background context
+have little potential call-to-action value
+To un-vanity, add a rate-of-change value or sparkline. If the number stays nearly flat over time, it's probably filler and should be removed.
+
+Label everything clearly and explicitly. Avoid abbreviations. When in doubt, spell it out.
+
+Use titles that would still make sense if the component was viewed separate from the rest of the dashboard.
+
+When a chart has a second axis (ie by month), include it in the title. Never label a chart with only the second axis (ie "By quarter").
+
+Include a key for every chart with more than two categories. Don't assume users will know when keys apply to more than one component. Use a separate key for each.
+
+
+If You Want This Visualization:	Be Sure To Ask These Questions First:
+
+Bar chart
+Line graph
+Donut chart
+
+Is the purpose to show a part-to-whole relationship, or a part-to-part relationship?
+Is there any one value showing that's of primary importance?
+
+##colors##
+
+When you emphasize everything, you end up emphasizing nothing.
+[Often] those creating visualizations will argue that they must include a 14 colors in their chart because the dataset has 14 data points... The reality is, however, that if you need more than a handful of colors in your chart, you can probably present your data in a different way.
+
+Color in Data Visualization: Less How, More Why
+
+Color can often be made conspicuous by its absence. [Keep] all contextual data in shades of grey to ensure that data points are visible, and do not distract from the key insights.
+
+Using one or two colors [also] allows you to connect certain key metrics to specific colors and helps your audience to recognize these indicators easily.
+
+The Importance Of Color In Data Visualizations
+
+...task-irrelevant digit color information hampers the learning process [when] it triggers a conflict with the semantic properties of the base-code words. If a color's connotations conflict with the data value (ie green for decrease, red for increase), this dissonance will impede and weaken user understanding.
+
+How visual displays affect cognitive processing
+
+A carefully selected color palette helps you to harness the pre-attentive processing powers of the human brain, and makes insight clearer and easier to find. A badly chosen color palette obscures the information your users need to understand, and makes your data visualization less effective and harder to use.
+
+Choosing colors for your data visualization
+
+Using color strategically [reduces] the cognitive load required to understand what a visualization is depicting. Color-coding can ameliorate split-attention effects, and result in lower perceived difficulty.
+
+Managing split-attention and redundancy in multimedia instruction
+
+...stop using color when you have so many dimensions. It's indistinguishable, it's confusing, and you're just off-loading the complexity and decision-making to your reader.
+Elijah Meeks
+
+Color should never be the sole means to relay information.
+The color palette has been selected to provide the most contrast across multiple types of color blindness.
+
+Be aware users may apply emotional weight to certain colors. Use the same colors, in the same order, across all charts to decouple connotations and reduce this tendency.
+
+-building-
+
+Step one: make sure you've got everything.
+The designer, team lead, or stakeholder group should provide you the following seven sets of information:
+
+The identified task, and all associated personas.
+Dashboard/report type (ie exploratory-summary).
+Theme (dark or light).
+Central question being answered.
+All elements, with the full title and user goal, in order of importance. (May include notes to designate things like in-tile filters or additional text.)
+A rough mockup of the proposed layout, with tiles labeled according to the list of elements.
+A list of applicable/selected filters.
+Step two: a quick refresher on the dashboard/report types.
+Summary
+
+ 
+
+big picture
+emphasis on visuals and pattern recognition
+greater focus on visual comparison vs specific datapoints
+longer time-frame view
+less frequent data updates
+Breakdown
+
+ 
+
+granular
+emphasis on numerical values
+greater focus on discreet data points vs visual comparison
+strong use of 'read' elements
+immediate/short time-frame
+frequent data updates
+Explanatory
+
+ 
+
+primarily static
+lower emphasis on animation
+minimal filters, often pre-filtered
+strong use of negative space and grouping to visually link items
+context provided at point-of-use
+assumes parts may be shown separate from whole
+Exploratory
+
+ 
+
+strongly interactive
+frequent use of animations
+extensive filtering, both form-based and in-chart
+full context may be divorced from immediate point-of-use
+encourages user to navigate into higher/lower levels of detail
+Step three: confirm the type matches the theme.
+explanatory summary  = dark theme
+exploratory summary = light theme
+explanatory breakdown = dark theme
+exploratory breakdown = light theme
+Note:
+
+If the type and theme don't match, ask your contact to double-check.
+
+Violating the recommended themes can result in a less-comprehensible or more-difficult experience for the users.
+
+Step four: set up the grid.
+
+
+columns span                        width (pixels)
+
+1                                                48
+
+2                                                128
+
+3                                                208
+
+4                                                288
+
+5                                                368
+
+6                                                448
+
+7                                                528
+
+8                                                608
+
+columns span                        width (pixels)
+
+9                                                688
+
+10                                                768
+
+11                                                848
+
+12                                                928
+
+13                                                1008
+
+14                                                1088
+
+15                                                1168
+
+16                                                1248
+
+Step three: set up spacing, sizes, and colors by theme.
+Light Theme
+
+Gutters (spacing between tiles): 16px
+
+Spacing inside cards, on all sides: 16px
+
+Spacing below header: 24px
+
+Spacing above footer: 24px
+
+ 
+
+Body background: #F4F4F4
+
+Card background: #FFFFFF
+
+ 
+
+Card title:
+
+font:   IBM Plex Sans
+color:  #161616
+size:   14px (cognos) / 11px (tableau)
+align:  left
+style:   none (normal)
+weight: 400 (normal)
+ 
+
+Secondary text:
+
+font:   IBM Plex Sans
+color:   #6F6F6F
+size:   12px (cognos) / 9px (tableau)
+align:   left/right/center
+style:   none (normal)
+weight:   400 (normal)
+ 
+
+Dark Theme
+
+Gutter (spacing between tiles): 32px
+
+Spacing inside cards, on all sides: 24px
+
+Spacing below header: 24px
+
+Spacing above footer: 24px
+
+ 
+
+Body background: #161616
+
+Card background: #262626
+
+ 
+
+Card title:
+
+font:   IBM Plex Sans
+color:   #F4F4F4
+size:   16px (cognos) / 12px (tableau)
+align:  left
+style:   none (normal)
+weight: 600 (medium)
+ 
+
+Secondary text:
+
+font:   IBM Plex Sans
+color:   #C6C6C6
+size:   12px (cognos) / 9px (tableau)
+align:   left/right/center
+style:   none (normal)
+weight:   400 (normal)
+
+-themes-
+
+Things to remember about light themes and dark themes.
+Dark mode is ideal for eye-catching visual applications and websites.
+
+The deep, heavy backgrounds perfectly make a design "pop" with its high-contrast backdrop. This helps draw attention to images, graphics, videos, and visuals of any shape and color.
+
+Dark Mode Best Practices: Do's and Don'ts of Dark UIs
+
+ 
+
+People with astigmatism (50% of the population) find it harder to read white text on black than black text on white.
+
+[With] a bright display (white background) the iris closes a bit more, decreasing the effect of the "deformed" lens; with a dark display (black background) the iris opens to receive more light and the deformation of the lens creates a much fuzzier focus&
+
+Love dark mode? Here's why you may still want to avoid it
+
+ 
+
+A dark background de-accentuates empty space.
+
+While de-emphasized empty space makes large images and minimalist pages elegant and dramatic, it makes small icons and dense pages look cluttered, unorganized, and unprofessional.
+
+The Dos and Don'ts of Dark Theme in UI and Web Design
+
+ 
+
+Text with a light background appear to be a more effective choice for the majority of users.
+
+D. Bauer and C.R.Cavonius [found] participants were 26% more accurate in reading text when it was featured with dark characters on a light background.
+
+UI Design: How to Choose Between Light and Dark Theme
+
+ 
+
+Design considerations, by theme.
+Light Theme
+
+ 
+
+Most legible option for large blocks of text and text-based tables
+Fonts remain legible even at significantly reduced sizes
+Accent color choices can range from subdued to very bright
+Monochromatic grayscale doesn't risk loss of legibility
+Spacing between elements can be less without appearing crowded
+Icons, buttons, and other small elements can be used in moderation without creating a cluttered look
+Pure black on pure white is acceptable contrast level for most users
+If needed, soften contrast with toned black on pure white, or pure black on toned white
+Dark Theme
+
+Receding background lets images and graphics pop
+Requires larger font to be consistently legible
+Can induce eye-strain if used for reading-based tasks
+Accent colors should be marginally desaturated
+Spacing must be increased to prevent appearance of crowding
+Icons, buttons, and other small elements may create a cluttered look
+Avoid pure white on pure black as too high contrast for most users
+Reduce fuzzing effect with toned white on toned black
+ 
+
+Compare the legibility.
+
+
+Ann Emery's Dashnboard Don't #10: Assuming a dashboard is finished. 
+"Dashboards are never finished.  They're not supposed to be finished. You don't want to have a consultant just make one, one time. You don't want to spend all your money in one go, hoping it's done and you don't have to think about it ever again. Dashbaords are supposed to be updated over time. They're supposed to evolve as information needs. Not just every year; this isn't supposed to be like an annual update. This should be ongoing: little edits, little adjustments, little improvements all the time. As needs change, the dashboard changes. And when you keep all those edits in-house, the process is going to go a lot faster and a lot smoother in the long run."
+ 
+ 
+#29707A
+#45B0A2
+#A441A9
+#E28DE4
+#335D8E
+#88B7EF
+#6044A8
+#AA85DD
+
+#CB0041
+#F9B700
+#539700 
+
+#29707A
+#548B93
+#7BA7AD
+#A1C4C9
+#D6E8E8
+
+#00545E
+#4C7980
+#82A0A5
+#B9C8CA
+#F1F1F1
+#C2C1DC
+#A690BA
+#896099
+#6A3079

@@ -1,0 +1,2928 @@
+[
+ {
+   "dex": 1,
+   "title": "Intranet Architecture",
+   "proj": "ABC",
+   "vers": 4,
+   "num": 1,
+   "date": "070712",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "arch",
+   "stage": "revis",
+   "note": "Sitemap incorporating preliminary page architecture for development planning.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 2,
+   "title": "Intranet Architecture",
+   "proj": "ABC",
+   "vers": 5,
+   "num": 1,
+   "date": "080117",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "map",
+   "stage": "revis",
+   "note": "Revised version of page architecture, arranged in a manner slightly less terrifying for shareholders.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 3,
+   "title": "Intranet Site Map",
+   "proj": "ABC",
+   "vers": 7,
+   "num": 1,
+   "date": "080229",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "map",
+   "stage": "final",
+   "note": "Thorough site map that includes 2nd and 3rd tier sub-levels.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 4,
+   "title": "Development Guidelines",
+   "proj": "ANG",
+   "vers": 3,
+   "num": 1,
+   "date": "160323",
+   "ftype": "pptx",
+   "anno": "F",
+   "cat1": "mix",
+   "cat2": "pres",
+   "stage": "final",
+   "note": "Best practices for keeping team development from turning into chaos.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 5,
+   "title": "Rough API Architecture/Flow",
+   "proj": "API",
+   "vers": 1,
+   "num": 1,
+   "date": "170127",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "arch",
+   "stage": "draft",
+   "note": "Working version of the proposed API architecture.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 6,
+   "title": "Applying Design Thinking to APIs",
+   "proj": "API",
+   "vers": 2,
+   "num": 1,
+   "date": "170314",
+   "ftype": "pdf",
+   "anno": "F",
+   "cat1": "mix",
+   "cat2": "pres",
+   "stage": "revis",
+   "note": "Near-final co-written API design, co-written by team.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 7,
+   "title": "Applying Design Thinking to APIs",
+   "proj": "API",
+   "vers": 2,
+   "num": 1,
+   "date": "171105",
+   "ftype": "txt",
+   "anno": "F",
+   "cat1": "txt",
+   "cat2": "word",
+   "stage": "draft",
+   "note": "Preliminary text for team’s presentation on designing APIs.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 8,
+   "title": "Proposed Gateway Architecture",
+   "proj": "API",
+   "vers": 6,
+   "num": 4,
+   "date": "170205",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "arch",
+   "stage": "final",
+   "note": "Presentation of option A for API gateway design.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 9,
+   "title": "Proposed Gateway Architecture",
+   "proj": "API",
+   "vers": 6,
+   "num": 5,
+   "date": "170206",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "arch",
+   "stage": "final",
+   "note": "Presentation of option B for API gateway design.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 10,
+   "title": "Site Map Flowchart",
+   "proj": "ARC",
+   "vers": 5,
+   "num": 1,
+   "date": "120217",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "map",
+   "stage": "final",
+   "note": "Circular site map, arranged in order of user workflow.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 11,
+   "title": "Archive Administration",
+   "proj": "ARC",
+   "vers": 5,
+   "num": 2,
+   "date": "110512",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "Form for authors to add, edit, and arrange their stories’ chapters.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 12,
+   "title": "Mobile AI App",
+   "proj": "BST",
+   "vers": 2,
+   "num": 1,
+   "date": "230718",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "mock",
+   "stage": "final",
+   "note": "Start-point of animation in login page.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 13,
+   "title": "Mobile AI App, Example",
+   "proj": "BST",
+   "vers": 2,
+   "num": 4,
+   "date": "230724",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "mock",
+   "stage": "revis",
+   "note": "Design example, using AI-produced text.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 14,
+   "title": "Mobile AI App, Example",
+   "proj": "BST",
+   "vers": 2,
+   "num": 7,
+   "date": "230724",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "mock",
+   "stage": "revis",
+   "note": "Design example, using AI-produced text.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 15,
+   "title": "Product Explanation",
+   "proj": "BST",
+   "vers": 4,
+   "num": 5,
+   "date": "230831",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "revis",
+   "note": "Visual metaphor for the creation of AI-based ontologies.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 16,
+   "title": "Pitch Deck",
+   "proj": "BST",
+   "vers": 5,
+   "num": 5,
+   "date": "230728",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "mix",
+   "cat2": "pres",
+   "stage": "final",
+   "note": "Simplified visual for non-technical investors.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 17,
+   "title": "Pitch Deck",
+   "proj": "BST",
+   "vers": 5,
+   "num": 7,
+   "date": "230728",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "mix",
+   "cat2": "pres",
+   "stage": "revis",
+   "note": "Example of concept in action, with design applied.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 18,
+   "title": "API Directory",
+   "proj": "cAPI",
+   "vers": 1,
+   "num": 1,
+   "date": "160630",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "wire",
+   "stage": "draft",
+   "note": "Draft of proposed directory of available internal APIs, for Cloud use.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 19,
+   "title": "API Directory",
+   "proj": "cAPI",
+   "vers": 1,
+   "num": 2,
+   "date": "160630",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "wire",
+   "stage": "draft",
+   "note": "Draft of proposed directory of available internal APIs, for Cloud use.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 20,
+   "title": "Add a Cat Profile",
+   "proj": "CAT",
+   "vers": 1,
+   "num": 4,
+   "date": "120209",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "revis",
+   "note": "Form incorporating accessibility lessons learned while consulting.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 21,
+   "title": "Create an Account",
+   "proj": "CAT",
+   "vers": 1,
+   "num": 7,
+   "date": "120209",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "revis",
+   "note": "A slight case of taking a good idea a little too far.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 22,
+   "title": "Services Platform walk-through",
+   "proj": "cCTS",
+   "vers": 1,
+   "num": 1,
+   "date": "170505",
+   "ftype": "pdf",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "tour",
+   "stage": "final",
+   "note": "Redesign applying the new design system, further organized to show user movement through the webapp.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 23,
+   "title": "Introduction to Agile",
+   "proj": "CDO",
+   "vers": 1,
+   "num": 1,
+   "date": "170821",
+   "ftype": "pdf",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "pres",
+   "stage": "final",
+   "note": "Getting a newly-built team on the same page about management tactics.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 24,
+   "title": "Turning Business Inside-out: How a Cognitive Approach Can Transform IT",
+   "proj": "CDO",
+   "vers": 3,
+   "num": 1,
+   "date": "170523",
+   "ftype": "pdf",
+   "anno": "F",
+   "cat1": "mix",
+   "cat2": "paper",
+   "stage": "final",
+   "note": "Paper about the necessity of centralizing data and integrating design for a more efficient business.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 25,
+   "title": "Hub-and-Spoke Organization",
+   "proj": "CDO",
+   "vers": 4,
+   "num": 1,
+   "date": "170510",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "map",
+   "stage": "final",
+   "note": "Visual representation of how a centralized data office connects and integrates with its client teams.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 26,
+   "title": "Leveraging the Data: Using a Cognitive Platform to Transform Business Outcomes",
+   "proj": "CDO",
+   "vers": 4,
+   "num": 1,
+   "date": "170523",
+   "ftype": "pdf",
+   "anno": "F",
+   "cat1": "txt",
+   "cat2": "paper",
+   "stage": "final",
+   "note": "Paper to support Cognitive Platform initiative. (Boy do those dashboard images make me cringe, now.)",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 27,
+   "title": "Character App Frame",
+   "proj": "CHR",
+   "vers": 1,
+   "num": 1,
+   "date": "110426",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "wire",
+   "stage": "draft",
+   "note": "The first of many iterations in figuring the information architecture.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 28,
+   "title": "Original Hyperrealistic Concept",
+   "proj": "CHR",
+   "vers": 1,
+   "num": 1,
+   "date": "120712",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "final",
+   "note": "Skeuomorphic was all the rage, and it has its place. Somewhere else.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 29,
+   "title": "User & Site Diagram",
+   "proj": "CHR",
+   "vers": 2,
+   "num": 1,
+   "date": "120712",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "map",
+   "stage": "revis",
+   "note": "An experiment in blending site map and user flow in a circularly-architected UI.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 30,
+   "title": "Character List Iteration",
+   "proj": "CHR",
+   "vers": 2,
+   "num": 2,
+   "date": "120216",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "wire",
+   "stage": "draft",
+   "note": "An attempt to satisfy user requests for a packed data table, but the result was unfortunately inaccessible. ",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 31,
+   "title": "Character Physiology Page",
+   "proj": "CHR",
+   "vers": 2,
+   "num": 3,
+   "date": "120216",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "wire",
+   "stage": "draft",
+   "note": "Drawer slide up/down design for reducing cognitive load of a complicated form.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 32,
+   "title": "Character Musical Skill Page",
+   "proj": "CHR",
+   "vers": 2,
+   "num": 4,
+   "date": "110509",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "Screenshot of prototype for character management webapp. ",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 33,
+   "title": "Character History Page",
+   "proj": "CHR",
+   "vers": 2,
+   "num": 7,
+   "date": "120705",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "Screenshot of prototype for character management webapp. ",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 34,
+   "title": "New Character Walk-Through",
+   "proj": "CHR",
+   "vers": 3,
+   "num": 5,
+   "date": "151116",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "Screenshot of production version of character management webapp, showing dropdown contents.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 35,
+   "title": "New Character Walk-Through",
+   "proj": "CHR",
+   "vers": 3,
+   "num": 7,
+   "date": "151116",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "Screenshot of production version of character management webapp, showing dropdown contents.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 36,
+   "title": "Character App Site Map Redux",
+   "proj": "CHR",
+   "vers": 4,
+   "num": 3,
+   "date": "120712",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "map",
+   "stage": "final",
+   "note": "A simplified and streamlined site map. ",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 37,
+   "title": "HR Insights Analytics Site",
+   "proj": "cSAA",
+   "vers": 1,
+   "num": 1,
+   "date": "181105",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "final",
+   "note": "Earliest prototype of an inventory site for the team’s projects.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 38,
+   "title": "Team Dashboard Catalog",
+   "proj": "cSAA",
+   "vers": 3,
+   "num": 1,
+   "date": "181107",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "revis",
+   "note": "Users nicknamed the boxes ‘cards’, inspiring the metaphor of a card catalog.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 39,
+   "title": "Expanded Analytics Catalog",
+   "proj": "cSAA",
+   "vers": 9,
+   "num": 1,
+   "date": "190516",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "revis",
+   "note": "A more complex main page thanks to increasingly detailed metadata for each linked dashboard.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 40,
+   "title": "User Interview",
+   "proj": "cTTA",
+   "vers": 1,
+   "num": 1,
+   "date": "200604",
+   "ftype": "txt",
+   "anno": "F",
+   "cat1": "txt",
+   "cat2": "word",
+   "stage": "final",
+   "note": "Basic script for user interviews on new dashboards and/or visualizations.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 41,
+   "title": "Mapping Dash Connections",
+   "proj": "cTTA",
+   "vers": 2,
+   "num": 2,
+   "date": "191005",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "site",
+   "stage": "draft",
+   "note": "Preliminary visual for stakeholder discussion on organizing related dashboards. ",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 42,
+   "title": "Submit a Request",
+   "proj": "cTTA",
+   "vers": 7,
+   "num": 1,
+   "date": "200507",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "Automated routing form to handle growing number of user requests.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 43,
+   "title": "Manage Your Cards",
+   "proj": "cTTA",
+   "vers": 7,
+   "num": 2,
+   "date": "200507",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "CRUD system for data scientists and analysts to manage cards for their respective dashboards.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 44,
+   "title": "Mature Catalog Design",
+   "proj": "cTTA",
+   "vers": 12,
+   "num": 1,
+   "date": "200609",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "final",
+   "note": "Growing catalog size necessitated a more complex filtering system. ",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 45,
+   "title": "Dataviz Pie/Bullet Exploration",
+   "proj": "dA2T",
+   "vers": 1,
+   "num": 1,
+   "date": "190719",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "revis",
+   "note": "Prototype of pie/bullet combination with a data table.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 46,
+   "title": "Dataviz Pie/Table Exploration",
+   "proj": "dA2T",
+   "vers": 1,
+   "num": 2,
+   "date": "190719",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "revis",
+   "note": "Mockup for user interviews to measure speed and depth of user comprehension with a pie/table combination.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 47,
+   "title": "Dataviz BAN/Bullet Exploration",
+   "proj": "dA2T",
+   "vers": 2,
+   "num": 1,
+   "date": "191016",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "revis",
+   "note": "Mockup for user interviews to measure speed and depth of user comprehension with a BAN/bullet combination.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 48,
+   "title": "Dataviz Trends Exploration",
+   "proj": "dA2T",
+   "vers": 3,
+   "num": 1,
+   "date": "190613",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "revis",
+   "note": "Mockup for user interviews to measure speed and depth of user comprehension with trending data.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 49,
+   "title": "Dataviz Funnel Exploration",
+   "proj": "dA2T",
+   "vers": 4,
+   "num": 1,
+   "date": "190612",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "revis",
+   "note": "Mockup for user interviews to measure speed and depth of user comprehension with a funnel-style visual.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 50,
+   "title": "Dashboard Design and Layout ",
+   "proj": "dALL",
+   "vers": 3,
+   "num": 4,
+   "date": "210325",
+   "ftype": "png",
+   "anno": "T",
+   "cat1": "vis",
+   "cat2": "des",
+   "stage": "final",
+   "note": "Example of dashboard design, including spacing, fonts, and classes.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 51,
+   "title": "Dashboard Design and Layout ",
+   "proj": "dALL",
+   "vers": 6,
+   "num": 1,
+   "date": "221003",
+   "ftype": "jpg",
+   "anno": "T",
+   "cat1": "vis",
+   "cat2": "des",
+   "stage": "final",
+   "note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 52,
+   "title": "Dashboard Design and Layout ",
+   "proj": "dALL",
+   "vers": 6,
+   "num": 2,
+   "date": "221003",
+   "ftype": "jpg",
+   "anno": "T",
+   "cat1": "vis",
+   "cat2": "des",
+   "stage": "final",
+   "note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 53,
+   "title": "Dashboard Design by Type",
+   "proj": "dALL",
+   "vers": 9,
+   "num": 2,
+   "date": "190215",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "des",
+   "stage": "final",
+   "note": "Quick (and regularly updated) cheat sheet for data analysts when building dashboards.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 54,
+   "title": "Annotated Dashboard Design",
+   "proj": "dALL",
+   "vers": 9,
+   "num": 3,
+   "date": "190215",
+   "ftype": "jpg",
+   "anno": "T",
+   "cat1": "vis",
+   "cat2": "des",
+   "stage": "final",
+   "note": "A thorough and annotated example of design for panels, fonts, charts, and helper text.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 55,
+   "title": "Attrition Dashboard",
+   "proj": "dATT",
+   "vers": 7,
+   "num": 1,
+   "date": "220803",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "viz",
+   "cat2": "dviz",
+   "stage": "revis",
+   "note": "At-a-glance charts for tracking attrition data.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 56,
+   "title": "Attrition Dashboard",
+   "proj": "dATT",
+   "vers": 7,
+   "num": 2,
+   "date": "220806",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "viz",
+   "cat2": "dviz",
+   "stage": "revis",
+   "note": "Visualization index with complex data tables for tracking attrition rates.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 57,
+   "title": "Mental Model Exploration",
+   "proj": "dCAP",
+   "vers": 1,
+   "num": 0,
+   "date": "191204",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "idea",
+   "note": "Variations to help users identify which dataviz best matches with their ‘view’ of the data.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 58,
+   "title": "Multi-Tab Dashboard Design",
+   "proj": "dCAP",
+   "vers": 4,
+   "num": 3,
+   "date": "200512",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "revis",
+   "note": "Left-justified bar chart for comparing personnel needs across teams. ",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 59,
+   "title": "Multi-Tab Dashboard Design",
+   "proj": "dCAP",
+   "vers": 4,
+   "num": 4,
+   "date": "200512",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "revis",
+   "note": "Experimental visualization for viewing levels of projected needs.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 60,
+   "title": "Multi-Tab Dashboard Design",
+   "proj": "dCAP",
+   "vers": 4,
+   "num": 6,
+   "date": "200512",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "revis",
+   "note": "Mock for demonstrating and explaining an advanced-level dataviz.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 61,
+   "title": "Interactive Analytics Design",
+   "proj": "dCAP",
+   "vers": 6,
+   "num": 2,
+   "date": "200316",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "revis",
+   "note": "Dashboard incorporating interactive form, for user input to calculate and project future trends.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 62,
+   "title": "Mocked Dashboard for User Discussion",
+   "proj": "dEDV",
+   "vers": 1,
+   "num": 3,
+   "date": "191010",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "revis",
+   "note": "Quick mock created during user discussions, using placeholder dataviz with fake data.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 63,
+   "title": "Why Dataviz?",
+   "proj": "DES",
+   "vers": 1,
+   "num": 1,
+   "date": "221219",
+   "ftype": "txt",
+   "anno": "F",
+   "cat1": "txt",
+   "cat2": "word",
+   "stage": "draft",
+   "note": "Whitepaper draft on the design, use, and value of good dataviz.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 64,
+   "title": "Benchmark Comparison Notes",
+   "proj": "DES",
+   "vers": 1,
+   "num": 2,
+   "date": "221219",
+   "ftype": "txt",
+   "anno": "F",
+   "cat1": "txt",
+   "cat2": "note",
+   "stage": "final",
+   "note": "Summaries of research results comparing competitors’ design systems.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 65,
+   "title": "System Content Architecture ",
+   "proj": "DES",
+   "vers": 1,
+   "num": 4,
+   "date": "230120",
+   "ftype": "txt",
+   "anno": "F",
+   "cat1": "txt",
+   "cat2": "note",
+   "stage": "revis",
+   "note": "Full outline for design system documentation, including future topics.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 66,
+   "title": "Design System Proposal",
+   "proj": "DES",
+   "vers": 3,
+   "num": 1,
+   "date": "230128",
+   "ftype": "txt",
+   "anno": "F",
+   "cat1": "txt",
+   "cat2": "word",
+   "stage": "revis",
+   "note": "Draft of presentation text for design system proposal.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 67,
+   "title": "Executive View, Summary",
+   "proj": "dEXV",
+   "vers": 1,
+   "num": 1,
+   "date": "180928",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "draft",
+   "note": "Mocked dashboard with over-use of piecharts.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 68,
+   "title": "Executive View, Skill Growth",
+   "proj": "dEXV",
+   "vers": 2,
+   "num": 1,
+   "date": "180927",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "draft",
+   "note": "Mocked dashboard with too many colors.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 69,
+   "title": "Executive View, Summary",
+   "proj": "dEXV",
+   "vers": 4,
+   "num": 1,
+   "date": "190116",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "draft",
+   "note": "Mocked dashboard with third iteration dataviz ideas.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 70,
+   "title": "Executive View",
+   "proj": "dEXV",
+   "vers": 6,
+   "num": 1,
+   "date": "190419",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "draft",
+   "note": "Mocked dashboard for gathering user thoughts and reactions.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 71,
+   "title": "Executive View",
+   "proj": "dEXV",
+   "vers": 6,
+   "num": 4,
+   "date": "190419",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "draft",
+   "note": "Mocked dashboard for gathering user thoughts and reactions.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 72,
+   "title": "Executive View",
+   "proj": "dEXV",
+   "vers": 6,
+   "num": 5,
+   "date": "190417",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "Mocked dashboard for gathering user thoughts and reactions.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 73,
+   "title": "Go To Market Data",
+   "proj": "dG2M",
+   "vers": 2,
+   "num": 1,
+   "date": "201029",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "revis",
+   "note": "Complex dashboard for viewing regional go-to-market data.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 74,
+   "title": "Job Roles Reskilling",
+   "proj": "dJRS",
+   "vers": 2,
+   "num": 1,
+   "date": "210505",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "revis",
+   "note": "Target tracking by region, with RAG-style visualizations.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 75,
+   "title": "Leaderboard",
+   "proj": "dLBD",
+   "vers": 1,
+   "num": 1,
+   "date": "190415",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "final",
+   "note": "Dashboard showing potential views dependent on metadata tracking.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 76,
+   "title": "Leaderboard",
+   "proj": "dLBD",
+   "vers": 2,
+   "num": 1,
+   "date": "190418",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "final",
+   "note": "Mocked dashboard using only available types of data.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 77,
+   "title": "Data Lake",
+   "proj": "DLK",
+   "vers": 2,
+   "num": 6,
+   "date": "180217",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "arch",
+   "stage": "revis",
+   "note": "Visual for possible data lake organization and architecture.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 78,
+   "title": "Onboarding Tracking",
+   "proj": "dONB",
+   "vers": 2,
+   "num": 1,
+   "date": "210318",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "revis",
+   "note": "At-a-glance trends for delivery group onboarding.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 79,
+   "title": "AI Textual Inference",
+   "proj": "dONT",
+   "vers": 1,
+   "num": 1,
+   "date": "181202",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "map",
+   "stage": "idea",
+   "note": "Mapping concept and purpose of new dashboard.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 80,
+   "title": "AI Skills Analysis",
+   "proj": "dONT",
+   "vers": 5,
+   "num": 0,
+   "date": "190829",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "AI-based education dashboard with annotations.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 81,
+   "title": "AI Education Analysis",
+   "proj": "dONT",
+   "vers": 6,
+   "num": 5,
+   "date": "191001",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "AI-based education dashboard, incorporating billing and claims history.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 82,
+   "title": "ROI Capacity Model",
+   "proj": "dROI",
+   "vers": 1,
+   "num": 4,
+   "date": "191029",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "draft",
+   "note": "Early iteration for executive personnel ROI dashboard.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 83,
+   "title": "ROI Capacity Model",
+   "proj": "dROI",
+   "vers": 2,
+   "num": 1,
+   "date": "191103",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "Exploration of visual patterns for data hierarchy.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 84,
+   "title": "Segment Targets",
+   "proj": "dSEG",
+   "vers": 5,
+   "num": 1,
+   "date": "190503",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "Horizontal dataviz for tracking employee training progress.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 85,
+   "title": "Segment Targets",
+   "proj": "dSEG",
+   "vers": 5,
+   "num": 2,
+   "date": "190503",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "Horizontal dataviz for tracking employee training progress.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 86,
+   "title": "Segment Targets, Trending",
+   "proj": "dSEG",
+   "vers": 5,
+   "num": 12,
+   "date": "190510",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "Mocked dashboard using split vertical bar charts to show training program trends.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 87,
+   "title": "Skills Growth Dashboard",
+   "proj": "dSKL",
+   "vers": 4,
+   "num": 1,
+   "date": "190611",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "Comparison of job role expertise, using AI inference and self-assessment, against team’s level of expertise.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 88,
+   "title": "Skills Growth Dashboard, Expanded",
+   "proj": "dSKL",
+   "vers": 4,
+   "num": 2,
+   "date": "190614",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "Mock showing the use of annotation in explaining data sources and calculations.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 89,
+   "title": "Project Services",
+   "proj": "dSVC",
+   "vers": 3,
+   "num": 1,
+   "date": "191010",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "Operational tab for viewing training program trends.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 90,
+   "title": "Project Services",
+   "proj": "dSVC",
+   "vers": 4,
+   "num": 1,
+   "date": "191011",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "Operational tab for viewing training program trends.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 91,
+   "title": "Time Contribution Filters",
+   "proj": "dTCB",
+   "vers": 1,
+   "num": 14,
+   "date": "200110",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "revis",
+   "note": "Exploration of filter arrangement and design in sliding drawer.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 92,
+   "title": "Time Contribution",
+   "proj": "dTCB",
+   "vers": 3,
+   "num": 3,
+   "date": "200127",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "Dashboard using embedded charts inside data tables.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 93,
+   "title": "Time Contribution",
+   "proj": "dTCB",
+   "vers": 4,
+   "num": 2,
+   "date": "200609",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "Dashboard navigation for users to focus on within-group comparisons only.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 94,
+   "title": "Team Management",
+   "proj": "dTMT",
+   "vers": 1,
+   "num": 1,
+   "date": "190527",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "Proposed dashboard for first-line managers to view team skills and levels of expertise.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 95,
+   "title": "Team Management",
+   "proj": "dTMT",
+   "vers": 3,
+   "num": 1,
+   "date": "190731",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "Dashboard for first-line managers to track their team, and their own, education progress.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 96,
+   "title": "Training Enrollment Summary",
+   "proj": "dTRN",
+   "vers": 5,
+   "num": 1,
+   "date": "190422",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "revis",
+   "note": "Revised version incorporating user and data scientist feedback.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 97,
+   "title": "Training Enrollment Summary",
+   "proj": "dTRN",
+   "vers": 5,
+   "num": 4,
+   "date": "190423",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "draft",
+   "note": "Early draft for user discussion on required and useful dataviz.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 98,
+   "title": "Training Enrollment by Service",
+   "proj": "dTRN",
+   "vers": 7,
+   "num": 1,
+   "date": "190531",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "draft",
+   "note": "Proposed dashboard redesign from Tableau to D3 version.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 99,
+   "title": "Annual Summary",
+   "proj": "ELA",
+   "vers": 3,
+   "num": 1,
+   "date": "211019",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "mix",
+   "cat2": "pres",
+   "stage": "final",
+   "note": "End-of-year discussion points for internal education programs.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 100,
+   "title": "Points for EOY Discussion",
+   "proj": "ELA",
+   "vers": 5,
+   "num": 2,
+   "date": "210311",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "mix",
+   "cat2": "pres",
+   "stage": "final",
+   "note": "End-of-year summary on internal education programs.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 101,
+   "title": "Points for EOY Discussion",
+   "proj": "ELA",
+   "vers": 5,
+   "num": 3,
+   "date": "210311",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "mix",
+   "cat2": "pres",
+   "stage": "final",
+   "note": "End-of-year summary on internal education programs.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 102,
+   "title": "Education Request",
+   "proj": "ERF",
+   "vers": 1,
+   "num": 1,
+   "date": "190220",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "lane",
+   "stage": "revis",
+   "note": "Swim lanes based on user interviews and executive input.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 103,
+   "title": "Education Request",
+   "proj": "ERF",
+   "vers": 2,
+   "num": 1,
+   "date": "190311",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "flow",
+   "stage": "draft",
+   "note": "Process flow identifying involved roles and data movement.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 104,
+   "title": "Education Request, Expanded",
+   "proj": "ERF",
+   "vers": 3,
+   "num": 1,
+   "date": "190313",
+   "ftype": "jpg",
+   "anno": "T",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "revis",
+   "note": "Fully-expanded form with logic for user interaction.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 105,
+   "title": "Education Request",
+   "proj": "ERF",
+   "vers": 3,
+   "num": 7,
+   "date": "190315",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "revis",
+   "note": "Executive management page for education request.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 106,
+   "title": "GDPR Process Mapping",
+   "proj": "GDP",
+   "vers": 7,
+   "num": 1,
+   "date": "171110",
+   "ftype": "pdf",
+   "anno": "T",
+   "cat1": "vis",
+   "cat2": "flow",
+   "stage": "draft",
+   "note": "The 7th iteration of ultimately 19 versions detailing the complicated GDPR process.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 107,
+   "title": "GDPR Process Mapping",
+   "proj": "GDP",
+   "vers": 10,
+   "num": 1,
+   "date": "171129",
+   "ftype": "pdf",
+   "anno": "T",
+   "cat1": "vis",
+   "cat2": "lane",
+   "stage": "draft",
+   "note": "Process flow modified into a swim lane approach.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 108,
+   "title": "Customer Happiness",
+   "proj": "HAP",
+   "vers": 1,
+   "num": 6,
+   "date": "141105",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "revis",
+   "note": "Preliminary mockup for customer support site.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 109,
+   "title": "Customer Happiness",
+   "proj": "HAP",
+   "vers": 1,
+   "num": 13,
+   "date": "141105",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "revis",
+   "note": "Preliminary mockup for customer support site.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 110,
+   "title": "Customer Happiness",
+   "proj": "HAP",
+   "vers": 2,
+   "num": 1,
+   "date": "141109",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "arch",
+   "stage": "revis",
+   "note": "Full site map, with color-coding to call out re-used modular components.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 111,
+   "title": "Client Intranet Dashboard",
+   "proj": "HCI",
+   "vers": 1,
+   "num": 1,
+   "date": "180412",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "draft",
+   "note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 112,
+   "title": "Client Intranet Dashboard",
+   "proj": "HCI",
+   "vers": 1,
+   "num": 2,
+   "date": "180412",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "divz",
+   "stage": "draft",
+   "note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 113,
+   "title": "Cancer Patient Portal",
+   "proj": "HCR",
+   "vers": 3,
+   "num": 2,
+   "date": "120705",
+   "ftype": "png",
+   "anno": "T",
+   "cat1": "vis",
+   "cat2": "wire",
+   "stage": "draft",
+   "note": "Collection of loose wireframes organized to show user flow through the pages.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 114,
+   "title": "Cancer Patient Portal",
+   "proj": "HCR",
+   "vers": 4,
+   "num": 1,
+   "date": "120712",
+   "ftype": "png",
+   "anno": "T",
+   "cat1": "vis",
+   "cat2": "flow",
+   "stage": "revis",
+   "note": "Site map showing user choices, interactions, and overlaps between paths.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 115,
+   "title": "Modern-to-Legacy SSO",
+   "proj": "HOL",
+   "vers": 3,
+   "num": 2,
+   "date": "130811",
+   "ftype": "js",
+   "anno": "F",
+   "cat1": "cde",
+   "cat2": "",
+   "stage": "final",
+   "note": "Prototype demonstrating viability of SSO between two distinct webapps.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 116,
+   "title": "Automated Workflow",
+   "proj": "IFT",
+   "vers": 1,
+   "num": 1,
+   "date": "160901",
+   "ftype": "png",
+   "anno": "T",
+   "cat1": "vis",
+   "cat2": "arch",
+   "stage": "idea",
+   "note": "Rough sketch of application workflows and combinations.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 117,
+   "title": "Metaphor Explanation",
+   "proj": "IFT",
+   "vers": 2,
+   "num": 1,
+   "date": "170702",
+   "ftype": "pdf",
+   "anno": "F",
+   "cat1": "mix",
+   "cat2": "pres",
+   "stage": "final",
+   "note": "Using metaphor to explain how trigger-action apps work.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 118,
+   "title": "Automated Workflow",
+   "proj": "IFT",
+   "vers": 3,
+   "num": 4,
+   "date": "160817",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "wire",
+   "stage": "draft",
+   "note": "Third iteration covering page structure and organization.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 119,
+   "title": "Automated Workflow",
+   "proj": "IFT",
+   "vers": 3,
+   "num": 7,
+   "date": "160817",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "wire",
+   "stage": "draft",
+   "note": "Third iteration covering page structure and organization.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 120,
+   "title": "Automated Workflow",
+   "proj": "IFT",
+   "vers": 4,
+   "num": 1,
+   "date": "160822",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "wire",
+   "stage": "draft",
+   "note": "Fourth iteration for possible page structure and organization.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 121,
+   "title": "Automated Workflow",
+   "proj": "IFT",
+   "vers": 4,
+   "num": 10,
+   "date": "160822",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "wire",
+   "stage": "draft",
+   "note": "Fourth iteration for possible page structure and organization.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 122,
+   "title": "Automated Workflow",
+   "proj": "IFT",
+   "vers": 7,
+   "num": 2,
+   "date": "160830",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "arch",
+   "stage": "revis",
+   "note": "Site map, color-coded to show identified reusable components.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 123,
+   "title": "Request Management ",
+   "proj": "LOR",
+   "vers": 8,
+   "num": 1,
+   "date": "200430",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "lane",
+   "stage": "revis",
+   "note": "Detailed multi-role process for more efficient handling of user requests.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 124,
+   "title": "Server Incident Report System",
+   "proj": "MIM",
+   "vers": 1,
+   "num": 7,
+   "date": "190509",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "Incident report page created for Invision-based presentation.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 125,
+   "title": "Server Incident Report System",
+   "proj": "MIM",
+   "vers": 2,
+   "num": 3,
+   "date": "190510",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "Incident report page created for Invision-based presentation.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 126,
+   "title": "Mobile-First Sales App",
+   "proj": "MOB",
+   "vers": 2,
+   "num": 1,
+   "date": "131001",
+   "ftype": "jpg",
+   "anno": "T",
+   "cat1": "vis",
+   "cat2": "arch",
+   "stage": "final",
+   "note": "Page architecture demonstrating the structure created by reusable and embedded components.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 127,
+   "title": "Mobile-First Sales App",
+   "proj": "MOB",
+   "vers": 3,
+   "num": 2,
+   "date": "131004",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "arch",
+   "stage": "revis",
+   "note": "Site architecture demonstrating each page’s composition of modular components.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 128,
+   "title": "Academia Bookmarks",
+   "proj": "MRK",
+   "vers": 2,
+   "num": 1,
+   "date": "120207",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "map",
+   "stage": "revis",
+   "note": "Circular site map, color-coded to call out specific site components.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 129,
+   "title": "Academia Bookmarks",
+   "proj": "MRK",
+   "vers": 2,
+   "num": 5,
+   "date": "110709",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "draft",
+   "note": "Rough mockup of app’s responsive behavior.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 130,
+   "title": "Subscription-based Author Archive",
+   "proj": "PIX",
+   "vers": 3,
+   "num": 1,
+   "date": "130326",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "Chapter/story template showing metadata and comment form.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 131,
+   "title": "Subscription-based Author Archive",
+   "proj": "PIX",
+   "vers": 3,
+   "num": 2,
+   "date": "130326",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "Two screenshots of admin pages, for managing tagging and multi-part stories.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 132,
+   "title": "Server Management",
+   "proj": "POW",
+   "vers": 3,
+   "num": 1,
+   "date": "151030",
+   "ftype": "jpg",
+   "anno": "T",
+   "cat1": "vis",
+   "cat2": "arch",
+   "stage": "final",
+   "note": "Breakdown of page architecture and embedded reusable components.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 133,
+   "title": "Experience Visualization",
+   "proj": "RES",
+   "vers": 2,
+   "num": 7,
+   "date": "110922",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "final",
+   "note": "Sunburst visualization adapted to show experience by skill.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 134,
+   "title": "Experience Visualization",
+   "proj": "RES",
+   "vers": 4,
+   "num": 1,
+   "date": "120707",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "draft",
+   "note": "Attempt to correlate duration of experience with skill set.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 135,
+   "title": "Experience Visualization",
+   "proj": "RES",
+   "vers": 5,
+   "num": 2,
+   "date": "120708",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "dviz",
+   "stage": "final",
+   "note": "Ladder visualization to show chronology of positions and skills.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 136,
+   "title": "Data Science and Storytelling",
+   "proj": "SDA",
+   "vers": 5,
+   "num": 1,
+   "date": "190322",
+   "ftype": "pdf",
+   "anno": "F",
+   "cat1": "mix",
+   "cat2": "pres",
+   "stage": "final",
+   "note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 137,
+   "title": "Internal Team Site",
+   "proj": "SDA",
+   "vers": 5,
+   "num": 1,
+   "date": "191115",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "final",
+   "note": "Production version of site main page.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 138,
+   "title": "Internal Team Site",
+   "proj": "SDA",
+   "vers": 5,
+   "num": 3,
+   "date": "191115",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "final",
+   "note": "Activity page for stakeholder information, using git hooks and .md files as makeshift db.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 139,
+   "title": "Internal Team Site",
+   "proj": "SDA",
+   "vers": 5,
+   "num": 8,
+   "date": "191115",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "revis",
+   "note": "One of 100+ chart types documented, with tips for when, how, and why to use each.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 140,
+   "title": "Internal Team Site",
+   "proj": "SDA",
+   "vers": 5,
+   "num": 9,
+   "date": "191115",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "final",
+   "note": "Introducing and explaining steps to prepare data for analytics use.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 141,
+   "title": "Sales Team Tool",
+   "proj": "SLS",
+   "vers": 1,
+   "num": 1,
+   "date": "120705",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "map",
+   "stage": "final",
+   "note": "Circular site map, using color-coding to note reused actions.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 142,
+   "title": "Sales Team Tool",
+   "proj": "SLS",
+   "vers": 2,
+   "num": 1,
+   "date": "120712",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "map",
+   "stage": "final",
+   "note": "Traditional site map, also with color-coding to identify patterns.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 143,
+   "title": "Reader-Writer Survey",
+   "proj": "SVY",
+   "vers": 4,
+   "num": 1,
+   "date": "110111",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "final",
+   "note": "Excerpt of survey, with multiple user routes depending on choices.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 144,
+   "title": "Course Tagging Page",
+   "proj": "TAG",
+   "vers": 3,
+   "num": 4,
+   "date": "210301",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "final",
+   "note": "Mocked series for Invision walk-through, showing second step in tagging.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 145,
+   "title": "Course Tagging Page",
+   "proj": "TAG",
+   "vers": 3,
+   "num": 8,
+   "date": "210301",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "final",
+   "note": "Mocked series for Invision walk-through, showing one possible conclusion point.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 146,
+   "title": "Team Project Management",
+   "proj": "TPM",
+   "vers": 1,
+   "num": 1,
+   "date": "180402",
+   "ftype": "png",
+   "anno": "T",
+   "cat1": "vis",
+   "cat2": "lane",
+   "stage": "draft",
+   "note": "Draft of metadata list based on team interviews about their personal processes.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 147,
+   "title": "Team Project Management",
+   "proj": "TPM",
+   "vers": 2,
+   "num": 1,
+   "date": "180410",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "Journey map based on team members’ rankings of tasks by difficulty/stress. ",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 148,
+   "title": "Fintech Data Process",
+   "proj": "WST",
+   "vers": 1,
+   "num": 7,
+   "date": "171103",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "lane",
+   "stage": "final",
+   "note": "Swim lane modified to include notations for data movement and user interaction.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 149,
+   "title": "Access Request",
+   "proj": "YIN",
+   "vers": 2,
+   "num": 1,
+   "date": "210706",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "Form to channel user access requests through a single entry point.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 150,
+   "title": "Report Site or Data Issue",
+   "proj": "YIN",
+   "vers": 2,
+   "num": 2,
+   "date": "210706",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "Form for users to report issues in one place, creating better tracking.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 151,
+   "title": "Create a Report or Dashboard",
+   "proj": "YIN",
+   "vers": 2,
+   "num": 4,
+   "date": "210706",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "form",
+   "stage": "final",
+   "note": "Standardized information collection for report and dashboard requests.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 152,
+   "title": "Kite Festival Home Page",
+   "proj": "ZLK",
+   "vers": 1,
+   "num": 1,
+   "date": "110516",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "final",
+   "note": "Simple wordpress site with information for volunteers and attendants.",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 153,
+   "title": "Kite Festival Home Page",
+   "proj": "ZLK",
+   "vers": 2,
+   "num": 2,
+   "date": "120706",
+   "ftype": "jpg",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "final",
+   "note": "Site redesign to be fully responsive. (Attendants liked it so much, they crashed the hosting company’s servers.)",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+},
+ {
+   "dex": 154,
+   "title": "Kite Festival Home Page",
+   "proj": "ZLK",
+   "vers": 3,
+   "num": 1,
+   "date": "130505",
+   "ftype": "png",
+   "anno": "F",
+   "cat1": "vis",
+   "cat2": "page",
+   "stage": "final",
+   "note": "Modified wordpress features to create sub-site for vendors to apply, pay for, and track their festival spots. ",
+   "link": {
+      "git": "",
+      "thm": "",
+      "gra": ""
+   }
+}
+]

@@ -1,0 +1,30 @@
+REI: Typography runs from 100 (smallest) to 800 (largest); the ### has nothing to do with the font-weight and only somewhat with font-size. Overlaps seem accidental (cdr-text-utility-sans-strong-100 is 600-weight, but so is cdr-text-utility-sans-strong-600). Categories include body, default, eyebrow, heading (and 20+ variations on heading including serif vs sans serif), subheading, and utility. Spacing is hella complex with multiple tables and multiple precisely-defined ways to space things: cdr-space-inset-eighth-x-squish-top-bottom, cdr-space-inset-quarter-x-stretch-left-right, cdr-space-inset-half-x-stretch-top-bottom, cdr-space-inset-one-and-a-half-x-stretch-left-right, cdr-space-inset-two-x-squish, cdr-space-inset-three-x-stretch. 
+
+Uber's typography categories are display, heading, label, and paragraph, with mono versions of each, with generic t-shirt sizes in the names, from XSmall to XXLarge. 
+
+BBC: dead-simple spacing setup. One "spacing unit" (1 SU) is equal to 4px, so 2 SU = 8px, to 15 SU = 160px.  (REI's was complicated but actually felt clearer and more intuitive in terms of implementation.) Typography sizes type based on viewing context (from mobile to desktop); the complexity is that BBC seems like to have like a dozen fonts, or maybe they're categories? It's very print-inherited newspaper-specific.  
+
+LocalTapiola/Turva (Duet system) takes a completely different approach. Instead of designating "Display1" (a collection of values for size, weight, style, and font-family), Duet leaves it to the developer to do the combining. Frex, insead of "header1", the code might say "font-family-text-turva font-weight-normal letter-spacing-heading font-size-xx-large". 
+
+Pinterest's spacing is similar to BBC, also on a 4px system. It runs from space-100 (4px) to space-600 (64px), and has a set of negative values from smallest to largest. Pinterest's typography is set up like LocalTapiola's, broken into adjectives (family, weight, size, etc) rather than pre-grouped. 
+
+Nordhealth's typography uses the adjectives approach, with generic-named font sizes from XXXL to XS. Spacing is 8px-based, and named from S (8px) to XXL (72px). 
+
+The JSTOR tokens are adjectival, with font-sizes from micro to xlarge. Spacing is sort of like REI's, from 'one-eighth-x' (.125rem) to 10-x (10rem). (Personally I'd rather maintain a Xs-to-XL system than this.)   
+
+Shopify's tokens for typography are adjectival, with font-size, font-weight, and line-height. Font sizing is direct numbered, with font-size-75 = .75rem and font-size-700 = 2.5rem. Spacing is by 4px, but includes 1px and 2px options. Space naming is direct, from --p-space-025 (1px) to --p-space-32 (128px). Bizarrely, the numbering isn't continuous; it's missing --p-space-7, -9, -11, -13, -14, -15, and so on. Less consistent means harder to implement, because the gaps aren't all logical/predictable. 
+
+Salesforce is also adjectival, and uses direct proportion numbering (font-size-1 = .625rem and font-size-11 = 2.625rem). Spacing doesn't appear to be part of Salesforce's system tokens.
+
+Goldman-Sachs uses display, heading, body, and 'supporting' (UI, caption, and code) styles, numbering in inverse proportion to actual size. GS is also strongly prescriptive in linking 'heading level 1' to the html class of <h1>, and there are additional tokens for serif-display, serif-heading, basis-display, and basis-heading.  
+
+Github is also very prescriptive, with an h1 to h6 scale meant to map exactly to <hN> tags. Its spacing tokens are direct proportion on a 4px scale, from spacer-1 (4px) to spacer-12 (128px).
+
+Quicken is just wierd in every direction, but it at least seems consistent. Its typography categories are just display and body, numbered inversely, with 'sprk-font-size-display-one' = 2.5rem to 'sprk-font-size-display-seven' = 1rem (not counting a '-wide' additional class). Font-weight echoes this, with 'sprk-font-weight-display-one' being 700 and 'sprk-font-weight-display-six' being 300 -- and again with line-height, where '-one' is 2.75rem and '-seven' being 1.25rem. There are also tokens for 'sprk-type-display-one-breakpoint' to 'sprk-type-display-seven-breakpoint' even though all of them have the exact same value of 43.75rem.  
+
+Workday's spacing runs from xxxs to xxxl, on a 4-pt scale. Its typography is broken into categories for subtext, body, heading, and title, with small, medium, and large options in each. 
+
+Dell, Volkswagon, Mozilla, Buzzfeed, the Guardian, Adobe, and General Electric don't use obvious tokens (or at least don't specify them as such in their docs). This means I can't confirm that just because the docs say "display 1" that "display-1" is the css class a developer would call to reproduce it.
+
+Curiously, Atlassian, Uber do not include typography in their design tokens. Pinterest, Quicken, and Atlassian also have completely separate color tokens for data visualization. (Adobe doesn't list color tokens, but it does outline a separate dataviz-only color schema.)
+

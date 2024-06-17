@@ -1,0 +1,561 @@
+TABLE OF CONTENTS
+
+1. Welcome
+	Getting Started
+	Inclusion Practices
+	Code of Conduct
+	Integrations
+		Storybook
+	Developer Standards
+		File structure
+		Naming
+		(TypeScript?)
+		Managing State
+		Code organization
+		Troubleshooting 
+	Contributing
+    Setup the Project
+    Commands
+    Updating the docs for new release
+    Commit Convention
+    Steps to PR
+    Want to write a blog post or tutorial
+    Want to help improve the docs?
+    License
+	
+2. About KDS	
+	Why a Design System
+	Design Principles
+		Universality
+		Consistency
+		Performance
+		Modularity 
+	Anatomy of the System
+	Design Tokens 
+		Benefits
+    What is a Design Token
+    Using Design Tokens in CSS
+    Derived Design Token Values
+	
+3. Brand Guidelines [or link?]
+	
+4. Accessibility
+	Overview
+    Inclusion Practices
+    Design Philosophy
+    Everyone Benefits from Accessibility
+    Categories of Accessibility
+    Approach
+	Accessibility Tree
+    Overview
+    Technical Accessibility
+    Names, Roles, and States
+    HTML and Semantics
+    Screen Reader Inconsistencies 
+		Accessibility Bugs
+  Structure and hierarchy
+		Organizing Page Content with Landmark Regions
+		Headings
+		Lists
+		Tables
+    List by level of importance
+    Have a consistent hierarchy
+    Text scaling
+    Group similar items
+  Keyboard navigation
+    Why Add Keyboard Focus
+    Create Excellent Navigation Experiences
+    On Page Load
+    Errors and Validation
+    Do's and Don'ts
+  Meaningful text
+    Accessible Names and Descriptions
+		Why Content Labels Matter
+		Alt-Text Content Labels and Examples
+		Non-Text Content Labels and Examples
+		Documenting Content Labels
+	  Emphasis on Consistency
+    Buttons
+    Hyperlinks and skip links
+	Accessible Forms
+    Form Inputs
+    Checkboxes & Radio Buttons
+    Text Inputs
+		Inline Validation
+    Submit Buttons
+		Error Validation
+    Do's and Don'ts
+  Images and video
+    Images with information
+    Decorative images
+    Complex images
+    Videos
+  Colors
+    Include multiple visual cues
+    Designing with Color
+    Contrast Ratios
+    Do's and Don'ts
+  Testing and research
+	Accessibility Checklist
+		Generic
+		Content
+		Markup
+		Keyboard
+		Images
+		Forms
+		Colors
+		Mobile
+	Resources
+		ARIA Essentials
+		FAQs
+		References
+		Utilities
+
+5a. Content	
+	Voice and Tone
+	Editorial
+	Accessible Text
+	UI Text Examples
+	
+5b. Globalization
+	Overview
+	RTL and Bidi
+	Localization
+		
+6. Foundations 
+	Principles
+	Data Formats
+	Design Tokens
+	Iconography
+	Typography
+
+7. Design Guidelines
+	AI
+	Anti-Patterns
+		Disabling Pinch-to-Zoom
+		JavaScript HREF
+		Layout Table
+		Mouse Hover on Static Elements
+		Open New Window
+		Setting Focus on Page Load
+		Tabindex-itis
+		Title Tooltip
+	Calls to Action
+	Color
+	Disclosure 1. Welcome
+	Getting Started
+	Inclusion Practices
+	Code of Conduct
+	Integrations
+		Storybook
+	Developer Standards
+		File structure
+		Naming
+		(TypeScript?)
+		Managing State
+		Code organization
+		Troubleshooting 
+	Contributing
+    Setup the Project
+    Commands
+    Updating the docs for new release
+    Commit Convention
+    Steps to PR
+    Want to write a blog post or tutorial
+    Want to help improve the docs?
+    License
+	
+2. About KDS	
+	Why a Design System
+	Design Principles
+		Universality
+		Consistency
+		Performance
+		Modularity 
+	Anatomy of the System
+	Design Tokens 
+		Benefits
+    What is a Design Token
+    Using Design Tokens in CSS
+    Derived Design Token Values
+	
+3. Brand Guidelines [or link?]
+	
+4. Accessibility
+	Overview
+    Inclusion Practices
+    Design Philosophy
+    Everyone Benefits from Accessibility
+    Categories of Accessibility
+    Approach
+	Accessibility Tree
+    Overview
+    Technical Accessibility
+    Names, Roles, and States
+    HTML and Semantics
+    Screen Reader Inconsistencies 
+		Accessibility Bugs
+  Structure and hierarchy
+		Organizing Page Content with Landmark Regions
+		Headings
+		Lists
+		Tables
+    List by level of importance
+    Have a consistent hierarchy
+    Text scaling
+    Group similar items
+  Keyboard navigation
+    Why Add Keyboard Focus
+    Create Excellent Navigation Experiences
+    On Page Load
+    Errors and Validation
+    Do's and Don'ts
+  Meaningful text
+    Accessible Names and Descriptions
+		Why Content Labels Matter
+		Alt-Text Content Labels and Examples
+		Non-Text Content Labels and Examples
+		Documenting Content Labels
+	  Emphasis on Consistency
+    Buttons
+    Hyperlinks and skip links
+	Accessible Forms
+    Form Inputs
+    Checkboxes & Radio Buttons
+    Text Inputs
+		Inline Validation
+    Submit Buttons
+		Error Validation
+    Do's and Don'ts
+  Images and video
+    Images with information
+    Decorative images
+    Complex images
+    Videos
+  Colors
+    Include multiple visual cues
+    Designing with Color
+    Contrast Ratios
+    Do's and Don'ts
+  Testing and research
+	Accessibility Checklist
+		Generic
+		Content
+		Markup
+		Keyboard
+		Images
+		Forms
+		Colors
+		Mobile
+	Resources
+		ARIA Essentials
+		FAQs
+		References
+		Utilities
+
+5a. Content	
+	Voice and Tone
+	Editorial
+	Accessible Text
+	UI Text Examples
+	
+5b. Globalization
+	Overview
+	RTL and Bidi
+	Localization
+		
+6. Foundations 
+	Principles
+	Data Formats
+	Design Tokens
+	Iconography
+	Typography
+
+7. Design Guidelines
+	AI
+	Anti-Patterns
+		Disabling Pinch-to-Zoom
+		JavaScript HREF
+		Layout Table
+		Mouse Hover on Static Elements
+		Open New Window
+		Setting Focus on Page Load
+		Tabindex-itis
+		Title Tooltip
+	Calls to Action
+	Color
+	Disclosure 
+	Elevations
+	Illustrations
+	Interactions
+		Pull to Refresh
+	Structure/ Layout
+	Motion/ Animation
+	Navigation
+	Onboarding
+	Overflow
+	Responsive Design
+	Rules, Filters, Logic
+	Search
+	Scrolling
+	Sounds
+	Techniques
+		Active Descendant
+		Ambiguous Label
+		Background Icon
+		Keyboard Trap
+		Live Region
+		Offscreen Text
+		Roving Tabindex
+		Skip to Main Content
+		Text Alternatives
+	Transitions
+	User Engagement
+
+	[[
+		Component Sections
+			Overview
+			Accessibility [link to #3]
+			*Disclosure
+			Terminology
+			Interaction Design
+				Keyboard
+				Screen Reader
+				Mouse
+			Usage 
+				Text Do's/Don'ts [link to #5]
+				Visual Do's/Don'ts
+				Contextual Examples 
+			Design	
+				Specifications
+				CSS Properties
+			Code	
+				Installation [link to #1]
+				Properties
+				Events
+			Tutorials 
+			Change Log
+	]]
+	
+8. Components
+	[see excel file]
+	identify 1st 10 things in figma file that are correct, and then build those as components 
+	
+	
+9. Data Visualization [+ link to DS Guild site]
+	Guidelines
+	  Solving a problem
+	  Testing with real data
+	  Scaling by number of datapoints
+	Five core traits
+	  Accuracy
+	  Intuitiveness
+	  Engagement
+	  Focus
+	  Data Granularity
+	Color Palettes
+		Color in Data vs Brand
+		Accessibility
+	  Avoiding Bias
+		Best Practices
+		Single-Color Pop
+		Categorical Color Scheme
+		Sequential Color Scheme
+	  Single data series
+	  Single comparison to past
+	  Multiseries data
+	Label Conventions
+		X and Y Axis
+		Key/Legends 
+		In-chart text
+		Tooltips
+		Flyovers
+	  Axis lines
+	  Skipping labels
+	  X-axis Abbreviations
+	  Y-Axis Abbreviations
+	  X-axis Labelling conventions
+	  Y-axis Labelling conventions
+	Horizontal bar charts
+	  Best used for
+	  Don’t use
+	  Bar chart labels
+	  Color
+	  Bar positioning
+	Vertical column charts
+	  Best used for
+	  Don’t use
+	  Color
+	  Bar positioning
+	  Interactivity
+	Line charts
+	  Best used for
+	  Axis and labelling
+	Multiline charts
+	Display metrics
+	  Best used for
+	  Units
+	  Scope
+	  Movement
+	Tables
+	  Best used for
+	  Alignment
+	  Separation
+	  Totals
+	Accessibility
+	  Provide options
+	  Use of color
+	  Scalable vector graphics (SVGs)
+	Tutorials
+		
+10. User Research
+	Overview
+	Scenarios
+	Strategy
+	Patterns
+	
+11. Data Collection
+	Survey Writing [alt: Content]
+	Survey/Test Distribution [link to #8]  
+	Data Gathering & Cleaning [link to DS Guild]
+	Analyzing Results [link to DS Guild]
+	Tutorials 
+	
+		
+	Elevations
+	Illustrations
+	Interactions
+		Pull to Refresh
+	Structure/ Layout
+	Motion/ Animation
+	Navigation
+	Onboarding
+	Overflow
+	Responsive Design
+	Rules, Filters, Logic
+	Search
+	Scrolling
+	Sounds
+	Techniques
+		Active Descendant
+		Ambiguous Label
+		Background Icon
+		Keyboard Trap
+		Live Region
+		Offscreen Text
+		Roving Tabindex
+		Skip to Main Content
+		Text Alternatives
+	Transitions
+	User Engagement
+
+	[[
+		Component Sections
+			Overview
+			Accessibility [link to #3]
+			*Disclosure
+			Terminology
+			Interaction Design
+				Keyboard
+				Screen Reader
+				Mouse
+			Usage 
+				Text Do's/Don'ts [link to #5]
+				Visual Do's/Don'ts
+				Contextual Examples 
+			Design	
+				Specifications
+				CSS Properties
+			Code	
+				Installation [link to #1]
+				Properties
+				Events
+			Tutorials 
+			Change Log
+	]]
+	
+8. Components
+	[see excel file]
+	identify 1st 10 things in figma file that are correct, and then build those as components 
+	
+	
+9. Data Visualization [+ link to DS Guild site]
+	Guidelines
+	  Solving a problem
+	  Testing with real data
+	  Scaling by number of datapoints
+	Five core traits
+	  Accuracy
+	  Intuitiveness
+	  Engagement
+	  Focus
+	  Data Granularity
+	Color Palettes
+		Color in Data vs Brand
+		Accessibility
+	  Avoiding Bias
+		Best Practices
+		Single-Color Pop
+		Categorical Color Scheme
+		Sequential Color Scheme
+	  Single data series
+	  Single comparison to past
+	  Multiseries data
+	Label Conventions
+		X and Y Axis
+		Key/Legends 
+		In-chart text
+		Tooltips
+		Flyovers
+	  Axis lines
+	  Skipping labels
+	  X-axis Abbreviations
+	  Y-Axis Abbreviations
+	  X-axis Labelling conventions
+	  Y-axis Labelling conventions
+	Horizontal bar charts
+	  Best used for
+	  Don’t use
+	  Bar chart labels
+	  Color
+	  Bar positioning
+	Vertical column charts
+	  Best used for
+	  Don’t use
+	  Color
+	  Bar positioning
+	  Interactivity
+	Line charts
+	  Best used for
+	  Axis and labelling
+	Multiline charts
+	Display metrics
+	  Best used for
+	  Units
+	  Scope
+	  Movement
+	Tables
+	  Best used for
+	  Alignment
+	  Separation
+	  Totals
+	Accessibility
+	  Provide options
+	  Use of color
+	  Scalable vector graphics (SVGs)
+	Tutorials
+		
+10. User Research
+	Overview
+	Scenarios
+	Strategy
+	Patterns
+	
+11. Data Collection
+	Survey Writing [alt: Content]
+	Survey/Test Distribution [link to #8]  
+	Data Gathering & Cleaning [link to DS Guild]
+	Analyzing Results [link to DS Guild]
+	Tutorials 
+	
+		

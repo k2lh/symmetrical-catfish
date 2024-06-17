@@ -1,0 +1,88 @@
+(figuring out what questions I need to have asked to be able to build better prototype)
+
+
+Hello! Thank you for your time to do this interview with us.
+Before we start, a quick introduction. I'm ____, a ____. My job is to _____. The purpose of this interview is get your feedback on a new dashboard we're creating that will enable a stronger integration between WFM and WFT. 
+This is not a test, and there are no wrong answers. We very much want and value your honest and transparent input. If you feel uncomfortable about any question, you can always say so. You may always refuse to answer. Your opinion is important to us and your answers will be confidential. 
+To document this interview, we are going to take notes and record the conversation. The recording and notes are entirely for our reference while crafting and iterating through possible solutions.
+[start recording]
+Do you have any questions before we continue?
+Great. Thank you again for your participation. One last note: for each question, I encourage you to think out loud, and walk me through your perspective. Let’s get started! 
+Before I show you the working concept, a few background questions about you:
+1. Describe your team's purpose. What's your ultimate goal?
+2. What would you say is the quality or skill that sets your team apart? 
+
+
+Great, thanks! The dashboard we're designing is intended to manage capacity -- that is, how many people we have available for an upcoming need, so we have a more realistic basis for hiring, training, and moving people about. I'm going to show you a series of images that are pieces of this dashboard, so we can focus on one section at a time. Keep in mind that the values here are entirely made-up for the prototype. 
+
+
+[first image]
+
+
+1. What do you think these visualizations are telling you? (making sure labels/viz are intuitive)
+2. Which piece (if any) would be the information you'd use most often and/or find most useful?
+
+
+Great, now I'll expand it to show you the controls row. 
+
+
+[first image + sliders]
+
+
+2. Take a look at the three sections across the top. Tell me how you think they'd work. (what do you need to do, to change the values)
+3. If you were to slide those back and forth, what would you expect to change on the page? (which boxes would be impacted)
+
+
+Okay, onto the next part of the dashboard. 
+
+
+[second image]
+
+
+1. What do you think these visualizations are telling you? (making sure labels/viz are intuitive)
+2. Are the specific topics ones that you can see as useful? (are labels pertinent)
+3. What other labels/topics would you want to see, instead?
+
+
+And now the third set of images. We have two versions for this, so we'll start with the very traditional one. Again, keep in mind this is just a static prototype, so everything is a little simplified, and the real values would probably look very different. 
+
+
+[third image]
+
+
+1. What do you think these visualizations are telling you? (making sure labels/viz are intuitive)
+
+
+[if the person doesn't get it] These two boxes represent the same data, but you could think of them as sorted by different columns. So the one on the left shows you the specific JRSs where that tactical approach (hire or buy, borrow from another division, train) was used. The one on the right shows you for each JRS, what tactical approach was used. 
+
+
+2. Now that you know how the two boxes work, do you see this as information you'd find useful? 
+3. How often do you think you'd refer to these boxes? 
+4. Looking at only the box on the left, do you find it hard or easy to compare between rows?
+5. Looking at both boxes, do you find it hard or easy to compare JRS-by-strategy to Strategy-by-JRS?
+
+
+Now I'm going to show you an alternate of those two comparison boxes. This is a particular type of visualization, and one we haven't used elsewhere. 
+
+
+[fourth image] 
+
+
+1. What do you think this visualization is telling you? (making sure labels/viz are intuitive)
+
+
+[if the person doesn't get it] If you start from the top left, you can see about 3/4s of that JRS were trained, and the remainder was split evenly between borrowed and bought. Whereas the third JRS was evenly divided between borrowed, bought, and (something else). 
+
+
+2. Do you find this hard or easy to compare the strategies applied to each JRS?
+3. Do you find it hard or easy to compare JRS-by-strategy to Strategy-by-JRS?
+
+
+Follow-up questions
+[to be inserted by the listeners]
+
+
+Did you have any questions for me or my team?
+Great! Once we've completed this round of user interviews, the next steps will be to analyze everyone's responses, and then we'll get to work coming up with solutions. 
+Would you be available for a followup interview, if we have additional questions? 
+Again, thank you so much for your time.

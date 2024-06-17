@@ -1,0 +1,32 @@
+A design system is a necessary tool to create cohesive and coherent experiences across a variety of platforms and use cases, efficiently and consistently. A good system provides insight into the company's design priorities and principles, and provides designers and developers with a well-documented library of robust and reusable components.
+
+Currently several teams have design system initiatives on their radar, but none stepped up yet to also take on the cross-team standarizing and documenting required for a design system. It's not unlike freight train companies that need the tracks but lack the expertise to build the entire track system, if they could even agree on standards that would allow them all to share the tracks. 
+
+For context: The website's design continutes to evolve, and only recently has it tackled atomic-level "design token" elements. Like Digital, Bridge's design is defined in its output. Modern Ops is currently struggling with converting its Carbon-based theme into Bridge; the two systems aren't aligned, and Bridge's documentation hasn't moved beyond boilerplate yet.  
+
+Additionally, Digital is locked into technologies that aren't widespread yet, so its focus is mostly on elements no other teams could or would share. Bridge's use of an external firm risks siloing it for different reasons. (After all, one can hardly blame those paying for the banquet to be reluctant to let others decide the menu.) Left unchecked, we risk a series of fractured and overly-specific systems that may be unusable by, or even inaccessible to, other teams in Kyndryl. 
+
+Lastly, strong design systems all have something in common: a community's support. A design system is a complex living document that must satisfy a diverse userbase, but it does more than simply provide visuals and code examples. It should also provide insight into the system's rationale on topics like accessibility, design patterns, and data visualization. A successful implementation requires designer, developer, and user voices from across the company who can lend their expertise and experience into building a solid system. This community support is the key to creating a robust system rigorous enough to maintain a consistent experience across differing uses, but flexible enough to be a complete solution for those uses, too. 
+
+Conclusion
+
+The design system should live within and be led by Design Strategy, as the centralized point, and start with a single focal point who will marshal and enable teams' involvement. This dedicated focal point will have (and share!) cross-team insights, identify and prioritize design elements for the system, and work with teams to standardize and contribute the elements that team has built -- and then to document all of it in a centralized location for other teams to access, understand, and use. 
+
+This focal point (me!) would:
+
+1. Establish the system's frameworks, including its environments[1] and architecture[2].
+2. Catalog Modern Ops and Bridge design cases (already done in full for the corporate website).
+3. Identify common components that could potentially converge, work with the teams to settle on a shared UI and UX, and document each as an addition to the system. 
+4. Identify outlier components that need to be treated as special use cases or exceptions. 
+5. Publicize the effort with Kyndryl's greater design profession community, and invite their input and contributions.
+4. Establish ongoing (possibly bimonthly) open design system workshops for introducing new components  for discussion and review the design community.[3]
+5. Invite and empower designers and developers to contribute to the design system's documentation, visual design, and component creation. 
+
+[1] Digital and Bridge have both suggested an external product (zeroheight), which seems to stem from a lack of experience with (and thus a bit of intimidation about tackling) enterprise-level development. As a senior developer, I eat enterprise-scaled webapps like this for breakfast, so I don't see reason to pay someone else to do what we can do affordably, efficiently, and rapidly. Git pages are sufficient during development after which we'll port to Gatsby for our production environment. 
+
+[2] The content architecture is basically the table of contents and the structure and scope of each section. You can see a preliminary outline at https://github.kyndryl.net/digital-marketing/sturdy-aardvark/blob/gh-pages/docs/toc-draft. 
+
+[3] This is effectively a regular playback but I'm not sure if we're allowed to use that word, here!
+
+Lastly: my nomination for the system name is 'Viridian', which is derived from the scientific phylum name for green plants, 'viridiplantae'. Considering Kyndryl's themes of growth/roots/tendrils/etc, the reference feels appropriate and as a plus, it also echoes the 'v' of Vital, Kyndryl's co-creation platform.  
+   
