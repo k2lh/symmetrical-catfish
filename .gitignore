@@ -9,6 +9,14 @@
 npm-debug.log*
 yarn-error.log
 
+dist
+dist-ssr
+coverage
+*.local
+
+/cypress/videos/
+/cypress/screenshots/
+
 /coverage
 .idea
 yarn.lock
@@ -16,3 +24,15 @@ package-lock.json
 pnpm-lock.yaml
 *bak
 .vscode
+.vscode/*
+!.vscode/extensions.json
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
