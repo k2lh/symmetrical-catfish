@@ -1,7 +1,10 @@
 <template>
   <div class="mainpage">
+
     <div class="frontpiece" id="hello">
+
       <div class="lining padtop10">
+        <img src="./../public/thumbs/klh.png" alt="logo" />
         <div class="topquote">
           I love using <b>elegant code</b> and <b>intuitive design</b> to build <b>sophisticated systems</b>.
         </div>
@@ -61,6 +64,10 @@
     & a {
       text-transform: lowercase;
     }
+  }
+
+  .klh {
+    background-image: url("../assets/logos/klh.png");
   }
 
   .frontpiece {
