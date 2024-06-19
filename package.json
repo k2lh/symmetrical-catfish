@@ -4,7 +4,7 @@
 	"private": true,
 	"scripts": {
 		"dev": "webpack serve --config webpack.config.js",
-		"setup": "npm i -g webpack-cli",
+		"start": "npm i -g webpack-cli && webpack --config webpack.config.js",
 		"build": "webpack --config webpack.config.js",
 		"lint": "eslint ./src --ext .js,.vue",
 		"lint:fix": "eslint ./src --ext .js,.vue --fix",
