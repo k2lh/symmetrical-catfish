@@ -39,6 +39,7 @@ jobs:
         run:
           npm run start
           npm run build
+          npm run write
 
 # Please do not touch the following action
       - name: Store deployment content
