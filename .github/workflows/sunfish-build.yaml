@@ -14,12 +14,12 @@ on:
         type: string
 
 env:
-  DEPLOYMENT_FOLDER: ../dist
+  DEPLOYMENT_FOLDER: dist
 
 jobs:
 # Please do not rename this job
   build-project:
-    name: build symmetrical-catfish
+    name: build sunfish
     runs-on: ubuntu-latest
     steps:
       - name: checkout
@@ -30,15 +30,35 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: v20.14.0
+          node-version: v20.x
 
       - name: Build Node assets
         env:
           CI: true
           SITE_URL: ${{ inputs.site-url }}
-        run:
-          npm run start
-          npm run build
+        run: npm install
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: v22.x
+
+      - name: Build Node assets
+        env:
+          CI: true
+          SITE_URL: ${{ inputs.site-url }}
+        run: npm run start
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: v22.x
+
+      - name: Build Node assets
+        env:
+          CI: true
+          SITE_URL: ${{ inputs.site-url }}
+        run: npm run build
 
 # Please do not touch the following action
       - name: Store deployment content
@@ -46,9 +66,9 @@ jobs:
         with:
           api-key: ${{ secrets.IONOS_API_KEY }}
           service-host: api-us.ionos.space
-          project-id: b02b5e22-1d73-459c-bfec-3a555b28c414
+          project-id: 75d6e67f-5f7e-46d1-a0af-4cfeb5ff6d18
           branch-id: ${{ inputs.branch-id }}
           version: ${{ github.sha }}
           folder: ${{ env.DEPLOYMENT_FOLDER }}
-          config-file: .deploy-now/symmetrical-catfish/config.yaml
+          config-file: .deploy-now/sunfish/config.yaml
           action: upload
