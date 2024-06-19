@@ -1,8 +1,13 @@
-const directory = './';
 import fs from 'fs';
 
-fs.readdir(directory, (err, files) => {
-  files.forEach(file => {
-    console.log(file);
-  });
-});
+const directory = './';
+const path = "./";
+const files = fs.readdirSync(path);
+
+// fs.readdir(directory, (err, files) => {
+//   files.forEach(file => {
+//     console.log(file);
+//   });
+// });
+
+files.forEach(file => console.log(file));
