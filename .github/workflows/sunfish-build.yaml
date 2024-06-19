@@ -38,21 +38,11 @@ jobs:
           SITE_URL: ${{ inputs.site-url }}
         run: npm install
 
-      - name: Setup Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: v22.x
-
       - name: Build Node assets
         env:
           CI: true
           SITE_URL: ${{ inputs.site-url }}
         run: npm run start
-
-      - name: Setup Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: v22.x
 
       - name: Build Node assets
         env:
