@@ -5,10 +5,9 @@
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
-		"dev": "webpack serve --config webpack.config.js",
-		"start": "npm i -g webpack-cli",
+    "dev": "webpack serve --config webpack.config.js",
+		"start": "npm i -g webpack-cli && webpack --config webpack.config.js",
 		"build": "webpack --config webpack.config.js",
-		"write": "node write.js",
 		"lint": "eslint ./src --ext .js,.vue",
 		"lint:fix": "eslint ./src --ext .js,.vue --fix",
 		"format": "prettier 'src/**/*.{js,vue,css,md,json}' --write"

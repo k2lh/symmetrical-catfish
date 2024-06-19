@@ -25,7 +25,7 @@ module.exports = {
 	plugins: [
 		new HtmlWebpackPlugin({
       template: 'src/index.html',
-			filename: path.join(__dirname, 'dist', 'index.html'),
+			// filename: path.join(__dirname, 'dist', 'index.html'),
 			// template: path.join(__dirname, 'static', 'index.html'),
 			// inject: true,
 			// template: 'src/index.html', // to import index.html file inside index.js
