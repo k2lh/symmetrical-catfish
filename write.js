@@ -10,4 +10,4 @@ const files = fs.readdirSync(path);
 //   });
 // });
 
-files.forEach(file => console.log(file));
+files.forEach(file => echo(file));
