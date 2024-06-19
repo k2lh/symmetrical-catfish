@@ -37,9 +37,7 @@ jobs:
           CI: true
           SITE_URL: ${{ inputs.site-url }}
         run:
-          npm run start
           npm run build
-          npm run write
 
 # Please do not touch the following action
       - name: Store deployment content
