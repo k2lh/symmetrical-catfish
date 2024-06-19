@@ -37,8 +37,9 @@ jobs:
           CI: true
           SITE_URL: ${{ inputs.site-url }}
         run:
-          npm run start
-          npm run build
+          npm i -g webpack-cli
+          webpack --config webpack.config.js
+          npm run node write.js
 
 # Please do not touch the following action
       - name: Store deployment content
