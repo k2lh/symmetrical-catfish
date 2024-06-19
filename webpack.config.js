@@ -8,11 +8,14 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 module.exports = {
 	mode: "production",
 	devtool: "source-map",
+  target: 'web',
+  entry: './src/main.js',
 	// entry: {	main: "./src/main.js" },
-	entry: path.join(__dirname, 'src', 'main.js'),
+	// entry: path.join(__dirname, 'src', 'main.js'),
 	output: {
 		path: path.resolve(__dirname, 'dist'),
-		filename: '[name].chunk.js'
+		filename: '[name].chunk.js',
+    clean: true
 	},
 	optimization: {
 		splitChunks: {
@@ -21,9 +24,10 @@ module.exports = {
 	},
 	plugins: [
 		new HtmlWebpackPlugin({
-			filename: path.join(__dirname, 'dist', 'index.html'),
+      template: 'src/index.html',
+			// filename: path.join(__dirname, 'dist', 'index.html'),
 			// template: path.join(__dirname, 'static', 'index.html'),
-			inject: true,
+			// inject: true,
 			// template: 'src/index.html', // to import index.html file inside index.js
 			// template: path.resolve(__dirname, "public", "index.html")
 			favicon: "./public/favicon.ico"
@@ -32,18 +36,25 @@ module.exports = {
     new MiniCssExtractPlugin()
 	],
 	devServer: {
-		port: 6000 // you can change the port
+		port: 8080,
+    hot: false,
+    historyApiFallback: true
 	},
 	module: {
 		rules: [
 			{
 				test: /\.vue$/,
-				loader: 'vue-loader'
+        exclude: /node_modules/,
+        use: {
+          loader: 'vue-loader',
+        }
 			},
 			{
 				test: /\.js$/,
-				loader: 'babel-loader',
-				include: [path.join(__dirname, 'src')]
+        exclude: /node_modules/,
+        use: {
+            loader: 'babel-loader',
+        }
 			},
 			{
 				test: /\.scss$/,
@@ -65,8 +76,5 @@ module.exports = {
 		extensions: [
 			'.tsx', '.ts', '.js', '.vue'
 		]
-	},
-	devServer: {
-		historyApiFallback: true,
 	}
 }

@@ -11,5 +11,5 @@ const app = createApp(App)
 
 app.use(router)
 app.use(VueScrollTo)
-app.component('v-select', vSelect)
+// app.component('v-select', vSelect)
 app.mount('#app')

@@ -34,11 +34,11 @@
   export default {
     name: "Home",
     components: {
-      skills,
-      reviews,
-      projects,
-      history,
-      studies
+      // skills,
+      // reviews,
+      // projects,
+      // history,
+      // studies
     },
     data() {
       return {}
