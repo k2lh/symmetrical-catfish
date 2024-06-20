@@ -388,7 +388,7 @@
       background-image: url("../../assets/logos/ibmcloud.png");
     }
     &.klh {
-      background-image: url("../../assets/logos/klh.png");
+      background-image: url("../../assets/klh.png");
     }
     &.studio {
       background-image: url("../../assets/logos/studio.png");

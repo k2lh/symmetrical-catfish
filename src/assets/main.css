@@ -1,10 +1,17 @@
 body {
-  font-family: 'Economica', Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Rosario", Helvetica, Arial, serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #111;
   font-weight: 300;
   font-size: 16px;
+  margin: auto;
+}
+.boxlabel {
+  font-weight: 700;
+  font-size: .9rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 @media screen and (min-width:110em) {
@@ -164,197 +171,12 @@ body {
  }
 }
 
-h1, h2, h3, h4, h5, h6, p, div {
-  font-family: 'Economica', Avenir, Helvetica, Arial, sans-serif;
-  color: #111;
-  font-weight: 300;
-}
-
-.base {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  width: 100%;
-  box-sizing: border-box;
-  min-height: 100vh;
-}
-.halfheight {
-  min-height: 50vh;
-  width: 100%;
-}
-.quarterheight {
-  min-height: 25vh;
-  width: 100%;
-}
-
-.pure-g [class*="pure-u"],
-.pure-g,
-h3.title,
-h4.meta{
-  letter-spacing: normal;
-}
-
-.outline {
-  border: 1px solid blue;
-  box-sizing: border-box;
-}
-
-.page-container {
-  margin: auto;
-  max-width: 100rem;
-}
-
-.lining {
-  padding: 1rem 2rem 0 2rem;
-}
-
-.lining-small {
-  padding: 0 1rem 0 0;
-}
-
-.headers,
-.topquote {
-  text-transform: uppercase;
-  font-weight: 500;
-}
-
-.topquote {
-  color: #6e7984;
-  font-size: 2rem;
-  padding: 1rem 0;
-  margin-bottom: 3rem;
-  border-bottom: 1px solid #111;
-}
-
-.topquote p {
-  margin: 0;
-  line-height: 1.2;
-}
-
-.wrapper {
-  border-top: 1px solid #111;
-  padding: 2rem 0 1rem 0;
-}
-
-h2.section {
-  text-transform: uppercase;
-  font-size: 1.75rem;
-  color: #111;
-  font-weight: 500;
-  margin: 2rem 2rem 0 2rem;
-}
-
-  h2.section.raised {
-    margin-top: -2rem;
-  }
-
-  h2.section.subsection {
-    font-size: 1.5rem;
-    color: #333;
-    font-weight: 300;
-  }
-
-.description {
-  margin: 0 0 .5rem 0;
-  font-size: 1.25rem;
-}
-
-.bordered {
-  border-right: 1px dashed #111;
-}
-
-.dashbefore {
-  border-top: 1px dashed #111;
-}
-
-.linebefore {
-  border-top: 1px solid #111;
-}
-
-.borderafter {
-  border-bottom: 1px dashed #111;
-}
-
 .centered {
   text-align: center;
 }
 
 .alignright {
   text-align: right;
-}
-
-h3.title {
-  font-weight: 700;
-  font-size: 1.25rem;
-  margin: 0;
-}
-.meta {
-  color: #111;
-  font-size: 1.25rem;
-  font-weight: 300;
-  line-height: 1;
-  margin: 0;
-}
-.meta.jobline {
-  color: #111;
-  margin: 2px 0;
-}
-.meta.pointers {
-  margin: .5rem 0 0 0;
-  color: #444;
-}
-
-.highlight,
-.tags,
-.list {
-  list-style: none;
-  margin: 0;
-  overflow: hidden;
-  padding: 0;
-}
-
-.highlight {
-  font-size: 1.25rem;
-}
-.highlight li {
-  margin-bottom: .25rem;
-}
-
-.highlight li::before,
-.list li::before {
-  content: "⦿";
-  color: #555;
-  position: relative;
-  top: -2px;
-  padding-right: 3px;
-  font-size: 1.5rem;
-}
-
-/* .list li:hover {
-  color: #6C4F70;
-} */
-.list li:hover::before {
-  content: "♥";
-  color: #111;
-  top: 0;
-}
-
-.tagitem {
-  text-transform: uppercase;
-  font-weight: 100;
-  color: #444;
-  display: block;
-  line-height: 1;
-  margin: 1rem 0 0 0;
-}
-
-.box {
-  position: relative;
-  top: -2px;
-  color: #CCC;
-}
-
-.clickme {
-  cursor: pointer;
 }
 
 .tags li {
