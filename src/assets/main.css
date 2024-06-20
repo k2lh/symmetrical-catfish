@@ -9,27 +9,15 @@ body {
 }
 .boxlabel {
   font-weight: 700;
-  font-size: .9rem;
+  font-size: .8rem;
   text-transform: uppercase;
-  letter-spacing: 2px;
-  margin: 0 0 1rem 0;
-}
-
-.boxlabel.first {
-  padding-bottom: 3rem;
-}
-
-.centered {
-  text-align: center;
-}
-
-.alignright {
-  text-align: right;
+  letter-spacing: 3px;
 }
 
 .tags li {
   float: left;
 }
+
 .tag {
   background: #eee;
   border-radius: 3px 0 0 3px;

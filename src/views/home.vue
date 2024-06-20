@@ -1,19 +1,24 @@
 <template>
   <div class="page">
-    <div class='row'>
-      <div class='col alignright'>
-        <siteLogo/>
+    <div class="row">
+      <!-- <div class="col alignright">
+
         <div class="boxlabel first">
           kl hamilton
         </div>
         <div class="boxlabel">
-          <span v-scroll-to="'#experience'" class="">
-            experience
+          <span v-scroll-to="'#projects'" class="">
+            projects
           </span>
         </div>
         <div class="boxlabel">
-          <span v-scroll-to="'#projects'" class="">
-            projects
+          <span v-scroll-to="'#portfolio'" class="">
+            portfolio
+          </span>
+        </div>
+        <div class="boxlabel">
+          <span v-scroll-to="'#experience'" class="">
+            experience
           </span>
         </div>
         <div class="boxlabel">
@@ -26,21 +31,22 @@
         Some Text in Column Two
       </div>
       <div class='col'>
-        Some Text in Column One
-      </div>
+        evolution of a site		catalog
+        no crying in dataviz		dash design
+        how not to dashboard 	exec view
+        building a user bridge	hoover/360
+        annotation vibration	all annotated works
+      </div> -->
     </div>
   </div>
 </template>
 
 <script>
   import { mapGetters } from 'vuex'
-  import siteLogo from '../components/siteLogo.vue';
 
   export default {
     name: "Home",
-    components: {
-      siteLogo
-    },
+    components: {},
     data() {
       return {}
     }

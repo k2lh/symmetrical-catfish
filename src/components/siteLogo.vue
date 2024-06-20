@@ -15,11 +15,9 @@
 </script>
 
 <style scoped>
-  .sitelogo svg {
+  svg {
     fill: #111;
-    width: 6rem;
-    height: 6rem;
-    margin: -.5rem 0 .5rem 0;
-    border: 1px solid orange;
+    width: 2.5rem;
+    height: 2.5rem;
   }
 </style>

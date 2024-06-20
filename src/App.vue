@@ -1,15 +1,18 @@
 <template>
+  <siteHeader />
   <RouterView />
   <siteFooter />
 </template>
 
 <script>
   import { RouterLink, RouterView } from 'vue-router';
+  import siteHeader from './components/siteHeader.vue';
   import siteFooter from './components/siteFooter.vue';
 
   export default {
     name: 'App',
     components: {
+      siteHeader,
       siteFooter
     },
     data() {
@@ -23,8 +26,7 @@
 <style lang="scss">
   .page {
     height: 100vh;
-    margin: 1rem;
-    border: 1px solid red;
+    margin-top: 3rem;
   }
 
   .row {
@@ -32,7 +34,6 @@
     flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
-    border: 1px solid purple;
     height: 100%;
   }
 
@@ -41,14 +42,12 @@
     flex-direction: column;
     flex-basis: 100%;
     flex: 1;
-    border: 1px solid blue;
     padding: 1rem;
     height: 100%;
     min-width: 7.5rem;
     &.center {
       margin-top: 6.5rem;
       flex: 6;
-      border: 1px solid green;
     }
   }
 
