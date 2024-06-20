@@ -1,31 +1,32 @@
 <template>
-  <div class="mainpage">
-
-    <div class="frontpiece" id="hello">
-
-      <div class="lining padtop10">
-        <!-- <img src="./../public/thumbs/klh.png" alt="logo" /> -->
-        <div class="topquote">
-          I love using <b>elegant code</b> and <b>intuitive design</b> to build <b>sophisticated systems</b>.
+  <div class="page">
+    <div class='row'>
+      <div class='col alignright'>
+        <siteLogo/>
+        <div class="boxlabel first">
+          kl hamilton
         </div>
-        <div class="hellotext">
-          Lots of people soak up information. I distill it to find the patterns that gird the system. Whether I come at things as a fullstack dev, a ux or dataviz designer, a content strategist, or as an architect, they're all doorways to the same heart.
+        <div class="boxlabel">
+          <span v-scroll-to="'#experience'" class="">
+            experience
+          </span>
+        </div>
+        <div class="boxlabel">
+          <span v-scroll-to="'#projects'" class="">
+            projects
+          </span>
+        </div>
+        <div class="boxlabel">
+          <span v-scroll-to="'#testimonials'" class="">
+            testimonials
+          </span>
         </div>
       </div>
-      <div class="sectionangle">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
-          <polygon fill="white" points="0,100 100,0 100,100"/>
-        </svg>
+      <div class='col center'>
+        Some Text in Column Two
       </div>
-    </div>
-
-    <div class="pure-g">
-      <div class="pure-u-1-1">
-        <div class="base">
-
-
-
-        </div>
+      <div class='col'>
+        Some Text in Column One
       </div>
     </div>
   </div>
@@ -33,15 +34,12 @@
 
 <script>
   import { mapGetters } from 'vuex'
+  import siteLogo from '../components/siteLogo.vue';
 
   export default {
     name: "Home",
     components: {
-      // skills,
-      // reviews,
-      // projects,
-      // history,
-      // studies
+      siteLogo
     },
     data() {
       return {}
@@ -54,12 +52,6 @@
 </script>
 
 <style scoped lang="scss">
-  .pure-form [type="checkbox"], [type="radio"] {
-    margin: 0 .25rem 0 0;
-  }
 
-  .mainpage {
-    height: 100vh;
-  }
 
 </style>

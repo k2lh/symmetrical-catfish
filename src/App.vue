@@ -1,19 +1,16 @@
 <template>
-  <!-- <siteHeader /> -->
   <RouterView />
-  <!-- <siteFooter /> -->
+  <siteFooter />
 </template>
 
 <script>
   import { RouterLink, RouterView } from 'vue-router';
-  //  import siteHeader from './components/siteHeader.vue';
-  //  import siteFooter from './components/siteFooter.vue';
+  import siteFooter from './components/siteFooter.vue';
 
   export default {
     name: 'App',
     components: {
-      // siteHeader,
-      // siteFooter
+      siteFooter
     },
     data() {
       return {
@@ -23,6 +20,49 @@
   };
 </script>
 
-<style scoped>
+<style lang="scss">
+  .page {
+    height: 100vh;
+    margin: 1rem;
+    border: 1px solid red;
+  }
+
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    border: 1px solid purple;
+    height: 100%;
+  }
+
+  .col {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+    border: 1px solid blue;
+    padding: 1rem;
+    height: 100%;
+    min-width: 7.5rem;
+    &.center {
+      margin-top: 6.5rem;
+      flex: 6;
+      border: 1px solid green;
+    }
+  }
+
+  /*<500px S - phones */
+  @media only screen and (max-width: 499px) {
+    .row {
+      height: auto;
+      flex-direction: column;
+    }
+  }
+
+  /*500-1200 M - tablets */
+  @media only screen and (min-width: 500px) and (max-width: 1199px) {
+
+  }
 
 </style>
