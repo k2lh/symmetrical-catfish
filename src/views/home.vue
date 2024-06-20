@@ -1,8 +1,31 @@
 <template>
   <div class="mainpage">
+
+    <div class="frontpiece" id="hello">
+
+      <div class="lining padtop10">
+        <!-- <img src="./../public/thumbs/klh.png" alt="logo" /> -->
+        <div class="topquote">
+          I love using <b>elegant code</b> and <b>intuitive design</b> to build <b>sophisticated systems</b>.
+        </div>
+        <div class="hellotext">
+          Lots of people soak up information. I distill it to find the patterns that gird the system. Whether I come at things as a fullstack dev, a ux or dataviz designer, a content strategist, or as an architect, they're all doorways to the same heart.
+        </div>
+      </div>
+      <div class="sectionangle">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
+          <polygon fill="white" points="0,100 100,0 100,100"/>
+        </svg>
+      </div>
+    </div>
+
     <div class="pure-g">
       <div class="pure-u-1-1">
+        <div class="base">
 
+
+
+        </div>
       </div>
     </div>
   </div>
