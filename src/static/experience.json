@@ -1,0 +1,313 @@
+[
+	{
+		"startMonth": "Nov",
+		"startYear": "2018",
+		"endMonth": "ongoing",
+		"endYear": "",
+		"logo": "ibm.png",
+		"projects": "talent",
+		"title": "Lead UX Developer/Architect",
+		"company": "IBM Analytics",
+		"description": "Analytics is home to the Talent Transformation Initiative, which compiles, validates, analyzes, and automates data related to educating employees in new/better skills.",
+		"points": [
+			"Initiated dynamic interface integrating D3 and Tableau. Standardized interface and interactions across platforms. Architected and built APIs for SAML, SQL, and noSQL. Led and instructed junior developers in API design, component patterns, and solid UX principles.",
+			"Defined and iterated data visualizations for intuitive analysis and management of 100K+ training candidates. Instrumental in achieving 67% increase in analytics automation for 200+ users."
+		],
+		"tools": [
+			"sketch",
+			"invision",
+			"carbon",
+			"git",
+			"zenhub",
+			"atom",
+			"vue",
+			"d3",
+			"sass/css",
+			"node",
+			"express",
+			"ci/cd",
+			"npm",
+			"yarn",
+			"eslint",
+			"mongoDB",
+			"sql"
+		],
+		"skills": [
+			"ui architecture",
+			"api design",
+			"data analysis",
+			"microservices",
+			"leadership",
+			"mentoring",
+			"communications",
+			"rapid prototyping",
+			"design thinking"
+		]
+	},
+	{
+		"startMonth": "Apr",
+		"startYear": "2017",
+		"endMonth": "Oct",
+		"endYear": "2018",
+		"logo": "ibm.png",
+		"projects": "cdata",
+		"title": "Sr UX Strategist",
+		"company": "IBM Chief Data Office",
+		"description": "The Chief Data Office is responsible for enterprise-wide data strategy, focusing on privacy, security, integration, governance, and analytics.",
+		"points": [
+			"Drove infusion of modern design and development into data methodologies. Crafted narrative to illuminate team achievements.",
+			"Conceptualized and executed branded online presence. Collaborated with cross-functional teams to develop and standardize design guidelines and content strategies.",
+			"Defined architecture and design specifications for 16 projects. Delivered workflows and wireframes for additional 13 projects. Reviewed and edited team documents to ensure messaging quality, clarity, and consistency. Supervised content design for 61 projects."
+		],
+		"tools": [
+			"sketch",
+			"invision",
+			"carbon",
+			"git",
+			"zenhub",
+			"vue",
+			"d3",
+			"node",
+			"express",
+			"npm",
+			"eslint",
+			"git webhooks"
+		],
+		"skills": [
+			"visual design",
+			"ui architecture",
+			"api design",
+			"leadership",
+			"mentoring",
+			"communications",
+			"rapid prototyping",
+			"design thinking"
+		]
+	},
+	{
+		"startMonth": "Oct",
+		"startYear": "2016",
+		"endMonth": "Mar",
+		"endYear": "2017",
+		"logo": "ibm.png",
+		"projects": "platform",
+		"title": "API Developer",
+		"company": "IBM Platform",
+		"description": "The Platform team was carved out of the larger Cloud team, to assess and identify areas of improvement in the Cloud API ecosystem.",
+		"points": [
+			"Orchestrated partnership between design, backend, and frontend teams to evaluate API processes.",
+			"Consolidated stakeholder input, user feedback, industry standards, and functional requirements, and assessed against issues of scalability, performance, robustness, and security.",
+			"Championed streamlined process for designing, documenting, developing, and deploying platform APIs."
+		],
+		"tools": [
+			"sketch",
+			"git",
+			"swagger",
+			"zenhub",
+			"atom",
+			"node",
+			"express",
+			"yaml",
+			"nginx"
+		],
+		"skills": [
+			"research",
+			"ui architecture",
+			"api design",
+			"infrastructure",
+			"microservices",
+			"leadership",
+			"communications",
+			"design thinking"
+		]
+	},
+	{
+		"startMonth": "Sep",
+		"startYear": "2015",
+		"endMonth": "Oct",
+		"endYear": "2016",
+		"logo": "ibm.png",
+		"projects": "bluemix",
+		"title": "Sr UX/UI Developer",
+		"company": "IBM Cloud",
+		"description": "Formerly known as Bluemix, IBM Cloud is the core interface and user touchpoint of IBM's cloud migration strategy.",
+		"points": [
+			"Applied enterprise experience to overhaul of legacy cloud system into modern framework. Advocated for accessibility and usability.",
+			"Advised product managers and designers on technical feasibility of proposed features. Mentored and instructed junior developers on microservice technology, architecture, and strategy.",
+			"Liaison between backend and design. Supervised design and developer deliverables. Coordinated planning for future iterations."
+		],
+		"tools": [
+			"sketch",
+			"invision",
+			"illustrator",
+			"git",
+			"zenhub",
+			"atom",
+			"angular",
+			"polymer",
+			"sass/css3",
+			"node",
+			"express",
+			"npm",
+			"nvm",
+			"grunt",
+			"gulp",
+			"dust"
+		],
+		"skills": [
+			"ui architecture",
+			"interaction design",
+			"microservices",
+			"rapid prototyping",
+			"design thinking"
+		]
+	},
+	{
+		"startMonth": "Mar",
+		"startYear": "2015",
+		"endMonth": "Sep",
+		"endYear": "2015",
+		"logo": "applango.png",
+		"title": "Sr UX/UI Developer",
+		"company": "Applango",
+		"description": "Applango provides SaaS-based businesses a way to monitor their CRM usage, control costs, and improve user adoption.",
+		"points": [
+			"Conceived and implemented advanced filtering, grounded in user mental models of SQL-style constructions. Spearheaded modular and versatile approach for web application architecture.",
+			"Researched data sources and challenged assumptions about user limitations, Surfaced new data opportunities, and proposed strategies for shifting user mental models."
+		],
+		"tools": [
+			"invision",
+			"illustrator",
+			"git",
+			"eclipse",
+			"jira",
+			"angular",
+			"less",
+			"css",
+			"nvd3",
+			"d3",
+			"node",
+			"express",
+			"npm",
+			"bower",
+			"grunt",
+			"gulp",
+			"karma",
+			"mongo",
+			"sql"
+		],
+		"skills": [
+			"visual design",
+			"ui architecture",
+			"interaction design",
+			"leadership",
+			"mentoring",
+			"communications",
+			"design thinking"
+		]
+	},
+	{
+		"startMonth": "Jun",
+		"startYear": "2013",
+		"endMonth": "Dec",
+		"endYear": "2014",
+		"logo": "dnb.jpg",
+		"projects": "dnb",
+		"title": "UI Developer + UX Designer",
+		"company": "Dun & Bradstreet",
+		"description": "D&B generates business information reports and credit worthiness assessments for over 100 million companies world-wide.",
+		"points": [
+			"Developed core components in greenfield enterprise application. Employed cross-team facilitation skills to enhance user experience. Advised leadership on component feasibility and interaction design. Explained technical concepts and constraints to non-technical teams.",
+			"Identified undiscovered narratives in data, presented to stakeholders, with a 100% rate of concept going to prototype."
+		],
+		"tools": [
+			"invision",
+			"illustrator",
+			"git",
+			"svn",
+			"eclipse",
+			"rally",
+			"jEdit",
+			"sublime",
+			"angular",
+			"less/css",
+			"nvd3",
+			"d3",
+			"npm",
+			"bower",
+			"grunt",
+			"gulp",
+			"sql"
+		],
+		"skills": [
+			"ui architecture",
+			"interaction design",
+			"ux research",
+			"rapid prototyping",
+			"design thinking"
+		]
+	},
+	{
+		"startMonth": "Jan",
+		"startYear": "2013",
+		"endMonth": "Jun",
+		"endYear": "2013",
+		"logo": "xtivia.jpg",
+		"projects": "xtivia",
+		"title": "UI Developer",
+		"company": "Xtivia",
+		"description": "Liferay is a Java-based proprietary content management system and portal application.",
+		"points": [
+			"Created websites in proprietary content management system, balancing backend and client requirements. Conducted user interviews to map existing processes, and revised information architecture to improve user experience."
+		],
+		"tools": [
+			"illustrator",
+			"svn",
+			"eclipse",
+			"jira",
+			"jquery",
+			"less/css",
+			"html5",
+			"maven",
+			"ant",
+			"sql"
+		],
+		"skills": [
+			"visual design",
+			"information architecture",
+			"interaction design",
+			"ux research"
+		]
+	},
+	{
+		"startMonth": "",
+		"startYear": "2010",
+		"endMonth": "",
+		"endYear": "2012",
+		"logo": "klh.png",
+		"projects": "associates",
+		"title": "Fullstack Developer + UX Designer",
+		"company": "KLH Associates",
+		"description": "Consultancy for early startups, small businesses, and non-profit organizations.",
+		"points": [
+			"Delivered intuitive interfaces for complex processes using mobile-first responsive approach. Utilized contextual analysis and process analysis to identify solutions, and benchtested results with comparative analysis. Incorporated dynamic interactions, mobile-first responsive approaches, and performant APIs."
+		],
+		"tools": [
+			"illustrator",
+			"photoshop",
+			"svn",
+			"JEdit",
+			"jquery",
+			"less/css",
+			"html5",
+			"php",
+			"sql"
+		],
+		"skills": [
+			"visual design",
+			"information architecture",
+			"interaction design",
+			"ux research"
+		]
+	}
+]

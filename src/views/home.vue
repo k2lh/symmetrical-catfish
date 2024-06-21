@@ -1,42 +1,28 @@
 <template>
   <div class="page">
     <div class="row">
-      <!-- <div class="col alignright">
+      <div class="col center">
+        <div id="portfolio">
+          <portfolio />
+        </div>
+        <!-- <div id="projects">
+          <projects />
+        </div> -->
+        <div id="experience">
+          <experience />
+        </div>
+        <div id="testimonials">
+          <testimonials />
+        </div>
+      </div>
 
-        <div class="boxlabel first">
-          kl hamilton
-        </div>
-        <div class="boxlabel">
-          <span v-scroll-to="'#projects'" class="">
-            projects
-          </span>
-        </div>
-        <div class="boxlabel">
-          <span v-scroll-to="'#portfolio'" class="">
-            portfolio
-          </span>
-        </div>
-        <div class="boxlabel">
-          <span v-scroll-to="'#experience'" class="">
-            experience
-          </span>
-        </div>
-        <div class="boxlabel">
-          <span v-scroll-to="'#testimonials'" class="">
-            testimonials
-          </span>
-        </div>
-      </div>
-      <div class='col center'>
-        Some Text in Column Two
-      </div>
-      <div class='col'>
+      <div class="col">
         evolution of a site		catalog
         no crying in dataviz		dash design
         how not to dashboard 	exec view
         building a user bridge	hoover/360
         annotation vibration	all annotated works
-      </div> -->
+      </div>
     </div>
   </div>
 </template>
@@ -44,17 +30,23 @@
 <script>
   import { mapGetters } from 'vuex'
 
+  import portfolio from "../components/portfolio.vue";
+  // import projects from "../components/projects.vue";
+  import experience from "../components/experience.vue";
+  import testimonials from "../components/testimonials.vue";
+
   export default {
     name: "Home",
-    components: {},
+    components: {
+      portfolio,
+      // projects,
+      experience,
+      testimonials
+    },
     data() {
       return {}
     }
-    // mounted() {
-    //   this.$store.commit('setIsHome', true);
-    // }
   };
-
 </script>
 
 <style scoped lang="scss">

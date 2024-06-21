@@ -14,23 +14,13 @@
 </template>
 
 <script>
-  import axios from 'redaxios';
+  import data from '../static/reviews.json'
 
   export default {
-    name: "reviews",
+    name: "testimonials",
     data() {
       return {
-        reviews: []
-      }
-    },
-    created() {
-      this.getReviews();
-    },
-    methods: {
-      getReviews() {
-        axios.get('../reviews.json').then((response) => {
-          this.reviews = response.data;
-        });
+        reviews: data
       }
     }
   };
@@ -39,7 +29,7 @@
 <style scoped lang="scss">
   .quote {
     letter-spacing: normal;
-    font-size: 1.25rem;
+    font-size: .95rem;
   }
   .jobline {
     padding: 2rem 0 0 0;
@@ -52,7 +42,7 @@
   }
   .cite {
     margin-top: .25rem;
-    font-size: 1.25rem;
+    font-size: .8rem;
     color: #555;
   }
 </style>

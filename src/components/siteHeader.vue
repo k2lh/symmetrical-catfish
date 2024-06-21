@@ -8,13 +8,18 @@
         <span class="boxlabel">K L Hamilton</span>
       </div>
       <div class="col adjust">
-        <span v-scroll-to="'#experience'" class="boxlabel">
-          experience
+        <span v-scroll-to="'#portfolio'" class="boxlabel">
+          portfolio
         </span>
       </div>
       <div class="col adjust">
         <span v-scroll-to="'#projects'" class="boxlabel">
           projects
+        </span>
+      </div>
+      <div class="col adjust">
+        <span v-scroll-to="'#experience'" class="boxlabel">
+          experience
         </span>
       </div>
       <div class="col adjust">
@@ -61,7 +66,7 @@
     padding: 0;
     &.first {
       text-align: left;
-      flex: 4;
+      flex: 6;
     }
     &.adjust {
       margin: auto 1rem;

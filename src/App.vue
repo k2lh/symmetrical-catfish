@@ -1,19 +1,18 @@
 <template>
   <siteHeader />
   <RouterView />
-  <siteFooter />
 </template>
 
 <script>
   import { RouterLink, RouterView } from 'vue-router';
   import siteHeader from './components/siteHeader.vue';
-  import siteFooter from './components/siteFooter.vue';
+  // import siteFooter from './components/siteFooter.vue';
 
   export default {
     name: 'App',
     components: {
-      siteHeader,
-      siteFooter
+      siteHeader
+      // siteFooter
     },
     data() {
       return {
@@ -46,7 +45,6 @@
     height: 100%;
     min-width: 7.5rem;
     &.center {
-      margin-top: 6.5rem;
       flex: 6;
     }
   }

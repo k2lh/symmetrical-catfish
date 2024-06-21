@@ -75,6 +75,9 @@ module.exports = {
 	resolve: {
 		extensions: [
 			'.tsx', '.ts', '.js', '.vue'
-		]
+		],
+    // alias: {
+    //   '@files': path.resolve(__dirname, '../src/assets/json'),
+    // }
 	}
 }

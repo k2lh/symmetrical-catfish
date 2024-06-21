@@ -1,0 +1,64 @@
+[
+	{
+		"style": [
+			"Storytelling",
+			"Agile",
+			"Leadership",
+			"Design thinking"
+		],
+		"dev": [
+			"Enterprise architecture",
+			"Application architecture",
+			"Database architecture",
+			"Rapid prototyping",
+			"CI/CD/CD",
+			"Reusable components",
+			"API design"
+		],
+		"research": [
+			"User Interviews",
+			"Ethnographic studies",
+			"Contextual studies",
+			"Process analysis",
+			"Comparative analysis",
+			"Task Analysis",
+			"Workshop facilitation"
+		],
+		"design": [
+			"Information architecture",
+			"Data Visualization",
+			"Mockups",
+			"Interaction Design",
+			"Reusable patterns",
+			"Workflows",
+			"Wireframes",
+			"Design critiques"
+		],
+		"tech": [
+			"Vue",
+			"Nuxt",
+			"Vue-CLI",
+			"D3",
+			"e-charts",
+			"Sass",
+			"Webpack",
+			"NPM",
+			"Yarn",
+			"Zenhub",
+			"Git",
+			"Atom",
+			"YAML",
+			"Swagger",
+			"Node",
+			"Express",
+			"SQL",
+			"MongoDB",
+			"InVision",
+			"Sketch",
+			"Grunt",
+			"Gulp",
+			"Jira",
+			"Angular"
+		]
+	}
+]

@@ -1,0 +1,1418 @@
+[
+	{
+		"startMonth": "Apr",
+		"startYear": 2020,
+		"endMonth": "ongoing",
+		"endYear": null,
+		"title": "Request Process",
+		"logo": "ibm",
+		"team": "IBM Talent Analytics",
+		"description": "Automated request process for a globally-distributed team.",
+		"keywords": [
+			"research",
+			"design",
+			"lead",
+			"docs",
+			"invision",
+			"sketch",
+			"talent"
+		],
+		"roles": [
+			"research",
+			"design",
+			"lead"
+		],
+		"tags": [
+			"sketch",
+			"invision"
+		],
+		"links": [
+			{
+				"url": "https://www.dropbox.com/sh/nuhbbrgnah12lx8/AACaXyMkMjl7EQzmvIM2DJ8Pa?dl=0",
+				"alt": "map"
+			}
+		]
+	},
+	{
+		"startMonth": "Dec",
+		"startYear": 2019,
+		"endMonth": "Apr",
+		"endYear": 2020,
+		"title": "Capacity Modeling",
+		"logo": "ibm",
+		"team": "IBM Talent Analytics",
+		"description": "Online calculator to adjust estimated headcount by acquisition type.",
+		"keywords": [
+			"research",
+			"design",
+			"development",
+			"lead",
+			"invision",
+			"sketch",
+			"vue",
+			"carbon",
+			"charts",
+			"cloud",
+			"apiuse",
+			"apidesign",
+			"node",
+			"screen",
+			"code",
+			"talent"
+		],
+		"roles": [
+			"research",
+			"design",
+			"development",
+			"lead"
+		],
+		"tags": [
+			"sketch",
+			"travis",
+			"invision",
+			"vue",
+			"carbon",
+			"APIs",
+			"echarts",
+			"npm",
+			"eslint",
+			"sass/css",
+			"cloud"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/project2-vue-ui/tree/master/src/views/capacity",
+				"alt": "repo"
+			},
+			{
+				"url": "https://www.dropbox.com/sh/lsls1sp9nmm0zca/AADJDwW7VGFdqmtxUCIxDpc7a?dl=0",
+				"alt": "screen"
+			}
+		]
+	},
+	{
+		"startMonth": "Oct",
+		"startYear": 2019,
+		"endMonth": "Feb",
+		"endYear": 2020,
+		"title": "ROI Analytics",
+		"logo": "ibm",
+		"team": "IBM Talent Analytics",
+		"description": "Interactive site for executives to explore educational ROI.",
+		"keywords": [
+			"design",
+			"development",
+			"lead",
+			"invision",
+			"sketch",
+			"vue",
+			"carbon",
+			"charts",
+			"cloud",
+			"apiuse",
+			"apidesign",
+			"node",
+			"SQL",
+			"code",
+			"mock",
+			"talent"
+		],
+		"roles": [
+			"design",
+			"development",
+			"lead"
+		],
+		"tags": [
+			"sketch",
+			"invision",
+			"vue",
+			"npm",
+			"eslint",
+			"echarts",
+			"SQL",
+			"APIs",
+			"carbon",
+			"node/express",
+			"travis",
+			"sass/css",
+			"cloud"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/project2-vue-ui/tree/master/src/views/time",
+				"alt": "repo"
+			},
+			{
+				"url": "https://www.dropbox.com/sh/y799gvdt125x0xa/AABDRUF34-yy9ZzVGBYO6KV5a?dl=0",
+				"alt": "mock"
+			}
+		]
+	},
+	{
+		"startMonth": "Jun",
+		"startYear": 2019,
+		"endMonth": "Nov",
+		"endYear": 2019,
+		"logo": "ibm",
+		"team": "IBM Talent Analytics",
+		"title": "Skills Ontology",
+		"description": "UI for presenting AI-ingested evidential employee skills.",
+		"keywords": [
+			"research",
+			"design",
+			"development",
+			"lead",
+			"sketch",
+			"vue",
+			"carbon",
+			"charts",
+			"mock",
+			"code",
+			"cloud",
+			"apiuse",
+			"apidesign",
+			"node",
+			"nosql",
+			"SQL",
+			"talent"
+		],
+		"roles": [
+			"research",
+			"design",
+			"development",
+			"lead"
+		],
+		"tags": [
+			"sketch",
+			"vue",
+			"npm",
+			"eslint",
+			"SQL",
+			"echarts",
+			"APIs",
+			"travis",
+			"carbon",
+			"node/express",
+			"sass/css",
+			"cloud"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/project2-vue-ui/blob/master/src/views/ontologyX.vue",
+				"alt": "repo"
+			},
+			{
+				"url": "https://github.com/k2lh/project2-vue-ui/blob/master/src/views/prototypes/ontology.vue",
+				"alt": "repo"
+			},
+			{
+				"url": "https://www.dropbox.com/sh/g01uf04i2i1jnqs/AABwUAjgLAk5NHeC0fD8-omTa?dl=0",
+				"alt": "mock"
+			}
+		]
+	},
+	{
+		"startMonth": "Mar",
+		"startYear": 2019,
+		"endMonth": "Aug",
+		"endYear": 2019,
+		"logo": "ibm",
+		"team": "IBM Talent Analytics",
+		"title": "Training Targets",
+		"description": "Compiled training intiative results, by group and profession.",
+		"keywords": [
+			"research",
+			"design",
+			"lead",
+			"sketch",
+			"code",
+			"mock",
+			"carbon",
+			"talent"
+		],
+		"roles": [
+			"research",
+			"design",
+			"lead"
+		],
+		"tags": [
+			"sketch",
+			"carbon"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/project2-vue-ui/blob/master/src/views/a2targets.vue",
+				"alt": "repo"
+			},
+			{
+				"url": "https://www.dropbox.com/sh/7k80gm2szakel70/AABbe2uogq7OFLB5aoH1QHyja?dl=0",
+				"alt": "mock"
+			}
+		]
+	},
+	{
+		"startMonth": "Oct",
+		"startYear": 2018,
+		"endMonth": "ongoing",
+		"endYear": null,
+		"logo": "ibm",
+		"team": "IBM Talent Analytics",
+		"title": "Analytics Site",
+		"description": "Single point of entry for analytics dashboards, ",
+		"keywords": [
+			"research",
+			"design",
+			"development",
+			"lead",
+			"code",
+			"screen",
+			"sketch",
+			"vue",
+			"carbon",
+			"cloud",
+			"apiuse",
+			"apidesign",
+			"node",
+			"cloud",
+			"talent"
+		],
+		"roles": [
+			"research",
+			"design",
+			"development",
+			"lead"
+		],
+		"tags": [
+			"sketch",
+			"vue",
+			"carbon",
+			"npm",
+			"eslint",
+			"tableau",
+			"APIs",
+			"travis",
+			"node/express",
+			"sass/css",
+			"cloud"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/project2-vue-ui",
+				"alt": "repo"
+			},
+			{
+				"url": "https://www.dropbox.com/sh/th1cfuyfvlsvxg8/AACnd-LutKVdAbveykIY67G8a?dl=0",
+				"alt": "screen"
+			}
+		]
+	},
+	{
+		"startMonth": "Aug",
+		"startYear": 2018,
+		"endMonth": "Sep",
+		"endYear": 2018,
+		"logo": "ibm",
+		"team": "IBM Talent Analytics",
+		"title": "Education Request",
+		"description": "Dynamic form for managers and employees to request budget approval for training.",
+		"keywords": [
+			"research",
+			"design",
+			"invision",
+			"sketch",
+			"mock",
+			"carbon",
+			"talent"
+		],
+		"roles": [
+			"research",
+			"design"
+		],
+		"tags": [
+			"sketch",
+			"carbon",
+			"invision"
+		],
+		"links": [
+			{
+				"url": "https://www.dropbox.com/sh/ob6d2xers595tuo/AABXR9-fR1HKZ9ZRnlupAWmTa?dl=0",
+				"alt": "mock"
+			}
+		]
+	},
+	{
+		"startMonth": "June",
+		"startYear": 2018,
+		"endMonth": "July",
+		"endYear": 2018,
+		"logo": "ibm",
+		"team": "Internal Hackathon",
+		"title": "Outage Reporting",
+		"description": "Hackademy project for reporting server outages.",
+		"keywords": [
+			"design",
+			"invision",
+			"mock",
+			"sketch",
+			"carbon"
+		],
+		"roles": [
+			"design"
+		],
+		"tags": [
+			"sketch",
+			"carbon",
+			"invision"
+		],
+		"links": [
+			{
+				"url": "https://www.dropbox.com/sh/8w6e05g460y1wnc/AAAGAKzIhXdU2nJ7v5FlqVD5a?dl=0",
+				"alt": "mock"
+			}
+		]
+	},
+	{
+		"startMonth": "May",
+		"startYear": 2018,
+		"endMonth": "Aug",
+		"endYear": 2018,
+		"logo": "ibm",
+		"team": "IBM Chief Data Office",
+		"title": "Project Editor",
+		"description": "Project CRUD admin interface for team leads.",
+		"keywords": [
+			"research",
+			"design",
+			"development",
+			"code",
+			"docs",
+			"lead",
+			"sketch",
+			"vue",
+			"carbon",
+			"cloud",
+			"apiuse",
+			"apidesign",
+			"node",
+			"cdata"
+		],
+		"roles": [
+			"research",
+			"design",
+			"development",
+			"lead"
+		],
+		"tags": [
+			"vue",
+			"webhooks",
+			"npm",
+			"carbon",
+			"grunt",
+			"sass/css",
+			"cloud",
+			"node",
+			"express"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/project1-vue-ui/blob/master/src/views/projects/projectedit.vue",
+				"alt": "repo"
+			},
+			{
+				"url": "https://www.dropbox.com/sh/4gtkn74jb2f208i/AAAHmeU_-sqkmhIFVKVDitsea?dl=0",
+				"alt": "docs"
+			}
+		]
+	},
+	{
+		"startMonth": "Apr",
+		"startYear": 2018,
+		"endMonth": "May",
+		"endYear": 2018,
+		"title": "Generator Redux",
+		"logo": "shark",
+		"team": "app with a vue",
+		"description": "Updated generators in Vue.js with new functionality and improved UX.",
+		"keywords": [
+			"research",
+			"design",
+			"site",
+			"code",
+			"development",
+			"vue",
+			"bootstrap",
+			"personal"
+		],
+		"roles": [
+			"research",
+			"design",
+			"development"
+		],
+		"tags": [
+			"vue",
+			"npm",
+			"bootstrap",
+			"eslint"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/generators-vue",
+				"alt": "repo"
+			},
+			{
+				"url": "http://generate.karinoyo.com/",
+				"alt": "site"
+			}
+		]
+	},
+	{
+		"startMonth": "Feb",
+		"startYear": 2018,
+		"endMonth": "Sep",
+		"endYear": 2018,
+		"logo": "ibm",
+		"team": "IBM Chief Data Office",
+		"title": "Consolidated Data Lake",
+		"description": "Conceptual wireframes based on internal branding for ux patterns.",
+		"keywords": [
+			"design",
+			"development",
+			"lead",
+			"mock",
+			"sketch",
+			"vue",
+			"carbon",
+			"cloud",
+			"node",
+			"cdata"
+		],
+		"roles": [
+			"design",
+			"development",
+			"lead"
+		],
+		"tags": [
+			"sketch",
+			"vue",
+			"npm",
+			"webhooks",
+			"eslint",
+			"carbon",
+			"sass/css",
+			"cloud"
+		],
+		"links": [
+			{
+				"url": "https://www.dropbox.com/sh/d4t67tph282lwpj/AAA9DKl4Oxy4Imj1UYM9GvGOa?dl=0",
+				"alt": "wires"
+			}
+		]
+	},
+	{
+		"startMonth": "Jan",
+		"startYear": 2018,
+		"endMonth": "May",
+		"endYear": 2018,
+		"logo": "ibm",
+		"team": "IBM Chief Data Office",
+		"title": "Chart Library",
+		"description": "Annotated and cross-referenced collection of data visualization charts.",
+		"keywords": [
+			"research",
+			"design",
+			"development",
+			"lead",
+			"sketch",
+			"code",
+			"screen",
+			"vue",
+			"carbon",
+			"charts",
+			"cloud",
+			"apiuse",
+			"node",
+			"cdata"
+		],
+		"roles": [
+			"research",
+			"design",
+			"development",
+			"lead"
+		],
+		"tags": [
+			"sketch",
+			"vue",
+			"d3",
+			"npm",
+			"webhooks",
+			"carbon",
+			"eslint",
+			"APIs",
+			"sass/css",
+			"cloud"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/project1-vue-ui/tree/master/src/views/solutions",
+				"alt": "repo"
+			},
+			{
+				"url": "https://www.dropbox.com/sh/1z7s7m1evk69s32/AACAF4YZWTnNzazWuqZ9zyYea?dl=0",
+				"alt": "screen"
+			}
+		]
+	},
+	{
+		"startMonth": "Jul",
+		"startYear": 2017,
+		"endMonth": "Sep",
+		"endYear": 2017,
+		"logo": "ibm",
+		"team": "IBM Chief Data Office",
+		"title": "Project Views",
+		"description": "Git-based interface for executive insight into current projects.",
+		"keywords": [
+			"research",
+			"design",
+			"development",
+			"lead",
+			"code",
+			"screen",
+			"mock",
+			"sketch",
+			"vue",
+			"carbon",
+			"cloud",
+			"node",
+			"cdata"
+		],
+		"roles": [
+			"research",
+			"design",
+			"development",
+			"lead"
+		],
+		"tags": [
+			"sketch",
+			"vue",
+			"webhooks",
+			"npm",
+			"carbon",
+			"eslint",
+			"sass/css",
+			"cloud"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/project1-vue-ui/tree/master/src/views/projects",
+				"alt": "repo"
+			},
+			{
+				"url": "https://www.dropbox.com/sh/5mxsi2iz0in9z92/AAARJQursb5zxdwEoCCx3M97a?dl=0",
+				"alt": "screen"
+			}
+		]
+	},
+	{
+		"startMonth": "Jul",
+		"startYear": 2017,
+		"endMonth": "Sep",
+		"endYear": 2017,
+		"logo": "ibm",
+		"team": "IBM Chief Data Office",
+		"title": "Team Structure",
+		"description": "Whitepaper on hub-and-spoke structure for teams.",
+		"keywords": [
+			"research",
+			"design",
+			"lead",
+			"docs",
+			"adobe",
+			"cdata"
+		],
+		"roles": [
+			"research",
+			"design",
+			"lead"
+		],
+		"tags": [
+			"adobe cc",
+			"writing"
+		],
+		"links": [
+			{
+				"url": "https://www.dropbox.com/sh/sschsyncg7s0mwi/AACVz4IZDKBbYhdaXVKjpBJha?dl=0",
+				"alt": "docs"
+			}
+		]
+	},
+	{
+		"startMonth": "Apr",
+		"startYear": 2017,
+		"endMonth": "Jun",
+		"endYear": 2017,
+		"logo": "ibm",
+		"team": "IBM Chief Data Office",
+		"title": "Marketing Site",
+		"description": "Dynamic site to evangelize and explain team purpose, processes, and resources.",
+		"keywords": [
+			"research",
+			"design",
+			"development",
+			"lead",
+			"code",
+			"screen",
+			"sketch",
+			"vue",
+			"carbon",
+			"cloud",
+			"apiuse",
+			"apidesign",
+			"node",
+			"cdata"
+		],
+		"roles": [
+			"research",
+			"design",
+			"development",
+			"lead"
+		],
+		"tags": [
+			"sketch",
+			"vue",
+			"webhooks",
+			"npm",
+			"carbon",
+			"gulp",
+			"sass/css",
+			"cloud",
+			"APIs"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/project1-vue-ui",
+				"alt": "repo"
+			},
+			{
+				"url": "https://www.dropbox.com/sh/zi1p48owf76wpf3/AABdFYyo-IWd7w9LskoTNfx4a?dl=0",
+				"alt": "screen"
+			}
+		]
+	},
+	{
+		"startMonth": "Jan",
+		"startYear": 2017,
+		"endMonth": "Feb",
+		"endYear": 2017,
+		"logo": "ibmcloud",
+		"team": "IBM Platform",
+		"title": "API Process",
+		"description": "Presentation for educating designers, developers, and stakeholders about API design.",
+		"keywords": [
+			"research",
+			"design",
+			"lead",
+			"docs",
+			"sketch",
+			"apidesign",
+			"platform"
+		],
+		"roles": [
+			"research",
+			"design",
+			"lead"
+		],
+		"tags": [
+			"sketch",
+			"APIs",
+			"swagger"
+		],
+		"links": [
+			{
+				"url": "https://www.dropbox.com/sh/dzmxewfjaq315mg/AACO8Paesn1zBcwglN1B6d1la?dl=0",
+				"alt": "docs"
+			}
+		]
+	},
+	{
+		"startMonth": "Jun",
+		"startYear": 2016,
+		"endMonth": "Sep",
+		"endYear": 2016,
+		"logo": "ibmcloud",
+		"team": "IBM Cloud",
+		"title": "App Redesign",
+		"description": "Streamlined architecture and user experience for functions-as-a-service platform.",
+		"keywords": [
+			"research",
+			"design",
+			"lead",
+			"mock",
+			"adobe",
+			"invision",
+			"sketch",
+			"bluemix"
+		],
+		"roles": [
+			"research",
+			"design",
+			"lead"
+		],
+		"tags": [
+			"adobe cc",
+			"sketch",
+			"invision"
+		],
+		"links": [
+			{
+				"url": "https://www.dropbox.com/sh/5l7sum4i6i9xiwx/AACAdjRc3Im2LuwkUYjJK7KJa?dl=0",
+				"alt": "wires"
+			}
+		]
+	},
+	{
+		"startMonth": "May",
+		"startYear": 2016,
+		"endMonth": "Jun",
+		"endYear": 2016,
+		"title": "API Finder",
+		"logo": "ibmcloud",
+		"team": "IBM Cloud",
+		"description": "Conceptual design for searching/filtering documented APIs.",
+		"keywords": [
+			"research",
+			"design",
+			"lead",
+			"mock",
+			"adobe",
+			"invision",
+			"sketch",
+			"bluemix"
+		],
+		"roles": [
+			"research",
+			"design",
+			"lead"
+		],
+		"tags": [
+			"adobe cc",
+			"sketch",
+			"invision"
+		],
+		"links": [
+			{
+				"url": "https://www.dropbox.com/sh/fb6fycx2ogkr0vs/AAACOheLrGZj2fdzmC3qWpuIa?dl=0",
+				"alt": "wires"
+			}
+		]
+	},
+	{
+		"startMonth": "Sep",
+		"startYear": 2015,
+		"endMonth": "Oct",
+		"endYear": 2015,
+		"title": "Menu Concepts",
+		"logo": "studio",
+		"team": "IBM Studio",
+		"description": "Rapid prototyping to assist ux researchers in determining best approach.",
+		"keywords": [
+			"design",
+			"development",
+			"demo",
+			"jquery",
+			"studio"
+		],
+		"roles": [
+			"design",
+			"development"
+		],
+		"tags": [
+			"jquery",
+			"css3"
+		],
+		"links": [
+			{
+				"url": "http://plnkr.co/edit/K9w00sFMBuph1SzIoyNB?p=preview",
+				"alt": "plnkr"
+			},
+			{
+				"url": "http://plnkr.co/edit/FmyYX9MDvsl3vxPWYq90?p=preview",
+				"alt": "plnkr"
+			}
+		]
+	},
+	{
+		"startMonth": "Mar",
+		"startYear": 2015,
+		"endMonth": "Mar",
+		"endYear": 2015,
+		"title": "Religion Generator",
+		"logo": "shark",
+		"team": "for the writers",
+		"description": "Used as a listener activity by Writing Excuses, a Hugo-winner podcast.",
+		"keywords": [
+			"research",
+			"design",
+			"demo",
+			"site",
+			"development",
+			"angular",
+			"bootstrap",
+			"personal"
+		],
+		"roles": [
+			"research",
+			"design",
+			"development"
+		],
+		"tags": [
+			"angular",
+			"bootstrap",
+			"npm",
+			"gulp",
+			"angular-ui"
+		],
+		"links": [
+			{
+				"url": "http://generate.karinoyo.com/religion",
+				"alt": "site"
+			},
+			{
+				"url": "http://embed.plnkr.co/J0mYup/preview",
+				"alt": "plnkr"
+			}
+		]
+	},
+	{
+		"startMonth": "Feb",
+		"startYear": 2015,
+		"endMonth": "Mar",
+		"endYear": 2015,
+		"title": "Character Tracker",
+		"logo": "shark",
+		"team": "code all the things",
+		"description": "Character/story/event tracker for authors.",
+		"keywords": [
+			"research",
+			"design",
+			"development",
+			"lead",
+			"demo",
+			"code",
+			"angular",
+			"bootstrap",
+			"apiuse",
+			"apidesign",
+			"node",
+			"nosql",
+			"cloud",
+			"personal"
+		],
+		"roles": [
+			"research",
+			"design",
+			"development",
+			"lead"
+		],
+		"tags": [
+			"angular",
+			"APIs",
+			"bootstrap",
+			"node/express",
+			"npm",
+			"mongoDB",
+			"mongoose",
+			"heroku",
+			"node async"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/charateka",
+				"alt": "repo"
+			},
+			{
+				"url": "http://plnkr.co/edit/nXhcVZ?p=preview",
+				"alt": "plnkr"
+			}
+		]
+	},
+	{
+		"startMonth": "Jan",
+		"startYear": 2015,
+		"endMonth": "Jan",
+		"endYear": 2015,
+		"title": "Conjugation App",
+		"logo": "klh",
+		"team": "KLH Associates",
+		"description": "Japanese-language verb conjugation dictionary mobile app.",
+		"keywords": [
+			"research",
+			"design",
+			"development",
+			"lead",
+			"demo",
+			"angular",
+			"bootstrap",
+			"node",
+			"associates"
+		],
+		"roles": [
+			"research",
+			"design",
+			"development",
+			"lead"
+		],
+		"tags": [
+			"angular",
+			"bootstrap",
+			"cordova",
+			"gulp",
+			"phonegap",
+			"node",
+			"express"
+		],
+		"links": [
+			{
+				"url": "http://embed.plnkr.co/zpRMrBKPKah4EBxzCgDD/preview",
+				"alt": "plnkr"
+			},
+			{
+				"url": "http://embed.plnkr.co/Sc283f/preview",
+				"alt": "plnkr"
+			}
+		]
+	},
+	{
+		"startMonth": "Dec",
+		"startYear": 2014,
+		"endMonth": "Feb",
+		"endYear": 2015,
+		"title": "Education Tool",
+		"logo": "klh",
+		"team": "MEAN Training",
+		"description": "Educational project for teaching the MEAN stack.",
+		"keywords": [
+			"design",
+			"development",
+			"lead",
+			"invision",
+			"angular",
+			"code",
+			"mock",
+			"bootstrap",
+			"node",
+			"cloud",
+			"training"
+		],
+		"roles": [
+			"design",
+			"lead",
+			"development"
+		],
+		"tags": [
+			"invision",
+			"angular",
+			"APIs",
+			"bootstrap",
+			"heroku",
+			"mongoDB",
+			"less/css",
+			"bower",
+			"grunt",
+			"sails",
+			"node",
+			"adobe cc"
+		],
+		"links": [
+			{
+				"url": "https://www.dropbox.com/sh/1e4ai4sb1r3wb75/AAAjAGSYGYP07Ec5Lvj_2ILSa?dl=0",
+				"alt": "wires"
+			},
+			{
+				"url": "https://github.com/austin-pair-programming/the-mean-exchange",
+				"alt": "repo"
+			}
+		]
+	},
+	{
+		"startMonth": "Nov",
+		"startYear": 2014,
+		"endMonth": "Jan",
+		"endYear": 2015,
+		"title": "Country Generator",
+		"logo": "shark",
+		"team": "research ftw",
+		"description": "Randomized generator, done for the math & complex logic.",
+		"keywords": [
+			"research",
+			"design",
+			"code",
+			"demo",
+			"development",
+			"angular",
+			"bootstrap",
+			"personal"
+		],
+		"roles": [
+			"research",
+			"design",
+			"development"
+		],
+		"tags": [
+			"angular",
+			"bootstrap",
+			"npm",
+			"less/css",
+			"gulp"
+		],
+		"links": [
+			{
+				"alt": "repo",
+				"url": "https://github.com/k2lh/generate-pop"
+			},
+			{
+				"alt": "plnkr",
+				"url": "http://embed.plnkr.co/cAzNmdgLOoPFK8BJfqOM/preview"
+			},
+			{
+				"alt": "plnkr",
+				"url": "http://embed.plnkr.co/5yDhfchKmzICfitylckg/preview"
+			}
+		]
+	},
+	{
+		"startMonth": "Oct",
+		"startYear": 2014,
+		"endMonth": "Oct",
+		"endYear": 2014,
+		"title": "Priority Demo",
+		"logo": "dnb",
+		"team": "D&B UX Design Team",
+		"description": "Prototype for setting priorities, determining effort, and getting visualization.",
+		"keywords": [
+			"research",
+			"design",
+			"demo",
+			"development",
+			"bootstrap",
+			"jquery",
+			"dnb"
+		],
+		"roles": [
+			"research",
+			"design",
+			"development"
+		],
+		"tags": [
+			"jquery",
+			"knockout",
+			"canvas",
+			"bootstrap"
+		],
+		"links": [
+			{
+				"url": "http://klh.karinoyo.com/pie/",
+				"alt": "demo"
+			}
+		]
+	},
+	{
+		"startMonth": "Sep",
+		"startYear": 2014,
+		"endMonth": "Dec",
+		"endYear": 2014,
+		"title": "API Sales Tool",
+		"logo": "dnb",
+		"team": "D&B UX Design Team",
+		"description": "Sales tool for demonstrating complex API offerings in a more intuitive manner.",
+		"keywords": [
+			"research",
+			"design",
+			"development",
+			"lead",
+			"site",
+			"demo",
+			"code",
+			"adobe",
+			"invision",
+			"angular",
+			"bootstrap",
+			"d3",
+			"apiuse",
+			"apidesign",
+			"node",
+			"dnb"
+		],
+		"roles": [
+			"research",
+			"design",
+			"lead",
+			"development"
+		],
+		"tags": [
+			"adobe cc",
+			"invision",
+			"angular",
+			"APIs",
+			"gulp",
+			"bootstrap",
+			"nvd3/d3",
+			"bower",
+			"google maps",
+			"node",
+			"less/css"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/db-demo-mod-app",
+				"alt": "repo"
+			},
+			{
+				"url": "https://vast-everglades-5872.herokuapp.com/index.html#/financialSummary",
+				"alt": "heroku"
+			},
+			{
+				"url": "http://embed.plnkr.co/CjXt7E/preview",
+				"alt": "plnkr"
+			}
+		]
+	},
+	{
+		"startMonth": "Jul",
+		"startYear": 2014,
+		"endMonth": "Sep",
+		"endYear": 2014,
+		"title": "Training Setup",
+		"logo": "klh",
+		"team": "MEAN Training",
+		"description": "Application for teaching jr developers in MEAN stack.",
+		"keywords": [
+			"research",
+			"design",
+			"development",
+			"lead",
+			"adobe",
+			"invision",
+			"angular",
+			"bootstrap",
+			"code",
+			"mock",
+			"site",
+			"apiuse",
+			"apidesign",
+			"node",
+			"cloud",
+			"training"
+		],
+		"roles": [
+			"research",
+			"design",
+			"lead",
+			"development"
+		],
+		"tags": [
+			"adobe cc",
+			"invision",
+			"angular",
+			"APIs",
+			"heroku",
+			"bootstrap",
+			"gulp",
+			"bower",
+			"karma",
+			"travis"
+		],
+		"links": [
+			{
+				"url": "https://www.dropbox.com/sh/2w8leiwm09paj0s/AACjWpIhpzGmvPVKc3RoVnpAa?dl=0",
+				"alt": "wires"
+			},
+			{
+				"url": "https://github.com/k2lh/starterkit",
+				"alt": "repo"
+			},
+			{
+				"url": "https://gentle-temple-2243.herokuapp.com/#/",
+				"alt": "heroku"
+			}
+		]
+	},
+	{
+		"startMonth": "May",
+		"startYear": 2014,
+		"endMonth": "Dec",
+		"endYear": 2014,
+		"title": "Ala Carte API Sales",
+		"logo": "dnb",
+		"team": "D&B UX Design Team",
+		"description": "Ala carte-style sales tool for API selections.",
+		"keywords": [
+			"research",
+			"design",
+			"development",
+			"adobe",
+			"code",
+			"invision",
+			"angular",
+			"apiuse",
+			"bootstrap",
+			"d3",
+			"node",
+			"dnb"
+		],
+		"roles": [
+			"research",
+			"design",
+			"APIs",
+			"development"
+		],
+		"tags": [
+			"adobe cc",
+			"invision",
+			"angular",
+			"bootstrap",
+			"less/css",
+			"gulp",
+			"APIs",
+			"nvd3/d3",
+			"google maps",
+			"node",
+			"sails"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/ani-comp-demo",
+				"alt": "repo"
+			}
+		]
+	},
+	{
+		"startMonth": "Feb",
+		"startYear": 2014,
+		"endMonth": "Feb",
+		"endYear": 2014,
+		"title": "Customer Support",
+		"logo": "dnb",
+		"team": "D&B UX Design Team",
+		"description": "Prototype for Customer Support cross-product vision.",
+		"keywords": [
+			"design",
+			"development",
+			"code",
+			"docs",
+			"mock",
+			"adobe",
+			"invision",
+			"angular",
+			"bootstrap",
+			"dnb"
+		],
+		"roles": [
+			"design",
+			"development"
+		],
+		"tags": [
+			"adobe cc",
+			"invision",
+			"angular",
+			"bootstrap",
+			"gulp"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/simple-spa",
+				"alt": "repo"
+			},
+			{
+				"url": "https://www.dropbox.com/s/uw15ohxbb9q7bmm/map-blocks.jpg?dl=0",
+				"alt": "map"
+			},
+			{
+				"url": "https://www.dropbox.com/sh/en49iyjnlc2tju7/AAAO5xLQLyPKvhmazT_iIRt8a?dl=0",
+				"alt": "wires"
+			}
+		]
+	},
+	{
+		"startMonth": "Oct",
+		"startYear": 2013,
+		"endMonth": "Mar",
+		"endYear": 2014,
+		"title": "Mobile App",
+		"logo": "dnb",
+		"team": "D&B Development",
+		"description": "Core search functionality for external clients' salespeople.",
+		"keywords": [
+			"design",
+			"development",
+			"lead",
+			"demo",
+			"screen",
+			"angular",
+			"apiuse",
+			"dnb"
+		],
+		"roles": [
+			"development",
+			"lead",
+			"teams"
+		],
+		"tags": [
+			"angular",
+			"require",
+			"angular-AMD",
+			"breeze",
+			"APIs",
+			"gulp",
+			"bower",
+			"less/css"
+		],
+		"links": [
+			{
+				"url": "http://embed.plnkr.co/x2ZXSFcjPGHrRtnbcQE0/preview",
+				"alt": "plnkr"
+			},
+			{
+				"url": "http://embed.plnkr.co/EEDLImQBLxKDiiLLUSx4/preview",
+				"alt": "plnkr"
+			}
+		]
+	},
+	{
+		"startMonth": "Jun",
+		"startYear": 2013,
+		"endMonth": "Jun",
+		"endYear": 2013,
+		"title": "Advanced Search",
+		"logo": "dnb",
+		"team": "D&B Development",
+		"description": "Search feature based on parameters created from the comparison of three search sets.",
+		"keywords": [
+			"research",
+			"design",
+			"code",
+			"demo",
+			"adobe",
+			"invision",
+			"dnb"
+		],
+		"roles": [
+			"research",
+			"design"
+		],
+		"tags": [
+			"adobe cc",
+			"invision"
+		],
+		"links": [
+			{
+				"url": "https://github.com/k2lh/adv-search-comps",
+				"alt": "repo"
+			},
+			{
+				"url": "http://embed.plnkr.co/Nweuu3/preview",
+				"alt": "plnkr"
+			}
+		]
+	}
+]
