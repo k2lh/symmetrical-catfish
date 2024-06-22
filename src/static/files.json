@@ -1,2450 +1,3448 @@
 [
- {
-   "dex": 1,
-   "title": "Intranet Architecture",
-   "proj": "abc",
-   "vers": 4,
-   "num": 1,
-   "year": 2007,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "arch",
-   "stage": "revis",
-   "note": "Sitemap incorporating preliminary page architecture for development planning.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/abc-arch-04-01-070712.png"
-   }
-},
- {
-   "dex": 2,
-   "title": "Intranet Architecture",
-   "proj": "abc",
-   "vers": 5,
-   "num": 1,
-   "year": 2008,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "map",
-   "stage": "revis",
-   "note": "Revised version of page architecture, arranged in a manner slightly less terrifying for shareholders.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/abc-map-05-01-080117.png"
-   }
-},
- {
-   "dex": 3,
-   "title": "Intranet Site Map",
-   "proj": "abc",
-   "vers": 7,
-   "num": 1,
-   "year": 2008,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "map",
-   "stage": "final",
-   "note": "Thorough site map that includes 2nd and 3rd tier sub-levels.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/abc-map-07-01-080229.png"
-   }
-},
- {
-   "dex": 4,
-   "title": "Development Guidelines",
-   "proj": "ang",
-   "vers": 3,
-   "num": 1,
-   "year": 2016,
-   "ftype": "pptx",
-   "anno": "F",
-   "cat": "pres",
-   "stage": "final",
-   "note": "Best practices for keeping team development from turning into chaos.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/dev-pres-03-01-160323.pptx"
-   }
-},
- {
-   "dex": 5,
-   "title": "Rough API Architecture/Flow",
-   "proj": "api",
-   "vers": 1,
-   "num": 1,
-   "year": 2017,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "arch",
-   "stage": "draft",
-   "note": "Working version of the proposed API architecture.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-arch-01-01-170127.png"
-   }
-},
- {
-   "dex": 6,
-   "title": "Applying Design Thinking to APIs",
-   "proj": "api",
-   "vers": 2,
-   "num": 1,
-   "year": 2017,
-   "ftype": "pdf",
-   "anno": "F",
-   "cat": "pres",
-   "stage": "revis",
-   "note": "Near-final co-written API design, co-written by team.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/api-pres-02-01-171105.txt"
-   }
-},
- {
-   "dex": 7,
-   "title": "Applying Design Thinking to APIs",
-   "proj": "api",
-   "vers": 2,
-   "num": 1,
-   "year": 2017,
-   "ftype": "text",
-   "anno": "F",
-   "cat": "text",
-   "stage": "draft",
-   "note": "Preliminary text for team’s presentation on designing APIs.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/api-pres-02-01-171105.txt"
-   }
-},
- {
-   "dex": 8,
-   "title": "Proposed Gateway Architecture",
-   "proj": "api",
-   "vers": 6,
-   "num": 4,
-   "year": 2017,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "arch",
-   "stage": "final",
-   "note": "Presentation of option A for API gateway design.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-arch-06-04-170205.jpg"
-   }
-},
- {
-   "dex": 9,
-   "title": "Proposed Gateway Architecture",
-   "proj": "api",
-   "vers": 6,
-   "num": 5,
-   "year": 2017,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "arch",
-   "stage": "final",
-   "note": "Presentation of option B for API gateway design.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-arch-06-05-170206.jpg"
-   }
-},
- {
-   "dex": 10,
-   "title": "Site Map Flowchart",
-   "proj": "arc",
-   "vers": 5,
-   "num": 1,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "map",
-   "stage": "final",
-   "note": "Circular site map, arranged in order of user workflow.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/arc-map-05-01-120217.png"
-   }
-},
- {
-   "dex": 11,
-   "title": "Archive Administration",
-   "proj": "arc",
-   "vers": 5,
-   "num": 2,
-   "year": 2011,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Form for authors to add, edit, and arrange their stories’ chapters.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/arc-form-05-02-110512.png"
-   }
-},
- {
-   "dex": 12,
-   "title": "Mobile AI App",
-   "proj": "bst",
-   "vers": 2,
-   "num": 1,
-   "year": 2023,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "mock",
-   "stage": "final",
-   "note": "Start-point of animation in login page.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-mock-02-01-230718.png"
-   }
-},
- {
-   "dex": 13,
-   "title": "Mobile AI App",
-   "proj": "bst",
-   "vers": 2,
-   "num": 4,
-   "year": 2023,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "mock",
-   "stage": "revis",
-   "note": "Design example, using AI-produced text.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-mock-02-04-230724.png"
-   }
-},
- {
-   "dex": 14,
-   "title": "Mobile AI App",
-   "proj": "bst",
-   "vers": 2,
-   "num": 7,
-   "year": 2023,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "mock",
-   "stage": "revis",
-   "note": "Design example, using AI-produced text.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-mock-02-07-230724.png"
-   }
-},
- {
-   "dex": 15,
-   "title": "Product Explanation",
-   "proj": "bst",
-   "vers": 4,
-   "num": 5,
-   "year": 2023,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "mock",
-   "stage": "revis",
-   "note": "Visual metaphor for the creation of AI-based ontologies.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-mock-04-05-230831.jpg"
-   }
-},
- {
-   "dex": 16,
-   "title": "Pitch Deck",
-   "proj": "bst",
-   "vers": 5,
-   "num": 5,
-   "year": 2023,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "pres",
-   "stage": "final",
-   "note": "Simplified visual for non-technical investors.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-pres-05-05-230728.jpg"
-   }
-},
- {
-   "dex": 17,
-   "title": "Pitch Deck",
-   "proj": "bst",
-   "vers": 5,
-   "num": 7,
-   "year": 2023,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "pres",
-   "stage": "revis",
-   "note": "Example of concept in action, with design applied.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-pres-05-07-230728.jpg"
-   }
-},
- {
-   "dex": 18,
-   "title": "API Directory",
-   "proj": "capi",
-   "vers": 1,
-   "num": 1,
-   "year": 2016,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "wire",
-   "stage": "draft",
-   "note": "Draft of proposed directory of available internal APIs, for Cloud use.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/capi-wire-01-01-160630.png"
-   }
-},
- {
-   "dex": 19,
-   "title": "API Directory",
-   "proj": "capi",
-   "vers": 1,
-   "num": 2,
-   "year": 2016,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "wire",
-   "stage": "draft",
-   "note": "Draft of proposed directory of available internal APIs, for Cloud use.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/capi-wire-01-02-160630.png"
-   }
-},
- {
-   "dex": 20,
-   "title": "Add a Cat Profile",
-   "proj": "cat",
-   "vers": 1,
-   "num": 4,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "revis",
-   "note": "Form incorporating accessibility lessons learned while consulting.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cat-form-01-04-120209.jpg"
-   }
-},
- {
-   "dex": 21,
-   "title": "Create an Account",
-   "proj": "cat",
-   "vers": 1,
-   "num": 7,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "revis",
-   "note": "A slight case of taking a good idea a little too far.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cat-form-01-07-120209.jpg"
-   }
-},
- {
-   "dex": 22,
-   "title": "Services Platform walk-through",
-   "proj": "ccts",
-   "vers": 1,
-   "num": 1,
-   "year": 2017,
-   "ftype": "pdf",
-   "anno": "F",
-   "cat": "tour",
-   "stage": "final",
-   "note": "Redesign applying the new design system, further organized to show user movement through the webapp.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ccts-tour-01-01-170505.pdf"
-   }
-},
- {
-   "dex": 23,
-   "title": "Introduction to Agile",
-   "proj": "cdo",
-   "vers": 1,
-   "num": 1,
-   "year": 2017,
-   "ftype": "pdf",
-   "anno": "F",
-   "cat": "pres",
-   "stage": "final",
-   "note": "Getting a newly-built team on the same page about management tactics.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/cdo-pres-01-01-170821.pdf"
-   }
-},
- {
-   "dex": 24,
-   "title": "Turning Business Inside-out: How a Cognitive Approach Can Transform IT",
-   "proj": "cdo",
-   "vers": 3,
-   "num": 1,
-   "year": 2017,
-   "ftype": "pdf",
-   "anno": "F",
-   "cat": "paper",
-   "stage": "final",
-   "note": "Paper about the necessity of centralizing data and integrating design for a more efficient business.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/cdo-paper-03-01-170523.pdf"
-   }
-},
- {
-   "dex": 25,
-   "title": "Hub-and-Spoke Organization",
-   "proj": "cdo",
-   "vers": 4,
-   "num": 1,
-   "year": 2017,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "map",
-   "stage": "final",
-   "note": "Visual representation of how a centralized data office connects and integrates with its client teams.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cdo-map-04-01-170510.jpg"
-   }
-},
- {
-   "dex": 26,
-   "title": "Leveraging the Data: Using a Cognitive Platform to Transform Business Outcomes",
-   "proj": "cdo",
-   "vers": 4,
-   "num": 1,
-   "year": 2017,
-   "ftype": "pdf",
-   "anno": "F",
-   "cat": "paper",
-   "stage": "final",
-   "note": "Paper to support Cognitive Platform initiative. (Boy do those dashboard images make me cringe, now.)",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/cdo-paper-04-01-170523.pdf"
-   }
-},
- {
-   "dex": 27,
-   "title": "Character App Frame",
-   "proj": "chr",
-   "vers": 1,
-   "num": 1,
-   "year": 2011,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "wire",
-   "stage": "draft",
-   "note": "The first of many iterations in figuring the information architecture.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-wire-01-01-110426.png"
-   }
-},
- {
-   "dex": 29,
-   "title": "User & Site Diagram",
-   "proj": "chr",
-   "vers": 2,
-   "num": 1,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "map",
-   "stage": "revis",
-   "note": "An experiment in blending site map and user flow in a circularly-architected UI.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-map-02-01-120712.png"
-   }
-},
- {
-   "dex": 30,
-   "title": "Character List Iteration",
-   "proj": "chr",
-   "vers": 2,
-   "num": 2,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "wire",
-   "stage": "draft",
-   "note": "An attempt to satisfy user requests for a packed data table, but the result was unfortunately inaccessible. ",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-wire-02-02-120216.png"
-   }
-},
- {
-   "dex": 31,
-   "title": "Character Physiology Page",
-   "proj": "chr",
-   "vers": 2,
-   "num": 3,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "wire",
-   "stage": "draft",
-   "note": "Drawer slide up/down design for reducing cognitive load of a complicated form.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-wire-02-03-120216.png"
-   }
-},
- {
-   "dex": 32,
-   "title": "Character Musical Skill Page",
-   "proj": "chr",
-   "vers": 2,
-   "num": 4,
-   "year": 2011,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Screenshot of prototype for character management webapp. ",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-form-02-04-110509.png"
-   }
-},
- {
-   "dex": 33,
-   "title": "Character History Page",
-   "proj": "chr",
-   "vers": 2,
-   "num": 7,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Screenshot of prototype for character management webapp. ",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-form-02-07-120705.jpg"
-   }
-},
- {
-   "dex": 34,
-   "title": "New Character Walk-Through",
-   "proj": "chr",
-   "vers": 3,
-   "num": 5,
-   "year": 2015,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Screenshot of production version of character management webapp, showing dropdown contents.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-form-03-05-151116.png"
-   }
-},
- {
-   "dex": 35,
-   "title": "New Character Walk-Through",
-   "proj": "chr",
-   "vers": 3,
-   "num": 7,
-   "year": 2015,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Screenshot of production version of character management webapp, showing dropdown contents.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-form-03-07-151116.png"
-   }
-},
- {
-   "dex": 36,
-   "title": "Character App Site Map Redux",
-   "proj": "chr",
-   "vers": 4,
-   "num": 3,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "map",
-   "stage": "final",
-   "note": "A simplified and streamlined site map. ",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-map-04-03-120712.png"
-   }
-},
- {
-   "dex": 37,
-   "title": "HR Insights Analytics Site",
-   "proj": "csaa",
-   "vers": 1,
-   "num": 1,
-   "year": 2018,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "page",
-   "stage": "final",
-   "note": "Earliest prototype of an inventory site for the team’s projects.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/csaa-page-01-01-181105.jpg"
-   }
-},
- {
-   "dex": 38,
-   "title": "Team Dashboard Catalog",
-   "proj": "csaa",
-   "vers": 3,
-   "num": 1,
-   "year": 2018,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "page",
-   "stage": "revis",
-   "note": "Users nicknamed the boxes ‘cards’, inspiring the metaphor of a card catalog.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/csaa-page-03-01-181107.jpg"
-   }
-},
- {
-   "dex": 39,
-   "title": "Expanded Analytics Catalog",
-   "proj": "csaa",
-   "vers": 9,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "page",
-   "stage": "revis",
-   "note": "A more complex main page thanks to increasingly detailed metadata for each linked dashboard.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/csaa-page-09-01-190516.jpg"
-   }
-},
- {
-   "dex": 40,
-   "title": "User Interview",
-   "proj": "ctta",
-   "vers": 1,
-   "num": 1,
-   "year": 2020,
-   "ftype": "text",
-   "anno": "F",
-   "cat": "text",
-   "stage": "final",
-   "note": "Basic script for user interviews on new dashboards and/or visualizations.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/ctta-text-01-01-200604.txt"
-   }
-},
- {
-   "dex": 41,
-   "title": "Mapping Dash Connections",
-   "proj": "ctta",
-   "vers": 2,
-   "num": 2,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "map",
-   "stage": "draft",
-   "note": "Preliminary visual for stakeholder discussion on organizing related dashboards. ",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-map-02-02-191005.jpg"
-   }
-},
- {
-   "dex": 42,
-   "title": "Submit a Request",
-   "proj": "ctta",
-   "vers": 7,
-   "num": 1,
-   "year": 2020,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Automated routing form to handle growing number of user requests.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-form-07-01-200507.jpg"
-   }
-},
- {
-   "dex": 43,
-   "title": "Manage Your Cards",
-   "proj": "ctta",
-   "vers": 7,
-   "num": 2,
-   "year": 2020,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "CRUD system for data scientists and analysts to manage cards for their respective dashboards.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-form-07-02-200507.jpg"
-   }
-},
- {
-   "dex": 44,
-   "title": "Mature Catalog Design",
-   "proj": "ctta",
-   "vers": 12,
-   "num": 1,
-   "year": 2020,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "page",
-   "stage": "final",
-   "note": "Growing catalog size necessitated a more complex filtering system. ",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-page-12-01-200609.jpg"
-   }
-},
- {
-   "dex": 45,
-   "title": "Dataviz Pie/Bullet Exploration",
-   "proj": "da2t",
-   "vers": 1,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Prototype of pie/bullet combination with a data table.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-01-01-190719.jpg"
-   }
-},
- {
-   "dex": 46,
-   "title": "Dataviz Pie/Table Exploration",
-   "proj": "da2t",
-   "vers": 1,
-   "num": 2,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Mockup for user interviews to measure speed and depth of user comprehension with a pie/table combination.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-01-02-190719.jpg"
-   }
-},
- {
-   "dex": 47,
-   "title": "Dataviz BAN/Bullet Exploration",
-   "proj": "da2t",
-   "vers": 2,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Mockup for user interviews to measure speed and depth of user comprehension with a BAN/bullet combination.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-02-01-191016.jpg"
-   }
-},
- {
-   "dex": 48,
-   "title": "Dataviz Trends Exploration",
-   "proj": "da2t",
-   "vers": 3,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Mockup for user interviews to measure speed and depth of user comprehension with trending data.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-03-01-190613.jpg"
-   }
-},
- {
-   "dex": 49,
-   "title": "Dataviz Funnel Exploration",
-   "proj": "da2t",
-   "vers": 4,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Mockup for user interviews to measure speed and depth of user comprehension with a funnel-style visual.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-04-01-190612.jpg"
-   }
-},
- {
-   "dex": 50,
-   "title": "Dashboard Design and Layout ",
-   "proj": "dall",
-   "vers": 3,
-   "num": 4,
-   "year": 2021,
-   "ftype": "img",
-   "anno": "T",
-   "cat": "des",
-   "stage": "final",
-   "note": "Example of dashboard design, including spacing, fonts, and classes.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-03-04-210325.png"
-   }
-},
- {
-   "dex": 51,
-   "title": "Dashboard Design and Layout ",
-   "proj": "dall",
-   "vers": 6,
-   "num": 1,
-   "year": 2022,
-   "ftype": "img",
-   "anno": "T",
-   "cat": "des",
-   "stage": "final",
-   "note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-06-01-221003.jpg"
-   }
-},
- {
-   "dex": 52,
-   "title": "Dashboard Design and Layout ",
-   "proj": "dall",
-   "vers": 6,
-   "num": 2,
-   "year": 2022,
-   "ftype": "img",
-   "anno": "T",
-   "cat": "des",
-   "stage": "final",
-   "note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-06-02-221003.jpg"
-   }
-},
- {
-   "dex": 53,
-   "title": "Dashboard Design by Type",
-   "proj": "dall",
-   "vers": 9,
-   "num": 2,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "des",
-   "stage": "final",
-   "note": "Quick (and regularly updated) cheat sheet for data analysts when building dashboards.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-09-02-190215.jpg"
-   }
-},
- {
-   "dex": 54,
-   "title": "Annotated Dashboard Design",
-   "proj": "dall",
-   "vers": 9,
-   "num": 3,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "T",
-   "cat": "des",
-   "stage": "final",
-   "note": "A thorough and annotated example of design for panels, fonts, charts, and helper text.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-09-03-190215.jpg"
-   }
-},
- {
-   "dex": 55,
-   "title": "Attrition Dashboard",
-   "proj": "datt",
-   "vers": 7,
-   "num": 1,
-   "year": 2022,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "At-a-glance charts for tracking attrition data.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/datt-viz-07-01-220803.jpg"
-   }
-},
- {
-   "dex": 56,
-   "title": "Attrition Dashboard",
-   "proj": "datt",
-   "vers": 7,
-   "num": 2,
-   "year": 2022,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Visualization index with complex data tables for tracking attrition rates.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/datt-viz-07-02-220806.jpg"
-   }
-},
- {
-   "dex": 57,
-   "title": "Mental Model Exploration",
-   "proj": "dcap",
-   "vers": 1,
-   "num": 0,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "idea",
-   "note": "Variations to help users identify which dataviz best matches with their ‘view’ of the data.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-01-00-191204.jpg"
-   }
-},
- {
-   "dex": 58,
-   "title": "Multi-Tab Dashboard Design",
-   "proj": "dcap",
-   "vers": 4,
-   "num": 3,
-   "year": 2020,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Left-justified bar chart for comparing personnel needs across teams. ",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-04-03-200512.jpg"
-   }
-},
- {
-   "dex": 59,
-   "title": "Multi-Tab Dashboard Design",
-   "proj": "dcap",
-   "vers": 4,
-   "num": 4,
-   "year": 2020,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Experimental visualization for viewing levels of projected needs.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-04-04-200512.jpg"
-   }
-},
- {
-   "dex": 60,
-   "title": "Multi-Tab Dashboard Design",
-   "proj": "dcap",
-   "vers": 4,
-   "num": 6,
-   "year": 2020,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Mock for demonstrating and explaining an advanced-level dataviz.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-04-06-200512.jpg"
-   }
-},
- {
-   "dex": 61,
-   "title": "Interactive Analytics Design",
-   "proj": "dcap",
-   "vers": 6,
-   "num": 2,
-   "year": 2020,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "revis",
-   "note": "Dashboard incorporating interactive form, for user input to calculate and project future trends.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-form-06-02-200316.jpg"
-   }
-},
- {
-   "dex": 62,
-   "title": "Mocked Dashboard for User Discussion",
-   "proj": "dedv",
-   "vers": 1,
-   "num": 3,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Quick mock created during user discussions, using placeholder dataviz with fake data.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dedv-dviz-01-03-191010.jpg"
-   }
-},
- {
-   "dex": 63,
-   "title": "Why Dataviz?",
-   "proj": "des",
-   "vers": 1,
-   "num": 1,
-   "year": 2022,
-   "ftype": "text",
-   "anno": "F",
-   "cat": "text",
-   "stage": "draft",
-   "note": "Whitepaper draft on the design, use, and value of good dataviz.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-pres-03-01-230128.txt"
-   }
-},
- {
-   "dex": 64,
-   "title": "Benchmark Comparison Notes",
-   "proj": "des",
-   "vers": 1,
-   "num": 2,
-   "year": 2022,
-   "ftype": "text",
-   "anno": "F",
-   "cat": "text",
-   "stage": "final",
-   "note": "Summaries of research results comparing competitors’ design systems.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-text-01-01-221219.txt"
-   }
-},
- {
-   "dex": 65,
-   "title": "System Content Architecture ",
-   "proj": "des",
-   "vers": 1,
-   "num": 4,
-   "year": 2023,
-   "ftype": "text",
-   "anno": "F",
-   "cat": "text",
-   "stage": "revis",
-   "note": "Full outline for design system documentation, including future topics.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-text-01-02-221219.txt"
-   }
-},
- {
-   "dex": 66,
-   "title": "Design System Proposal",
-   "proj": "des",
-   "vers": 3,
-   "num": 1,
-   "year": 2023,
-   "ftype": "text",
-   "anno": "F",
-   "cat": "text",
-   "stage": "revis",
-   "note": "Draft of presentation text for design system proposal.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-text-01-04-230120.txt"
-   }
-},
- {
-   "dex": 67,
-   "title": "Executive View, Summary",
-   "proj": "dexv",
-   "vers": 1,
-   "num": 1,
-   "year": 2018,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "draft",
-   "note": "Mocked dashboard with over-use of piecharts.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-01-01-180928.jpg"
-   }
-},
- {
-   "dex": 68,
-   "title": "Executive View, Skill Growth",
-   "proj": "dexv",
-   "vers": 2,
-   "num": 1,
-   "year": 2018,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "draft",
-   "note": "Mocked dashboard with too many colors.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-02-01-180927.jpg"
-   }
-},
- {
-   "dex": 69,
-   "title": "Executive View, Summary",
-   "proj": "dexv",
-   "vers": 4,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "draft",
-   "note": "Mocked dashboard with third iteration dataviz ideas.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-04-01-190116.jpg"
-   }
-},
- {
-   "dex": 70,
-   "title": "Executive View",
-   "proj": "dexv",
-   "vers": 6,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "draft",
-   "note": "Mocked dashboard for gathering user thoughts and reactions.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-06-01-190419.jpg"
-   }
-},
- {
-   "dex": 71,
-   "title": "Executive View",
-   "proj": "dexv",
-   "vers": 6,
-   "num": 4,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "draft",
-   "note": "Mocked dashboard for gathering user thoughts and reactions.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-06-04-190419.jpg"
-   }
-},
- {
-   "dex": 72,
-   "title": "Executive View",
-   "proj": "dexv",
-   "vers": 6,
-   "num": 5,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Mocked dashboard for gathering user thoughts and reactions.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-06-05-190417.jpg"
-   }
-},
- {
-   "dex": 73,
-   "title": "Go To Market Data",
-   "proj": "dg2m",
-   "vers": 2,
-   "num": 1,
-   "year": 2020,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Complex dashboard for viewing regional go-to-market data.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dg2m-viz-02-01-201029.jpg"
-   }
-},
- {
-   "dex": 74,
-   "title": "Job Roles Reskilling",
-   "proj": "djrs",
-   "vers": 2,
-   "num": 1,
-   "year": 2021,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Target tracking by region, with RAG-style visualizations.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/djrs-dviz-02-01-210505.jpg"
-   }
-},
- {
-   "dex": 75,
-   "title": "Leaderboard",
-   "proj": "dlbd",
-   "vers": 1,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "final",
-   "note": "Dashboard showing potential views dependent on metadata tracking.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dlbd-divz-01-01-190415.jpg"
-   }
-},
- {
-   "dex": 76,
-   "title": "Leaderboard",
-   "proj": "dlbd",
-   "vers": 2,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "final",
-   "note": "Mocked dashboard using only available types of data.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dlbd-divz-02-01-190418.jpg"
-   }
-},
- {
-   "dex": 77,
-   "title": "Data Lake",
-   "proj": "dlk",
-   "vers": 2,
-   "num": 6,
-   "year": 2018,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "arch",
-   "stage": "revis",
-   "note": "Visual for possible data lake organization and architecture.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dlk-arch-02-06-180217.png"
-   }
-},
- {
-   "dex": 78,
-   "title": "Onboarding Tracking",
-   "proj": "donb",
-   "vers": 2,
-   "num": 1,
-   "year": 2021,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "At-a-glance trends for delivery group onboarding.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/donb-dviz-02-01-210318.jpg"
-   }
-},
- {
-   "dex": 79,
-   "title": "AI Textual Inference",
-   "proj": "dont",
-   "vers": 1,
-   "num": 1,
-   "year": 2018,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "map",
-   "stage": "idea",
-   "note": "Mapping concept and purpose of new dashboard.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-map-01-01-181202.jpg"
-   }
-},
- {
-   "dex": 80,
-   "title": "AI Skills Analysis",
-   "proj": "dont",
-   "vers": 5,
-   "num": 0,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "AI-based education dashboard with annotations.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-divz-05-00-190829.jpg"
-   }
-},
- {
-   "dex": 81,
-   "title": "AI Education Analysis",
-   "proj": "dont",
-   "vers": 6,
-   "num": 5,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "AI-based education dashboard, incorporating billing and claims history.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-divz-06-05-191001.jpg"
-   }
-},
- {
-   "dex": 82,
-   "title": "ROI Capacity Model",
-   "proj": "droi",
-   "vers": 1,
-   "num": 4,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "draft",
-   "note": "Early iteration for executive personnel ROI dashboard.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/droi-divz-01-04-191029.jpg"
-   }
-},
- {
-   "dex": 83,
-   "title": "ROI Capacity Model",
-   "proj": "droi",
-   "vers": 2,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Exploration of visual patterns for data hierarchy.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/droi-divz-02-01-191103.jpg"
-   }
-},
- {
-   "dex": 84,
-   "title": "Segment Targets",
-   "proj": "dseg",
-   "vers": 5,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Horizontal dataviz for tracking employee training progress.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dseg-divz-05-01-190503.jpg"
-   }
-},
- {
-   "dex": 85,
-   "title": "Segment Targets",
-   "proj": "dseg",
-   "vers": 5,
-   "num": 2,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Horizontal dataviz for tracking employee training progress.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dseg-divz-05-02-190503.jpg"
-   }
-},
- {
-   "dex": 86,
-   "title": "Segment Targets, Trending",
-   "proj": "dseg",
-   "vers": 5,
-   "num": 12,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Mocked dashboard using split vertical bar charts to show training program trends.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dseg-dviz-05-12-190510.jpg"
-   }
-},
- {
-   "dex": 87,
-   "title": "Skills Growth Dashboard",
-   "proj": "dskl",
-   "vers": 4,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Comparison of job role expertise, using AI inference and self-assessment, against team’s level of expertise.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dskl-divz-04-01-190611.jpg"
-   }
-},
- {
-   "dex": 88,
-   "title": "Skills Growth Dashboard, Expanded",
-   "proj": "dskl",
-   "vers": 4,
-   "num": 2,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Mock showing the use of annotation in explaining data sources and calculations.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dskl-divz-04-02-190614.jpg"
-   }
-},
- {
-   "dex": 89,
-   "title": "Project Services",
-   "proj": "dsvc",
-   "vers": 3,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Operational tab for viewing training program trends.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dsvc-divz-03-01-191010.png"
-   }
-},
- {
-   "dex": 90,
-   "title": "Project Services",
-   "proj": "dsvc",
-   "vers": 4,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Operational tab for viewing training program trends.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dsvc-divz-04-01-191011.jpg"
-   }
-},
- {
-   "dex": 91,
-   "title": "Time Contribution Filters",
-   "proj": "dtcb",
-   "vers": 1,
-   "num": 14,
-   "year": 2020,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "revis",
-   "note": "Exploration of filter arrangement and design in sliding drawer.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtcb-form-01-14-200110.jpg"
-   }
-},
- {
-   "dex": 92,
-   "title": "Time Contribution",
-   "proj": "dtcb",
-   "vers": 3,
-   "num": 3,
-   "year": 2020,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Dashboard using embedded charts inside data tables.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtcb-divz-03-03-200127.jpg"
-   }
-},
- {
-   "dex": 93,
-   "title": "Time Contribution",
-   "proj": "dtcb",
-   "vers": 4,
-   "num": 2,
-   "year": 2020,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Dashboard navigation for users to focus on within-group comparisons only.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtcb-divz-04-02-200609.jpg"
-   }
-},
- {
-   "dex": 94,
-   "title": "Team Management",
-   "proj": "dtmt",
-   "vers": 1,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Proposed dashboard for first-line managers to view team skills and levels of expertise.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtmt-divz-01-01-190527.jpg"
-   }
-},
- {
-   "dex": 95,
-   "title": "Team Management",
-   "proj": "dtmt",
-   "vers": 3,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Dashboard for first-line managers to track their team, and their own, education progress.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtmt-divz-03-01-190731.jpg"
-   }
-},
- {
-   "dex": 96,
-   "title": "Training Enrollment Summary",
-   "proj": "dtrn",
-   "vers": 5,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "revis",
-   "note": "Revised version incorporating user and data scientist feedback.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtrn-divz-05-01-190422.jpg"
-   }
-},
- {
-   "dex": 97,
-   "title": "Training Enrollment Summary",
-   "proj": "dtrn",
-   "vers": 5,
-   "num": 4,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "draft",
-   "note": "Early draft for user discussion on required and useful dataviz.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtrn-divz-05-04-190423.jpg"
-   }
-},
- {
-   "dex": 98,
-   "title": "Training Enrollment by Service",
-   "proj": "dtrn",
-   "vers": 7,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "draft",
-   "note": "Proposed dashboard redesign from Tableau to D3 version.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtrn-divz-07-01-190531.jpg"
-   }
-},
- {
-   "dex": 99,
-   "title": "Annual Summary",
-   "proj": "ela",
-   "vers": 3,
-   "num": 1,
-   "year": 2021,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "pres",
-   "stage": "final",
-   "note": "End-of-year discussion points for internal education programs.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ela-dviz-03-01-211019.jpg"
-   }
-},
- {
-   "dex": 100,
-   "title": "Points for EOY Discussion",
-   "proj": "ela",
-   "vers": 5,
-   "num": 2,
-   "year": 2021,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "pres",
-   "stage": "final",
-   "note": "End-of-year summary on internal education programs.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ela-pres-05-02-210311.png"
-   }
-},
- {
-   "dex": 101,
-   "title": "Points for EOY Discussion",
-   "proj": "ela",
-   "vers": 5,
-   "num": 3,
-   "year": 2021,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "pres",
-   "stage": "final",
-   "note": "End-of-year summary on internal education programs.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ela-pres-05-03-210311.png"
-   }
-},
- {
-   "dex": 102,
-   "title": "Education Request",
-   "proj": "erf",
-   "vers": 1,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "lane",
-   "stage": "revis",
-   "note": "Swim lanes based on user interviews and executive input.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-lane-01-01-190220.png"
-   }
-},
- {
-   "dex": 103,
-   "title": "Education Request",
-   "proj": "erf",
-   "vers": 2,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "flow",
-   "stage": "draft",
-   "note": "Process flow identifying involved roles and data movement.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-flow-02-01-190311.jpg"
-   }
-},
- {
-   "dex": 104,
-   "title": "Education Request, Expanded",
-   "proj": "erf",
-   "vers": 3,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "T",
-   "cat": "form",
-   "stage": "revis",
-   "note": "Fully-expanded form with logic for user interaction.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-form-03-01-190313.jpg"
-   }
-},
- {
-   "dex": 105,
-   "title": "Education Request",
-   "proj": "erf",
-   "vers": 3,
-   "num": 7,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "revis",
-   "note": "Executive management page for education request.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-form-03-07-190315.jpg"
-   }
-},
- {
-   "dex": 106,
-   "title": "GDPR Process Mapping",
-   "proj": "gdp",
-   "vers": 7,
-   "num": 1,
-   "year": 2017,
-   "ftype": "pdf",
-   "anno": "T",
-   "cat": "flow",
-   "stage": "draft",
-   "note": "The 7th iteration of ultimately 19 versions detailing the complicated GDPR process.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/gdp-flow-07-01-171110.pdf"
-   }
-},
- {
-   "dex": 107,
-   "title": "GDPR Process Mapping",
-   "proj": "gdp",
-   "vers": 10,
-   "num": 1,
-   "year": 2017,
-   "ftype": "pdf",
-   "anno": "T",
-   "cat": "lane",
-   "stage": "draft",
-   "note": "Process flow modified into a swim lane approach.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/gdp-lane-10-01-171129.pdf"
-   }
-},
- {
-   "dex": 108,
-   "title": "Customer Happiness",
-   "proj": "hap",
-   "vers": 1,
-   "num": 6,
-   "year": 2014,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "revis",
-   "note": "Preliminary mockup for customer support site.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hap-page-01-06-141105.jpg"
-   }
-},
- {
-   "dex": 109,
-   "title": "Customer Happiness",
-   "proj": "hap",
-   "vers": 1,
-   "num": 13,
-   "year": 2014,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "revis",
-   "note": "Preliminary mockup for customer support site.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hap-page-01-13-141105.jpg"
-   }
-},
- {
-   "dex": 110,
-   "title": "Customer Happiness",
-   "proj": "hap",
-   "vers": 2,
-   "num": 1,
-   "year": 2014,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "arch",
-   "stage": "revis",
-   "note": "Full site map, with color-coding to call out re-used modular components.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hap-map-02-01-141109.jpg"
-   }
-},
- {
-   "dex": 111,
-   "title": "Client Intranet Dashboard",
-   "proj": "hci",
-   "vers": 1,
-   "num": 1,
-   "year": 2018,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "draft",
-   "note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hci-page-01-01-180412.jpg"
-   }
-},
- {
-   "dex": 112,
-   "title": "Client Intranet Dashboard",
-   "proj": "hci",
-   "vers": 1,
-   "num": 2,
-   "year": 2018,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "draft",
-   "note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hci-page-01-02-180412.jpg"
-   }
-},
- {
-   "dex": 113,
-   "title": "Cancer Patient Portal",
-   "proj": "hcr",
-   "vers": 3,
-   "num": 2,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "T",
-   "cat": "wire",
-   "stage": "draft",
-   "note": "Collection of loose wireframes organized to show user flow through the pages.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hcr-map-04-01-120712.png"
-   }
-},
- {
-   "dex": 114,
-   "title": "Cancer Patient Portal",
-   "proj": "hcr",
-   "vers": 4,
-   "num": 1,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "T",
-   "cat": "flow",
-   "stage": "revis",
-   "note": "Site map showing user choices, interactions, and overlaps between paths.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hcr-map-03-02-120705.png"
-   }
-},
- {
-   "dex": 115,
-   "title": "Legacy-to-Modern SSO",
-   "proj": "hol",
-   "vers": 3,
-   "num": 2,
-   "year": 2013,
-   "ftype": "code",
-   "anno": "F",
-   "cat": "code",
-   "stage": "final",
-   "note": "Prototype demonstrating viability of SSO between two distinct webapps.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/code/hol-cde-03-02-130811.js"
-   }
-},
- {
-   "dex": 116,
-   "title": "Automated Workflow",
-   "proj": "ift",
-   "vers": 1,
-   "num": 1,
-   "year": 2016,
-   "ftype": "img",
-   "anno": "T",
-   "cat": "arch",
-   "stage": "idea",
-   "note": "Rough sketch of application workflows and combinations.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-arch-01-01-160901.png"
-   }
-},
- {
-   "dex": 117,
-   "title": "Metaphor Explanation",
-   "proj": "ift",
-   "vers": 2,
-   "num": 1,
-   "year": 2017,
-   "ftype": "pdf",
-   "anno": "F",
-   "cat": "pres",
-   "stage": "final",
-   "note": "Using metaphor to explain how trigger-action apps work.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/ift-pres-02-01-170702.pdf"
-   }
-},
- {
-   "dex": 118,
-   "title": "Automated Workflow",
-   "proj": "ift",
-   "vers": 3,
-   "num": 4,
-   "year": 2016,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "wire",
-   "stage": "draft",
-   "note": "Third iteration covering page structure and organization.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-form-03-07-160817.png"
-   }
-},
- {
-   "dex": 119,
-   "title": "Automated Workflow",
-   "proj": "ift",
-   "vers": 3,
-   "num": 7,
-   "year": 2016,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "wire",
-   "stage": "draft",
-   "note": "Third iteration covering page structure and organization.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-wire-03-04-160817.png"
-   }
-},
- {
-   "dex": 120,
-   "title": "Automated Workflow",
-   "proj": "ift",
-   "vers": 4,
-   "num": 1,
-   "year": 2016,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "wire",
-   "stage": "draft",
-   "note": "Fourth iteration for possible page structure and organization.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-wire-04-01-160822.png"
-   }
-},
- {
-   "dex": 121,
-   "title": "Automated Workflow",
-   "proj": "ift",
-   "vers": 4,
-   "num": 10,
-   "year": 2016,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "wire",
-   "stage": "draft",
-   "note": "Fourth iteration for possible page structure and organization.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-wire-04-10-160822.png"
-   }
-},
- {
-   "dex": 122,
-   "title": "Automated Workflow",
-   "proj": "ift",
-   "vers": 7,
-   "num": 2,
-   "year": 2016,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "arch",
-   "stage": "revis",
-   "note": "Site map, color-coded to show identified reusable components.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-arch-07-02-160830.jpg"
-   }
-},
- {
-   "dex": 123,
-   "title": "Request Management ",
-   "proj": "lor",
-   "vers": 8,
-   "num": 1,
-   "year": 2020,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "lane",
-   "stage": "revis",
-   "note": "Detailed multi-role process for more efficient handling of user requests.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/lor-lane-08-01-200430.jpg"
-   }
-},
- {
-   "dex": 124,
-   "title": "Server Incident Report System",
-   "proj": "mim",
-   "vers": 1,
-   "num": 7,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Incident report page, step 7 for walk-through presentation.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mim-form-01-07-190509.jpg"
-   }
-},
- {
-   "dex": 125,
-   "title": "Server Incident Report System",
-   "proj": "mim",
-   "vers": 2,
-   "num": 3,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Incident report page, step 3 for walk-through presentation.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mim-form-02-03-190510.png"
-   }
-},
- {
-   "dex": 126,
-   "title": "Mobile-First Sales App",
-   "proj": "mob",
-   "vers": 2,
-   "num": 1,
-   "year": 2013,
-   "ftype": "img",
-   "anno": "T",
-   "cat": "arch",
-   "stage": "final",
-   "note": "Page architecture demonstrating the structure created by reusable and embedded components.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mob-arch-02-01-131001.jpg"
-   }
-},
- {
-   "dex": 127,
-   "title": "Mobile-First Sales App",
-   "proj": "mob",
-   "vers": 3,
-   "num": 2,
-   "year": 2013,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "arch",
-   "stage": "revis",
-   "note": "Site architecture demonstrating each page’s composition of modular components.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mob-arch-03-02-131004.jpg"
-   }
-},
- {
-   "dex": 128,
-   "title": "Academia Bookmarks",
-   "proj": "mrk",
-   "vers": 2,
-   "num": 1,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "map",
-   "stage": "revis",
-   "note": "Circular site map, color-coded to call out specific site components.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mrk-map-02-01-110207.jpg"
-   }
-},
- {
-   "dex": 129,
-   "title": "Academia Bookmarks",
-   "proj": "mrk",
-   "vers": 2,
-   "num": 5,
-   "year": 2011,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "mid",
-   "stage": "draft",
-   "note": "Rough mockup of app’s responsive behavior.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mrk-mid-02-05-110709.jpg"
-   }
-},
- {
-   "dex": 130,
-   "title": "Subscription-based Author Archive",
-   "proj": "pix",
-   "vers": 3,
-   "num": 1,
-   "year": 2013,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Chapter/story template showing metadata and comment form.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/pix-form-03-01-130326.jpg"
-   }
-},
- {
-   "dex": 131,
-   "title": "Subscription-based Author Archive",
-   "proj": "pix",
-   "vers": 3,
-   "num": 2,
-   "year": 2013,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Two screenshots of admin pages, for managing tagging and multi-part stories.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/pix-form-03-02-130326.jpg"
-   }
-},
- {
-   "dex": 132,
-   "title": "Server Management",
-   "proj": "pow",
-   "vers": 3,
-   "num": 1,
-   "year": 2015,
-   "ftype": "img",
-   "anno": "T",
-   "cat": "arch",
-   "stage": "final",
-   "note": "Breakdown of page architecture and embedded reusable components.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/pow-arch-03-01-151030.jpg"
-   }
-},
- {
-   "dex": 133,
-   "title": "Experience Visualization",
-   "proj": "res",
-   "vers": 2,
-   "num": 7,
-   "year": 2011,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "final",
-   "note": "Sunburst visualization adapted to show experience by skill.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/res-dviz-02-07-110922.jpg"
-   }
-},
- {
-   "dex": 134,
-   "title": "Experience Visualization",
-   "proj": "res",
-   "vers": 4,
-   "num": 1,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "draft",
-   "note": "Attempt to correlate duration of experience with skill set.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/res-dviz-04-01-120707.jpg"
-   }
-},
- {
-   "dex": 135,
-   "title": "Experience Visualization",
-   "proj": "res",
-   "vers": 5,
-   "num": 2,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "dviz",
-   "stage": "final",
-   "note": "Ladder visualization to show chronology of positions and skills.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/res-dviz-05-02-120708.jpg"
-   }
-},
- {
-   "dex": 136,
-   "title": "Data Science and Storytelling",
-   "proj": "sda",
-   "vers": 5,
-   "num": 1,
-   "year": 2019,
-   "ftype": "pdf",
-   "anno": "F",
-   "cat": "pres",
-   "stage": "final",
-   "note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/sda-pres-05-01-190322.pdf"
-   }
-},
- {
-   "dex": 137,
-   "title": "Internal Team Site",
-   "proj": "sda",
-   "vers": 5,
-   "num": 1,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "page",
-   "stage": "final",
-   "note": "Production version of site main page.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-01-191115.jpg"
-   }
-},
- {
-   "dex": 138,
-   "title": "Internal Team Site",
-   "proj": "sda",
-   "vers": 5,
-   "num": 3,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "page",
-   "stage": "final",
-   "note": "Activity page for stakeholder information, using git hooks and .md files as makeshift db.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-03-191115.jpg"
-   }
-},
- {
-   "dex": 139,
-   "title": "Internal Team Site",
-   "proj": "sda",
-   "vers": 5,
-   "num": 8,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "page",
-   "stage": "revis",
-   "note": "One of 100+ chart types documented, with tips for when, how, and why to use each.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-08-191115.jpg"
-   }
-},
- {
-   "dex": 140,
-   "title": "Internal Team Site",
-   "proj": "sda",
-   "vers": 5,
-   "num": 9,
-   "year": 2019,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "page",
-   "stage": "final",
-   "note": "Introducing and explaining steps to prepare data for analytics use.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-09-191115.jpg"
-   }
-},
- {
-   "dex": 141,
-   "title": "Sales Team Tool",
-   "proj": "sls",
-   "vers": 1,
-   "num": 1,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "map",
-   "stage": "final",
-   "note": "Circular site map, using color-coding to note reused actions.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sls-map-01-01-120705.png"
-   }
-},
- {
-   "dex": 142,
-   "title": "Sales Team Tool",
-   "proj": "sls",
-   "vers": 2,
-   "num": 1,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "map",
-   "stage": "final",
-   "note": "Traditional site map, also with color-coding to identify patterns.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sls-map-02-01-120712.png"
-   }
-},
- {
-   "dex": 143,
-   "title": "Reader-Writer Survey",
-   "proj": "svy",
-   "vers": 4,
-   "num": 1,
-   "year": 2011,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Excerpt of survey, with multiple user routes depending on choices.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/svy-form-04-01-110111.jpg"
-   }
-},
- {
-   "dex": 144,
-   "title": "Course Tagging Page",
-   "proj": "tag",
-   "vers": 3,
-   "num": 4,
-   "year": 2021,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "mock",
-   "stage": "final",
-   "note": "Mocked series for Invision walk-through, showing second step in tagging.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tag-mock-03-04-210301.jpg"
-   }
-},
- {
-   "dex": 145,
-   "title": "Course Tagging Page",
-   "proj": "tag",
-   "vers": 3,
-   "num": 8,
-   "year": 2021,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "mock",
-   "stage": "final",
-   "note": "Mocked series for Invision walk-through, showing one possible conclusion point.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tag-mock-03-08-210301.jpg"
-   }
-},
- {
-   "dex": 146,
-   "title": "Team Project Management",
-   "proj": "tpm",
-   "vers": 1,
-   "num": 1,
-   "year": 2018,
-   "ftype": "img",
-   "anno": "T",
-   "cat": "lane",
-   "stage": "draft",
-   "note": "Draft of metadata list based on team interviews about their personal processes.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tpm-lane-02-01-180410.png"
-   }
-},
- {
-   "dex": 147,
-   "title": "Team Project Management",
-   "proj": "tpm",
-   "vers": 2,
-   "num": 1,
-   "year": 2018,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Journey map based on team members’ rankings of tasks by difficulty/stress. ",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tpm-form-01-01-180402.jpg"
-   }
-},
- {
-   "dex": 148,
-   "title": "Fintech Data Process",
-   "proj": "wst",
-   "vers": 1,
-   "num": 7,
-   "year": 2017,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "lane",
-   "stage": "final",
-   "note": "Swim lane modified to include notations for data movement and user interaction.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/wst-lane-01-07-171103.jpg"
-   }
-},
- {
-   "dex": 149,
-   "title": "Access Request",
-   "proj": "yin",
-   "vers": 2,
-   "num": 1,
-   "year": 2021,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Form to channel user access requests through a single entry point.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/yin-form-02-01-210706.jpg"
-   }
-},
- {
-   "dex": 150,
-   "title": "Report Site or Data Issue",
-   "proj": "yin",
-   "vers": 2,
-   "num": 2,
-   "year": 2021,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Form for users to report issues in one place, creating better tracking.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/yin-form-02-02-210706.jpg"
-   }
-},
- {
-   "dex": 151,
-   "title": "Create a Report or Dashboard",
-   "proj": "yin",
-   "vers": 2,
-   "num": 4,
-   "year": 2021,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "form",
-   "stage": "final",
-   "note": "Standardized information collection for report and dashboard requests.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/yin-form-02-04-210706.jpg"
-   }
-},
- {
-   "dex": 152,
-   "title": "Kite Festival Home Page",
-   "proj": "zlk",
-   "vers": 1,
-   "num": 1,
-   "year": 2011,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "page",
-   "stage": "final",
-   "note": "Simple wordpress site with information for volunteers and attendants.",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/zlk-page-01-01-110516.png"
-   }
-},
- {
-   "dex": 153,
-   "title": "Kite Festival Home Page",
-   "proj": "zlk",
-   "vers": 2,
-   "num": 2,
-   "year": 2012,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "page",
-   "stage": "final",
-   "note": "Site redesign to be fully responsive. (Attendants liked it so much, they crashed the hosting company’s servers.)",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/zlk-page-02-02-120706.jpg"
-   }
-},
- {
-   "dex": 154,
-   "title": "Kite Festival Home Page",
-   "proj": "zlk",
-   "vers": 3,
-   "num": 1,
-   "year": 2013,
-   "ftype": "img",
-   "anno": "F",
-   "cat": "page",
-   "stage": "final",
-   "note": "Modified wordpress features to create sub-site for vendors to apply, pay for, and track their festival spots. ",
-   "link": {
-      "git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/zlk-page-03-01-130505.png"
-   }
-}
+	{
+		"dex": 1,
+		"title": "Intranet Architecture",
+		"proj": "abc",
+		"vers": "04",
+		"num": "01",
+		"year": 2007,
+		"ftype": "img",
+		"anno": false,
+		"cat": "architecture",
+		"stage": "in revisions",
+		"note": "Sitemap incorporating preliminary page architecture for development planning.",
+		"link": {
+			"file": "visuals/abc-arch-04-01-070712.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/abc-arch-04-01-070712.png"
+		},
+		"role": [
+			"Analyst",
+			"Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 2,
+		"title": "Intranet Architecture",
+		"proj": "abc",
+		"vers": "05",
+		"num": "01",
+		"year": 2008,
+		"ftype": "img",
+		"anno": false,
+		"cat": "sitemap",
+		"stage": "in revisions",
+		"note": "Revised version of page architecture, arranged in a manner slightly less terrifying for shareholders.",
+		"link": {
+			"file": "visuals/abc-map-05-01-080117.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/abc-map-05-01-080117.png"
+		},
+		"role": [
+			"Analyst",
+			"Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 3,
+		"title": "Intranet Site Map",
+		"proj": "abc",
+		"vers": "07",
+		"num": "01",
+		"year": 2008,
+		"ftype": "img",
+		"anno": false,
+		"cat": "sitemap",
+		"stage": "final",
+		"note": "Thorough site map that includes 2nd and 3rd tier sub-levels.",
+		"link": {
+			"file": "visuals/abc-map-07-01-080229.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/abc-map-07-01-080229.png"
+		},
+		"role": [
+			"Analyst",
+			"Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 4,
+		"title": "Development Guidelines",
+		"proj": "ang",
+		"vers": "03",
+		"num": "01",
+		"year": 2016,
+		"ftype": "pptx",
+		"anno": false,
+		"cat": "presentation",
+		"stage": "final",
+		"note": "Best practices for keeping team development from turning into chaos.",
+		"link": {
+			"file": "texts/dev-pres-03-01-160323.pptx",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/dev-pres-03-01-160323.pptx"
+		},
+		"role": [
+			"Frontend Developer",
+			"Writer",
+			"Presenter"
+		]
+	},
+	{
+		"dex": 5,
+		"title": "Rough API Architecture/Flow",
+		"proj": "api",
+		"vers": "01",
+		"num": "01",
+		"year": 2017,
+		"ftype": "img",
+		"anno": false,
+		"cat": "architecture",
+		"stage": "draft",
+		"note": "Working version of the proposed API architecture.",
+		"link": {
+			"file": "visuals/api-arch-01-01-170127.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-arch-01-01-170127.png"
+		},
+		"role": [
+			"Analyst",
+			"Designer",
+			"Frontend Developer",
+			"Presenter"
+		]
+	},
+	{
+		"dex": 6,
+		"title": "Applying Design Thinking to APIs",
+		"proj": "api",
+		"vers": "02",
+		"num": "01",
+		"year": 2017,
+		"ftype": "pdf",
+		"anno": false,
+		"cat": "presentation",
+		"stage": "in revisions",
+		"note": "Near-final co-written API design, co-written by team.",
+		"link": {
+			"file": "texts/api-pres-02-01-171105.txt",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/api-pres-02-01-171105.txt"
+		},
+		"role": [
+			"Analyst",
+			"Designer",
+			"Frontend Developer",
+			"Presenter"
+		]
+	},
+	{
+		"dex": 7,
+		"title": "Applying Design Thinking to APIs",
+		"proj": "api",
+		"vers": "02",
+		"num": "01",
+		"year": 2017,
+		"ftype": "text",
+		"anno": false,
+		"cat": "text",
+		"stage": "draft",
+		"note": "Preliminary text for team’s presentation on designing APIs.",
+		"link": {
+			"file": "texts/api-pres-02-01-171105.txt",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/api-pres-02-01-171105.txt"
+		},
+		"role": [
+			"Analyst",
+			"Designer",
+			"Frontend Developer",
+			"Presenter"
+		]
+	},
+	{
+		"dex": 8,
+		"title": "Proposed Gateway Architecture",
+		"proj": "api",
+		"vers": "06",
+		"num": "04",
+		"year": 2017,
+		"ftype": "img",
+		"anno": false,
+		"cat": "architecture",
+		"stage": "final",
+		"note": "Presentation of option A for API gateway design.",
+		"link": {
+			"file": "visuals/api-arch-06-04-170205.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-arch-06-04-170205.jpg"
+		},
+		"role": [
+			"Analyst",
+			"Designer",
+			"Frontend Developer",
+			"Presenter"
+		]
+	},
+	{
+		"dex": 9,
+		"title": "Proposed Gateway Architecture",
+		"proj": "api",
+		"vers": "06",
+		"num": "05",
+		"year": 2017,
+		"ftype": "img",
+		"anno": false,
+		"cat": "architecture",
+		"stage": "final",
+		"note": "Presentation of option B for API gateway design.",
+		"link": {
+			"file": "visuals/api-arch-06-05-170206.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-arch-06-05-170206.jpg"
+		},
+		"role": [
+			"Analyst",
+			"Designer",
+			"Frontend Developer",
+			"Presenter"
+		]
+	},
+	{
+		"dex": 10,
+		"title": "Site Map Flowchart",
+		"proj": "arc",
+		"vers": "05",
+		"num": "01",
+		"year": 2012,
+		"ftype": "img",
+		"anno": false,
+		"cat": "sitemap",
+		"stage": "final",
+		"note": "Circular site map, arranged in order of user workflow.",
+		"link": {
+			"file": "visuals/arc-map-05-01-120217.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/arc-map-05-01-120217.png"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"Backend Engineer",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 11,
+		"title": "Archive Administration",
+		"proj": "arc",
+		"vers": "05",
+		"num": "02",
+		"year": 2011,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Form for authors to add, edit, and arrange their stories’ chapters.",
+		"link": {
+			"file": "visuals/arc-form-05-02-110512.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/arc-form-05-02-110512.png"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"Backend Engineer",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 12,
+		"title": "Mobile AI App",
+		"proj": "bst",
+		"vers": "02",
+		"num": "01",
+		"year": 2023,
+		"ftype": "img",
+		"anno": false,
+		"cat": "mockup",
+		"stage": "final",
+		"note": "Start-point of animation in login page.",
+		"link": {
+			"file": "visuals/bst-mock-02-01-230718.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-mock-02-01-230718.png"
+		},
+		"role": [
+			"Designer",
+			"Writer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 13,
+		"title": "Mobile AI App",
+		"proj": "bst",
+		"vers": "02",
+		"num": "04",
+		"year": 2023,
+		"ftype": "img",
+		"anno": false,
+		"cat": "mockup",
+		"stage": "in revisions",
+		"note": "Design example, using AI-produced text.",
+		"link": {
+			"file": "visuals/bst-mock-02-04-230724.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-mock-02-04-230724.png"
+		},
+		"role": [
+			"Designer",
+			"Writer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 14,
+		"title": "Mobile AI App",
+		"proj": "bst",
+		"vers": "02",
+		"num": "07",
+		"year": 2023,
+		"ftype": "img",
+		"anno": false,
+		"cat": "mockup",
+		"stage": "in revisions",
+		"note": "Design example, using AI-produced text.",
+		"link": {
+			"file": "visuals/bst-mock-02-07-230724.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-mock-02-07-230724.png"
+		},
+		"role": [
+			"Designer",
+			"Writer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 15,
+		"title": "Product Explanation",
+		"proj": "bst",
+		"vers": "04",
+		"num": "05",
+		"year": 2023,
+		"ftype": "img",
+		"anno": false,
+		"cat": "mockup",
+		"stage": "in revisions",
+		"note": "Visual metaphor for the creation of AI-based ontologies.",
+		"link": {
+			"file": "visuals/bst-mock-04-05-230831.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-mock-04-05-230831.jpg"
+		},
+		"role": [
+			"Designer",
+			"Writer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 16,
+		"title": "Pitch Deck",
+		"proj": "bst",
+		"vers": "05",
+		"num": "05",
+		"year": 2023,
+		"ftype": "img",
+		"anno": false,
+		"cat": "presentation",
+		"stage": "final",
+		"note": "Simplified visual for non-technical investors.",
+		"link": {
+			"file": "visuals/bst-pres-05-05-230728.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-pres-05-05-230728.jpg"
+		},
+		"role": [
+			"Designer",
+			"Writer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 17,
+		"title": "Pitch Deck",
+		"proj": "bst",
+		"vers": "05",
+		"num": "07",
+		"year": 2023,
+		"ftype": "img",
+		"anno": false,
+		"cat": "presentation",
+		"stage": "in revisions",
+		"note": "Example of concept in action, with design applied.",
+		"link": {
+			"file": "visuals/bst-pres-05-07-230728.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-pres-05-07-230728.jpg"
+		},
+		"role": [
+			"Designer",
+			"Writer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 18,
+		"title": "API Directory",
+		"proj": "capi",
+		"vers": "01",
+		"num": "01",
+		"year": 2016,
+		"ftype": "img",
+		"anno": false,
+		"cat": "wireframe",
+		"stage": "draft",
+		"note": "Draft of proposed directory of available internal APIs, for Cloud use.",
+		"link": {
+			"file": "visuals/capi-wire-01-01-160630.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/capi-wire-01-01-160630.png"
+		},
+		"role": [
+			"Designer",
+			"UX Researcher",
+			"Presenter"
+		]
+	},
+	{
+		"dex": 19,
+		"title": "API Directory",
+		"proj": "capi",
+		"vers": "01",
+		"num": "02",
+		"year": 2016,
+		"ftype": "img",
+		"anno": false,
+		"cat": "wireframe",
+		"stage": "draft",
+		"note": "Draft of proposed directory of available internal APIs, for Cloud use.",
+		"link": {
+			"file": "visuals/capi-wire-01-02-160630.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/capi-wire-01-02-160630.png"
+		},
+		"role": [
+			"Designer",
+			"UX Researcher",
+			"Presenter"
+		]
+	},
+	{
+		"dex": 20,
+		"title": "Add a Cat Profile",
+		"proj": "cat",
+		"vers": "01",
+		"num": "04",
+		"year": 2012,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "in revisions",
+		"note": "Form incorporating accessibility lessons learned while consulting.",
+		"link": {
+			"file": "visuals/cat-form-01-04-120209.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cat-form-01-04-120209.jpg"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 21,
+		"title": "Create an Account",
+		"proj": "cat",
+		"vers": "01",
+		"num": "07",
+		"year": 2012,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "in revisions",
+		"note": "A slight case of taking a good idea a little too far.",
+		"link": {
+			"file": "visuals/cat-form-01-07-120209.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cat-form-01-07-120209.jpg"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 22,
+		"title": "Services Platform walk-through",
+		"proj": "ccts",
+		"vers": "01",
+		"num": "01",
+		"year": 2017,
+		"ftype": "pdf",
+		"anno": false,
+		"cat": "tour",
+		"stage": "final",
+		"note": "Redesign applying the new design system, further organized to show user movement through the webapp.",
+		"link": {
+			"file": "visuals/ccts-tour-01-01-170505.pdf",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ccts-tour-01-01-170505.pdf"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer"
+		]
+	},
+	{
+		"dex": 23,
+		"title": "Introduction to Agile",
+		"proj": "cdo",
+		"vers": "01",
+		"num": "01",
+		"year": 2017,
+		"ftype": "pdf",
+		"anno": false,
+		"cat": "presentation",
+		"stage": "final",
+		"note": "Getting a newly-built team on the same page about management tactics.",
+		"link": {
+			"file": "texts/cdo-pres-01-01-170821.pdf",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/cdo-pres-01-01-170821.pdf"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 24,
+		"title": "Turning Business Inside-out: How a Cognitive Approach Can Transform IT",
+		"proj": "cdo",
+		"vers": "03",
+		"num": "01",
+		"year": 2017,
+		"ftype": "pdf",
+		"anno": false,
+		"cat": "whitepaper",
+		"stage": "final",
+		"note": "Paper about the necessity of centralizing data and integrating design for a more efficient business.",
+		"link": {
+			"file": "texts/cdo-paper-03-01-170523.pdf",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/cdo-paper-03-01-170523.pdf"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 25,
+		"title": "Hub-and-Spoke Organization",
+		"proj": "cdo",
+		"vers": "04",
+		"num": "01",
+		"year": 2017,
+		"ftype": "img",
+		"anno": false,
+		"cat": "sitemap",
+		"stage": "final",
+		"note": "Visual representation of how a centralized data office connects and integrates with its client teams.",
+		"link": {
+			"file": "visuals/cdo-map-04-01-170510.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cdo-map-04-01-170510.jpg"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 26,
+		"title": "Leveraging the Data: Using a Cognitive Platform to Transform Business Outcomes",
+		"proj": "cdo",
+		"vers": "04",
+		"num": "01",
+		"year": 2017,
+		"ftype": "pdf",
+		"anno": false,
+		"cat": "whitepaper",
+		"stage": "final",
+		"note": "Paper to support Cognitive Platform initiative. (Boy do those dashboard images make me cringe, now.)",
+		"link": {
+			"file": "texts/cdo-paper-04-01-170523.pdf",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/cdo-paper-04-01-170523.pdf"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 27,
+		"title": "Character App Frame",
+		"proj": "chr",
+		"vers": "01",
+		"num": "01",
+		"year": 2011,
+		"ftype": "img",
+		"anno": false,
+		"cat": "wireframe",
+		"stage": "draft",
+		"note": "The first of many iterations in figuring the information architecture.",
+		"link": {
+			"file": "visuals/chr-wire-01-01-110426.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-wire-01-01-110426.png"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 29,
+		"title": "User & Site Diagram",
+		"proj": "chr",
+		"vers": "02",
+		"num": "01",
+		"year": 2012,
+		"ftype": "img",
+		"anno": false,
+		"cat": "sitemap",
+		"stage": "in revisions",
+		"note": "An experiment in blending site map and user flow in a circularly-architected UI.",
+		"link": {
+			"file": "visuals/chr-map-02-01-120712.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-map-02-01-120712.png"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 30,
+		"title": "Character List Iteration",
+		"proj": "chr",
+		"vers": "02",
+		"num": "02",
+		"year": 2012,
+		"ftype": "img",
+		"anno": false,
+		"cat": "wireframe",
+		"stage": "draft",
+		"note": "An attempt to satisfy user requests for a packed data table, but the result was unfortunately inaccessible. ",
+		"link": {
+			"file": "visuals/chr-wire-02-02-120216.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-wire-02-02-120216.png"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 31,
+		"title": "Character Physiology Page",
+		"proj": "chr",
+		"vers": "02",
+		"num": "03",
+		"year": 2012,
+		"ftype": "img",
+		"anno": false,
+		"cat": "wireframe",
+		"stage": "draft",
+		"note": "Drawer slide up/down design for reducing cognitive load of a complicated form.",
+		"link": {
+			"file": "visuals/chr-wire-02-03-120216.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-wire-02-03-120216.png"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 32,
+		"title": "Character Musical Skill Page",
+		"proj": "chr",
+		"vers": "02",
+		"num": "04",
+		"year": 2011,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Screenshot of prototype for character management webapp. ",
+		"link": {
+			"file": "visuals/chr-form-02-04-110509.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-form-02-04-110509.png"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 33,
+		"title": "Character History Page",
+		"proj": "chr",
+		"vers": "02",
+		"num": "07",
+		"year": 2012,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Screenshot of prototype for character management webapp. ",
+		"link": {
+			"file": "visuals/chr-form-02-07-120705.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-form-02-07-120705.jpg"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 34,
+		"title": "New Character Walk-Through",
+		"proj": "chr",
+		"vers": "03",
+		"num": "05",
+		"year": 2015,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Screenshot of production version of character management webapp, showing dropdown contents.",
+		"link": {
+			"file": "visuals/chr-form-03-05-151116.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-form-03-05-151116.png"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 35,
+		"title": "New Character Walk-Through",
+		"proj": "chr",
+		"vers": "03",
+		"num": "07",
+		"year": 2015,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Screenshot of production version of character management webapp, showing dropdown contents.",
+		"link": {
+			"file": "visuals/chr-form-03-07-151116.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-form-03-07-151116.png"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 36,
+		"title": "Character App Site Map Redux",
+		"proj": "chr",
+		"vers": "04",
+		"num": "03",
+		"year": 2012,
+		"ftype": "img",
+		"anno": false,
+		"cat": "sitemap",
+		"stage": "final",
+		"note": "A simplified and streamlined site map. ",
+		"link": {
+			"file": "visuals/chr-map-04-03-120712.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-map-04-03-120712.png"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 37,
+		"title": "HR Insights Analytics Site",
+		"proj": "csaa",
+		"vers": "01",
+		"num": "01",
+		"year": 2018,
+		"ftype": "img",
+		"anno": false,
+		"cat": "screenshot",
+		"stage": "final",
+		"note": "Earliest prototype of an inventory site for the team’s projects.",
+		"link": {
+			"file": "visuals/csaa-page-01-01-181105.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/csaa-page-01-01-181105.jpg"
+		},
+		"role": [
+			"Frontend Developer",
+			"Backend Engineer",
+			"UX Researcher",
+			"UI Architect",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 38,
+		"title": "Team Dashboard Catalog",
+		"proj": "csaa",
+		"vers": "03",
+		"num": "01",
+		"year": 2018,
+		"ftype": "img",
+		"anno": false,
+		"cat": "screenshot",
+		"stage": "in revisions",
+		"note": "Users nicknamed the boxes ‘cards’, inspiring the metaphor of a card catalog.",
+		"link": {
+			"file": "visuals/csaa-page-03-01-181107.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/csaa-page-03-01-181107.jpg"
+		},
+		"role": [
+			"Frontend Developer",
+			"Backend Engineer",
+			"UX Researcher",
+			"UI Architect",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 39,
+		"title": "Expanded Analytics Catalog",
+		"proj": "csaa",
+		"vers": "09",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "screenshot",
+		"stage": "in revisions",
+		"note": "A more complex main page thanks to increasingly detailed metadata for each linked dashboard.",
+		"link": {
+			"file": "visuals/csaa-page-09-01-190516.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/csaa-page-09-01-190516.jpg"
+		},
+		"role": [
+			"Frontend Developer",
+			"Backend Engineer",
+			"UX Researcher",
+			"UI Architect",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 40,
+		"title": "User Interview",
+		"proj": "ctta",
+		"vers": "01",
+		"num": "01",
+		"year": 2020,
+		"ftype": "text",
+		"anno": false,
+		"cat": "text",
+		"stage": "final",
+		"note": "Basic script for user interviews on new dashboards and/or visualizations.",
+		"link": {
+			"file": "texts/ctta-text-01-01-200604.txt",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/ctta-text-01-01-200604.txt"
+		},
+		"role": [
+			"Frontend Developer",
+			"Backend Engineer",
+			"UX Researcher",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 41,
+		"title": "Mapping Dash Connections",
+		"proj": "ctta",
+		"vers": "02",
+		"num": "02",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "sitemap",
+		"stage": "draft",
+		"note": "Preliminary visual for stakeholder discussion on organizing related dashboards. ",
+		"link": {
+			"file": "visuals/ctta-map-02-02-191005.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-map-02-02-191005.jpg"
+		},
+		"role": [
+			"Frontend Developer",
+			"Backend Engineer",
+			"UX Researcher",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 42,
+		"title": "Submit a Request",
+		"proj": "ctta",
+		"vers": "07",
+		"num": "01",
+		"year": 2020,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Automated routing form to handle growing number of user requests.",
+		"link": {
+			"file": "visuals/ctta-form-07-01-200507.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-form-07-01-200507.jpg"
+		},
+		"role": [
+			"Frontend Developer",
+			"Backend Engineer",
+			"UX Researcher",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 43,
+		"title": "Manage Your Cards",
+		"proj": "ctta",
+		"vers": "07",
+		"num": "02",
+		"year": 2020,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "CRUD system for data scientists and analysts to manage cards for their respective dashboards.",
+		"link": {
+			"file": "visuals/ctta-form-07-02-200507.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-form-07-02-200507.jpg"
+		},
+		"role": [
+			"Frontend Developer",
+			"Backend Engineer",
+			"UX Researcher",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 44,
+		"title": "Mature Catalog Design",
+		"proj": "ctta",
+		"vers": "12",
+		"num": "01",
+		"year": 2020,
+		"ftype": "img",
+		"anno": false,
+		"cat": "screenshot",
+		"stage": "final",
+		"note": "Growing catalog size necessitated a more complex filtering system. ",
+		"link": {
+			"file": "visuals/ctta-page-12-01-200609.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-page-12-01-200609.jpg"
+		},
+		"role": [
+			"Frontend Developer",
+			"Backend Engineer",
+			"UX Researcher",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 45,
+		"title": "Dataviz Pie/Bullet Exploration",
+		"proj": "da2t",
+		"vers": "01",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Prototype of pie/bullet combination with a data table.",
+		"link": {
+			"file": "visuals/da2t-dviz-01-01-190719.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-01-01-190719.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 46,
+		"title": "Dataviz Pie/Table Exploration",
+		"proj": "da2t",
+		"vers": "01",
+		"num": "02",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a pie/table combination.",
+		"link": {
+			"file": "visuals/da2t-dviz-01-02-190719.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-01-02-190719.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 47,
+		"title": "Dataviz BAN/Bullet Exploration",
+		"proj": "da2t",
+		"vers": "02",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a BAN/bullet combination.",
+		"link": {
+			"file": "visuals/da2t-dviz-02-01-191016.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-02-01-191016.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 48,
+		"title": "Dataviz Trends Exploration",
+		"proj": "da2t",
+		"vers": "03",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Mockup for user interviews to measure speed and depth of user comprehension with trending data.",
+		"link": {
+			"file": "visuals/da2t-dviz-03-01-190613.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-03-01-190613.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 49,
+		"title": "Dataviz Funnel Exploration",
+		"proj": "da2t",
+		"vers": "04",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a funnel-style visual.",
+		"link": {
+			"file": "visuals/da2t-dviz-04-01-190612.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-04-01-190612.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 50,
+		"title": "Dashboard Design and Layout ",
+		"proj": "dall",
+		"vers": "03",
+		"num": "04",
+		"year": 2021,
+		"ftype": "img",
+		"anno": true,
+		"cat": "design system",
+		"stage": "final",
+		"note": "Example of dashboard design, including spacing, fonts, and classes.",
+		"link": {
+			"file": "visuals/dall-des-03-04-210325.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-03-04-210325.png"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 51,
+		"title": "Dashboard Design and Layout ",
+		"proj": "dall",
+		"vers": "06",
+		"num": "01",
+		"year": 2022,
+		"ftype": "img",
+		"anno": true,
+		"cat": "design system",
+		"stage": "final",
+		"note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
+		"link": {
+			"file": "visuals/dall-des-06-01-221003.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-06-01-221003.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 52,
+		"title": "Dashboard Design and Layout ",
+		"proj": "dall",
+		"vers": "06",
+		"num": "02",
+		"year": 2022,
+		"ftype": "img",
+		"anno": true,
+		"cat": "design system",
+		"stage": "final",
+		"note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
+		"link": {
+			"file": "visuals/dall-des-06-02-221003.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-06-02-221003.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 53,
+		"title": "Dashboard Design by Type",
+		"proj": "dall",
+		"vers": "09",
+		"num": "02",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "design system",
+		"stage": "final",
+		"note": "Quick (and regularly updated) cheat sheet for data analysts when building dashboards.",
+		"link": {
+			"file": "visuals/dall-des-09-02-190215.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-09-02-190215.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 54,
+		"title": "Annotated Dashboard Design",
+		"proj": "dall",
+		"vers": "09",
+		"num": "03",
+		"year": 2019,
+		"ftype": "img",
+		"anno": true,
+		"cat": "design system",
+		"stage": "final",
+		"note": "A thorough and annotated example of design for panels, fonts, charts, and helper text.",
+		"link": {
+			"file": "visuals/dall-des-09-03-190215.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-09-03-190215.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 55,
+		"title": "Attrition Dashboard",
+		"proj": "datt",
+		"vers": "07",
+		"num": "01",
+		"year": 2022,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "At-a-glance charts for tracking attrition data.",
+		"link": {
+			"file": "visuals/datt-viz-07-01-220803.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/datt-viz-07-01-220803.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 56,
+		"title": "Attrition Dashboard",
+		"proj": "datt",
+		"vers": "07",
+		"num": "02",
+		"year": 2022,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Visualization index with complex data tables for tracking attrition rates.",
+		"link": {
+			"file": "visuals/datt-viz-07-02-220806.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/datt-viz-07-02-220806.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 57,
+		"title": "Mental Model Exploration",
+		"proj": "dcap",
+		"vers": "01",
+		"num": "00",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "idea",
+		"note": "Variations to help users identify which dataviz best matches with their ‘view’ of the data.",
+		"link": {
+			"file": "visuals/dcap-dviz-01-00-191204.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-01-00-191204.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 58,
+		"title": "Multi-Tab Dashboard Design",
+		"proj": "dcap",
+		"vers": "04",
+		"num": "03",
+		"year": 2020,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Left-justified bar chart for comparing personnel needs across teams. ",
+		"link": {
+			"file": "visuals/dcap-dviz-04-03-200512.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-04-03-200512.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 59,
+		"title": "Multi-Tab Dashboard Design",
+		"proj": "dcap",
+		"vers": "04",
+		"num": "04",
+		"year": 2020,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Experimental visualization for viewing levels of projected needs.",
+		"link": {
+			"file": "visuals/dcap-dviz-04-04-200512.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-04-04-200512.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 60,
+		"title": "Multi-Tab Dashboard Design",
+		"proj": "dcap",
+		"vers": "04",
+		"num": "06",
+		"year": 2020,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Mock for demonstrating and explaining an advanced-level dataviz.",
+		"link": {
+			"file": "visuals/dcap-dviz-04-06-200512.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-04-06-200512.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 61,
+		"title": "Interactive Analytics Design",
+		"proj": "dcap",
+		"vers": "06",
+		"num": "02",
+		"year": 2020,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "in revisions",
+		"note": "Dashboard incorporating interactive form, for user input to calculate and project future trends.",
+		"link": {
+			"file": "visuals/dcap-form-06-02-200316.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-form-06-02-200316.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 62,
+		"title": "Mocked Dashboard for User Discussion",
+		"proj": "dedv",
+		"vers": "01",
+		"num": "03",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Quick mock created during user discussions, using placeholder dataviz with fake data.",
+		"link": {
+			"file": "visuals/dedv-dviz-01-03-191010.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dedv-dviz-01-03-191010.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 63,
+		"title": "Why Dataviz?",
+		"proj": "des",
+		"vers": "01",
+		"num": "01",
+		"year": 2022,
+		"ftype": "text",
+		"anno": false,
+		"cat": "text",
+		"stage": "draft",
+		"note": "Whitepaper draft on the design, use, and value of good dataviz.",
+		"link": {
+			"file": "texts/des-pres-03-01-230128.txt",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-pres-03-01-230128.txt"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Writer"
+		]
+	},
+	{
+		"dex": 64,
+		"title": "Benchmark Comparison Notes",
+		"proj": "des",
+		"vers": "01",
+		"num": "02",
+		"year": 2022,
+		"ftype": "text",
+		"anno": false,
+		"cat": "text",
+		"stage": "final",
+		"note": "Summaries of research results comparing competitors’ design systems.",
+		"link": {
+			"file": "texts/des-text-01-01-221219.txt",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-text-01-01-221219.txt"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Writer"
+		]
+	},
+	{
+		"dex": 65,
+		"title": "System Content Architecture ",
+		"proj": "des",
+		"vers": "01",
+		"num": "04",
+		"year": 2023,
+		"ftype": "text",
+		"anno": false,
+		"cat": "text",
+		"stage": "in revisions",
+		"note": "Full outline for design system documentation, including future topics.",
+		"link": {
+			"file": "texts/des-text-01-02-221219.txt",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-text-01-02-221219.txt"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Writer"
+		]
+	},
+	{
+		"dex": 66,
+		"title": "Design System Proposal",
+		"proj": "des",
+		"vers": "03",
+		"num": "01",
+		"year": 2023,
+		"ftype": "text",
+		"anno": false,
+		"cat": "text",
+		"stage": "in revisions",
+		"note": "Draft of presentation text for design system proposal.",
+		"link": {
+			"file": "texts/des-text-01-04-230120.txt",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-text-01-04-230120.txt"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"Writer"
+		]
+	},
+	{
+		"dex": 67,
+		"title": "Executive View, Summary",
+		"proj": "dexv",
+		"vers": "01",
+		"num": "01",
+		"year": 2018,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "draft",
+		"note": "Mocked dashboard with over-use of piecharts.",
+		"link": {
+			"file": "visuals/dexv-divz-01-01-180928.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-01-01-180928.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 68,
+		"title": "Executive View, Skill Growth",
+		"proj": "dexv",
+		"vers": "02",
+		"num": "01",
+		"year": 2018,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "draft",
+		"note": "Mocked dashboard with too many colors.",
+		"link": {
+			"file": "visuals/dexv-divz-02-01-180927.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-02-01-180927.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 69,
+		"title": "Executive View, Summary",
+		"proj": "dexv",
+		"vers": "04",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "draft",
+		"note": "Mocked dashboard with third iteration dataviz ideas.",
+		"link": {
+			"file": "visuals/dexv-divz-04-01-190116.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-04-01-190116.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 70,
+		"title": "Executive View",
+		"proj": "dexv",
+		"vers": "06",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "draft",
+		"note": "Mocked dashboard for gathering user thoughts and reactions.",
+		"link": {
+			"file": "visuals/dexv-divz-06-01-190419.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-06-01-190419.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 71,
+		"title": "Executive View",
+		"proj": "dexv",
+		"vers": "06",
+		"num": "04",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "draft",
+		"note": "Mocked dashboard for gathering user thoughts and reactions.",
+		"link": {
+			"file": "visuals/dexv-divz-06-04-190419.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-06-04-190419.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 72,
+		"title": "Executive View",
+		"proj": "dexv",
+		"vers": "06",
+		"num": "05",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Mocked dashboard for gathering user thoughts and reactions.",
+		"link": {
+			"file": "visuals/dexv-divz-06-05-190417.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-06-05-190417.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 73,
+		"title": "Go To Market Data",
+		"proj": "dg2m",
+		"vers": "02",
+		"num": "01",
+		"year": 2020,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Complex dashboard for viewing regional go-to-market data.",
+		"link": {
+			"file": "visuals/dg2m-viz-02-01-201029.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dg2m-viz-02-01-201029.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 74,
+		"title": "Job Roles Reskilling",
+		"proj": "djrs",
+		"vers": "02",
+		"num": "01",
+		"year": 2021,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Target tracking by region, with RAG-style visualizations.",
+		"link": {
+			"file": "visuals/djrs-dviz-02-01-210505.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/djrs-dviz-02-01-210505.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 75,
+		"title": "Leaderboard",
+		"proj": "dlbd",
+		"vers": "01",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "final",
+		"note": "Dashboard showing potential views dependent on metadata tracking.",
+		"link": {
+			"file": "visuals/dlbd-divz-01-01-190415.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dlbd-divz-01-01-190415.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 76,
+		"title": "Leaderboard",
+		"proj": "dlbd",
+		"vers": "02",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "final",
+		"note": "Mocked dashboard using only available types of data.",
+		"link": {
+			"file": "visuals/dlbd-divz-02-01-190418.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dlbd-divz-02-01-190418.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 77,
+		"title": "Data Lake",
+		"proj": "dlk",
+		"vers": "02",
+		"num": "06",
+		"year": 2018,
+		"ftype": "img",
+		"anno": false,
+		"cat": "architecture",
+		"stage": "in revisions",
+		"note": "Visual for possible data lake organization and architecture.",
+		"link": {
+			"file": "visuals/dlk-arch-02-06-180217.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dlk-arch-02-06-180217.png"
+		},
+		"role": [
+			"Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 78,
+		"title": "Onboarding Tracking",
+		"proj": "donb",
+		"vers": "02",
+		"num": "01",
+		"year": 2021,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "At-a-glance trends for delivery group onboarding.",
+		"link": {
+			"file": "visuals/donb-dviz-02-01-210318.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/donb-dviz-02-01-210318.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 79,
+		"title": "AI Textual Inference",
+		"proj": "dont",
+		"vers": "01",
+		"num": "01",
+		"year": 2018,
+		"ftype": "img",
+		"anno": false,
+		"cat": "sitemap",
+		"stage": "idea",
+		"note": "Mapping concept and purpose of new dashboard.",
+		"link": {
+			"file": "visuals/dont-map-01-01-181202.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-map-01-01-181202.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 80,
+		"title": "AI Skills Analysis",
+		"proj": "dont",
+		"vers": "05",
+		"num": "00",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "AI-based education dashboard with annotations.",
+		"link": {
+			"file": "visuals/dont-divz-05-00-190829.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-divz-05-00-190829.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 81,
+		"title": "AI Education Analysis",
+		"proj": "dont",
+		"vers": "06",
+		"num": "05",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "AI-based education dashboard, incorporating billing and claims history.",
+		"link": {
+			"file": "visuals/dont-divz-06-05-191001.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-divz-06-05-191001.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 82,
+		"title": "ROI Capacity Model",
+		"proj": "droi",
+		"vers": "01",
+		"num": "04",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "draft",
+		"note": "Early iteration for executive personnel ROI dashboard.",
+		"link": {
+			"file": "visuals/droi-divz-01-04-191029.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/droi-divz-01-04-191029.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Dataviz Designer"
+		]
+	},
+	{
+		"dex": 83,
+		"title": "ROI Capacity Model",
+		"proj": "droi",
+		"vers": "02",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Exploration of visual patterns for data hierarchy.",
+		"link": {
+			"file": "visuals/droi-divz-02-01-191103.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/droi-divz-02-01-191103.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Dataviz Designer"
+		]
+	},
+	{
+		"dex": 84,
+		"title": "Segment Targets",
+		"proj": "dseg",
+		"vers": "05",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Horizontal dataviz for tracking employee training progress.",
+		"link": {
+			"file": "visuals/dseg-divz-05-01-190503.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dseg-divz-05-01-190503.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 85,
+		"title": "Segment Targets",
+		"proj": "dseg",
+		"vers": "05",
+		"num": "02",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Horizontal dataviz for tracking employee training progress.",
+		"link": {
+			"file": "visuals/dseg-divz-05-02-190503.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dseg-divz-05-02-190503.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 86,
+		"title": "Segment Targets, Trending",
+		"proj": "dseg",
+		"vers": "05",
+		"num": "12",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Mocked dashboard using split vertical bar charts to show training program trends.",
+		"link": {
+			"file": "visuals/dseg-dviz-05-12-190510.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dseg-dviz-05-12-190510.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 87,
+		"title": "Skills Growth Dashboard",
+		"proj": "dskl",
+		"vers": "04",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Comparison of job role expertise, using AI inference and self-assessment, against team’s level of expertise.",
+		"link": {
+			"file": "visuals/dskl-divz-04-01-190611.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dskl-divz-04-01-190611.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 88,
+		"title": "Skills Growth Dashboard, Expanded",
+		"proj": "dskl",
+		"vers": "04",
+		"num": "02",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Mock showing the use of annotation in explaining data sources and calculations.",
+		"link": {
+			"file": "visuals/dskl-divz-04-02-190614.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dskl-divz-04-02-190614.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 89,
+		"title": "Project Services",
+		"proj": "dsvc",
+		"vers": "03",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Operational tab for viewing training program trends.",
+		"link": {
+			"file": "visuals/dsvc-divz-03-01-191010.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dsvc-divz-03-01-191010.png"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 90,
+		"title": "Project Services",
+		"proj": "dsvc",
+		"vers": "04",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Operational tab for viewing training program trends.",
+		"link": {
+			"file": "visuals/dsvc-divz-04-01-191011.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dsvc-divz-04-01-191011.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 91,
+		"title": "Time Contribution Filters",
+		"proj": "dtcb",
+		"vers": "01",
+		"num": "14",
+		"year": 2020,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "in revisions",
+		"note": "Exploration of filter arrangement and design in sliding drawer.",
+		"link": {
+			"file": "visuals/dtcb-form-01-14-200110.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtcb-form-01-14-200110.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Dataviz Designer"
+		]
+	},
+	{
+		"dex": 92,
+		"title": "Time Contribution",
+		"proj": "dtcb",
+		"vers": "03",
+		"num": "03",
+		"year": 2020,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Dashboard using embedded charts inside data tables.",
+		"link": {
+			"file": "visuals/dtcb-divz-03-03-200127.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtcb-divz-03-03-200127.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Dataviz Designer"
+		]
+	},
+	{
+		"dex": 93,
+		"title": "Time Contribution",
+		"proj": "dtcb",
+		"vers": "04",
+		"num": "02",
+		"year": 2020,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Dashboard navigation for users to focus on within-group comparisons only.",
+		"link": {
+			"file": "visuals/dtcb-divz-04-02-200609.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtcb-divz-04-02-200609.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Dataviz Designer"
+		]
+	},
+	{
+		"dex": 94,
+		"title": "Team Management",
+		"proj": "dtmt",
+		"vers": "01",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Proposed dashboard for first-line managers to view team skills and levels of expertise.",
+		"link": {
+			"file": "visuals/dtmt-divz-01-01-190527.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtmt-divz-01-01-190527.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Frontend Developer",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 95,
+		"title": "Team Management",
+		"proj": "dtmt",
+		"vers": "03",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Dashboard for first-line managers to track their team, and their own, education progress.",
+		"link": {
+			"file": "visuals/dtmt-divz-03-01-190731.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtmt-divz-03-01-190731.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Frontend Developer",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 96,
+		"title": "Training Enrollment Summary",
+		"proj": "dtrn",
+		"vers": "05",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "in revisions",
+		"note": "Revised version incorporating user and data scientist feedback.",
+		"link": {
+			"file": "visuals/dtrn-divz-05-01-190422.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtrn-divz-05-01-190422.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Dataviz Designer"
+		]
+	},
+	{
+		"dex": 97,
+		"title": "Training Enrollment Summary",
+		"proj": "dtrn",
+		"vers": "05",
+		"num": "04",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "draft",
+		"note": "Early draft for user discussion on required and useful dataviz.",
+		"link": {
+			"file": "visuals/dtrn-divz-05-04-190423.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtrn-divz-05-04-190423.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Dataviz Designer"
+		]
+	},
+	{
+		"dex": 98,
+		"title": "Training Enrollment by Service",
+		"proj": "dtrn",
+		"vers": "07",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "draft",
+		"note": "Proposed dashboard redesign from Tableau to D3 version.",
+		"link": {
+			"file": "visuals/dtrn-divz-07-01-190531.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtrn-divz-07-01-190531.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Dataviz Designer"
+		]
+	},
+	{
+		"dex": 99,
+		"title": "Annual Summary",
+		"proj": "ela",
+		"vers": "03",
+		"num": "01",
+		"year": 2021,
+		"ftype": "img",
+		"anno": false,
+		"cat": "presentation",
+		"stage": "final",
+		"note": "End-of-year discussion points for internal education programs.",
+		"link": {
+			"file": "visuals/ela-dviz-03-01-211019.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ela-dviz-03-01-211019.jpg"
+		},
+		"role": [
+			"UI Architect",
+			"Designer",
+			"Writer",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 100,
+		"title": "Points for EOY Discussion",
+		"proj": "ela",
+		"vers": "05",
+		"num": "02",
+		"year": 2021,
+		"ftype": "img",
+		"anno": false,
+		"cat": "presentation",
+		"stage": "final",
+		"note": "End-of-year summary on internal education programs.",
+		"link": {
+			"file": "visuals/ela-pres-05-02-210311.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ela-pres-05-02-210311.png"
+		},
+		"role": [
+			"UI Architect",
+			"Designer",
+			"Writer",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 101,
+		"title": "Points for EOY Discussion",
+		"proj": "ela",
+		"vers": "05",
+		"num": "03",
+		"year": 2021,
+		"ftype": "img",
+		"anno": false,
+		"cat": "presentation",
+		"stage": "final",
+		"note": "End-of-year summary on internal education programs.",
+		"link": {
+			"file": "visuals/ela-pres-05-03-210311.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ela-pres-05-03-210311.png"
+		},
+		"role": [
+			"UI Architect",
+			"Designer",
+			"Writer",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 102,
+		"title": "Education Request",
+		"proj": "erf",
+		"vers": "01",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "swimlane",
+		"stage": "in revisions",
+		"note": "Swim lanes based on user interviews and executive input.",
+		"link": {
+			"file": "visuals/erf-lane-01-01-190220.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-lane-01-01-190220.png"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UX Researcher",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 103,
+		"title": "Education Request",
+		"proj": "erf",
+		"vers": "02",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "flowchart",
+		"stage": "draft",
+		"note": "Process flow identifying involved roles and data movement.",
+		"link": {
+			"file": "visuals/erf-flow-02-01-190311.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-flow-02-01-190311.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UX Researcher",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 104,
+		"title": "Education Request, Expanded",
+		"proj": "erf",
+		"vers": "03",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": true,
+		"cat": "form",
+		"stage": "in revisions",
+		"note": "Fully-expanded form with logic for user interaction.",
+		"link": {
+			"file": "visuals/erf-form-03-01-190313.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-form-03-01-190313.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UX Researcher",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 105,
+		"title": "Education Request",
+		"proj": "erf",
+		"vers": "03",
+		"num": "07",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "in revisions",
+		"note": "Executive management page for education request.",
+		"link": {
+			"file": "visuals/erf-form-03-07-190315.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-form-03-07-190315.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer",
+			"UX Researcher",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 106,
+		"title": "GDPR Process Mapping",
+		"proj": "gdp",
+		"vers": "07",
+		"num": "01",
+		"year": 2017,
+		"ftype": "pdf",
+		"anno": true,
+		"cat": "flowchart",
+		"stage": "draft",
+		"note": "The 7th iteration of ultimately 19 versions detailing the complicated GDPR process.",
+		"link": {
+			"file": "texts/gdp-flow-07-01-171110.pdf",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/gdp-flow-07-01-171110.pdf"
+		},
+		"role": [
+			"Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 107,
+		"title": "GDPR Process Mapping",
+		"proj": "gdp",
+		"vers": "10",
+		"num": "01",
+		"year": 2017,
+		"ftype": "pdf",
+		"anno": true,
+		"cat": "swimlane",
+		"stage": "draft",
+		"note": "Process flow modified into a swim lane approach.",
+		"link": {
+			"file": "texts/gdp-lane-10-01-171129.pdf",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/gdp-lane-10-01-171129.pdf"
+		},
+		"role": [
+			"Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 108,
+		"title": "Customer Happiness",
+		"proj": "hap",
+		"vers": "01",
+		"num": "06",
+		"year": 2014,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "in revisions",
+		"note": "Preliminary mockup for customer support site.",
+		"link": {
+			"file": "visuals/hap-page-01-06-141105.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hap-page-01-06-141105.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 109,
+		"title": "Customer Happiness",
+		"proj": "hap",
+		"vers": "01",
+		"num": "13",
+		"year": 2014,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "in revisions",
+		"note": "Preliminary mockup for customer support site.",
+		"link": {
+			"file": "visuals/hap-page-01-13-141105.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hap-page-01-13-141105.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 110,
+		"title": "Customer Happiness",
+		"proj": "hap",
+		"vers": "02",
+		"num": "01",
+		"year": 2014,
+		"ftype": "img",
+		"anno": false,
+		"cat": "architecture",
+		"stage": "in revisions",
+		"note": "Full site map, with color-coding to call out re-used modular components.",
+		"link": {
+			"file": "visuals/hap-map-02-01-141109.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hap-map-02-01-141109.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 111,
+		"title": "Client Intranet Dashboard",
+		"proj": "hci",
+		"vers": "01",
+		"num": "01",
+		"year": 2018,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "draft",
+		"note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
+		"link": {
+			"file": "visuals/hci-page-01-01-180412.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hci-page-01-01-180412.jpg"
+		},
+		"role": [
+			"Frontend Developer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 112,
+		"title": "Client Intranet Dashboard",
+		"proj": "hci",
+		"vers": "01",
+		"num": "02",
+		"year": 2018,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "draft",
+		"note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
+		"link": {
+			"file": "visuals/hci-page-01-02-180412.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hci-page-01-02-180412.jpg"
+		},
+		"role": [
+			"Frontend Developer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 113,
+		"title": "Cancer Patient Portal",
+		"proj": "hcr",
+		"vers": "03",
+		"num": "02",
+		"year": 2012,
+		"ftype": "img",
+		"anno": true,
+		"cat": "wireframe",
+		"stage": "draft",
+		"note": "Collection of loose wireframes organized to show user flow through the pages.",
+		"link": {
+			"file": "visuals/hcr-map-04-01-120712.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hcr-map-04-01-120712.png"
+		},
+		"role": [
+			"UI Architect",
+			"Analyst"
+		]
+	},
+	{
+		"dex": 114,
+		"title": "Cancer Patient Portal",
+		"proj": "hcr",
+		"vers": "04",
+		"num": "01",
+		"year": 2012,
+		"ftype": "img",
+		"anno": true,
+		"cat": "flowchart",
+		"stage": "in revisions",
+		"note": "Site map showing user choices, interactions, and overlaps between paths.",
+		"link": {
+			"file": "visuals/hcr-map-03-02-120705.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hcr-map-03-02-120705.png"
+		},
+		"role": [
+			"UI Architect",
+			"Analyst"
+		]
+	},
+	{
+		"dex": 115,
+		"title": "Legacy-to-Modern SSO",
+		"proj": "hol",
+		"vers": "03",
+		"num": "02",
+		"year": 2013,
+		"ftype": "code",
+		"anno": false,
+		"cat": "code",
+		"stage": "final",
+		"note": "Prototype demonstrating viability of SSO between two distinct webapps.",
+		"link": {
+			"file": "code/hol-cde-03-02-130811.js",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/code/hol-cde-03-02-130811.js"
+		},
+		"role": [
+			"Frontend Developer",
+			"Designer"
+		]
+	},
+	{
+		"dex": 116,
+		"title": "Automated Workflow",
+		"proj": "ift",
+		"vers": "01",
+		"num": "01",
+		"year": 2016,
+		"ftype": "img",
+		"anno": true,
+		"cat": "architecture",
+		"stage": "idea",
+		"note": "Rough sketch of application workflows and combinations.",
+		"link": {
+			"file": "visuals/ift-arch-01-01-160901.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-arch-01-01-160901.png"
+		},
+		"role": [
+			"UI Architect",
+			"lead"
+		]
+	},
+	{
+		"dex": 117,
+		"title": "Metaphor Explanation",
+		"proj": "ift",
+		"vers": "02",
+		"num": "01",
+		"year": 2017,
+		"ftype": "pdf",
+		"anno": false,
+		"cat": "presentation",
+		"stage": "final",
+		"note": "Using metaphor to explain how trigger-action apps work.",
+		"link": {
+			"file": "texts/ift-pres-02-01-170702.pdf",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/ift-pres-02-01-170702.pdf"
+		},
+		"role": [
+			"UI Architect",
+			"lead"
+		]
+	},
+	{
+		"dex": 118,
+		"title": "Automated Workflow",
+		"proj": "ift",
+		"vers": "03",
+		"num": "04",
+		"year": 2016,
+		"ftype": "img",
+		"anno": false,
+		"cat": "wireframe",
+		"stage": "draft",
+		"note": "Third iteration covering page structure and organization.",
+		"link": {
+			"file": "visuals/ift-form-03-07-160817.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-form-03-07-160817.png"
+		},
+		"role": [
+			"UI Architect",
+			"lead"
+		]
+	},
+	{
+		"dex": 119,
+		"title": "Automated Workflow",
+		"proj": "ift",
+		"vers": "03",
+		"num": "07",
+		"year": 2016,
+		"ftype": "img",
+		"anno": false,
+		"cat": "wireframe",
+		"stage": "draft",
+		"note": "Third iteration covering page structure and organization.",
+		"link": {
+			"file": "visuals/ift-wire-03-04-160817.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-wire-03-04-160817.png"
+		},
+		"role": [
+			"UI Architect",
+			"lead"
+		]
+	},
+	{
+		"dex": 120,
+		"title": "Automated Workflow",
+		"proj": "ift",
+		"vers": "04",
+		"num": "01",
+		"year": 2016,
+		"ftype": "img",
+		"anno": false,
+		"cat": "wireframe",
+		"stage": "draft",
+		"note": "Fourth iteration for possible page structure and organization.",
+		"link": {
+			"file": "visuals/ift-wire-04-01-160822.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-wire-04-01-160822.png"
+		},
+		"role": [
+			"UI Architect",
+			"lead"
+		]
+	},
+	{
+		"dex": 121,
+		"title": "Automated Workflow",
+		"proj": "ift",
+		"vers": "04",
+		"num": "10",
+		"year": 2016,
+		"ftype": "img",
+		"anno": false,
+		"cat": "wireframe",
+		"stage": "draft",
+		"note": "Fourth iteration for possible page structure and organization.",
+		"link": {
+			"file": "visuals/ift-wire-04-10-160822.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-wire-04-10-160822.png"
+		},
+		"role": [
+			"UI Architect",
+			"lead"
+		]
+	},
+	{
+		"dex": 122,
+		"title": "Automated Workflow",
+		"proj": "ift",
+		"vers": "07",
+		"num": "02",
+		"year": 2016,
+		"ftype": "img",
+		"anno": false,
+		"cat": "architecture",
+		"stage": "in revisions",
+		"note": "Site map, color-coded to show identified reusable components.",
+		"link": {
+			"file": "visuals/ift-arch-07-02-160830.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-arch-07-02-160830.jpg"
+		},
+		"role": [
+			"UI Architect",
+			"lead"
+		]
+	},
+	{
+		"dex": 123,
+		"title": "Request Management ",
+		"proj": "lor",
+		"vers": "08",
+		"num": "01",
+		"year": 2020,
+		"ftype": "img",
+		"anno": false,
+		"cat": "swimlane",
+		"stage": "in revisions",
+		"note": "Detailed multi-role process for more efficient handling of user requests.",
+		"link": {
+			"file": "visuals/lor-lane-08-01-200430.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/lor-lane-08-01-200430.jpg"
+		},
+		"role": [
+			"Designer",
+			"UX Researcher",
+			"Dataviz Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 124,
+		"title": "Server Incident Report System",
+		"proj": "mim",
+		"vers": "01",
+		"num": "07",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Incident report page, step 7 for walk-through presentation.",
+		"link": {
+			"file": "visuals/mim-form-01-07-190509.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mim-form-01-07-190509.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 125,
+		"title": "Server Incident Report System",
+		"proj": "mim",
+		"vers": "02",
+		"num": "03",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Incident report page, step 3 for walk-through presentation.",
+		"link": {
+			"file": "visuals/mim-form-02-03-190510.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mim-form-02-03-190510.png"
+		},
+		"role": [
+			"Designer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 126,
+		"title": "Mobile-First Sales App",
+		"proj": "mob",
+		"vers": "02",
+		"num": "01",
+		"year": 2013,
+		"ftype": "img",
+		"anno": true,
+		"cat": "architecture",
+		"stage": "final",
+		"note": "Page architecture demonstrating the structure created by reusable and embedded components.",
+		"link": {
+			"file": "visuals/mob-arch-02-01-131001.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mob-arch-02-01-131001.jpg"
+		},
+		"role": [
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 127,
+		"title": "Mobile-First Sales App",
+		"proj": "mob",
+		"vers": "03",
+		"num": "02",
+		"year": 2013,
+		"ftype": "img",
+		"anno": false,
+		"cat": "architecture",
+		"stage": "in revisions",
+		"note": "Site architecture demonstrating each page’s composition of modular components.",
+		"link": {
+			"file": "visuals/mob-arch-03-02-131004.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mob-arch-03-02-131004.jpg"
+		},
+		"role": [
+			"Frontend Developer",
+			"UI Architect",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 128,
+		"title": "Academia Bookmarks",
+		"proj": "mrk",
+		"vers": "02",
+		"num": "01",
+		"year": 2012,
+		"ftype": "img",
+		"anno": false,
+		"cat": "sitemap",
+		"stage": "in revisions",
+		"note": "Circular site map, color-coded to call out specific site components.",
+		"link": {
+			"file": "visuals/mrk-map-02-01-110207.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mrk-map-02-01-110207.jpg"
+		},
+		"role": [
+			"UI Architect",
+			"Designer"
+		]
+	},
+	{
+		"dex": 129,
+		"title": "Academia Bookmarks",
+		"proj": "mrk",
+		"vers": "02",
+		"num": "05",
+		"year": 2011,
+		"ftype": "img",
+		"anno": false,
+		"cat": "mid-fidelity",
+		"stage": "draft",
+		"note": "Rough mockup of app’s responsive behavior.",
+		"link": {
+			"file": "visuals/mrk-mid-02-05-110709.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mrk-mid-02-05-110709.jpg"
+		},
+		"role": [
+			"UI Architect",
+			"Designer"
+		]
+	},
+	{
+		"dex": 130,
+		"title": "Subscription-based Author Archive",
+		"proj": "pix",
+		"vers": "03",
+		"num": "01",
+		"year": 2013,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Chapter/story template showing metadata and comment form.",
+		"link": {
+			"file": "visuals/pix-form-03-01-130326.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/pix-form-03-01-130326.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Frontend Developer",
+			"Backend Engineer"
+		]
+	},
+	{
+		"dex": 131,
+		"title": "Subscription-based Author Archive",
+		"proj": "pix",
+		"vers": "03",
+		"num": "02",
+		"year": 2013,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Two screenshots of admin pages, for managing tagging and multi-part stories.",
+		"link": {
+			"file": "visuals/pix-form-03-02-130326.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/pix-form-03-02-130326.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Frontend Developer",
+			"Backend Engineer"
+		]
+	},
+	{
+		"dex": 132,
+		"title": "Server Management",
+		"proj": "pow",
+		"vers": "03",
+		"num": "01",
+		"year": 2015,
+		"ftype": "img",
+		"anno": true,
+		"cat": "architecture",
+		"stage": "final",
+		"note": "Breakdown of page architecture and embedded reusable components.",
+		"link": {
+			"file": "visuals/pow-arch-03-01-151030.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/pow-arch-03-01-151030.jpg"
+		},
+		"role": [
+			"Frontend Developer",
+			"UI Architect"
+		]
+	},
+	{
+		"dex": 133,
+		"title": "Experience Visualization",
+		"proj": "res",
+		"vers": "02",
+		"num": "07",
+		"year": 2011,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "final",
+		"note": "Sunburst visualization adapted to show experience by skill.",
+		"link": {
+			"file": "visuals/res-dviz-02-07-110922.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/res-dviz-02-07-110922.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer"
+		]
+	},
+	{
+		"dex": 134,
+		"title": "Experience Visualization",
+		"proj": "res",
+		"vers": "04",
+		"num": "01",
+		"year": 2012,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "draft",
+		"note": "Attempt to correlate duration of experience with skill set.",
+		"link": {
+			"file": "visuals/res-dviz-04-01-120707.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/res-dviz-04-01-120707.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer"
+		]
+	},
+	{
+		"dex": 135,
+		"title": "Experience Visualization",
+		"proj": "res",
+		"vers": "05",
+		"num": "02",
+		"year": 2012,
+		"ftype": "img",
+		"anno": false,
+		"cat": "dataviz",
+		"stage": "final",
+		"note": "Ladder visualization to show chronology of positions and skills.",
+		"link": {
+			"file": "visuals/res-dviz-05-02-120708.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/res-dviz-05-02-120708.jpg"
+		},
+		"role": [
+			"Designer",
+			"Dataviz Designer"
+		]
+	},
+	{
+		"dex": 136,
+		"title": "Data Science and Storytelling",
+		"proj": "sda",
+		"vers": "05",
+		"num": "01",
+		"year": 2019,
+		"ftype": "pdf",
+		"anno": false,
+		"cat": "presentation",
+		"stage": "final",
+		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
+		"link": {
+			"file": "texts/sda-pres-05-01-190322.pdf",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/sda-pres-05-01-190322.pdf"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Frontend Developer",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 137,
+		"title": "Internal Team Site",
+		"proj": "sda",
+		"vers": "05",
+		"num": "01",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "screenshot",
+		"stage": "final",
+		"note": "Production version of site main page.",
+		"link": {
+			"file": "visuals/sda-page-05-01-191115.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-01-191115.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Frontend Developer",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 138,
+		"title": "Internal Team Site",
+		"proj": "sda",
+		"vers": "05",
+		"num": "03",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "screenshot",
+		"stage": "final",
+		"note": "Activity page for stakeholder information, using git hooks and .md files as makeshift db.",
+		"link": {
+			"file": "visuals/sda-page-05-03-191115.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-03-191115.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Frontend Developer",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 139,
+		"title": "Internal Team Site",
+		"proj": "sda",
+		"vers": "05",
+		"num": "08",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "screenshot",
+		"stage": "in revisions",
+		"note": "One of 100+ chart types documented, with tips for when, how, and why to use each.",
+		"link": {
+			"file": "visuals/sda-page-05-08-191115.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-08-191115.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Frontend Developer",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 140,
+		"title": "Internal Team Site",
+		"proj": "sda",
+		"vers": "05",
+		"num": "09",
+		"year": 2019,
+		"ftype": "img",
+		"anno": false,
+		"cat": "screenshot",
+		"stage": "final",
+		"note": "Introducing and explaining steps to prepare data for analytics use.",
+		"link": {
+			"file": "visuals/sda-page-05-09-191115.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-09-191115.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Frontend Developer",
+			"Backend Engineer",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 141,
+		"title": "Sales Team Tool",
+		"proj": "sls",
+		"vers": "01",
+		"num": "01",
+		"year": 2012,
+		"ftype": "img",
+		"anno": false,
+		"cat": "sitemap",
+		"stage": "final",
+		"note": "Circular site map, using color-coding to note reused actions.",
+		"link": {
+			"file": "visuals/sls-map-01-01-120705.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sls-map-01-01-120705.png"
+		},
+		"role": [
+			"UI Architect",
+			"UX Researcher",
+			"Analyst"
+		]
+	},
+	{
+		"dex": 142,
+		"title": "Sales Team Tool",
+		"proj": "sls",
+		"vers": "02",
+		"num": "01",
+		"year": 2012,
+		"ftype": "img",
+		"anno": false,
+		"cat": "sitemap",
+		"stage": "final",
+		"note": "Traditional site map, also with color-coding to identify patterns.",
+		"link": {
+			"file": "visuals/sls-map-02-01-120712.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sls-map-02-01-120712.png"
+		},
+		"role": [
+			"UI Architect",
+			"UX Researcher",
+			"Analyst"
+		]
+	},
+	{
+		"dex": 143,
+		"title": "Reader-Writer Survey",
+		"proj": "svy",
+		"vers": "04",
+		"num": "01",
+		"year": 2011,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Excerpt of survey, with multiple user routes depending on choices.",
+		"link": {
+			"file": "visuals/svy-form-04-01-110111.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/svy-form-04-01-110111.jpg"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"Backend Engineer",
+			"Writer"
+		]
+	},
+	{
+		"dex": 144,
+		"title": "Course Tagging Page",
+		"proj": "tag",
+		"vers": "03",
+		"num": "04",
+		"year": 2021,
+		"ftype": "img",
+		"anno": false,
+		"cat": "mockup",
+		"stage": "final",
+		"note": "Mocked series for Invision walk-through, showing second step in tagging.",
+		"link": {
+			"file": "visuals/tag-mock-03-04-210301.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tag-mock-03-04-210301.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Presenter"
+		]
+	},
+	{
+		"dex": 145,
+		"title": "Course Tagging Page",
+		"proj": "tag",
+		"vers": "03",
+		"num": "08",
+		"year": 2021,
+		"ftype": "img",
+		"anno": false,
+		"cat": "mockup",
+		"stage": "final",
+		"note": "Mocked series for Invision walk-through, showing one possible conclusion point.",
+		"link": {
+			"file": "visuals/tag-mock-03-08-210301.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tag-mock-03-08-210301.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Presenter"
+		]
+	},
+	{
+		"dex": 146,
+		"title": "Team Project Management",
+		"proj": "tpm",
+		"vers": "01",
+		"num": "01",
+		"year": 2018,
+		"ftype": "img",
+		"anno": true,
+		"cat": "swimlane",
+		"stage": "draft",
+		"note": "Draft of metadata list based on team interviews about their personal processes.",
+		"link": {
+			"file": "visuals/tpm-lane-02-01-180410.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tpm-lane-02-01-180410.png"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Dataviz Designer"
+		]
+	},
+	{
+		"dex": 147,
+		"title": "Team Project Management",
+		"proj": "tpm",
+		"vers": "02",
+		"num": "01",
+		"year": 2018,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Journey map based on team members’ rankings of tasks by difficulty/stress. ",
+		"link": {
+			"file": "visuals/tpm-form-01-01-180402.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tpm-form-01-01-180402.jpg"
+		},
+		"role": [
+			"Designer",
+			"UI Architect",
+			"Dataviz Designer"
+		]
+	},
+	{
+		"dex": 148,
+		"title": "Fintech Data Process",
+		"proj": "wst",
+		"vers": "01",
+		"num": "07",
+		"year": 2017,
+		"ftype": "img",
+		"anno": false,
+		"cat": "swimlane",
+		"stage": "final",
+		"note": "Swim lane modified to include notations for data movement and user interaction.",
+		"link": {
+			"file": "visuals/wst-lane-01-07-171103.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/wst-lane-01-07-171103.jpg"
+		},
+		"role": [
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 149,
+		"title": "Access Request",
+		"proj": "yin",
+		"vers": "02",
+		"num": "01",
+		"year": 2021,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Form to channel user access requests through a single entry point.",
+		"link": {
+			"file": "visuals/yin-form-02-01-210706.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/yin-form-02-01-210706.jpg"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"Backend Engineer",
+			"UI Architect",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 150,
+		"title": "Report Site or Data Issue",
+		"proj": "yin",
+		"vers": "02",
+		"num": "02",
+		"year": 2021,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Form for users to report issues in one place, creating better tracking.",
+		"link": {
+			"file": "visuals/yin-form-02-02-210706.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/yin-form-02-02-210706.jpg"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"Backend Engineer",
+			"UI Architect",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 151,
+		"title": "Create a Report or Dashboard",
+		"proj": "yin",
+		"vers": "02",
+		"num": "04",
+		"year": 2021,
+		"ftype": "img",
+		"anno": false,
+		"cat": "form",
+		"stage": "final",
+		"note": "Standardized information collection for report and dashboard requests.",
+		"link": {
+			"file": "visuals/yin-form-02-04-210706.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/yin-form-02-04-210706.jpg"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"Backend Engineer",
+			"UI Architect",
+			"API Developer"
+		]
+	},
+	{
+		"dex": 152,
+		"title": "Kite Festival Home Page",
+		"proj": "zlk",
+		"vers": "01",
+		"num": "01",
+		"year": 2011,
+		"ftype": "img",
+		"anno": false,
+		"cat": "screenshot",
+		"stage": "final",
+		"note": "Simple wordpress site with information for volunteers and attendants.",
+		"link": {
+			"file": "visuals/zlk-page-01-01-110516.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/zlk-page-01-01-110516.png"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 153,
+		"title": "Kite Festival Home Page",
+		"proj": "zlk",
+		"vers": "02",
+		"num": "02",
+		"year": 2012,
+		"ftype": "img",
+		"anno": false,
+		"cat": "screenshot",
+		"stage": "final",
+		"note": "Site redesign to be fully responsive. (Attendants liked it so much, they crashed the hosting company’s servers.)",
+		"link": {
+			"file": "visuals/zlk-page-02-02-120706.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/zlk-page-02-02-120706.jpg"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	},
+	{
+		"dex": 154,
+		"title": "Kite Festival Home Page",
+		"proj": "zlk",
+		"vers": "03",
+		"num": "01",
+		"year": 2013,
+		"ftype": "img",
+		"anno": false,
+		"cat": "screenshot",
+		"stage": "final",
+		"note": "Modified wordpress features to create sub-site for vendors to apply, pay for, and track their festival spots. ",
+		"link": {
+			"file": "visuals/zlk-page-03-01-130505.png",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/zlk-page-03-01-130505.png"
+		},
+		"role": [
+			"Designer",
+			"Frontend Developer",
+			"UI Architect",
+			"UX Researcher"
+		]
+	}
 ]

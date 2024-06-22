@@ -1,40 +1,27 @@
 <template>
-  <div class="page projects">
-    <div v-for="(job, index) in projects" :key="index" class="row fits">
-      <div class="col two">
-        <div class="alignright">
-          {{ job.title }}
-        </div>
-        <div class="alignright">
-          {{ job.team }}
-        </div>
-      </div>
-      <div class="col five">
-        {{ job.description }}
-      </div>
+  <div class="narratives page">
+    <div class="row">
       <div class="col two">
         <ul class="tag">
-          <li v-for="(word, index) in job.keywords" :key="index">
-            {{ word }}
-          </li>
+          <li>evolution of a site</li>
+          <li>no crying in dataviz // dash design</li>
+          <li>how not to dashboard // exec view</li>
+          <li>building a user bridge // hoover/360</li>
+          <li>annotation vibration // all annotated works</li>
         </ul>
       </div>
-      <div class="col two">
-        <ul class="tag">
-          <li v-for="(role, index) in job.roles" :key="index">
-            {{ role }}
-          </li>
-        </ul>
+      <div class="col six">
+        {{ projects }}
       </div>
     </div>
   </div>
 </template>
 
 <script>
-  import data from '../static/tasks.json'
+  import data from '../static/tours.json'
 
   export default {
-    name: "Projects",
+    name: "Narratives",
     data() {
       return {
         projects: data

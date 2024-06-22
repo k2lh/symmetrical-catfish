@@ -1,7 +1,7 @@
 <template>
   <div class="page">
-    <div v-for="(job, index) in positions" :key="index" class="row">
-      <div class="col">
+    <div v-for="(job, index) in positions" :key="index" class="row fits">
+      <div class="col two alignright">
         <div class="lining">
           <div class="title martop1">
             {{ job.title }}
@@ -14,7 +14,7 @@
           </div>
         </div>
       </div>
-      <div class="col description">
+      <div class="col five">
         <div class="lining">
           <div class="description">
             {{ job.description }}
@@ -26,7 +26,7 @@
           </ul>
         </div>
       </div>
-      <div class="col">
+      <div class="col two">
         <div class="lining">
           <div class="meta jobline uppercase">
             tools & technologies
@@ -66,8 +66,5 @@
 </script>
 
 <style scoped lang="scss">
-  .row {
-    width: 100%;
-    height: auto;
-  }
+
 </style>

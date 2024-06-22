@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 const router = createRouter({
+  linkActiveClass: 'active-link',
   history: createWebHistory(),
   routes: [
     {
@@ -9,14 +10,24 @@ const router = createRouter({
       component: () => import('../views/home.vue')
     },
     {
-      path: '/experience',
-      name: 'Experience',
-      component: () => import('../views/experience.vue')
+      path: '/portfolio',
+      name: 'Portfolio',
+      component: () => import('../views/portfolio.vue')
     },
     {
       path: '/projects',
       name: 'Projects',
       component: () => import('../views/projects.vue')
+    },
+    {
+      path: '/narratives',
+      name: 'Narratives',
+      component: () => import('../views/narratives.vue')
+    },
+    {
+      path: '/experience',
+      name: 'Experience',
+      component: () => import('../views/experience.vue')
     },
     {
       path: '/testimonials',
