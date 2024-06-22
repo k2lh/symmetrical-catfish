@@ -25,7 +25,7 @@
 <style lang="scss">
   .page {
     height: 100vh;
-    margin-top: 3rem;
+    margin-top: 5rem;
   }
 
   .row {

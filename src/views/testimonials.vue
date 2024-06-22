@@ -1,13 +1,15 @@
 <template>
-  <div class="reviews">
-    <div v-for="(review, rindex) in reviews" :key="rindex" class="pure-u-1-1 pure-u-lg-1-3">
-      <div class="boxed">
-        <div class="quote">
-          {{ review.quote }}
+  <div class="reviews page">
+    <div class="row">
+      <div v-for="(review, rindex) in reviews" :key="rindex" class="pure-u-1-1 pure-u-lg-1-3">
+        <div class="boxed">
+          <div class="quote">
+            {{ review.quote }}
+          </div>
+          <p class="cite">
+            {{ review.name }}
+          </p>
         </div>
-        <p class="cite">
-          {{ review.name }}
-        </p>
       </div>
     </div>
   </div>
@@ -17,7 +19,7 @@
   import data from '../static/reviews.json'
 
   export default {
-    name: "testimonials",
+    name: "Testimonials",
     data() {
       return {
         reviews: data

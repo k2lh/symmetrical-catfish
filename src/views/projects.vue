@@ -1,14 +1,16 @@
 <template>
-  <div class="projects padbot2">
-    {{ projects }}
+  <div class="projects page">
+    <div class="row">
+      {{ projects }}
+    </div>
   </div>
 </template>
 
 <script>
-  import data from '../static/projects.json'
+  import data from '../static/tasks.json'
 
   export default {
-    name: "projects",
+    name: "Projects",
     data() {
       return {
         projects: data
@@ -248,28 +250,28 @@
     background-size: contain;
     background-origin: content-box;
     &.ibm {
-      background-image: url("../../assets/logos/ibm.png");
+      background-image: url("../assets/thumbs/ibm.png");
     }
     &.dnb {
-      background-image: url("../../assets/logos/dnb.png");
+      background-image: url("../assets/thumbs/dnb.png");
     }
     &.ibmcloud {
-      background-image: url("../../assets/logos/ibmcloud.png");
+      background-image: url("../assets/thumbs/ibmcloud.png");
     }
     &.klh {
-      background-image: url("../../assets/klh.png");
+      background-image: url("../assets/klh.png");
     }
     &.studio {
-      background-image: url("../../assets/logos/studio.png");
+      background-image: url("../assets/thumbs/studio.png");
     }
     &.xtivia {
-      background-image: url("../../assets/logos/xtivia.png");
+      background-image: url("../assets/thumbs/xtivia.png");
     }
     &.zilker {
-      background-image: url("../../assets/logos/zilker.png");
+      background-image: url("../assets/thumbs/zilker.png");
     }
     &.shark {
-      background-image: url("../../assets/logos/shark.png");
+      background-image: url("../assets/thumbs/shark.png");
     }
   }
 
@@ -293,7 +295,7 @@
     border-top-left-radius: 4px;
     border-bottom-left-radius: 4px;
     background-color: #FFD700;
-    // background-image: url("../../assets/bg06.png");
+    // background-image: url("../assets/bg06.png");
     background-position: bottom center;
     background-size: cover;
   }

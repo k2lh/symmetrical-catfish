@@ -5,27 +5,29 @@
         <siteLogo/>
       </div>
       <div class="col first adjust">
-        <span class="boxlabel">K L Hamilton</span>
+        <router-link class="boxlabel" to="/">
+          K L Hamilton
+        </router-link>
       </div>
       <div class="col adjust">
-        <span v-scroll-to="'#portfolio'" class="boxlabel">
+        <router-link class="boxlabel" to="/portfolio">
           portfolio
-        </span>
+        </router-link>
       </div>
       <div class="col adjust">
-        <span v-scroll-to="'#projects'" class="boxlabel">
+        <router-link class="boxlabel" to="/projects">
           projects
-        </span>
+        </router-link>
       </div>
       <div class="col adjust">
-        <span v-scroll-to="'#experience'" class="boxlabel">
+        <router-link class="boxlabel" to="/experience">
           experience
-        </span>
+        </router-link>
       </div>
       <div class="col adjust">
-        <span v-scroll-to="'#testimonials'" class="boxlabel">
+        <router-link class="boxlabel" to="/testimonials">
           testimonials
-        </span>
+        </router-link>
       </div>
     </div>
   </div>
@@ -46,8 +48,10 @@
   .globalnav {
     width: 100%;
     position: fixed;
-    top: .5rem;
+    top: 0;
     z-index: 999;
+    background-color: #FFF;
+    border: 1px solid red;
   }
 
   .row {
@@ -56,6 +60,7 @@
     flex-wrap: wrap;
     width: 100%;
     height: 100%;
+    padding: .5rem 0;
   }
 
   .col {

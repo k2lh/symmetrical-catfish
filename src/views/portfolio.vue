@@ -1,5 +1,5 @@
 <template>
-  <div class="portfolio">
+  <div class="page portfolio">
     <div class="lining">
       {{ works[0] }}
       {{ places[0] }}
@@ -9,14 +9,15 @@
 
 <script>
   import dataThings from '../static/files.json'
-  import dataComps from '../static/projects.json'
+  import dataCusts from '../static/clients.json'
 
   export default {
     name: "portfolio",
     data() {
       return {
+        items: [],
         works: dataThings,
-        places: dataComps
+        places: dataCusts
       }
     }
   };
