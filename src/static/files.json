@@ -8,17 +8,23 @@
 		"year": 2007,
 		"ftype": "img",
 		"anno": false,
-		"cat": "architecture",
+		"cat": "sitemap",
 		"stage": "in revisions",
-		"note": "Sitemap incorporating preliminary page architecture for development planning.",
+		"lead": false,
+		"advisor": false,
+		"industry": "Pharmacology",
+		"note": "Preliminary page architecture for development planning.",
+		"goal": "UI architecture and visuals for company intranet redesign.",
 		"link": {
-			"file": "visuals/abc-arch-04-01-070712.png",
+			"file": "/visuals/abc-arch-04-01-070712.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/abc-arch-04-01-070712.png"
 		},
+		"year-start": 2008,
+		"year-end": 2008,
 		"role": [
 			"Analyst",
-			"Designer",
-			"UI Architect"
+			"Architect",
+			"UX Designer"
 		]
 	},
 	{
@@ -32,15 +38,21 @@
 		"anno": false,
 		"cat": "sitemap",
 		"stage": "in revisions",
-		"note": "Revised version of page architecture, arranged in a manner slightly less terrifying for shareholders.",
+		"lead": false,
+		"advisor": false,
+		"industry": "Pharmacology",
+		"note": "Page architecture, arranged in a manner slightly less terrifying for shareholders.",
+		"goal": "UI architecture and visuals for company intranet redesign.",
 		"link": {
-			"file": "visuals/abc-map-05-01-080117.png",
+			"file": "/visuals/abc-map-05-01-080117.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/abc-map-05-01-080117.png"
 		},
+		"year-start": 2009,
+		"year-end": 2009,
 		"role": [
 			"Analyst",
-			"Designer",
-			"UI Architect"
+			"Architect",
+			"UX Designer"
 		]
 	},
 	{
@@ -54,15 +66,21 @@
 		"anno": false,
 		"cat": "sitemap",
 		"stage": "final",
-		"note": "Thorough site map that includes 2nd and 3rd tier sub-levels.",
+		"lead": false,
+		"advisor": false,
+		"industry": "Pharmacology",
+		"note": "Map including 2nd and 3rd sub-level tiers.",
+		"goal": "UI architecture and visuals for company intranet redesign.",
 		"link": {
-			"file": "visuals/abc-map-07-01-080229.png",
+			"file": "/visuals/abc-map-07-01-080229.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/abc-map-07-01-080229.png"
 		},
+		"year-start": 2010,
+		"year-end": 2010,
 		"role": [
 			"Analyst",
-			"Designer",
-			"UI Architect"
+			"Architect",
+			"UX Designer"
 		]
 	},
 	{
@@ -76,15 +94,21 @@
 		"anno": false,
 		"cat": "presentation",
 		"stage": "final",
+		"lead": false,
+		"advisor": true,
+		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
+		"goal": "Presentation on team practices for developers new to large projects.",
 		"link": {
-			"file": "texts/dev-pres-03-01-160323.pptx",
+			"file": "/texts/dev-pres-03-01-160323.pptx",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/dev-pres-03-01-160323.pptx"
 		},
+		"year-start": 2016,
+		"year-end": 2016,
 		"role": [
 			"Frontend Developer",
-			"Writer",
-			"Presenter"
+			"Presenter",
+			"Writer"
 		]
 	},
 	{
@@ -96,18 +120,23 @@
 		"year": 2017,
 		"ftype": "img",
 		"anno": false,
-		"cat": "architecture",
+		"cat": "dataflow",
 		"stage": "draft",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
 		"note": "Working version of the proposed API architecture.",
+		"goal": "Evaluation and documentation of API architecture and processes.",
 		"link": {
-			"file": "visuals/api-arch-01-01-170127.png",
+			"file": "/visuals/api-arch-01-01-170127.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-arch-01-01-170127.png"
 		},
+		"year-start": 2016,
+		"year-end": 2017,
 		"role": [
 			"Analyst",
-			"Designer",
-			"Frontend Developer",
-			"Presenter"
+			"API Developer",
+			"Writer"
 		]
 	},
 	{
@@ -121,16 +150,21 @@
 		"anno": false,
 		"cat": "presentation",
 		"stage": "in revisions",
-		"note": "Near-final co-written API design, co-written by team.",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
+		"note": "Co-written API design whitepaper.",
+		"goal": "Evaluation and documentation of API architecture and processes.",
 		"link": {
-			"file": "texts/api-pres-02-01-171105.txt",
+			"file": "/texts/api-pres-02-01-171105.txt",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/api-pres-02-01-171105.txt"
 		},
+		"year-start": 2017,
+		"year-end": 2018,
 		"role": [
 			"Analyst",
-			"Designer",
-			"Frontend Developer",
-			"Presenter"
+			"API Developer",
+			"Writer"
 		]
 	},
 	{
@@ -144,16 +178,21 @@
 		"anno": false,
 		"cat": "text",
 		"stage": "draft",
-		"note": "Preliminary text for team’s presentation on designing APIs.",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
+		"note": "Team presentation on designing APIs.",
+		"goal": "Evaluation and documentation of API architecture and processes.",
 		"link": {
-			"file": "texts/api-pres-02-01-171105.txt",
+			"file": "/texts/api-pres-02-01-171105.txt",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/api-pres-02-01-171105.txt"
 		},
+		"year-start": 2018,
+		"year-end": 2019,
 		"role": [
 			"Analyst",
-			"Designer",
-			"Frontend Developer",
-			"Presenter"
+			"API Developer",
+			"Writer"
 		]
 	},
 	{
@@ -167,16 +206,21 @@
 		"anno": false,
 		"cat": "architecture",
 		"stage": "final",
-		"note": "Presentation of option A for API gateway design.",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
+		"note": "Option A for API gateway design.",
+		"goal": "Evaluation and documentation of API architecture and processes.",
 		"link": {
-			"file": "visuals/api-arch-06-04-170205.jpg",
+			"file": "/visuals/api-arch-06-04-170205.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-arch-06-04-170205.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2020,
 		"role": [
 			"Analyst",
-			"Designer",
-			"Frontend Developer",
-			"Presenter"
+			"API Developer",
+			"Writer"
 		]
 	},
 	{
@@ -190,16 +234,21 @@
 		"anno": false,
 		"cat": "architecture",
 		"stage": "final",
-		"note": "Presentation of option B for API gateway design.",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
+		"note": "Option B for API gateway design.",
+		"goal": "Evaluation and documentation of API architecture and processes.",
 		"link": {
-			"file": "visuals/api-arch-06-05-170206.jpg",
+			"file": "/visuals/api-arch-06-05-170206.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-arch-06-05-170206.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2021,
 		"role": [
 			"Analyst",
-			"Designer",
-			"Frontend Developer",
-			"Presenter"
+			"API Developer",
+			"Writer"
 		]
 	},
 	{
@@ -213,15 +262,20 @@
 		"anno": false,
 		"cat": "sitemap",
 		"stage": "final",
-		"note": "Circular site map, arranged in order of user workflow.",
+		"lead": false,
+		"advisor": false,
+		"industry": "Publishing",
+		"note": "Circular map, arranged in order of user workflow.",
+		"goal": "Long-fiction, short-fiction, and poetry archive for multiple authors.",
 		"link": {
-			"file": "visuals/arc-map-05-01-120217.png",
+			"file": "/visuals/arc-map-05-01-120217.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/arc-map-05-01-120217.png"
 		},
+		"year-start": 2010,
+		"year-end": 2014,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"Backend Engineer",
+			"Fullstack Developer",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -236,15 +290,20 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "final",
-		"note": "Form for authors to add, edit, and arrange their stories’ chapters.",
+		"lead": false,
+		"advisor": false,
+		"industry": "Publishing",
+		"note": "Author administration page, for adding/revising story chapters.",
+		"goal": "Long-fiction, short-fiction, and poetry archive for multiple authors.",
 		"link": {
-			"file": "visuals/arc-form-05-02-110512.png",
+			"file": "/visuals/arc-form-05-02-110512.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/arc-form-05-02-110512.png"
 		},
+		"year-start": 2011,
+		"year-end": 2015,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"Backend Engineer",
+			"Fullstack Developer",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -259,15 +318,21 @@
 		"anno": false,
 		"cat": "mockup",
 		"stage": "final",
+		"lead": false,
+		"advisor": true,
+		"industry": "AI",
 		"note": "Start-point of animation in login page.",
+		"goal": "Assist and advise pre-seed startup in brand, design, and content styles.",
 		"link": {
-			"file": "visuals/bst-mock-02-01-230718.png",
+			"file": "/visuals/bst-mock-02-01-230718.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-mock-02-01-230718.png"
 		},
+		"year-start": 2023,
+		"year-end": 2023,
 		"role": [
-			"Designer",
-			"Writer",
-			"UI Architect"
+			"Architect",
+			"UX Designer",
+			"Writer"
 		]
 	},
 	{
@@ -281,15 +346,21 @@
 		"anno": false,
 		"cat": "mockup",
 		"stage": "in revisions",
-		"note": "Design example, using AI-produced text.",
+		"lead": false,
+		"advisor": true,
+		"industry": "AI",
+		"note": "Conceptual design, using dialogue produced with beta AI app.",
+		"goal": "Assist and advise pre-seed startup in brand, design, and content styles.",
 		"link": {
-			"file": "visuals/bst-mock-02-04-230724.png",
+			"file": "/visuals/bst-mock-02-04-230724.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-mock-02-04-230724.png"
 		},
+		"year-start": 2024,
+		"year-end": 2024,
 		"role": [
-			"Designer",
-			"Writer",
-			"UI Architect"
+			"Architect",
+			"UX Designer",
+			"Writer"
 		]
 	},
 	{
@@ -303,15 +374,21 @@
 		"anno": false,
 		"cat": "mockup",
 		"stage": "in revisions",
-		"note": "Design example, using AI-produced text.",
+		"lead": false,
+		"advisor": true,
+		"industry": "AI",
+		"note": "Conceptual design, using dialogue produced with beta AI app.",
+		"goal": "Assist and advise pre-seed startup in brand, design, and content styles.",
 		"link": {
-			"file": "visuals/bst-mock-02-07-230724.png",
+			"file": "/visuals/bst-mock-02-07-230724.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-mock-02-07-230724.png"
 		},
+		"year-start": 2025,
+		"year-end": 2025,
 		"role": [
-			"Designer",
-			"Writer",
-			"UI Architect"
+			"Architect",
+			"UX Designer",
+			"Writer"
 		]
 	},
 	{
@@ -325,15 +402,21 @@
 		"anno": false,
 		"cat": "mockup",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": true,
+		"industry": "AI",
 		"note": "Visual metaphor for the creation of AI-based ontologies.",
+		"goal": "Assist and advise pre-seed startup in brand, design, and content styles.",
 		"link": {
-			"file": "visuals/bst-mock-04-05-230831.jpg",
+			"file": "/visuals/bst-mock-04-05-230831.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-mock-04-05-230831.jpg"
 		},
+		"year-start": 2026,
+		"year-end": 2026,
 		"role": [
-			"Designer",
-			"Writer",
-			"UI Architect"
+			"Architect",
+			"UX Designer",
+			"Writer"
 		]
 	},
 	{
@@ -347,15 +430,21 @@
 		"anno": false,
 		"cat": "presentation",
 		"stage": "final",
-		"note": "Simplified visual for non-technical investors.",
+		"lead": false,
+		"advisor": true,
+		"industry": "AI",
+		"note": "Simplified visuals for non-technical investors.",
+		"goal": "Assist and advise pre-seed startup in brand, design, and content styles.",
 		"link": {
-			"file": "visuals/bst-pres-05-05-230728.jpg",
+			"file": "/visuals/bst-pres-05-05-230728.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-pres-05-05-230728.jpg"
 		},
+		"year-start": 2027,
+		"year-end": 2027,
 		"role": [
-			"Designer",
-			"Writer",
-			"UI Architect"
+			"Architect",
+			"UX Designer",
+			"Writer"
 		]
 	},
 	{
@@ -369,15 +458,21 @@
 		"anno": false,
 		"cat": "presentation",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": true,
+		"industry": "AI",
 		"note": "Example of concept in action, with design applied.",
+		"goal": "Assist and advise pre-seed startup in brand, design, and content styles.",
 		"link": {
-			"file": "visuals/bst-pres-05-07-230728.jpg",
+			"file": "/visuals/bst-pres-05-07-230728.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-pres-05-07-230728.jpg"
 		},
+		"year-start": 2028,
+		"year-end": 2028,
 		"role": [
-			"Designer",
-			"Writer",
-			"UI Architect"
+			"Architect",
+			"UX Designer",
+			"Writer"
 		]
 	},
 	{
@@ -391,13 +486,19 @@
 		"anno": false,
 		"cat": "wireframe",
 		"stage": "draft",
-		"note": "Draft of proposed directory of available internal APIs, for Cloud use.",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
+		"note": "Directory of available internal APIs.",
+		"goal": "Catalog for APIs similar to Bluemix Components concept.",
 		"link": {
-			"file": "visuals/capi-wire-01-01-160630.png",
+			"file": "/visuals/capi-wire-01-01-160630.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/capi-wire-01-01-160630.png"
 		},
+		"year-start": 2016,
+		"year-end": 2016,
 		"role": [
-			"Designer",
+			"UX Designer",
 			"UX Researcher",
 			"Presenter"
 		]
@@ -413,13 +514,19 @@
 		"anno": false,
 		"cat": "wireframe",
 		"stage": "draft",
-		"note": "Draft of proposed directory of available internal APIs, for Cloud use.",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
+		"note": "Directory of available internal APIs.",
+		"goal": "Catalog for APIs similar to Bluemix Components concept.",
 		"link": {
-			"file": "visuals/capi-wire-01-02-160630.png",
+			"file": "/visuals/capi-wire-01-02-160630.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/capi-wire-01-02-160630.png"
 		},
+		"year-start": 2017,
+		"year-end": 2017,
 		"role": [
-			"Designer",
+			"UX Designer",
 			"UX Researcher",
 			"Presenter"
 		]
@@ -435,14 +542,20 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "in revisions",
-		"note": "Form incorporating accessibility lessons learned while consulting.",
+		"lead": false,
+		"advisor": false,
+		"industry": "Animal Rescue",
+		"note": "Incorporating accessibility lessons learned while consulting.",
+		"goal": "Directory for tracking feral and non-feral neighborhood cats.",
 		"link": {
-			"file": "visuals/cat-form-01-04-120209.jpg",
+			"file": "/visuals/cat-form-01-04-120209.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cat-form-01-04-120209.jpg"
 		},
+		"year-start": 2011,
+		"year-end": 2012,
 		"role": [
-			"Designer",
 			"Frontend Developer",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -457,14 +570,20 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Animal Rescue",
 		"note": "A slight case of taking a good idea a little too far.",
+		"goal": "Directory for tracking feral and non-feral neighborhood cats.",
 		"link": {
-			"file": "visuals/cat-form-01-07-120209.jpg",
+			"file": "/visuals/cat-form-01-07-120209.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cat-form-01-07-120209.jpg"
 		},
+		"year-start": 2012,
+		"year-end": 2013,
 		"role": [
-			"Designer",
 			"Frontend Developer",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -479,14 +598,20 @@
 		"anno": false,
 		"cat": "tour",
 		"stage": "final",
-		"note": "Redesign applying the new design system, further organized to show user movement through the webapp.",
+		"lead": false,
+		"advisor": true,
+		"industry": "Platform (PAAS)",
+		"note": "Showing user movement through the webapp, with design system applied.",
+		"goal": "Redesign of customer platform, applying latest design system patterns.",
 		"link": {
-			"file": "visuals/ccts-tour-01-01-170505.pdf",
+			"file": "/visuals/ccts-tour-01-01-170505.pdf",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ccts-tour-01-01-170505.pdf"
 		},
+		"year-start": 2017,
+		"year-end": 2017,
 		"role": [
-			"Designer",
-			"Dataviz Designer"
+			"Dataviz Designer",
+			"UX Designer"
 		]
 	},
 	{
@@ -500,17 +625,21 @@
 		"anno": false,
 		"cat": "presentation",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Data Management",
 		"note": "Getting a newly-built team on the same page about management tactics.",
+		"goal": "Internal site introducing and explaining the NA Chief Data Office mission.",
 		"link": {
-			"file": "texts/cdo-pres-01-01-170821.pdf",
+			"file": "/texts/cdo-pres-01-01-170821.pdf",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/cdo-pres-01-01-170821.pdf"
 		},
+		"year-start": 2018,
+		"year-end": 2020,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -524,17 +653,21 @@
 		"anno": false,
 		"cat": "whitepaper",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Data Management",
 		"note": "Paper about the necessity of centralizing data and integrating design for a more efficient business.",
+		"goal": "Internal site introducing and explaining the NA Chief Data Office mission.",
 		"link": {
-			"file": "texts/cdo-paper-03-01-170523.pdf",
+			"file": "/texts/cdo-paper-03-01-170523.pdf",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/cdo-paper-03-01-170523.pdf"
 		},
+		"year-start": 2019,
+		"year-end": 2021,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -548,17 +681,21 @@
 		"anno": false,
 		"cat": "sitemap",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Data Management",
 		"note": "Visual representation of how a centralized data office connects and integrates with its client teams.",
+		"goal": "Internal site introducing and explaining the NA Chief Data Office mission.",
 		"link": {
-			"file": "visuals/cdo-map-04-01-170510.jpg",
+			"file": "/visuals/cdo-map-04-01-170510.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cdo-map-04-01-170510.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2022,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -572,17 +709,21 @@
 		"anno": false,
 		"cat": "whitepaper",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Data Management",
 		"note": "Paper to support Cognitive Platform initiative. (Boy do those dashboard images make me cringe, now.)",
+		"goal": "Internal site introducing and explaining the NA Chief Data Office mission.",
 		"link": {
-			"file": "texts/cdo-paper-04-01-170523.pdf",
+			"file": "/texts/cdo-paper-04-01-170523.pdf",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/cdo-paper-04-01-170523.pdf"
 		},
+		"year-start": 2021,
+		"year-end": 2023,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -596,17 +737,21 @@
 		"anno": false,
 		"cat": "wireframe",
 		"stage": "draft",
-		"note": "The first of many iterations in figuring the information architecture.",
+		"lead": false,
+		"advisor": false,
+		"industry": "Writing",
+		"note": "Drafting the information architecture.",
+		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "visuals/chr-wire-01-01-110426.png",
+			"file": "/visuals/chr-wire-01-01-110426.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-wire-01-01-110426.png"
 		},
+		"year-start": 2011,
+		"year-end": 2017,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -620,17 +765,21 @@
 		"anno": false,
 		"cat": "sitemap",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Writing",
 		"note": "An experiment in blending site map and user flow in a circularly-architected UI.",
+		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "visuals/chr-map-02-01-120712.png",
+			"file": "/visuals/chr-map-02-01-120712.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-map-02-01-120712.png"
 		},
+		"year-start": 2012,
+		"year-end": 2018,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -644,17 +793,21 @@
 		"anno": false,
 		"cat": "wireframe",
 		"stage": "draft",
+		"lead": false,
+		"advisor": false,
+		"industry": "Writing",
 		"note": "An attempt to satisfy user requests for a packed data table, but the result was unfortunately inaccessible. ",
+		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "visuals/chr-wire-02-02-120216.png",
+			"file": "/visuals/chr-wire-02-02-120216.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-wire-02-02-120216.png"
 		},
+		"year-start": 2013,
+		"year-end": 2019,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -668,17 +821,21 @@
 		"anno": false,
 		"cat": "wireframe",
 		"stage": "draft",
+		"lead": false,
+		"advisor": false,
+		"industry": "Writing",
 		"note": "Drawer slide up/down design for reducing cognitive load of a complicated form.",
+		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "visuals/chr-wire-02-03-120216.png",
+			"file": "/visuals/chr-wire-02-03-120216.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-wire-02-03-120216.png"
 		},
+		"year-start": 2014,
+		"year-end": 2020,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -690,19 +847,23 @@
 		"year": 2011,
 		"ftype": "img",
 		"anno": false,
-		"cat": "form",
+		"cat": "screenshot",
 		"stage": "final",
-		"note": "Screenshot of prototype for character management webapp. ",
+		"lead": false,
+		"advisor": false,
+		"industry": "Writing",
+		"note": "Prototype for character management webapp. ",
+		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "visuals/chr-form-02-04-110509.png",
+			"file": "/visuals/chr-form-02-04-110509.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-form-02-04-110509.png"
 		},
+		"year-start": 2015,
+		"year-end": 2021,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -714,19 +875,23 @@
 		"year": 2012,
 		"ftype": "img",
 		"anno": false,
-		"cat": "form",
+		"cat": "screenshot",
 		"stage": "final",
-		"note": "Screenshot of prototype for character management webapp. ",
+		"lead": false,
+		"advisor": false,
+		"industry": "Writing",
+		"note": "Prototype for character management webapp. ",
+		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "visuals/chr-form-02-07-120705.jpg",
+			"file": "/visuals/chr-form-02-07-120705.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-form-02-07-120705.jpg"
 		},
+		"year-start": 2016,
+		"year-end": 2022,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -738,19 +903,23 @@
 		"year": 2015,
 		"ftype": "img",
 		"anno": false,
-		"cat": "form",
+		"cat": "screenshot",
 		"stage": "final",
-		"note": "Screenshot of production version of character management webapp, showing dropdown contents.",
+		"lead": false,
+		"advisor": false,
+		"industry": "Writing",
+		"note": "Production version of character management webapp, showing dropdown contents.",
+		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "visuals/chr-form-03-05-151116.png",
+			"file": "/visuals/chr-form-03-05-151116.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-form-03-05-151116.png"
 		},
+		"year-start": 2017,
+		"year-end": 2023,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -762,19 +931,23 @@
 		"year": 2015,
 		"ftype": "img",
 		"anno": false,
-		"cat": "form",
+		"cat": "screenshot",
 		"stage": "final",
-		"note": "Screenshot of production version of character management webapp, showing dropdown contents.",
+		"lead": false,
+		"advisor": false,
+		"industry": "Writing",
+		"note": "Production version of character management webapp, showing dropdown contents.",
+		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "visuals/chr-form-03-07-151116.png",
+			"file": "/visuals/chr-form-03-07-151116.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-form-03-07-151116.png"
 		},
+		"year-start": 2018,
+		"year-end": 2024,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -788,17 +961,21 @@
 		"anno": false,
 		"cat": "sitemap",
 		"stage": "final",
+		"lead": false,
+		"advisor": false,
+		"industry": "Writing",
 		"note": "A simplified and streamlined site map. ",
+		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "visuals/chr-map-04-03-120712.png",
+			"file": "/visuals/chr-map-04-03-120712.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-map-04-03-120712.png"
 		},
+		"year-start": 2019,
+		"year-end": 2025,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -812,17 +989,21 @@
 		"anno": false,
 		"cat": "screenshot",
 		"stage": "final",
-		"note": "Earliest prototype of an inventory site for the team’s projects.",
+		"lead": true,
+		"advisor": false,
+		"industry": "Data Analytics",
+		"note": "Prototype inventory site tracking the team’s projects.",
+		"goal": "Evolution of CDO team site into a catalog of analytics dashboards.",
 		"link": {
-			"file": "visuals/csaa-page-01-01-181105.jpg",
+			"file": "/visuals/csaa-page-01-01-181105.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/csaa-page-01-01-181105.jpg"
 		},
+		"year-start": 2018,
+		"year-end": 2019,
 		"role": [
-			"Frontend Developer",
-			"Backend Engineer",
-			"UX Researcher",
-			"UI Architect",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -836,17 +1017,21 @@
 		"anno": false,
 		"cat": "screenshot",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Data Analytics",
 		"note": "Users nicknamed the boxes ‘cards’, inspiring the metaphor of a card catalog.",
+		"goal": "Evolution of CDO team site into a catalog of analytics dashboards.",
 		"link": {
-			"file": "visuals/csaa-page-03-01-181107.jpg",
+			"file": "/visuals/csaa-page-03-01-181107.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/csaa-page-03-01-181107.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2020,
 		"role": [
-			"Frontend Developer",
-			"Backend Engineer",
-			"UX Researcher",
-			"UI Architect",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -860,17 +1045,21 @@
 		"anno": false,
 		"cat": "screenshot",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Data Analytics",
 		"note": "A more complex main page thanks to increasingly detailed metadata for each linked dashboard.",
+		"goal": "Evolution of CDO team site into a catalog of analytics dashboards.",
 		"link": {
-			"file": "visuals/csaa-page-09-01-190516.jpg",
+			"file": "/visuals/csaa-page-09-01-190516.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/csaa-page-09-01-190516.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2021,
 		"role": [
-			"Frontend Developer",
-			"Backend Engineer",
-			"UX Researcher",
-			"UI Architect",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -884,16 +1073,21 @@
 		"anno": false,
 		"cat": "text",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "User Research",
 		"note": "Basic script for user interviews on new dashboards and/or visualizations.",
+		"goal": "Next-generation analytics catalog, focused on upskill/reskill initiative.",
 		"link": {
-			"file": "texts/ctta-text-01-01-200604.txt",
+			"file": "/texts/ctta-text-01-01-200604.txt",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/ctta-text-01-01-200604.txt"
 		},
+		"year-start": 2019,
+		"year-end": 2020,
 		"role": [
-			"Frontend Developer",
-			"Backend Engineer",
-			"UX Researcher",
-			"UI Architect"
+			"Architect",
+			"Fullstack Developer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -907,16 +1101,21 @@
 		"anno": false,
 		"cat": "sitemap",
 		"stage": "draft",
+		"lead": true,
+		"advisor": false,
+		"industry": "User Research",
 		"note": "Preliminary visual for stakeholder discussion on organizing related dashboards. ",
+		"goal": "Next-generation analytics catalog, focused on upskill/reskill initiative.",
 		"link": {
-			"file": "visuals/ctta-map-02-02-191005.jpg",
+			"file": "/visuals/ctta-map-02-02-191005.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-map-02-02-191005.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2021,
 		"role": [
-			"Frontend Developer",
-			"Backend Engineer",
-			"UX Researcher",
-			"UI Architect"
+			"Architect",
+			"Fullstack Developer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -930,16 +1129,21 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "User Support",
 		"note": "Automated routing form to handle growing number of user requests.",
+		"goal": "Next-generation analytics catalog, focused on upskill/reskill initiative.",
 		"link": {
-			"file": "visuals/ctta-form-07-01-200507.jpg",
+			"file": "/visuals/ctta-form-07-01-200507.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-form-07-01-200507.jpg"
 		},
+		"year-start": 2021,
+		"year-end": 2022,
 		"role": [
-			"Frontend Developer",
-			"Backend Engineer",
-			"UX Researcher",
-			"UI Architect"
+			"Architect",
+			"Fullstack Developer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -953,16 +1157,21 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "User Support",
 		"note": "CRUD system for data scientists and analysts to manage cards for their respective dashboards.",
+		"goal": "Next-generation analytics catalog, focused on upskill/reskill initiative.",
 		"link": {
-			"file": "visuals/ctta-form-07-02-200507.jpg",
+			"file": "/visuals/ctta-form-07-02-200507.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-form-07-02-200507.jpg"
 		},
+		"year-start": 2022,
+		"year-end": 2023,
 		"role": [
-			"Frontend Developer",
-			"Backend Engineer",
-			"UX Researcher",
-			"UI Architect"
+			"Architect",
+			"Fullstack Developer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -976,16 +1185,21 @@
 		"anno": false,
 		"cat": "screenshot",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "User Support",
 		"note": "Growing catalog size necessitated a more complex filtering system. ",
+		"goal": "Next-generation analytics catalog, focused on upskill/reskill initiative.",
 		"link": {
-			"file": "visuals/ctta-page-12-01-200609.jpg",
+			"file": "/visuals/ctta-page-12-01-200609.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-page-12-01-200609.jpg"
 		},
+		"year-start": 2023,
+		"year-end": 2024,
 		"role": [
-			"Frontend Developer",
-			"Backend Engineer",
-			"UX Researcher",
-			"UI Architect"
+			"Architect",
+			"Fullstack Developer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -999,16 +1213,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Learning Analytics",
 		"note": "Prototype of pie/bullet combination with a data table.",
+		"goal": "Vue/D3 standalone dashboard for tracking reskill/upskill efforts across industries based on Segment Training concept.",
 		"link": {
-			"file": "visuals/da2t-dviz-01-01-190719.jpg",
+			"file": "/visuals/da2t-dviz-01-01-190719.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-01-01-190719.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2021,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
-			"API Developer"
+			"UX Designer"
 		]
 	},
 	{
@@ -1022,16 +1241,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a pie/table combination.",
+		"goal": "Vue/D3 standalone dashboard for tracking reskill/upskill efforts across industries based on Segment Training concept.",
 		"link": {
-			"file": "visuals/da2t-dviz-01-02-190719.jpg",
+			"file": "/visuals/da2t-dviz-01-02-190719.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-01-02-190719.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2022,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
-			"API Developer"
+			"UX Designer"
 		]
 	},
 	{
@@ -1045,16 +1269,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a BAN/bullet combination.",
+		"goal": "Vue/D3 standalone dashboard for tracking reskill/upskill efforts across industries based on Segment Training concept.",
 		"link": {
-			"file": "visuals/da2t-dviz-02-01-191016.jpg",
+			"file": "/visuals/da2t-dviz-02-01-191016.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-02-01-191016.jpg"
 		},
+		"year-start": 2021,
+		"year-end": 2023,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
-			"API Developer"
+			"UX Designer"
 		]
 	},
 	{
@@ -1068,16 +1297,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with trending data.",
+		"goal": "Vue/D3 standalone dashboard for tracking reskill/upskill efforts across industries based on Segment Training concept.",
 		"link": {
-			"file": "visuals/da2t-dviz-03-01-190613.jpg",
+			"file": "/visuals/da2t-dviz-03-01-190613.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-03-01-190613.jpg"
 		},
+		"year-start": 2022,
+		"year-end": 2024,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
-			"API Developer"
+			"UX Designer"
 		]
 	},
 	{
@@ -1091,16 +1325,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a funnel-style visual.",
+		"goal": "Vue/D3 standalone dashboard for tracking reskill/upskill efforts across industries based on Segment Training concept.",
 		"link": {
-			"file": "visuals/da2t-dviz-04-01-190612.jpg",
+			"file": "/visuals/da2t-dviz-04-01-190612.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-04-01-190612.jpg"
 		},
+		"year-start": 2023,
+		"year-end": 2025,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
-			"API Developer"
+			"UX Designer"
 		]
 	},
 	{
@@ -1114,15 +1353,21 @@
 		"anno": true,
 		"cat": "design system",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Design System",
 		"note": "Example of dashboard design, including spacing, fonts, and classes.",
+		"goal": "Data visualization standards and guide for embedded dashboards in the analytics catalog.",
 		"link": {
-			"file": "visuals/dall-des-03-04-210325.png",
+			"file": "/visuals/dall-des-03-04-210325.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-03-04-210325.png"
 		},
+		"year-start": 2018,
+		"year-end": 2021,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1136,15 +1381,21 @@
 		"anno": true,
 		"cat": "design system",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Design System",
 		"note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
+		"goal": "Data visualization standards and guide for embedded dashboards in the analytics catalog.",
 		"link": {
-			"file": "visuals/dall-des-06-01-221003.jpg",
+			"file": "/visuals/dall-des-06-01-221003.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-06-01-221003.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2022,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1158,15 +1409,21 @@
 		"anno": true,
 		"cat": "design system",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Design System",
 		"note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
+		"goal": "Data visualization standards and guide for embedded dashboards in the analytics catalog.",
 		"link": {
-			"file": "visuals/dall-des-06-02-221003.jpg",
+			"file": "/visuals/dall-des-06-02-221003.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-06-02-221003.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2023,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1180,15 +1437,21 @@
 		"anno": false,
 		"cat": "design system",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Design System",
 		"note": "Quick (and regularly updated) cheat sheet for data analysts when building dashboards.",
+		"goal": "Data visualization standards and guide for embedded dashboards in the analytics catalog.",
 		"link": {
-			"file": "visuals/dall-des-09-02-190215.jpg",
+			"file": "/visuals/dall-des-09-02-190215.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-09-02-190215.jpg"
 		},
+		"year-start": 2021,
+		"year-end": 2024,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1202,15 +1465,21 @@
 		"anno": true,
 		"cat": "design system",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Design System",
 		"note": "A thorough and annotated example of design for panels, fonts, charts, and helper text.",
+		"goal": "Data visualization standards and guide for embedded dashboards in the analytics catalog.",
 		"link": {
-			"file": "visuals/dall-des-09-03-190215.jpg",
+			"file": "/visuals/dall-des-09-03-190215.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-09-03-190215.jpg"
 		},
+		"year-start": 2022,
+		"year-end": 2025,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1224,15 +1493,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": true,
+		"industry": "Resource Management",
 		"note": "At-a-glance charts for tracking attrition data.",
+		"goal": "Visualization index with complex data tables for tracking attrition rates.",
 		"link": {
-			"file": "visuals/datt-viz-07-01-220803.jpg",
+			"file": "/visuals/datt-viz-07-01-220803.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/datt-viz-07-01-220803.jpg"
 		},
+		"year-start": 2021,
+		"year-end": 2022,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1247,15 +1522,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": true,
+		"industry": "Resource Management",
 		"note": "Visualization index with complex data tables for tracking attrition rates.",
+		"goal": "Visualization index with complex data tables for tracking attrition rates.",
 		"link": {
-			"file": "visuals/datt-viz-07-02-220806.jpg",
+			"file": "/visuals/datt-viz-07-02-220806.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/datt-viz-07-02-220806.jpg"
 		},
+		"year-start": 2022,
+		"year-end": 2023,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1270,15 +1551,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "idea",
+		"lead": false,
+		"advisor": false,
+		"industry": "User Research",
 		"note": "Variations to help users identify which dataviz best matches with their ‘view’ of the data.",
+		"goal": "Complex dashboard for managing headcount gaps and resolution strategies.",
 		"link": {
-			"file": "visuals/dcap-dviz-01-00-191204.jpg",
+			"file": "/visuals/dcap-dviz-01-00-191204.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-01-00-191204.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2020,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1293,15 +1580,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Resource Management",
 		"note": "Left-justified bar chart for comparing personnel needs across teams. ",
+		"goal": "Complex dashboard for managing headcount gaps and resolution strategies.",
 		"link": {
-			"file": "visuals/dcap-dviz-04-03-200512.jpg",
+			"file": "/visuals/dcap-dviz-04-03-200512.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-04-03-200512.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2021,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1316,15 +1609,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Resource Management",
 		"note": "Experimental visualization for viewing levels of projected needs.",
+		"goal": "Complex dashboard for managing headcount gaps and resolution strategies.",
 		"link": {
-			"file": "visuals/dcap-dviz-04-04-200512.jpg",
+			"file": "/visuals/dcap-dviz-04-04-200512.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-04-04-200512.jpg"
 		},
+		"year-start": 2021,
+		"year-end": 2022,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1339,15 +1638,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Resource Management",
 		"note": "Mock for demonstrating and explaining an advanced-level dataviz.",
+		"goal": "Complex dashboard for managing headcount gaps and resolution strategies.",
 		"link": {
-			"file": "visuals/dcap-dviz-04-06-200512.jpg",
+			"file": "/visuals/dcap-dviz-04-06-200512.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-04-06-200512.jpg"
 		},
+		"year-start": 2022,
+		"year-end": 2023,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1362,15 +1667,21 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Resource Management",
 		"note": "Dashboard incorporating interactive form, for user input to calculate and project future trends.",
+		"goal": "Complex dashboard for managing headcount gaps and resolution strategies.",
 		"link": {
-			"file": "visuals/dcap-form-06-02-200316.jpg",
+			"file": "/visuals/dcap-form-06-02-200316.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-form-06-02-200316.jpg"
 		},
+		"year-start": 2023,
+		"year-end": 2024,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1385,15 +1696,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "User Research",
 		"note": "Quick mock created during user discussions, using placeholder dataviz with fake data.",
+		"goal": "Program enrollment dashboard.",
 		"link": {
-			"file": "visuals/dedv-dviz-01-03-191010.jpg",
+			"file": "/visuals/dedv-dviz-01-03-191010.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dedv-dviz-01-03-191010.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2019,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1407,15 +1724,21 @@
 		"anno": false,
 		"cat": "text",
 		"stage": "draft",
+		"lead": true,
+		"advisor": false,
+		"industry": "Design System",
 		"note": "Whitepaper draft on the design, use, and value of good dataviz.",
+		"goal": "Modern design system including code components using storybook.",
 		"link": {
-			"file": "texts/des-pres-03-01-230128.txt",
+			"file": "/texts/des-pres-03-01-230128.txt",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-pres-03-01-230128.txt"
 		},
+		"year-start": 2022,
+		"year-end": 2023,
 		"role": [
-			"Designer",
+			"Architect",
 			"Frontend Developer",
-			"UI Architect",
+			"UX Designer",
 			"Writer"
 		]
 	},
@@ -1430,15 +1753,21 @@
 		"anno": false,
 		"cat": "text",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Design System",
 		"note": "Summaries of research results comparing competitors’ design systems.",
+		"goal": "Modern design system including code components using storybook.",
 		"link": {
-			"file": "texts/des-text-01-01-221219.txt",
+			"file": "/texts/des-text-01-01-221219.txt",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-text-01-01-221219.txt"
 		},
+		"year-start": 2023,
+		"year-end": 2024,
 		"role": [
-			"Designer",
+			"Architect",
 			"Frontend Developer",
-			"UI Architect",
+			"UX Designer",
 			"Writer"
 		]
 	},
@@ -1453,15 +1782,21 @@
 		"anno": false,
 		"cat": "text",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Design System",
 		"note": "Full outline for design system documentation, including future topics.",
+		"goal": "Modern design system including code components using storybook.",
 		"link": {
-			"file": "texts/des-text-01-02-221219.txt",
+			"file": "/texts/des-text-01-02-221219.txt",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-text-01-02-221219.txt"
 		},
+		"year-start": 2024,
+		"year-end": 2025,
 		"role": [
-			"Designer",
+			"Architect",
 			"Frontend Developer",
-			"UI Architect",
+			"UX Designer",
 			"Writer"
 		]
 	},
@@ -1476,15 +1811,21 @@
 		"anno": false,
 		"cat": "text",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Design System",
 		"note": "Draft of presentation text for design system proposal.",
+		"goal": "Modern design system including code components using storybook.",
 		"link": {
-			"file": "texts/des-text-01-04-230120.txt",
+			"file": "/texts/des-text-01-04-230120.txt",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-text-01-04-230120.txt"
 		},
+		"year-start": 2025,
+		"year-end": 2026,
 		"role": [
-			"Designer",
+			"Architect",
 			"Frontend Developer",
-			"UI Architect",
+			"UX Designer",
 			"Writer"
 		]
 	},
@@ -1499,15 +1840,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "draft",
+		"lead": false,
+		"advisor": true,
+		"industry": "User Research",
 		"note": "Mocked dashboard with over-use of piecharts.",
+		"goal": "Executive overview dashboard with presentation-style charts.",
 		"link": {
-			"file": "visuals/dexv-divz-01-01-180928.jpg",
+			"file": "/visuals/dexv-divz-01-01-180928.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-01-01-180928.jpg"
 		},
+		"year-start": 2018,
+		"year-end": 2021,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1522,15 +1869,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "draft",
+		"lead": false,
+		"advisor": true,
+		"industry": "User Research",
 		"note": "Mocked dashboard with too many colors.",
+		"goal": "Executive overview dashboard with presentation-style charts.",
 		"link": {
-			"file": "visuals/dexv-divz-02-01-180927.jpg",
+			"file": "/visuals/dexv-divz-02-01-180927.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-02-01-180927.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2022,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1545,15 +1898,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "draft",
+		"lead": false,
+		"advisor": true,
+		"industry": "User Research",
 		"note": "Mocked dashboard with third iteration dataviz ideas.",
+		"goal": "Executive overview dashboard with presentation-style charts.",
 		"link": {
-			"file": "visuals/dexv-divz-04-01-190116.jpg",
+			"file": "/visuals/dexv-divz-04-01-190116.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-04-01-190116.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2023,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1568,15 +1927,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "draft",
+		"lead": false,
+		"advisor": true,
+		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
+		"goal": "Executive overview dashboard with presentation-style charts.",
 		"link": {
-			"file": "visuals/dexv-divz-06-01-190419.jpg",
+			"file": "/visuals/dexv-divz-06-01-190419.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-06-01-190419.jpg"
 		},
+		"year-start": 2021,
+		"year-end": 2024,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1591,15 +1956,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "draft",
+		"lead": false,
+		"advisor": true,
+		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
+		"goal": "Executive overview dashboard with presentation-style charts.",
 		"link": {
-			"file": "visuals/dexv-divz-06-04-190419.jpg",
+			"file": "/visuals/dexv-divz-06-04-190419.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-06-04-190419.jpg"
 		},
+		"year-start": 2022,
+		"year-end": 2025,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1614,15 +1985,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": true,
+		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
+		"goal": "Executive overview dashboard with presentation-style charts.",
 		"link": {
-			"file": "visuals/dexv-divz-06-05-190417.jpg",
+			"file": "/visuals/dexv-divz-06-05-190417.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-06-05-190417.jpg"
 		},
+		"year-start": 2023,
+		"year-end": 2026,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1637,15 +2014,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Sales Analytics",
 		"note": "Complex dashboard for viewing regional go-to-market data.",
+		"goal": "Complex dashboard for viewing and comparing regional go-to-market data.",
 		"link": {
-			"file": "visuals/dg2m-viz-02-01-201029.jpg",
+			"file": "/visuals/dg2m-viz-02-01-201029.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dg2m-viz-02-01-201029.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2021,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1660,15 +2043,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": true,
+		"industry": "Resource Management",
 		"note": "Target tracking by region, with RAG-style visualizations.",
+		"goal": "At-a-glance visualizations with data table for details.",
 		"link": {
-			"file": "visuals/djrs-dviz-02-01-210505.jpg",
+			"file": "/visuals/djrs-dviz-02-01-210505.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/djrs-dviz-02-01-210505.jpg"
 		},
+		"year-start": 2021,
+		"year-end": 2021,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1683,15 +2072,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "final",
+		"lead": false,
+		"advisor": false,
+		"industry": "Team Management",
 		"note": "Dashboard showing potential views dependent on metadata tracking.",
+		"goal": "Leaderboard for data scientists, architects, and analysts.",
 		"link": {
-			"file": "visuals/dlbd-divz-01-01-190415.jpg",
+			"file": "/visuals/dlbd-divz-01-01-190415.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dlbd-divz-01-01-190415.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2019,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1705,15 +2100,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "final",
+		"lead": false,
+		"advisor": false,
+		"industry": "Team Management",
 		"note": "Mocked dashboard using only available types of data.",
+		"goal": "Leaderboard for data scientists, architects, and analysts.",
 		"link": {
-			"file": "visuals/dlbd-divz-02-01-190418.jpg",
+			"file": "/visuals/dlbd-divz-02-01-190418.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dlbd-divz-02-01-190418.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2020,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1727,14 +2128,20 @@
 		"anno": false,
 		"cat": "architecture",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Data Management",
 		"note": "Visual for possible data lake organization and architecture.",
+		"goal": "Design and present system map for potential data lake.",
 		"link": {
-			"file": "visuals/dlk-arch-02-06-180217.png",
+			"file": "/visuals/dlk-arch-02-06-180217.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dlk-arch-02-06-180217.png"
 		},
+		"year-start": 2017,
+		"year-end": 2017,
 		"role": [
-			"Designer",
-			"UI Architect"
+			"Architect",
+			"UX Designer"
 		]
 	},
 	{
@@ -1748,15 +2155,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "HR Analytics",
 		"note": "At-a-glance trends for delivery group onboarding.",
+		"goal": "Proposed visualizations for managing onboarding progress.",
 		"link": {
-			"file": "visuals/donb-dviz-02-01-210318.jpg",
+			"file": "/visuals/donb-dviz-02-01-210318.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/donb-dviz-02-01-210318.jpg"
 		},
+		"year-start": 2021,
+		"year-end": 2021,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -1771,15 +2184,21 @@
 		"anno": false,
 		"cat": "sitemap",
 		"stage": "idea",
+		"lead": false,
+		"advisor": false,
+		"industry": "HR Analytics",
 		"note": "Mapping concept and purpose of new dashboard.",
+		"goal": "Exploratory employee skills assessment using AI-trained textual inference.",
 		"link": {
-			"file": "visuals/dont-map-01-01-181202.jpg",
+			"file": "/visuals/dont-map-01-01-181202.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-map-01-01-181202.jpg"
 		},
+		"year-start": 2018,
+		"year-end": 2019,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1793,15 +2212,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "HR Analytics",
 		"note": "AI-based education dashboard with annotations.",
+		"goal": "Exploratory employee skills assessment using AI-trained textual inference.",
 		"link": {
-			"file": "visuals/dont-divz-05-00-190829.jpg",
+			"file": "/visuals/dont-divz-05-00-190829.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-divz-05-00-190829.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2020,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1815,15 +2240,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "HR Analytics",
 		"note": "AI-based education dashboard, incorporating billing and claims history.",
+		"goal": "Exploratory employee skills assessment using AI-trained textual inference.",
 		"link": {
-			"file": "visuals/dont-divz-06-05-191001.jpg",
+			"file": "/visuals/dont-divz-06-05-191001.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-divz-06-05-191001.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2021,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1837,15 +2268,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "draft",
+		"lead": false,
+		"advisor": false,
+		"industry": "Data Analytics",
 		"note": "Early iteration for executive personnel ROI dashboard.",
+		"goal": "Proposed page architecture and interaction, for executive presentation.",
 		"link": {
-			"file": "visuals/droi-divz-01-04-191029.jpg",
+			"file": "/visuals/droi-divz-01-04-191029.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/droi-divz-01-04-191029.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2020,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Dataviz Designer"
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
 		]
 	},
 	{
@@ -1859,15 +2296,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Data Analytics",
 		"note": "Exploration of visual patterns for data hierarchy.",
+		"goal": "Proposed page architecture and interaction, for executive presentation.",
 		"link": {
-			"file": "visuals/droi-divz-02-01-191103.jpg",
+			"file": "/visuals/droi-divz-02-01-191103.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/droi-divz-02-01-191103.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2021,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Dataviz Designer"
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
 		]
 	},
 	{
@@ -1881,15 +2324,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Learning Analytics",
 		"note": "Horizontal dataviz for tracking employee training progress.",
+		"goal": "Preliminary exploration and design for tracking internal training by industry segment.",
 		"link": {
-			"file": "visuals/dseg-divz-05-01-190503.jpg",
+			"file": "/visuals/dseg-divz-05-01-190503.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dseg-divz-05-01-190503.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2019,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1903,15 +2352,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Learning Analytics",
 		"note": "Horizontal dataviz for tracking employee training progress.",
+		"goal": "Preliminary exploration and design for tracking internal training by industry segment.",
 		"link": {
-			"file": "visuals/dseg-divz-05-02-190503.jpg",
+			"file": "/visuals/dseg-divz-05-02-190503.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dseg-divz-05-02-190503.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2020,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1925,15 +2380,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Resource Management",
 		"note": "Mocked dashboard using split vertical bar charts to show training program trends.",
+		"goal": "Preliminary exploration and design for tracking internal training by industry segment.",
 		"link": {
-			"file": "visuals/dseg-dviz-05-12-190510.jpg",
+			"file": "/visuals/dseg-dviz-05-12-190510.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dseg-dviz-05-12-190510.jpg"
 		},
+		"year-start": 2021,
+		"year-end": 2021,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1947,15 +2408,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Employee Training",
 		"note": "Comparison of job role expertise, using AI inference and self-assessment, against team’s level of expertise.",
+		"goal": "Employee Skills assessment with self-assessment, team-assessment, and company-wide ranking.",
 		"link": {
-			"file": "visuals/dskl-divz-04-01-190611.jpg",
+			"file": "/visuals/dskl-divz-04-01-190611.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dskl-divz-04-01-190611.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2019,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1969,15 +2436,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Employee Training",
 		"note": "Mock showing the use of annotation in explaining data sources and calculations.",
+		"goal": "Employee Skills assessment with self-assessment, team-assessment, and company-wide ranking.",
 		"link": {
-			"file": "visuals/dskl-divz-04-02-190614.jpg",
+			"file": "/visuals/dskl-divz-04-02-190614.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dskl-divz-04-02-190614.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2020,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -1991,15 +2464,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Learning Analytics",
 		"note": "Operational tab for viewing training program trends.",
+		"goal": "Conceptual division of dashboards by operational and presentational.",
 		"link": {
-			"file": "visuals/dsvc-divz-03-01-191010.png",
+			"file": "/visuals/dsvc-divz-03-01-191010.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dsvc-divz-03-01-191010.png"
 		},
+		"year-start": 2019,
+		"year-end": 2019,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -2013,15 +2492,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Learning Analytics",
 		"note": "Operational tab for viewing training program trends.",
+		"goal": "Conceptual division of dashboards by operational and presentational.",
 		"link": {
-			"file": "visuals/dsvc-divz-04-01-191011.jpg",
+			"file": "/visuals/dsvc-divz-04-01-191011.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dsvc-divz-04-01-191011.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2020,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer"
 		]
 	},
 	{
@@ -2035,15 +2520,21 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "User Research",
 		"note": "Exploration of filter arrangement and design in sliding drawer.",
+		"goal": "Evolved out of ROI dashboard, with improved user experience and organization.",
 		"link": {
-			"file": "visuals/dtcb-form-01-14-200110.jpg",
+			"file": "/visuals/dtcb-form-01-14-200110.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtcb-form-01-14-200110.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2020,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Dataviz Designer"
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
 		]
 	},
 	{
@@ -2057,15 +2548,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Data Analytics",
 		"note": "Dashboard using embedded charts inside data tables.",
+		"goal": "Evolved out of ROI dashboard, with improved user experience and organization.",
 		"link": {
-			"file": "visuals/dtcb-divz-03-03-200127.jpg",
+			"file": "/visuals/dtcb-divz-03-03-200127.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtcb-divz-03-03-200127.jpg"
 		},
+		"year-start": 2021,
+		"year-end": 2021,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Dataviz Designer"
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
 		]
 	},
 	{
@@ -2079,15 +2576,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Data Analytics",
 		"note": "Dashboard navigation for users to focus on within-group comparisons only.",
+		"goal": "Evolved out of ROI dashboard, with improved user experience and organization.",
 		"link": {
-			"file": "visuals/dtcb-divz-04-02-200609.jpg",
+			"file": "/visuals/dtcb-divz-04-02-200609.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtcb-divz-04-02-200609.jpg"
 		},
+		"year-start": 2022,
+		"year-end": 2022,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Dataviz Designer"
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
 		]
 	},
 	{
@@ -2101,17 +2604,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Team Management",
 		"note": "Proposed dashboard for first-line managers to view team skills and levels of expertise.",
+		"goal": "Prototype for employees to track their internal education and their direct reports’.",
 		"link": {
-			"file": "visuals/dtmt-divz-01-01-190527.jpg",
+			"file": "/visuals/dtmt-divz-01-01-190527.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtmt-divz-01-01-190527.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2019,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Frontend Developer",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -2125,17 +2632,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Team Management",
 		"note": "Dashboard for first-line managers to track their team, and their own, education progress.",
+		"goal": "Prototype for employees to track their internal education and their direct reports’.",
 		"link": {
-			"file": "visuals/dtmt-divz-03-01-190731.jpg",
+			"file": "/visuals/dtmt-divz-03-01-190731.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtmt-divz-03-01-190731.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2020,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Frontend Developer",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -2149,15 +2660,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Internal Learning",
 		"note": "Revised version incorporating user and data scientist feedback.",
+		"goal": "Earliest conceptual iterations for Tableau dashboards related to training.",
 		"link": {
-			"file": "visuals/dtrn-divz-05-01-190422.jpg",
+			"file": "/visuals/dtrn-divz-05-01-190422.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtrn-divz-05-01-190422.jpg"
 		},
+		"year-start": 2018,
+		"year-end": 2018,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Dataviz Designer"
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
 		]
 	},
 	{
@@ -2171,15 +2688,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "draft",
+		"lead": false,
+		"advisor": false,
+		"industry": "User Research",
 		"note": "Early draft for user discussion on required and useful dataviz.",
+		"goal": "Earliest conceptual iterations for Tableau dashboards related to training.",
 		"link": {
-			"file": "visuals/dtrn-divz-05-04-190423.jpg",
+			"file": "/visuals/dtrn-divz-05-04-190423.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtrn-divz-05-04-190423.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2019,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Dataviz Designer"
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
 		]
 	},
 	{
@@ -2193,15 +2716,21 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "draft",
+		"lead": false,
+		"advisor": false,
+		"industry": "User Research",
 		"note": "Proposed dashboard redesign from Tableau to D3 version.",
+		"goal": "Earliest conceptual iterations for Tableau dashboards related to training.",
 		"link": {
-			"file": "visuals/dtrn-divz-07-01-190531.jpg",
+			"file": "/visuals/dtrn-divz-07-01-190531.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtrn-divz-07-01-190531.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2020,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Dataviz Designer"
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
 		]
 	},
 	{
@@ -2215,16 +2744,22 @@
 		"anno": false,
 		"cat": "presentation",
 		"stage": "final",
+		"lead": false,
+		"advisor": true,
+		"industry": "Internal Learning",
 		"note": "End-of-year discussion points for internal education programs.",
+		"goal": "Presentation and promotions for internal learning program.",
 		"link": {
-			"file": "visuals/ela-dviz-03-01-211019.jpg",
+			"file": "/visuals/ela-dviz-03-01-211019.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ela-dviz-03-01-211019.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2021,
 		"role": [
-			"UI Architect",
-			"Designer",
-			"Writer",
-			"UX Researcher"
+			"Architect",
+			"UX Designer",
+			"UX Researcher",
+			"Writer"
 		]
 	},
 	{
@@ -2238,16 +2773,22 @@
 		"anno": false,
 		"cat": "presentation",
 		"stage": "final",
+		"lead": false,
+		"advisor": true,
+		"industry": "Internal Learning",
 		"note": "End-of-year summary on internal education programs.",
+		"goal": "Presentation and promotions for internal learning program.",
 		"link": {
-			"file": "visuals/ela-pres-05-02-210311.png",
+			"file": "/visuals/ela-pres-05-02-210311.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ela-pres-05-02-210311.png"
 		},
+		"year-start": 2021,
+		"year-end": 2022,
 		"role": [
-			"UI Architect",
-			"Designer",
-			"Writer",
-			"UX Researcher"
+			"Architect",
+			"UX Designer",
+			"UX Researcher",
+			"Writer"
 		]
 	},
 	{
@@ -2261,16 +2802,22 @@
 		"anno": false,
 		"cat": "presentation",
 		"stage": "final",
+		"lead": false,
+		"advisor": true,
+		"industry": "Internal Learning",
 		"note": "End-of-year summary on internal education programs.",
+		"goal": "Presentation and promotions for internal learning program.",
 		"link": {
-			"file": "visuals/ela-pres-05-03-210311.png",
+			"file": "/visuals/ela-pres-05-03-210311.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ela-pres-05-03-210311.png"
 		},
+		"year-start": 2022,
+		"year-end": 2023,
 		"role": [
-			"UI Architect",
-			"Designer",
-			"Writer",
-			"UX Researcher"
+			"Architect",
+			"UX Designer",
+			"UX Researcher",
+			"Writer"
 		]
 	},
 	{
@@ -2284,16 +2831,22 @@
 		"anno": false,
 		"cat": "swimlane",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "User Research",
 		"note": "Swim lanes based on user interviews and executive input.",
+		"goal": "Education request and tracking system.",
 		"link": {
-			"file": "visuals/erf-lane-01-01-190220.png",
+			"file": "/visuals/erf-lane-01-01-190220.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-lane-01-01-190220.png"
 		},
+		"year-start": 2019,
+		"year-end": 2020,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UX Researcher",
-			"UI Architect"
+			"UX Designer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -2307,16 +2860,22 @@
 		"anno": false,
 		"cat": "flowchart",
 		"stage": "draft",
+		"lead": false,
+		"advisor": false,
+		"industry": "User Support",
 		"note": "Process flow identifying involved roles and data movement.",
+		"goal": "Education request and tracking system.",
 		"link": {
-			"file": "visuals/erf-flow-02-01-190311.jpg",
+			"file": "/visuals/erf-flow-02-01-190311.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-flow-02-01-190311.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2021,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UX Researcher",
-			"UI Architect"
+			"UX Designer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -2330,16 +2889,22 @@
 		"anno": true,
 		"cat": "form",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "User Support",
 		"note": "Fully-expanded form with logic for user interaction.",
+		"goal": "Education request and tracking system.",
 		"link": {
-			"file": "visuals/erf-form-03-01-190313.jpg",
+			"file": "/visuals/erf-form-03-01-190313.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-form-03-01-190313.jpg"
 		},
+		"year-start": 2021,
+		"year-end": 2022,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UX Researcher",
-			"UI Architect"
+			"UX Designer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -2353,16 +2918,22 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "User Support",
 		"note": "Executive management page for education request.",
+		"goal": "Education request and tracking system.",
 		"link": {
-			"file": "visuals/erf-form-03-07-190315.jpg",
+			"file": "/visuals/erf-form-03-07-190315.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-form-03-07-190315.jpg"
 		},
+		"year-start": 2022,
+		"year-end": 2023,
 		"role": [
-			"Designer",
+			"Architect",
 			"Dataviz Designer",
-			"UX Researcher",
-			"UI Architect"
+			"UX Designer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -2376,14 +2947,20 @@
 		"anno": true,
 		"cat": "flowchart",
 		"stage": "draft",
+		"lead": false,
+		"advisor": true,
+		"industry": "Privacy",
 		"note": "The 7th iteration of ultimately 19 versions detailing the complicated GDPR process.",
+		"goal": "Clearly documented and outlined GDPR process.",
 		"link": {
-			"file": "texts/gdp-flow-07-01-171110.pdf",
+			"file": "/texts/gdp-flow-07-01-171110.pdf",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/gdp-flow-07-01-171110.pdf"
 		},
+		"year-start": 2017,
+		"year-end": 2018,
 		"role": [
-			"Designer",
-			"UI Architect"
+			"Architect",
+			"UX Designer"
 		]
 	},
 	{
@@ -2397,14 +2974,20 @@
 		"anno": true,
 		"cat": "swimlane",
 		"stage": "draft",
+		"lead": false,
+		"advisor": true,
+		"industry": "Privacy",
 		"note": "Process flow modified into a swim lane approach.",
+		"goal": "Clearly documented and outlined GDPR process.",
 		"link": {
-			"file": "texts/gdp-lane-10-01-171129.pdf",
+			"file": "/texts/gdp-lane-10-01-171129.pdf",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/gdp-lane-10-01-171129.pdf"
 		},
+		"year-start": 2018,
+		"year-end": 2019,
 		"role": [
-			"Designer",
-			"UI Architect"
+			"Architect",
+			"UX Designer"
 		]
 	},
 	{
@@ -2418,14 +3001,20 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Customer Service",
 		"note": "Preliminary mockup for customer support site.",
+		"goal": "User-friendly product help and information site.",
 		"link": {
-			"file": "visuals/hap-page-01-06-141105.jpg",
+			"file": "/visuals/hap-page-01-06-141105.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hap-page-01-06-141105.jpg"
 		},
+		"year-start": 2014,
+		"year-end": 2014,
 		"role": [
-			"Designer",
-			"UI Architect",
+			"Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -2440,14 +3029,20 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Customer Service",
 		"note": "Preliminary mockup for customer support site.",
+		"goal": "User-friendly product help and information site.",
 		"link": {
-			"file": "visuals/hap-page-01-13-141105.jpg",
+			"file": "/visuals/hap-page-01-13-141105.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hap-page-01-13-141105.jpg"
 		},
+		"year-start": 2015,
+		"year-end": 2015,
 		"role": [
-			"Designer",
-			"UI Architect",
+			"Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -2462,14 +3057,20 @@
 		"anno": false,
 		"cat": "architecture",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Customer Service",
 		"note": "Full site map, with color-coding to call out re-used modular components.",
+		"goal": "User-friendly product help and information site.",
 		"link": {
-			"file": "visuals/hap-map-02-01-141109.jpg",
+			"file": "/visuals/hap-map-02-01-141109.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hap-map-02-01-141109.jpg"
 		},
+		"year-start": 2016,
+		"year-end": 2016,
 		"role": [
-			"Designer",
-			"UI Architect",
+			"Architect",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -2484,14 +3085,20 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "draft",
+		"lead": false,
+		"advisor": false,
+		"industry": "Healthcare",
 		"note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
+		"goal": "Healthcare POS Analytics site proposal.",
 		"link": {
-			"file": "visuals/hci-page-01-01-180412.jpg",
+			"file": "/visuals/hci-page-01-01-180412.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hci-page-01-01-180412.jpg"
 		},
+		"year-start": 2018,
+		"year-end": 2018,
 		"role": [
-			"Frontend Developer",
-			"UI Architect"
+			"Architect",
+			"Frontend Developer"
 		]
 	},
 	{
@@ -2505,14 +3112,20 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "draft",
+		"lead": false,
+		"advisor": false,
+		"industry": "Healthcare",
 		"note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
+		"goal": "Healthcare POS Analytics site proposal.",
 		"link": {
-			"file": "visuals/hci-page-01-02-180412.jpg",
+			"file": "/visuals/hci-page-01-02-180412.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hci-page-01-02-180412.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2019,
 		"role": [
-			"Frontend Developer",
-			"UI Architect"
+			"Architect",
+			"Frontend Developer"
 		]
 	},
 	{
@@ -2526,14 +3139,20 @@
 		"anno": true,
 		"cat": "wireframe",
 		"stage": "draft",
+		"lead": false,
+		"advisor": false,
+		"industry": "Healthcare",
 		"note": "Collection of loose wireframes organized to show user flow through the pages.",
+		"goal": "Patient information and support site for cancer patients.",
 		"link": {
-			"file": "visuals/hcr-map-04-01-120712.png",
+			"file": "/visuals/hcr-map-04-01-120712.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hcr-map-04-01-120712.png"
 		},
+		"year-start": 2012,
+		"year-end": 2012,
 		"role": [
-			"UI Architect",
-			"Analyst"
+			"Analyst",
+			"UX Designer"
 		]
 	},
 	{
@@ -2547,14 +3166,20 @@
 		"anno": true,
 		"cat": "flowchart",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Healthcare",
 		"note": "Site map showing user choices, interactions, and overlaps between paths.",
+		"goal": "Patient information and support site for cancer patients.",
 		"link": {
-			"file": "visuals/hcr-map-03-02-120705.png",
+			"file": "/visuals/hcr-map-03-02-120705.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hcr-map-03-02-120705.png"
 		},
+		"year-start": 2013,
+		"year-end": 2013,
 		"role": [
-			"UI Architect",
-			"Analyst"
+			"Analyst",
+			"UX Designer"
 		]
 	},
 	{
@@ -2568,14 +3193,20 @@
 		"anno": false,
 		"cat": "code",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Finance",
 		"note": "Prototype demonstrating viability of SSO between two distinct webapps.",
+		"goal": "Prototype hacking new and legacy apps to demonstrate viability of SSO.",
 		"link": {
-			"file": "code/hol-cde-03-02-130811.js",
+			"file": "/code/hol-cde-03-02-130811.js",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/code/hol-cde-03-02-130811.js"
 		},
+		"year-start": 2013,
+		"year-end": 2013,
 		"role": [
 			"Frontend Developer",
-			"Designer"
+			"UX Designer"
 		]
 	},
 	{
@@ -2589,14 +3220,19 @@
 		"anno": true,
 		"cat": "architecture",
 		"stage": "idea",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
 		"note": "Rough sketch of application workflows and combinations.",
+		"goal": "If/Then-style application embedded in Bluemix system.",
 		"link": {
-			"file": "visuals/ift-arch-01-01-160901.png",
+			"file": "/visuals/ift-arch-01-01-160901.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-arch-01-01-160901.png"
 		},
+		"year-start": 2016,
+		"year-end": 2016,
 		"role": [
-			"UI Architect",
-			"lead"
+			"UX Designer"
 		]
 	},
 	{
@@ -2610,14 +3246,20 @@
 		"anno": false,
 		"cat": "presentation",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
+		"goal": "If/Then-style application embedded in Bluemix system.",
 		"link": {
-			"file": "texts/ift-pres-02-01-170702.pdf",
+			"file": "/texts/ift-pres-02-01-170702.pdf",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/ift-pres-02-01-170702.pdf"
 		},
+		"year-start": 2017,
+		"year-end": 2017,
 		"role": [
-			"UI Architect",
-			"lead"
+			"Presenter",
+			"UX Designer"
 		]
 	},
 	{
@@ -2631,14 +3273,19 @@
 		"anno": false,
 		"cat": "wireframe",
 		"stage": "draft",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
 		"note": "Third iteration covering page structure and organization.",
+		"goal": "If/Then-style application embedded in Bluemix system.",
 		"link": {
-			"file": "visuals/ift-form-03-07-160817.png",
+			"file": "/visuals/ift-form-03-07-160817.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-form-03-07-160817.png"
 		},
+		"year-start": 2018,
+		"year-end": 2018,
 		"role": [
-			"UI Architect",
-			"lead"
+			"UX Designer"
 		]
 	},
 	{
@@ -2652,14 +3299,19 @@
 		"anno": false,
 		"cat": "wireframe",
 		"stage": "draft",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
 		"note": "Third iteration covering page structure and organization.",
+		"goal": "If/Then-style application embedded in Bluemix system.",
 		"link": {
-			"file": "visuals/ift-wire-03-04-160817.png",
+			"file": "/visuals/ift-wire-03-04-160817.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-wire-03-04-160817.png"
 		},
+		"year-start": 2019,
+		"year-end": 2019,
 		"role": [
-			"UI Architect",
-			"lead"
+			"UX Designer"
 		]
 	},
 	{
@@ -2673,14 +3325,19 @@
 		"anno": false,
 		"cat": "wireframe",
 		"stage": "draft",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
 		"note": "Fourth iteration for possible page structure and organization.",
+		"goal": "If/Then-style application embedded in Bluemix system.",
 		"link": {
-			"file": "visuals/ift-wire-04-01-160822.png",
+			"file": "/visuals/ift-wire-04-01-160822.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-wire-04-01-160822.png"
 		},
+		"year-start": 2020,
+		"year-end": 2020,
 		"role": [
-			"UI Architect",
-			"lead"
+			"UX Designer"
 		]
 	},
 	{
@@ -2694,14 +3351,19 @@
 		"anno": false,
 		"cat": "wireframe",
 		"stage": "draft",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
 		"note": "Fourth iteration for possible page structure and organization.",
+		"goal": "If/Then-style application embedded in Bluemix system.",
 		"link": {
-			"file": "visuals/ift-wire-04-10-160822.png",
+			"file": "/visuals/ift-wire-04-10-160822.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-wire-04-10-160822.png"
 		},
+		"year-start": 2021,
+		"year-end": 2021,
 		"role": [
-			"UI Architect",
-			"lead"
+			"UX Designer"
 		]
 	},
 	{
@@ -2715,14 +3377,19 @@
 		"anno": false,
 		"cat": "architecture",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
 		"note": "Site map, color-coded to show identified reusable components.",
+		"goal": "If/Then-style application embedded in Bluemix system.",
 		"link": {
-			"file": "visuals/ift-arch-07-02-160830.jpg",
+			"file": "/visuals/ift-arch-07-02-160830.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-arch-07-02-160830.jpg"
 		},
+		"year-start": 2022,
+		"year-end": 2022,
 		"role": [
-			"UI Architect",
-			"lead"
+			"UX Designer"
 		]
 	},
 	{
@@ -2736,16 +3403,22 @@
 		"anno": false,
 		"cat": "swimlane",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "User Support",
 		"note": "Detailed multi-role process for more efficient handling of user requests.",
+		"goal": "Request process for corporate education managers and administrators.",
 		"link": {
-			"file": "visuals/lor-lane-08-01-200430.jpg",
+			"file": "/visuals/lor-lane-08-01-200430.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/lor-lane-08-01-200430.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2021,
 		"role": [
-			"Designer",
-			"UX Researcher",
+			"Architect",
 			"Dataviz Designer",
-			"UI Architect"
+			"UX Designer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -2759,14 +3432,20 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "final",
+		"lead": false,
+		"advisor": true,
+		"industry": "Servers",
 		"note": "Incident report page, step 7 for walk-through presentation.",
+		"goal": "Application Outage and Issue reporting system.",
 		"link": {
-			"file": "visuals/mim-form-01-07-190509.jpg",
+			"file": "/visuals/mim-form-01-07-190509.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mim-form-01-07-190509.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2019,
 		"role": [
-			"Designer",
-			"UI Architect"
+			"Architect",
+			"UX Designer"
 		]
 	},
 	{
@@ -2780,14 +3459,20 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "final",
+		"lead": false,
+		"advisor": true,
+		"industry": "Servers",
 		"note": "Incident report page, step 3 for walk-through presentation.",
+		"goal": "Application Outage and Issue reporting system.",
 		"link": {
-			"file": "visuals/mim-form-02-03-190510.png",
+			"file": "/visuals/mim-form-02-03-190510.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mim-form-02-03-190510.png"
 		},
+		"year-start": 2020,
+		"year-end": 2020,
 		"role": [
-			"Designer",
-			"UI Architect"
+			"Architect",
+			"UX Designer"
 		]
 	},
 	{
@@ -2801,16 +3486,20 @@
 		"anno": true,
 		"cat": "architecture",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Sales",
 		"note": "Page architecture demonstrating the structure created by reusable and embedded components.",
+		"goal": "Web-based phone app for sales people.",
 		"link": {
-			"file": "visuals/mob-arch-02-01-131001.jpg",
+			"file": "/visuals/mob-arch-02-01-131001.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mob-arch-02-01-131001.jpg"
 		},
+		"year-start": 2013,
+		"year-end": 2013,
 		"role": [
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer"
 		]
 	},
 	{
@@ -2824,16 +3513,20 @@
 		"anno": false,
 		"cat": "architecture",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Sales",
 		"note": "Site architecture demonstrating each page’s composition of modular components.",
+		"goal": "Web-based phone app for sales people.",
 		"link": {
-			"file": "visuals/mob-arch-03-02-131004.jpg",
+			"file": "/visuals/mob-arch-03-02-131004.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mob-arch-03-02-131004.jpg"
 		},
+		"year-start": 2014,
+		"year-end": 2014,
 		"role": [
-			"Frontend Developer",
-			"UI Architect",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer"
 		]
 	},
 	{
@@ -2847,14 +3540,20 @@
 		"anno": false,
 		"cat": "sitemap",
 		"stage": "in revisions",
+		"lead": false,
+		"advisor": false,
+		"industry": "Academia",
 		"note": "Circular site map, color-coded to call out specific site components.",
+		"goal": "Application for researchers to bookmark and store online academic articles.",
 		"link": {
-			"file": "visuals/mrk-map-02-01-110207.jpg",
+			"file": "/visuals/mrk-map-02-01-110207.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mrk-map-02-01-110207.jpg"
 		},
+		"year-start": 2012,
+		"year-end": 2012,
 		"role": [
-			"UI Architect",
-			"Designer"
+			"Architect",
+			"UX Designer"
 		]
 	},
 	{
@@ -2868,14 +3567,20 @@
 		"anno": false,
 		"cat": "mid-fidelity",
 		"stage": "draft",
+		"lead": false,
+		"advisor": false,
+		"industry": "Academia",
 		"note": "Rough mockup of app’s responsive behavior.",
+		"goal": "Application for researchers to bookmark and store online academic articles.",
 		"link": {
-			"file": "visuals/mrk-mid-02-05-110709.jpg",
+			"file": "/visuals/mrk-mid-02-05-110709.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mrk-mid-02-05-110709.jpg"
 		},
+		"year-start": 2013,
+		"year-end": 2013,
 		"role": [
-			"UI Architect",
-			"Designer"
+			"Architect",
+			"UX Designer"
 		]
 	},
 	{
@@ -2889,16 +3594,21 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "final",
+		"lead": false,
+		"advisor": false,
+		"industry": "Publishing",
 		"note": "Chapter/story template showing metadata and comment form.",
+		"goal": "Author’s paywalled archive with story and member administration.",
 		"link": {
-			"file": "visuals/pix-form-03-01-130326.jpg",
+			"file": "/visuals/pix-form-03-01-130326.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/pix-form-03-01-130326.jpg"
 		},
+		"year-start": 2013,
+		"year-end": 2013,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Frontend Developer",
-			"Backend Engineer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -2912,16 +3622,21 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "final",
+		"lead": false,
+		"advisor": false,
+		"industry": "Publishing",
 		"note": "Two screenshots of admin pages, for managing tagging and multi-part stories.",
+		"goal": "Author’s paywalled archive with story and member administration.",
 		"link": {
-			"file": "visuals/pix-form-03-02-130326.jpg",
+			"file": "/visuals/pix-form-03-02-130326.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/pix-form-03-02-130326.jpg"
 		},
+		"year-start": 2014,
+		"year-end": 2014,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Frontend Developer",
-			"Backend Engineer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -2935,14 +3650,20 @@
 		"anno": true,
 		"cat": "architecture",
 		"stage": "final",
+		"lead": false,
+		"advisor": true,
+		"industry": "Mainframe",
 		"note": "Breakdown of page architecture and embedded reusable components.",
+		"goal": "Administration and management webapp for Power servers.",
 		"link": {
-			"file": "visuals/pow-arch-03-01-151030.jpg",
+			"file": "/visuals/pow-arch-03-01-151030.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/pow-arch-03-01-151030.jpg"
 		},
+		"year-start": 2015,
+		"year-end": 2015,
 		"role": [
-			"Frontend Developer",
-			"UI Architect"
+			"Architect",
+			"Frontend Developer"
 		]
 	},
 	{
@@ -2956,14 +3677,20 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "final",
+		"lead": false,
+		"advisor": false,
+		"industry": "Resume",
 		"note": "Sunburst visualization adapted to show experience by skill.",
+		"goal": "Visual representation of experience and skill combinations for resumes.",
 		"link": {
-			"file": "visuals/res-dviz-02-07-110922.jpg",
+			"file": "/visuals/res-dviz-02-07-110922.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/res-dviz-02-07-110922.jpg"
 		},
+		"year-start": 2011,
+		"year-end": 2012,
 		"role": [
-			"Designer",
-			"Dataviz Designer"
+			"Dataviz Designer",
+			"UX Designer"
 		]
 	},
 	{
@@ -2977,14 +3704,20 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "draft",
+		"lead": false,
+		"advisor": false,
+		"industry": "Resume",
 		"note": "Attempt to correlate duration of experience with skill set.",
+		"goal": "Visual representation of experience and skill combinations for resumes.",
 		"link": {
-			"file": "visuals/res-dviz-04-01-120707.jpg",
+			"file": "/visuals/res-dviz-04-01-120707.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/res-dviz-04-01-120707.jpg"
 		},
+		"year-start": 2012,
+		"year-end": 2013,
 		"role": [
-			"Designer",
-			"Dataviz Designer"
+			"Dataviz Designer",
+			"UX Designer"
 		]
 	},
 	{
@@ -2998,14 +3731,20 @@
 		"anno": false,
 		"cat": "dataviz",
 		"stage": "final",
+		"lead": false,
+		"advisor": false,
+		"industry": "Resume",
 		"note": "Ladder visualization to show chronology of positions and skills.",
+		"goal": "Visual representation of experience and skill combinations for resumes.",
 		"link": {
-			"file": "visuals/res-dviz-05-02-120708.jpg",
+			"file": "/visuals/res-dviz-05-02-120708.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/res-dviz-05-02-120708.jpg"
 		},
+		"year-start": 2013,
+		"year-end": 2014,
 		"role": [
-			"Designer",
-			"Dataviz Designer"
+			"Dataviz Designer",
+			"UX Designer"
 		]
 	},
 	{
@@ -3019,17 +3758,21 @@
 		"anno": false,
 		"cat": "presentation",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
+		"goal": "Further evolution of CDO team site with real-time updates.",
 		"link": {
-			"file": "texts/sda-pres-05-01-190322.pdf",
+			"file": "/texts/sda-pres-05-01-190322.pdf",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/sda-pres-05-01-190322.pdf"
 		},
+		"year-start": 2019,
+		"year-end": 2020,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Frontend Developer",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -3043,17 +3786,21 @@
 		"anno": false,
 		"cat": "screenshot",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Service Analytics",
 		"note": "Production version of site main page.",
+		"goal": "Further evolution of CDO team site with real-time updates.",
 		"link": {
-			"file": "visuals/sda-page-05-01-191115.jpg",
+			"file": "/visuals/sda-page-05-01-191115.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-01-191115.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2021,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Frontend Developer",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -3067,17 +3814,21 @@
 		"anno": false,
 		"cat": "screenshot",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Service Analytics",
 		"note": "Activity page for stakeholder information, using git hooks and .md files as makeshift db.",
+		"goal": "Further evolution of CDO team site with real-time updates.",
 		"link": {
-			"file": "visuals/sda-page-05-03-191115.jpg",
+			"file": "/visuals/sda-page-05-03-191115.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-03-191115.jpg"
 		},
+		"year-start": 2021,
+		"year-end": 2022,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Frontend Developer",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -3091,17 +3842,21 @@
 		"anno": false,
 		"cat": "screenshot",
 		"stage": "in revisions",
+		"lead": true,
+		"advisor": false,
+		"industry": "Service Analytics",
 		"note": "One of 100+ chart types documented, with tips for when, how, and why to use each.",
+		"goal": "Further evolution of CDO team site with real-time updates.",
 		"link": {
-			"file": "visuals/sda-page-05-08-191115.jpg",
+			"file": "/visuals/sda-page-05-08-191115.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-08-191115.jpg"
 		},
+		"year-start": 2022,
+		"year-end": 2023,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Frontend Developer",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -3115,17 +3870,21 @@
 		"anno": false,
 		"cat": "screenshot",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "Service Analytics",
 		"note": "Introducing and explaining steps to prepare data for analytics use.",
+		"goal": "Further evolution of CDO team site with real-time updates.",
 		"link": {
-			"file": "visuals/sda-page-05-09-191115.jpg",
+			"file": "/visuals/sda-page-05-09-191115.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-09-191115.jpg"
 		},
+		"year-start": 2023,
+		"year-end": 2024,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Frontend Developer",
-			"Backend Engineer",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -3139,15 +3898,21 @@
 		"anno": false,
 		"cat": "sitemap",
 		"stage": "final",
+		"lead": false,
+		"advisor": false,
+		"industry": "Sales",
 		"note": "Circular site map, using color-coding to note reused actions.",
+		"goal": "App for sales team to track current and potential customers.",
 		"link": {
-			"file": "visuals/sls-map-01-01-120705.png",
+			"file": "/visuals/sls-map-01-01-120705.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sls-map-01-01-120705.png"
 		},
+		"year-start": 2012,
+		"year-end": 2012,
 		"role": [
-			"UI Architect",
-			"UX Researcher",
-			"Analyst"
+			"Analyst",
+			"Architect",
+			"UX Researcher"
 		]
 	},
 	{
@@ -3161,15 +3926,21 @@
 		"anno": false,
 		"cat": "sitemap",
 		"stage": "final",
+		"lead": false,
+		"advisor": false,
+		"industry": "Sales",
 		"note": "Traditional site map, also with color-coding to identify patterns.",
+		"goal": "App for sales team to track current and potential customers.",
 		"link": {
-			"file": "visuals/sls-map-02-01-120712.png",
+			"file": "/visuals/sls-map-02-01-120712.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sls-map-02-01-120712.png"
 		},
+		"year-start": 2013,
+		"year-end": 2013,
 		"role": [
-			"UI Architect",
-			"UX Researcher",
-			"Analyst"
+			"Analyst",
+			"Architect",
+			"UX Researcher"
 		]
 	},
 	{
@@ -3183,15 +3954,20 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "User Research",
 		"note": "Excerpt of survey, with multiple user routes depending on choices.",
+		"goal": "Tested and validated survey for reader-writer behaviors and preferences.",
 		"link": {
-			"file": "visuals/svy-form-04-01-110111.jpg",
+			"file": "/visuals/svy-form-04-01-110111.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/svy-form-04-01-110111.jpg"
 		},
+		"year-start": 2011,
+		"year-end": 2011,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"Backend Engineer",
+			"Fullstack Developer",
+			"UX Designer",
 			"Writer"
 		]
 	},
@@ -3206,15 +3982,21 @@
 		"anno": false,
 		"cat": "mockup",
 		"stage": "final",
+		"lead": false,
+		"advisor": true,
+		"industry": "Internal Learning",
 		"note": "Mocked series for Invision walk-through, showing second step in tagging.",
+		"goal": "Tagging system for company educational courses and activities.",
 		"link": {
-			"file": "visuals/tag-mock-03-04-210301.jpg",
+			"file": "/visuals/tag-mock-03-04-210301.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tag-mock-03-04-210301.jpg"
 		},
+		"year-start": 2021,
+		"year-end": 2021,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Presenter"
+			"Architect",
+			"Presenter",
+			"UX Designer"
 		]
 	},
 	{
@@ -3228,15 +4010,21 @@
 		"anno": false,
 		"cat": "mockup",
 		"stage": "final",
+		"lead": false,
+		"advisor": true,
+		"industry": "Internal Learning",
 		"note": "Mocked series for Invision walk-through, showing one possible conclusion point.",
+		"goal": "Tagging system for company educational courses and activities.",
 		"link": {
-			"file": "visuals/tag-mock-03-08-210301.jpg",
+			"file": "/visuals/tag-mock-03-08-210301.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tag-mock-03-08-210301.jpg"
 		},
+		"year-start": 2022,
+		"year-end": 2022,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Presenter"
+			"Architect",
+			"Presenter",
+			"UX Designer"
 		]
 	},
 	{
@@ -3250,15 +4038,21 @@
 		"anno": true,
 		"cat": "swimlane",
 		"stage": "draft",
+		"lead": false,
+		"advisor": true,
+		"industry": "Project Management",
 		"note": "Draft of metadata list based on team interviews about their personal processes.",
+		"goal": "Team project management system based on team input and existing processes.",
 		"link": {
-			"file": "visuals/tpm-lane-02-01-180410.png",
+			"file": "/visuals/tpm-lane-02-01-180410.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tpm-lane-02-01-180410.png"
 		},
+		"year-start": 2018,
+		"year-end": 2018,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Dataviz Designer"
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
 		]
 	},
 	{
@@ -3272,15 +4066,21 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "final",
+		"lead": false,
+		"advisor": true,
+		"industry": "Project Management",
 		"note": "Journey map based on team members’ rankings of tasks by difficulty/stress. ",
+		"goal": "Team project management system based on team input and existing processes.",
 		"link": {
-			"file": "visuals/tpm-form-01-01-180402.jpg",
+			"file": "/visuals/tpm-form-01-01-180402.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tpm-form-01-01-180402.jpg"
 		},
+		"year-start": 2019,
+		"year-end": 2019,
 		"role": [
-			"Designer",
-			"UI Architect",
-			"Dataviz Designer"
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
 		]
 	},
 	{
@@ -3294,13 +4094,19 @@
 		"anno": false,
 		"cat": "swimlane",
 		"stage": "final",
+		"lead": false,
+		"advisor": true,
+		"industry": "Finance",
 		"note": "Swim lane modified to include notations for data movement and user interaction.",
+		"goal": "Mapped and clarified data processes for financial institution.",
 		"link": {
-			"file": "visuals/wst-lane-01-07-171103.jpg",
+			"file": "/visuals/wst-lane-01-07-171103.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/wst-lane-01-07-171103.jpg"
 		},
+		"year-start": 2017,
+		"year-end": 2018,
 		"role": [
-			"UI Architect",
+			"Architect",
 			"UX Researcher"
 		]
 	},
@@ -3315,17 +4121,21 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "User Support",
 		"note": "Form to channel user access requests through a single entry point.",
+		"goal": "CRUD pages for employee assessment and skills site.",
 		"link": {
-			"file": "visuals/yin-form-02-01-210706.jpg",
+			"file": "/visuals/yin-form-02-01-210706.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/yin-form-02-01-210706.jpg"
 		},
+		"year-start": 2020,
+		"year-end": 2021,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"Backend Engineer",
-			"UI Architect",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -3339,17 +4149,21 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "User Support",
 		"note": "Form for users to report issues in one place, creating better tracking.",
+		"goal": "CRUD pages for employee assessment and skills site.",
 		"link": {
-			"file": "visuals/yin-form-02-02-210706.jpg",
+			"file": "/visuals/yin-form-02-02-210706.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/yin-form-02-02-210706.jpg"
 		},
+		"year-start": 2021,
+		"year-end": 2022,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"Backend Engineer",
-			"UI Architect",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -3363,17 +4177,21 @@
 		"anno": false,
 		"cat": "form",
 		"stage": "final",
+		"lead": true,
+		"advisor": false,
+		"industry": "User Support",
 		"note": "Standardized information collection for report and dashboard requests.",
+		"goal": "CRUD pages for employee assessment and skills site.",
 		"link": {
-			"file": "visuals/yin-form-02-04-210706.jpg",
+			"file": "/visuals/yin-form-02-04-210706.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/yin-form-02-04-210706.jpg"
 		},
+		"year-start": 2022,
+		"year-end": 2023,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"Backend Engineer",
-			"UI Architect",
-			"API Developer"
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		]
 	},
 	{
@@ -3387,15 +4205,21 @@
 		"anno": false,
 		"cat": "screenshot",
 		"stage": "final",
+		"lead": false,
+		"advisor": false,
+		"industry": "Tourism",
 		"note": "Simple wordpress site with information for volunteers and attendants.",
+		"goal": "Annual information site for country’s oldest continuously-operating kite festival.",
 		"link": {
-			"file": "visuals/zlk-page-01-01-110516.png",
+			"file": "/visuals/zlk-page-01-01-110516.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/zlk-page-01-01-110516.png"
 		},
+		"year-start": 2010,
+		"year-end": 2014,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -3410,15 +4234,21 @@
 		"anno": false,
 		"cat": "screenshot",
 		"stage": "final",
+		"lead": false,
+		"advisor": false,
+		"industry": "Tourism",
 		"note": "Site redesign to be fully responsive. (Attendants liked it so much, they crashed the hosting company’s servers.)",
+		"goal": "Annual information site for country’s oldest continuously-operating kite festival.",
 		"link": {
-			"file": "visuals/zlk-page-02-02-120706.jpg",
+			"file": "/visuals/zlk-page-02-02-120706.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/zlk-page-02-02-120706.jpg"
 		},
+		"year-start": 2011,
+		"year-end": 2015,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer",
 			"UX Researcher"
 		]
 	},
@@ -3433,15 +4263,21 @@
 		"anno": false,
 		"cat": "screenshot",
 		"stage": "final",
+		"lead": false,
+		"advisor": false,
+		"industry": "Tourism",
 		"note": "Modified wordpress features to create sub-site for vendors to apply, pay for, and track their festival spots. ",
+		"goal": "Annual information site for country’s oldest continuously-operating kite festival.",
 		"link": {
-			"file": "visuals/zlk-page-03-01-130505.png",
+			"file": "/visuals/zlk-page-03-01-130505.png",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/zlk-page-03-01-130505.png"
 		},
+		"year-start": 2012,
+		"year-end": 2016,
 		"role": [
-			"Designer",
-			"Frontend Developer",
-			"UI Architect",
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer",
 			"UX Researcher"
 		]
 	}

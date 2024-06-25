@@ -25,7 +25,7 @@
 <style lang="scss">
   .page {
     height: 100vh;
-    margin-top: 3rem;
+    margin-top: 4rem;
   }
 
   .row {
@@ -33,13 +33,21 @@
     flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
-    height: 100%;
-    margin-top: 2rem;
+    margin-bottom: 5rem;
     &.full {
+      height: 100%;
+    }
+    &.view {
       height: 100vh;
     }
     &.fits {
       height: auto;
+    }
+    &.short {
+      margin-bottom: 0;
+    }
+    &.wrap {
+      flex-wrap: wrap;
     }
   }
 
@@ -51,26 +59,28 @@
     padding: 1rem;
     height: 100%;
     // min-width: 7.5rem;
-    border: 1px solid #AAA;
     &.two {
       flex: 2;
-      border: 1px solid orange;
     }
     &.three {
       flex: 3;
-      border: 1px solid red;
     }
     &.four {
       flex: 4;
-      border: 1px solid purple;
     }
     &.five {
       flex: 5;
-      border: 1px solid blue;
     }
     &.six {
       flex: 6;
-      border: 1px solid green;
+    }
+    &.container {
+      padding: 0;
+    }
+    &.limit {
+      display: grid;
+      grid-auto-flow: column;
+      grid-template-columns: 100px 100px;
     }
   }
 

@@ -1,6 +1,6 @@
 <template>
   <div class="narratives page">
-    <div class="row">
+    <div class="row view">
       <div class="col two">
         <ul class="tag">
           <li>evolution of a site</li>

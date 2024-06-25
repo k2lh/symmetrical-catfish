@@ -1,0 +1,72 @@
+[
+	{
+		"cat": "Wireframes",
+		"industry": [
+			"Cloud"
+		],
+		"years": "2016-2021",
+		"files": [
+			"/visuals/capi-wire-01-01-160630.png",
+			"/visuals/capi-wire-01-02-160630.png",
+			"/visuals/ift-form-03-07-160817.png",
+			"/visuals/ift-wire-03-04-160817.png",
+			"/visuals/ift-wire-04-01-160822.png",
+			"/visuals/ift-wire-04-10-160822.png"
+		]
+	},
+	{
+		"cat": "Wireframes",
+		"industry": [
+			"Healthcare",
+			"Writing"
+		],
+		"years": "2012-2015",
+		"files": [
+			"/visuals/hcr-map-04-01-120712.png",
+			"/visuals/chr-wire-02-02-120216.png"
+		]
+	},
+	{
+		"cat": "Swimlanes",
+		"industry": [
+			"Finance",
+			"User Research",
+			"User Support"
+		],
+		"years": "2017-2021",
+		"files": [
+			"/visuals/wst-lane-01-07-171103.jpg",
+			"/visuals/erf-lane-01-01-190220.png",
+			"/visuals/lor-lane-08-01-200430.jpg"
+		]
+	},
+	{
+		"cat": "Site Maps",
+		"industry": [
+			"Academia",
+			"Customer Service",
+			"Healthcare",
+			"Pharmacology",
+			"Publishing"
+		],
+		"years": "2010-2016",
+		"files": [
+			"/visuals/mrk-map-02-01-110207.jpg",
+			"/visuals/hap-map-02-01-141109.jpg",
+			"/visuals/hcr-map-03-02-120705.png",
+			"/visuals/abc-map-07-01-080229.png",
+			"/visuals/arc-map-05-01-120217.png"
+		]
+	},
+	{
+		"cat": "Site Maps",
+		"industry": [
+			"Sales"
+		],
+		"years": "2012-2013",
+		"files": [
+			"/visuals/sls-map-01-01-120705.png",
+			"/visuals/sls-map-02-01-120712.png"
+		]
+	}
+]

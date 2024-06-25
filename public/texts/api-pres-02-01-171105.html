@@ -1,53 +1,53 @@
 Applying design thinking to APIs
 
-You may associate 'design' with visual interfaces, but an API is also a type of user interface. While the person using a visual interface (like a web or mobile app) may not be the same person using the API to build a visual interface, they're both users. If we're building an app and we leave the user out of the picture, the main players in the API will end up being the backend devs and the frontend devs. Most of the time, the backend dev will build the API, and the frontend dev will be the primary consumer. Each has constituents behind them, with priorities of their own. 
+You may associate 'design' with visual interfaces, but an API is also a type of user interface. While the person using a visual interface (like a web or mobile app) may not be the same person using the API to build a visual interface, they're both users. If we're building an app and we leave the user out of the picture, the main players in the API will end up being the backend devs and the frontend devs. Most of the time, the backend dev will build the API, and the frontend dev will be the primary consumer. Each has constituents behind them, with priorities of their own.
 
-[img]
++img+
 
-The approaches differ because each person has a different underlying model. A model is an abstraction and simplification of some 'real' thing. A ship model relays the hull's shape and important moving parts (sails, ropes, hatches), but it probably doesn't address how internal cabins are furnished. Without some grand concept of 'ship', it's easiest for each person to provide their own sense of a 'ship' when asked to build one. 
+The approaches differ because each person has a different underlying model. A model is an abstraction and simplification of some 'real' thing. A ship model relays the hull's shape and important moving parts (sails, ropes, hatches), but it probably doesn't address how internal cabins are furnished. Without some grand concept of 'ship', it's easiest for each person to provide their own sense of a 'ship' when asked to build one.
 
-[img]
++img+
 
-The backend's easiest default is to replicate the database structure, which gets us a persistence model (simple queries) or an implementation model (cross-database or logic-added queries). The frontend's easiest path is following the visual design, which gets us an interface model. But a model identical to database is too fine-grained for efficient frontend application, and a model identical to UI needs is too inflexible for alternate uses (ie, a public API). That means the API -- as a distinct midway interface between the two ends -- requires its own model, which we call the representation model. 
+The backend's easiest default is to replicate the database structure, which gets us a persistence model (simple queries) or an implementation model (cross-database or logic-added queries). The frontend's easiest path is following the visual design, which gets us an interface model. But a model identical to database is too fine-grained for efficient frontend application, and a model identical to UI needs is too inflexible for alternate uses (ie, a public API). That means the API -- as a distinct midway interface between the two ends -- requires its own model, which we call the representation model.
 
-So what is the API representing? It's an important missing piece: the user, and especially the user's mental model, based on the interaction. 
+So what is the API representing? It's an important missing piece: the user, and especially the user's mental model, based on the interaction.
 
-[img]
++img+
 
-The tricky part is making sure the designer's conceptual model matches the user's mental model, because the user makes assumptions and plans their tasks based on their mental model. Users will find the interface, product, or system hard to learn and hard to use if: 
+The tricky part is making sure the designer's conceptual model matches the user's mental model, because the user makes assumptions and plans their tasks based on their mental model. Users will find the interface, product, or system hard to learn and hard to use if:
 - the conceptual model doesn't mesh with the user’s mental model
 - there are multiple user groups and the mental model used is for a group the user isn't part of
 - the conceptual model simply replicates the underlying database and ignores the mental model
 
-Note: some texts refer to 'mental model' or 'conceptual model', but call it the 'user model'. This text doesn't, because it's too easy to confuse the term with a resource commonly called, you guessed it, the user model (which represents user-ly properties like name, email, employee id, etc). 
+Note: some texts refer to 'mental model' or 'conceptual model', but call it the 'user model'. This text doesn't, because it's too easy to confuse the term with a resource commonly called, you guessed it, the user model (which represents user-ly properties like name, email, employee id, etc).
 
 The classic example of a disconnect between design and users is that of the sidewalk cut-through. The designers chose straight lines, informed by the engineering of square bricks. But users will freely 'break' this system to find their own path.
 
-[img]
++img+
 
 The above mismatch is relatively harmless (other than damaging the grass). But a mismatch can also be dangerous, as in the case of cruise control.
 
-[img]
++img+
 
 When cruise control was first introduced, many users assumed it was a kind of auto-pilot, and turning it on would free them to do other things. From a design perspective, cruise control only freed the user from managing the car's speed. This kind of disconnect could, and has been, lethal.
 
-In both of the above cases, the conceptual model breaks the user’s mental model, which causes cognitive friction. This is true not only during the preliminary design stage, but also downstream changes. While APIs can be versioned to indicate changes, those changes should also be considered carefully to make sure they don't break the relationship between the mental model and the conceptual model. 
- 
+In both of the above cases, the conceptual model breaks the user’s mental model, which causes cognitive friction. This is true not only during the preliminary design stage, but also downstream changes. While APIs can be versioned to indicate changes, those changes should also be considered carefully to make sure they don't break the relationship between the mental model and the conceptual model.
+
 What does this have to do with APIs?
 
 If it seems to you that this is more of a designer's area than a developer's, you're probably thinking in terms of a linear process. Data begins at the backend, is integrated in some fashion in an API layer, which is consumed by the frontend, which is in turn styled by the designers, and finally handed to the user.
 
-[img]
++img+
 
 In this paradigm, the model evolves from persistence, to implementation, to interface. The problem here is that none of these really take into account (beyond perhaps the designer) the user's own mental model, nor are these various models informed by the conceptual model. Any user interaction is a type of interface, which means APIs and CLIs must be designed and built based on the conceptual model, or the user will experience cognitive friction. This is also why this diagram doesn't indicate a representation model, because the API isn't representing the conceptual model, it's simply implementing logic on top of the persistence model.
 
 With that in mind, a paradigm informed by the conceptual model looks more like this:
 
-[img]
++img+
 
-(A private API is one that's backend-centric with a frontend shim, or frontend-centric with supporting backend logic. Usually these are created to suit the UI only, and are not intended for public/external use.) 
+(A private API is one that's backend-centric with a frontend shim, or frontend-centric with supporting backend logic. Usually these are created to suit the UI only, and are not intended for public/external use.)
 
-A conceptual model is an abstract description of tasks — not visuals or data — what users can do with the system. With the conceptual model as foundation, each type of user interaction will be cleaner, simpler, and easier to understand. It should be focused on the tasks, with just enough information to provide the required functionality. 
+A conceptual model is an abstract description of tasks — not visuals or data — what users can do with the system. With the conceptual model as foundation, each type of user interaction will be cleaner, simpler, and easier to understand. It should be focused on the tasks, with just enough information to provide the required functionality.
 
 Creating the conceptual model
 
@@ -57,7 +57,7 @@ The first step is to identify the resources (items) and tasks in the user's ment
 
 
 
- 
+
 
 In this introduction to API design, the most important thing to remember is you can build an API in any code base, but design is implementation-agnostic.
 
@@ -73,7 +73,7 @@ If you think of "household appliances", it's actually a massive group, covering 
 
 everything -> appliance type -> region -> amperage -> manufacturer -> color
 
-We want to avoid simply duplicating the database architecture, though. When we expose internal implementation details, it's harder to consume and evolve as new requirements arise. On top of that, if the API's data is generated from cross-database queries, its resulting model isn't one-to-one with the persisted database model. Our goal is a representation model that makes sense on its own, since that's what you'll be sharing with users who don't have any insight into the databases. 
+We want to avoid simply duplicating the database architecture, though. When we expose internal implementation details, it's harder to consume and evolve as new requirements arise. On top of that, if the API's data is generated from cross-database queries, its resulting model isn't one-to-one with the persisted database model. Our goal is a representation model that makes sense on its own, since that's what you'll be sharing with users who don't have any insight into the databases.
 
 The answer is to take another look at the user workflow, and see which resource sub-sets show up in the process. Let's say the workflow indicates users can narrow their choice by country, a manufacturer, or a type of appliance, but not color or amperage. If we built exactly to the database model, we'd have five APIs. Building to the user's needs means we only need three.
 
@@ -83,6 +83,6 @@ Next, we need to determine the URL for each. The first part of a URL will be a n
 /api/v1/regions/<guid>
 /api/v1/manufacturers/<guid>
 
-A note about representation models that are parts of a super-set (all appliances). If you need to include contextual information from a different resource, make sure it's data of a consistent nature. You want to avoid letting frontend devs manipulate data from a different resource. 
+A note about representation models that are parts of a super-set (all appliances). If you need to include contextual information from a different resource, make sure it's data of a consistent nature. You want to avoid letting frontend devs manipulate data from a different resource.
 
-The last step is to identify the actions a user can take with each of these resources. In this example, the actions will probably be the same for each, since the resources are really just sub-sets of a unified set. 
+The last step is to identify the actions a user can take with each of these resources. In this example, the actions will probably be the same for each, since the resources are really just sub-sets of a unified set.
