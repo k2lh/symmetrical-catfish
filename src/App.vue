@@ -33,7 +33,6 @@
     flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
-    margin-bottom: 5rem;
     &.full {
       height: 100%;
     }
@@ -56,7 +55,6 @@
     flex-direction: column;
     flex-basis: 100%;
     flex: 1;
-    padding: 1rem;
     height: 100%;
     // min-width: 7.5rem;
     &.two {
@@ -73,9 +71,6 @@
     }
     &.six {
       flex: 6;
-    }
-    &.container {
-      padding: 0;
     }
     &.limit {
       display: grid;
