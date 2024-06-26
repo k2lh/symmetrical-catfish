@@ -16,11 +16,12 @@
         </div>
       </div>
       <div class="col six">
-        <span id="topofbox">&nbsp;</span>
-        <div class="simple-modal__content" @click="clear()">
-          <div class="modal-main">
-            <div v-for="(img, iindex) in selected.files">
-              <img :src="img">
+        <div :class="{ hidden: !isVisible }">
+          <div class="simple-modal__content" @click="clear()">
+            <div class="modal-main">
+              <div v-for="(img, iindex) in selected.files">
+                <img :src="img">
+              </div>
             </div>
           </div>
         </div>
@@ -32,38 +33,32 @@
 <script>
   import data from '../static/cats.json'
   import VueScrollTo from 'vue-scrollto'
-  import { ref } from 'vue'
-
-  const targetId = ref('200')
-  const scrollToElement = () =>  {
-    const el = document.getElementById(targetId.value);
-    if (el) {
-      el.scrollIntoView();
-    }
-  }
 
   export default {
     name: "Home",
     data() {
       return {
-        // isSeen: false,
         groups: data,
         ind: 0,
-        selected: {}
+        selected: {},
+        isVisible: false
       }
     },
     methods: {
       getImages: function(val) {
-        this.clear();
-        this.ind = val - 1;
-        console.log('index=', val, this.ind, 'cat=', this.groups[this.ind].cat);
-        this.selected = this.groups[this.ind];
+        if (this.isVisible = true) {
+          this.clear();
+        }
+        this.$nextTick(() => {
+          this.ind = val - 1;
+          this.selected = this.groups[this.ind];
+          this.isVisible = true;
+          console.log('cat=', this.groups[this.ind].cat, ' --> isVisible=', this.isVisible);
+        })
       },
       clear: function() {
         this.selected = {};
-        window.scrollTo(0, 0);
-        var end = window.screenTop;
-        console.log(end);
+        this.isVisible = false;
       }
     }
   };
@@ -117,7 +112,7 @@
     }
   }
   .hidden {
-    // visibility: hidden !important;
+    visibility: hidden !important;
     display: none;
   }
   .onclick {
