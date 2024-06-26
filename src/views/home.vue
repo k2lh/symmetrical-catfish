@@ -16,6 +16,7 @@
         </div>
       </div>
       <div class="col six">
+        <span id="topofbox">&nbsp;</span>
         <div class="simple-modal__content" @click="clear()">
           <div class="modal-main">
             <div v-for="(img, iindex) in selected.files">
@@ -30,6 +31,16 @@
 
 <script>
   import data from '../static/cats.json'
+  import VueScrollTo from 'vue-scrollto'
+  import { ref } from 'vue'
+
+  const targetId = ref('200')
+  const scrollToElement = () =>  {
+    const el = document.getElementById(targetId.value);
+    if (el) {
+      el.scrollIntoView();
+    }
+  }
 
   export default {
     name: "Home",
@@ -43,14 +54,16 @@
     },
     methods: {
       getImages: function(val) {
-        this.selected = {};
+        this.clear();
         this.ind = val - 1;
         console.log('index=', val, this.ind, 'cat=', this.groups[this.ind].cat);
-        // this.isSeen = true;
         this.selected = this.groups[this.ind];
       },
       clear: function() {
         this.selected = {};
+        window.scrollTo(0, 0);
+        var end = window.screenTop;
+        console.log(end);
       }
     }
   };
