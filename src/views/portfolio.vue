@@ -1,86 +1,78 @@
 <template>
   <div class="page portfolio">
-    <div class="row short">
-      <div class="col six">
-        view only:
-      </div>
-    </div>
-    <div v-for="(item, index) in files" :key="index" class="row">
-      <div class="col one alignright">
-        <div class="boxlabel">
-          {{ item.title }}
-        </div>
-        <div class="space-half">
-          {{ item.note }}
-        </div>
-        <div class="space-one">
-          <span class="label">industry:</span> <span class="answer">{{item.industry}}</span>
-        </div>
-        <div>
-          <span class="label">category:</span> <span class="answer">{{ item.cat }}</span>
-        </div>
-        <div>
-          <span class="label">version:</span> <span class="answer">{{item.vers}}.{{item.num}}, {{ item.stage }}</span>
-        </div>
-        <div class="space-one">
-          {{ item.goal }}
-        </div>
-        <div class="label space-half">
-          role(s):
-        </div>
-        <div v-if="item.lead" class="boxlabel light">
-          Team Lead
-        </div>
-        <div v-if="item.advisor" class="boxlabel light">
-          Advisor
-        </div>
-        <div v-for="(role, index) in item.role" :key="index" class="answer">
-            {{ role }}
+    <div class="row">
+      <div class="col four">
+        <div class="row">
+          <div v-for="(item, index) in groups" :key="index" class="col container limit">
+            <div v-if="item.ftype=='img'" class="left">
+              <img :src="item.link.file" class="clipped">
+            </div>
+            <div class="right">
+              <div class="answer">
+                {{item.industry}}
+              </div>
+              <div class="label">
+                {{item.vers}}.{{item.num}}, {{ item.stage }}
+              </div>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="col five">
-        <div v-if="item.ftype == 'img'">
+      <div class="col four">
+        <!-- <div v-if="item.ftype == 'img'">
           <img :src="item.link.file" class="display">
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
 </template>
 
 <script>
-  import files from '../static/files.json'
+  import data from '../static/files.json'
 
   export default {
     name: 'portfolio',
     data() {
       return {
-        files: files
+        groups: data,
+        ind: 0,
+        selected: {},
+        isVisible: false
+      }
+    },
+    methods: {
+      getImages: function(val) {
+        if (this.isVisible = true) {
+          this.clear();
+        }
+        this.$nextTick(() => {
+          this.ind = val - 1;
+          this.selected = this.groups[this.ind];
+          this.isVisible = true;
+          console.log('cat=', this.groups[this.ind].cat, ' --> isVisible=', this.isVisible);
+        })
+      },
+      clear: function() {
+        this.selected = {};
+        this.isVisible = false;
       }
     }
   };
 </script>
 
 <style scoped lang="scss">
-  img {
-    max-height: 80vh;
-    width: auto;
-    object-fit: contain;
-    aspect-ratio: 1/2;
-  }
   .boxlabel {
     letter-spacing: 1px;
-    &.light {
-      font-weight: 500;
-      letter-spacing: 0;
-    }
   }
-  .space-half {
-    padding-top: .5em;
+  .col.container {
+    padding: 0;
   }
-  .space-one {
-    padding-top: 1rem;
+  .limit {
+    width: 200px;
+    height: 100px;
   }
-  .space-two {
-    padding-top: 2rem;
+  img.clipped {
+    border: 1px solid #E5E5E8;
   }
+
 </style>

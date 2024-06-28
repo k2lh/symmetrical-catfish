@@ -69,9 +69,16 @@
     height: 100%;
     margin-top: 3rem;
     overflow: hidden;
+    max-width: 2000px;
   }
   .col.container {
     padding: 0;
+    height: 100%;
+  }
+  .limit {
+    max-width: 200px;
+    min-height: 120px;
+    border: 1px solid red;
   }
   dl {
     width: 200%;
@@ -104,9 +111,10 @@
         overflow: auto;
         padding-top: 3.5rem;
         & img {
-          margin: 0 0 .5rem 0;
+          margin: 0 2rem .5rem 0;
           border: 1px solid #E5E5E8;
           width: -moz-available;
+          max-width: 1000px;
         }
       }
     }
@@ -117,5 +125,31 @@
   }
   .onclick {
     cursor: pointer;
+  }
+
+  /*<500px S - phones */
+  @media only screen and (max-width: 499px) {
+    .row {
+      height: auto;
+      flex-direction: column;
+    }
+  }
+  /*500-1200 M - tablets */
+  @media only screen and (min-width: 500px) and (max-width: 1199px) {
+
+  }
+  /*1200-2000 L - laptops */
+  @media only screen and (min-width: 1200px) and (max-width: 1800px) {
+
+  }
+  /*1801+ XL - monitors */
+  @media only screen and (min-width: 1801px) {
+    // .col.six {
+    //   flex: 9;
+    // }
+  }
+
+  @media only screen and (min-width: 2200px) {
+
   }
 </style>
