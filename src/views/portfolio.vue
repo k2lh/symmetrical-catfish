@@ -44,17 +44,25 @@
       getImages: function(val) {
         if (this.isVisible = true) {
           this.clear();
-        }
-        this.$nextTick(() => {
+          console.log('getImages --> isVisible=', this.isVisible);
+          this.$nextTick(() => {
+            console.log('$nextTick');
+            this.ind = val - 1;
+            this.selected = this.groups[this.ind];
+            this.isVisible = true;
+            console.log('if route --> isVisible=', this.isVisible);
+          })
+        } else {
           this.ind = val - 1;
           this.selected = this.groups[this.ind];
           this.isVisible = true;
-          console.log('cat=', this.groups[this.ind].cat, ' --> isVisible=', this.isVisible);
-        })
+          console.log('then route --> isVisible=', this.isVisible);
+        }
       },
       clear: function() {
         this.selected = {};
         this.isVisible = false;
+        console.log('clear --> isVisible=', this.isVisible);
       }
     }
   };

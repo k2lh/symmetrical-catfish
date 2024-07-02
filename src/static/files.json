@@ -16,9 +16,9 @@
 		"note": "Preliminary page architecture for development planning.",
 		"goal": "UI architecture and visuals for company intranet redesign.",
 		"link": {
-			"file": "/visuals/abc-arch-04-01-070712.png",
+			"file": "/visuals/abc-arch-04-01-070712.jpg",
 			"clip": "/clips/t-abc-arch-04-01-070712.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/abc-arch-04-01-070712.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/abc-arch-04-01-070712.jpg"
 		},
 		"year-start": 2008,
 		"year-end": 2008,
@@ -45,9 +45,9 @@
 		"note": "Page architecture, arranged in a manner slightly less terrifying for shareholders.",
 		"goal": "UI architecture and visuals for company intranet redesign.",
 		"link": {
-			"file": "/visuals/abc-map-05-01-080117.png",
+			"file": "/visuals/abc-map-05-01-080117.jpg",
 			"clip": "/clips/t-abc-map-05-01-080117.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/abc-map-05-01-080117.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/abc-map-05-01-080117.jpg"
 		},
 		"year-start": 2009,
 		"year-end": 2009,
@@ -74,9 +74,9 @@
 		"note": "Map including 2nd and 3rd sub-level tiers.",
 		"goal": "UI architecture and visuals for company intranet redesign.",
 		"link": {
-			"file": "/visuals/abc-map-07-01-080229.png",
+			"file": "/visuals/abc-map-07-01-080229.jpg",
 			"clip": "/clips/t-abc-map-07-01-080229.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/abc-map-07-01-080229.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/abc-map-07-01-080229.jpg"
 		},
 		"year-start": 2010,
 		"year-end": 2010,
@@ -132,9 +132,9 @@
 		"note": "Working version of the proposed API architecture.",
 		"goal": "Evaluation and documentation of API architecture and processes.",
 		"link": {
-			"file": "/visuals/api-arch-01-01-170127.png",
+			"file": "/visuals/api-arch-01-01-170127.jpg",
 			"clip": "/clips/t-api-arch-01-01-170127.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/api-arch-01-01-170127.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/api-arch-01-01-170127.jpg"
 		},
 		"year-start": 2016,
 		"year-end": 2017,
@@ -277,9 +277,9 @@
 		"note": "Circular map, arranged in order of user workflow.",
 		"goal": "Long-fiction, short-fiction, and poetry archive for multiple authors.",
 		"link": {
-			"file": "/visuals/arc-map-05-01-120217.png",
+			"file": "/visuals/arc-map-05-01-120217.jpg",
 			"clip": "/clips/t-arc-map-05-01-120217.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/arc-map-05-01-120217.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/arc-map-05-01-120217.jpg"
 		},
 		"year-start": 2010,
 		"year-end": 2014,
@@ -306,9 +306,9 @@
 		"note": "Author administration page, for adding/revising story chapters.",
 		"goal": "Long-fiction, short-fiction, and poetry archive for multiple authors.",
 		"link": {
-			"file": "/visuals/arc-form-05-02-110512.png",
+			"file": "/visuals/arc-form-05-02-110512.jpg",
 			"clip": "/clips/t-arc-form-05-02-110512.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/arc-form-05-02-110512.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/arc-form-05-02-110512.jpg"
 		},
 		"year-start": 2011,
 		"year-end": 2015,
@@ -335,9 +335,9 @@
 		"note": "Start-point of animation in login page.",
 		"goal": "Assist and advise pre-seed startup in brand, design, and content styles.",
 		"link": {
-			"file": "/visuals/bst-mock-02-01-230718.png",
+			"file": "/visuals/bst-mock-02-01-230718.jpg",
 			"clip": "/clips/t-bst-mock-02-01-230718.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/bst-mock-02-01-230718.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/bst-mock-02-01-230718.jpg"
 		},
 		"year-start": 2023,
 		"year-end": 2023,
@@ -364,9 +364,9 @@
 		"note": "Conceptual design, using dialogue produced with beta AI app.",
 		"goal": "Assist and advise pre-seed startup in brand, design, and content styles.",
 		"link": {
-			"file": "/visuals/bst-mock-02-04-230724.png",
+			"file": "/visuals/bst-mock-02-04-230724.jpg",
 			"clip": "/clips/t-bst-mock-02-04-230724.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/bst-mock-02-04-230724.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/bst-mock-02-04-230724.jpg"
 		},
 		"year-start": 2024,
 		"year-end": 2024,
@@ -393,9 +393,9 @@
 		"note": "Conceptual design, using dialogue produced with beta AI app.",
 		"goal": "Assist and advise pre-seed startup in brand, design, and content styles.",
 		"link": {
-			"file": "/visuals/bst-mock-02-07-230724.png",
+			"file": "/visuals/bst-mock-02-07-230724.jpg",
 			"clip": "/clips/t-bst-mock-02-07-230724.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/bst-mock-02-07-230724.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/bst-mock-02-07-230724.jpg"
 		},
 		"year-start": 2025,
 		"year-end": 2025,
@@ -509,9 +509,9 @@
 		"note": "Directory of available internal APIs.",
 		"goal": "Catalog for APIs similar to Bluemix Components concept.",
 		"link": {
-			"file": "/visuals/capi-wire-01-01-160630.png",
+			"file": "/visuals/capi-wire-01-01-160630.jpg",
 			"clip": "/clips/t-capi-wire-01-01-160630.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/capi-wire-01-01-160630.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/capi-wire-01-01-160630.jpg"
 		},
 		"year-start": 2016,
 		"year-end": 2016,
@@ -538,9 +538,9 @@
 		"note": "Directory of available internal APIs.",
 		"goal": "Catalog for APIs similar to Bluemix Components concept.",
 		"link": {
-			"file": "/visuals/capi-wire-01-02-160630.png",
+			"file": "/visuals/capi-wire-01-02-160630.jpg",
 			"clip": "/clips/t-capi-wire-01-02-160630.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/capi-wire-01-02-160630.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/capi-wire-01-02-160630.jpg"
 		},
 		"year-start": 2017,
 		"year-end": 2017,
@@ -769,9 +769,9 @@
 		"note": "Drafting the information architecture.",
 		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "/visuals/chr-wire-01-01-110426.png",
+			"file": "/visuals/chr-wire-01-01-110426.jpg",
 			"clip": "/clips/t-chr-wire-01-01-110426.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-wire-01-01-110426.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-wire-01-01-110426.jpg"
 		},
 		"year-start": 2011,
 		"year-end": 2017,
@@ -798,9 +798,9 @@
 		"note": "An experiment in blending site map and user flow in a circularly-architected UI.",
 		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "/visuals/chr-map-02-01-120712.png",
+			"file": "/visuals/chr-map-02-01-120712.jpg",
 			"clip": "/clips/t-chr-map-02-01-120712.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-map-02-01-120712.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-map-02-01-120712.jpg"
 		},
 		"year-start": 2012,
 		"year-end": 2018,
@@ -827,9 +827,9 @@
 		"note": "An attempt to satisfy user requests for a packed data table, but the result was unfortunately inaccessible. ",
 		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "/visuals/chr-wire-02-02-120216.png",
+			"file": "/visuals/chr-wire-02-02-120216.jpg",
 			"clip": "/clips/t-chr-wire-02-02-120216.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-wire-02-02-120216.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-wire-02-02-120216.jpg"
 		},
 		"year-start": 2013,
 		"year-end": 2019,
@@ -856,9 +856,9 @@
 		"note": "Drawer slide up/down design for reducing cognitive load of a complicated form.",
 		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "/visuals/chr-wire-02-03-120216.png",
+			"file": "/visuals/chr-wire-02-03-120216.jpg",
 			"clip": "/clips/t-chr-wire-02-03-120216.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-wire-02-03-120216.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-wire-02-03-120216.jpg"
 		},
 		"year-start": 2014,
 		"year-end": 2020,
@@ -885,9 +885,9 @@
 		"note": "Prototype for character management webapp. ",
 		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "/visuals/chr-form-02-04-110509.png",
+			"file": "/visuals/chr-form-02-04-110509.jpg",
 			"clip": "/clips/t-chr-form-02-04-110509.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-form-02-04-110509.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-form-02-04-110509.jpg"
 		},
 		"year-start": 2015,
 		"year-end": 2021,
@@ -943,9 +943,9 @@
 		"note": "Production version of character management webapp, showing dropdown contents.",
 		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "/visuals/chr-form-03-05-151116.png",
+			"file": "/visuals/chr-form-03-05-151116.jpg",
 			"clip": "/clips/t-chr-form-03-05-151116.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-form-03-05-151116.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-form-03-05-151116.jpg"
 		},
 		"year-start": 2017,
 		"year-end": 2023,
@@ -972,9 +972,9 @@
 		"note": "Production version of character management webapp, showing dropdown contents.",
 		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "/visuals/chr-form-03-07-151116.png",
+			"file": "/visuals/chr-form-03-07-151116.jpg",
 			"clip": "/clips/t-chr-form-03-07-151116.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-form-03-07-151116.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-form-03-07-151116.jpg"
 		},
 		"year-start": 2018,
 		"year-end": 2024,
@@ -1001,9 +1001,9 @@
 		"note": "A simplified and streamlined site map. ",
 		"goal": "Archive for writers to manage characters and their details.",
 		"link": {
-			"file": "/visuals/chr-map-04-03-120712.png",
+			"file": "/visuals/chr-map-04-03-120712.jpg",
 			"clip": "/clips/t-chr-map-04-03-120712.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-map-04-03-120712.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/chr-map-04-03-120712.jpg"
 		},
 		"year-start": 2019,
 		"year-end": 2025,
@@ -1407,9 +1407,9 @@
 		"note": "Example of dashboard design, including spacing, fonts, and classes.",
 		"goal": "Data visualization standards and guide for embedded dashboards in the analytics catalog.",
 		"link": {
-			"file": "/visuals/dall-des-03-04-210325.png",
+			"file": "/visuals/dall-des-03-04-210325.jpg",
 			"clip": "/clips/t-dall-des-03-04-210325.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/dall-des-03-04-210325.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/dall-des-03-04-210325.jpg"
 		},
 		"year-start": 2018,
 		"year-end": 2021,
@@ -2209,9 +2209,9 @@
 		"note": "Visual for possible data lake organization and architecture.",
 		"goal": "Design and present system map for potential data lake.",
 		"link": {
-			"file": "/visuals/dlk-arch-02-06-180217.png",
+			"file": "/visuals/dlk-arch-02-06-180217.jpg",
 			"clip": "/clips/t-dlk-arch-02-06-180217.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/dlk-arch-02-06-180217.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/dlk-arch-02-06-180217.jpg"
 		},
 		"year-start": 2017,
 		"year-end": 2017,
@@ -2557,9 +2557,9 @@
 		"note": "Operational tab for viewing training program trends.",
 		"goal": "Conceptual division of dashboards by operational and presentational.",
 		"link": {
-			"file": "/visuals/dsvc-divz-03-01-191010.png",
+			"file": "/visuals/dsvc-divz-03-01-191010.jpg",
 			"clip": "/clips/t-dsvc-divz-03-01-191010.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/dsvc-divz-03-01-191010.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/dsvc-divz-03-01-191010.jpg"
 		},
 		"year-start": 2019,
 		"year-end": 2019,
@@ -2877,9 +2877,9 @@
 		"note": "End-of-year summary on internal education programs.",
 		"goal": "Presentation and promotions for internal learning program.",
 		"link": {
-			"file": "/visuals/ela-pres-05-02-210311.png",
+			"file": "/visuals/ela-pres-05-02-210311.jpg",
 			"clip": "/clips/t-ela-pres-05-02-210311.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/ela-pres-05-02-210311.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/ela-pres-05-02-210311.jpg"
 		},
 		"year-start": 2021,
 		"year-end": 2022,
@@ -2907,9 +2907,9 @@
 		"note": "End-of-year summary on internal education programs.",
 		"goal": "Presentation and promotions for internal learning program.",
 		"link": {
-			"file": "/visuals/ela-pres-05-03-210311.png",
+			"file": "/visuals/ela-pres-05-03-210311.jpg",
 			"clip": "/clips/t-ela-pres-05-03-210311.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/ela-pres-05-03-210311.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/ela-pres-05-03-210311.jpg"
 		},
 		"year-start": 2022,
 		"year-end": 2023,
@@ -2937,9 +2937,9 @@
 		"note": "Swim lanes based on user interviews and executive input.",
 		"goal": "Education request and tracking system.",
 		"link": {
-			"file": "/visuals/erf-lane-01-01-190220.png",
+			"file": "/visuals/erf-lane-01-01-190220.jpg",
 			"clip": "/clips/t-erf-lane-01-01-190220.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/erf-lane-01-01-190220.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/erf-lane-01-01-190220.jpg"
 		},
 		"year-start": 2019,
 		"year-end": 2020,
@@ -3256,9 +3256,9 @@
 		"note": "Collection of loose wireframes organized to show user flow through the pages.",
 		"goal": "Patient information and support site for cancer patients.",
 		"link": {
-			"file": "/visuals/hcr-map-04-01-120712.png",
+			"file": "/visuals/hcr-map-04-01-120712.jpg",
 			"clip": "/clips/t-hcr-map-04-01-120712.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/hcr-map-04-01-120712.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/hcr-map-04-01-120712.jpg"
 		},
 		"year-start": 2012,
 		"year-end": 2012,
@@ -3284,9 +3284,9 @@
 		"note": "Site map showing user choices, interactions, and overlaps between paths.",
 		"goal": "Patient information and support site for cancer patients.",
 		"link": {
-			"file": "/visuals/hcr-map-03-02-120705.png",
+			"file": "/visuals/hcr-map-03-02-120705.jpg",
 			"clip": "/clips/t-hcr-map-03-02-120705.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/hcr-map-03-02-120705.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/hcr-map-03-02-120705.jpg"
 		},
 		"year-start": 2013,
 		"year-end": 2013,
@@ -3340,9 +3340,9 @@
 		"note": "Rough sketch of application workflows and combinations.",
 		"goal": "If/Then-style application embedded in Bluemix system.",
 		"link": {
-			"file": "/visuals/ift-arch-01-01-160901.png",
+			"file": "/visuals/ift-arch-01-01-160901.jpg",
 			"clip": "/clips/t-ift-arch-01-01-160901.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/ift-arch-01-01-160901.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/ift-arch-01-01-160901.jpg"
 		},
 		"year-start": 2016,
 		"year-end": 2016,
@@ -3395,9 +3395,9 @@
 		"note": "Third iteration covering page structure and organization.",
 		"goal": "If/Then-style application embedded in Bluemix system.",
 		"link": {
-			"file": "/visuals/ift-form-03-07-160817.png",
+			"file": "/visuals/ift-form-03-07-160817.jpg",
 			"clip": "/clips/t-ift-form-03-07-160817.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/ift-form-03-07-160817.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/ift-form-03-07-160817.jpg"
 		},
 		"year-start": 2018,
 		"year-end": 2018,
@@ -3422,9 +3422,9 @@
 		"note": "Third iteration covering page structure and organization.",
 		"goal": "If/Then-style application embedded in Bluemix system.",
 		"link": {
-			"file": "/visuals/ift-wire-03-04-160817.png",
+			"file": "/visuals/ift-wire-03-04-160817.jpg",
 			"clip": "/clips/t-ift-wire-03-04-160817.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/ift-wire-03-04-160817.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/ift-wire-03-04-160817.jpg"
 		},
 		"year-start": 2019,
 		"year-end": 2019,
@@ -3449,9 +3449,9 @@
 		"note": "Fourth iteration for possible page structure and organization.",
 		"goal": "If/Then-style application embedded in Bluemix system.",
 		"link": {
-			"file": "/visuals/ift-wire-04-01-160822.png",
+			"file": "/visuals/ift-wire-04-01-160822.jpg",
 			"clip": "/clips/t-ift-wire-04-01-160822.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/ift-wire-04-01-160822.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/ift-wire-04-01-160822.jpg"
 		},
 		"year-start": 2020,
 		"year-end": 2020,
@@ -3476,9 +3476,9 @@
 		"note": "Fourth iteration for possible page structure and organization.",
 		"goal": "If/Then-style application embedded in Bluemix system.",
 		"link": {
-			"file": "/visuals/ift-wire-04-10-160822.png",
+			"file": "/visuals/ift-wire-04-10-160822.jpg",
 			"clip": "/clips/t-ift-wire-04-10-160822.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/ift-wire-04-10-160822.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/ift-wire-04-10-160822.jpg"
 		},
 		"year-start": 2021,
 		"year-end": 2021,
@@ -3588,9 +3588,9 @@
 		"note": "Incident report page, step 3 for walk-through presentation.",
 		"goal": "Application Outage and Issue reporting system.",
 		"link": {
-			"file": "/visuals/mim-form-02-03-190510.png",
+			"file": "/visuals/mim-form-02-03-190510.jpg",
 			"clip": "/clips/t-mim-form-02-03-190510.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/mim-form-02-03-190510.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/mim-form-02-03-190510.jpg"
 		},
 		"year-start": 2020,
 		"year-end": 2020,
@@ -4043,9 +4043,9 @@
 		"note": "Circular site map, using color-coding to note reused actions.",
 		"goal": "App for sales team to track current and potential customers.",
 		"link": {
-			"file": "/visuals/sls-map-01-01-120705.png",
+			"file": "/visuals/sls-map-01-01-120705.jpg",
 			"clip": "/clips/t-sls-map-01-01-120705.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/sls-map-01-01-120705.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/sls-map-01-01-120705.jpg"
 		},
 		"year-start": 2012,
 		"year-end": 2012,
@@ -4072,9 +4072,9 @@
 		"note": "Traditional site map, also with color-coding to identify patterns.",
 		"goal": "App for sales team to track current and potential customers.",
 		"link": {
-			"file": "/visuals/sls-map-02-01-120712.png",
+			"file": "/visuals/sls-map-02-01-120712.jpg",
 			"clip": "/clips/t-sls-map-02-01-120712.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/sls-map-02-01-120712.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/sls-map-02-01-120712.jpg"
 		},
 		"year-start": 2013,
 		"year-end": 2013,
@@ -4188,9 +4188,9 @@
 		"note": "Draft of metadata list based on team interviews about their personal processes.",
 		"goal": "Team project management system based on team input and existing processes.",
 		"link": {
-			"file": "/visuals/tpm-lane-02-01-180410.png",
+			"file": "/visuals/tpm-lane-02-01-180410.jpg",
 			"clip": "/clips/t-tpm-lane-02-01-180410.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/tpm-lane-02-01-180410.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/tpm-lane-02-01-180410.jpg"
 		},
 		"year-start": 2018,
 		"year-end": 2018,
@@ -4361,9 +4361,9 @@
 		"note": "Simple wordpress site with information for volunteers and attendants.",
 		"goal": "Annual information site for country’s oldest continuously-operating kite festival.",
 		"link": {
-			"file": "/visuals/zlk-page-01-01-110516.png",
+			"file": "/visuals/zlk-page-01-01-110516.jpg",
 			"clip": "/clips/t-zlk-page-01-01-110516.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/zlk-page-01-01-110516.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/zlk-page-01-01-110516.jpg"
 		},
 		"year-start": 2010,
 		"year-end": 2014,
@@ -4421,9 +4421,9 @@
 		"note": "Modified wordpress features to create sub-site for vendors to apply, pay for, and track their festival spots. ",
 		"goal": "Annual information site for country’s oldest continuously-operating kite festival.",
 		"link": {
-			"file": "/visuals/zlk-page-03-01-130505.png",
+			"file": "/visuals/zlk-page-03-01-130505.jpg",
 			"clip": "/clips/t-zlk-page-03-01-130505.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/zlk-page-03-01-130505.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/public/visuals/zlk-page-03-01-130505.jpg"
 		},
 		"year-start": 2012,
 		"year-end": 2016,
