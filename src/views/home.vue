@@ -2,7 +2,7 @@
   <div class="page home">
     <div class="pure-g">
       <div class="pure-u-1-1 pure-u-md-3-8">
-        <div v-for="(group, index) in groups" :key="index" class="boxed">
+        <div v-for="(group, index) in categories" :key="index" class="boxed">
           <div class="dtside">
             <div @click="getImages(index+1)" class="onclick">
               {{ group.cat }}
@@ -20,7 +20,7 @@
         <div :class="{ hidden: !isVisible }">
           <div class="simple-modal__content" @click="clear()">
             <div class="modal-main">
-              <div v-for="(img, iindex) in selected.files">
+              <div v-for="(img, iindex) in images">
                 <img :src="img.file" :class="{ 'dashtop': img.top, 'dashbot': img.bot, 'dashside': img.side }">
               </div>
             </div>
@@ -32,16 +32,20 @@
 </template>
 
 <script>
-  import data from '../static/cats.json'
-  import VueScrollTo from 'vue-scrollto'
+  import categories from '../static/cats.json'
+  import items from '../static/items.json'
 
   export default {
     name: "Home",
     data() {
       return {
-        groups: data,
+        categories: categories,
+        items: items,
         ind: 0,
         selected: {},
+        imgObj: {},
+        ilink: '',
+        images: [],
         isVisible: false
       }
     },
@@ -49,26 +53,37 @@
       getImages: function(val) {
         if (this.isVisible = true) {
           this.clear();
-          console.log('getImages --> isVisible=', this.isVisible);
           this.$nextTick(() => {
             console.log('$nextTick');
             this.retrieve(val);
-            console.log('if route --> isVisible=', this.isVisible);
           })
         } else {
           this.retrieve(val);
-          console.log('then route --> isVisible=', this.isVisible);
         }
       },
       clear: function() {
-        console.log('-- clear --');
         this.selected = {};
         this.isVisible = false;
       },
       retrieve: function(val) {
-        console.log('-- retrieve --');
         this.ind = val - 1;
-        this.selected = this.groups[this.ind];
+        this.imgObj = {};
+        this.ilink = {};
+        this.images = [];
+        this.selected = this.categories[this.ind];
+        this.selected.files.forEach((num) => {
+          console.log(num);
+          this.imgObj = this.items.filter((e) => e.dex == num);
+          this.ilink = {
+            file: this.imgObj[0].link.file,
+            top: this.imgObj[0].dash.top,
+            side: this.imgObj[0].dash.side,
+            bot: this.imgObj[0].dash.bot,
+          }
+          console.log(this.ilink);
+          this.images.push(this.ilink);
+          console.log('--------------------------');
+        });
         this.isVisible = true;
       }
     }
@@ -118,18 +133,18 @@
         overflow: auto;
         padding-top: 3.5rem;
         & img {
-          margin: 0 0 .5rem 0;
+          margin: 0 0 2rem 0;
           border: 1px solid #E5E5E8;
           max-width:99%;
           height:auto;
           &.dashtop {
-            border-top: 1px dashed #6f6f75;
+            border-top: 2px dashed #333;
           }
           &.dashbot {
-            border-bottom: 1px dashed #6f6f75;
+            border-bottom: 2px dashed #333;
           }
           &.dashside {
-            border-right: 1px dashed #6f6f75;
+            border-right: 2px dashed #333;
           }
         }
       }

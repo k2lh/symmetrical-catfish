@@ -28,7 +28,7 @@
 </template>
 
 <script>
-  import data from '../static/files.json'
+  import data from '../static/items.json'
 
   export default {
     name: 'portfolio',
