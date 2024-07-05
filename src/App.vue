@@ -28,28 +28,6 @@
     margin-top: 4rem;
   }
 
-  // .row {
-  //   display: flex;
-  //   flex-direction: row;
-  //   flex-wrap: wrap;
-  //   width: 100%;
-  //   &.full {
-  //     height: 100%;
-  //   }
-  //   &.view {
-  //     height: 100vh;
-  //   }
-  //   &.fits {
-  //     height: auto;
-  //   }
-  //   &.short {
-  //     margin-bottom: 0;
-  //   }
-  //   &.wrap {
-  //     flex-wrap: wrap;
-  //   }
-  // }
-
   .col {
     display: flex;
     flex-direction: column;

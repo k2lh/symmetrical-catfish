@@ -1,37 +1,32 @@
 <template>
   <div id="nav" class="globalnav">
     <div class="pure-g">
-      <div class="pure-u-1-4 pure-u-md-1-4 pure-u-lg-1-8">
+      <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8">
         <siteLogo/>
       </div>
-      <div class="pure-u-1-4 pure-u-md-1-4 pure-u-lg-2-8 boxlabel">
+      <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-3-8 boxlabel">
         <router-link class="exception" to="/">
           K L Hamilton
         </router-link>
       </div>
-      <div class="pure-u-1-4 pure-u-md-1-4 pure-u-lg-1-8 boxlabel">
-        <router-link to="/portfolio">
-          portfolio
+      <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8 boxlabel">
+        <router-link to="/highlights">
+          highlights
         </router-link>
       </div>
-      <div class="pure-u-1-4 pure-u-md-1-4 pure-u-lg-1-8 boxlabel">
-        <router-link to="/projects">
-          projects
+      <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8 boxlabel">
+        <router-link to="/archive">
+          archive
         </router-link>
       </div>
-      <div class="pure-u-1-4 pure-u-md-1-4 pure-u-lg-1-8 boxlabel">
+      <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8 boxlabel">
         <router-link to="/narratives">
           narratives
         </router-link>
       </div>
-      <div class="pure-u-1-4 pure-u-md-1-4 pure-u-lg-1-8 boxlabel">
-        <router-link to="/experience">
-          experience
-        </router-link>
-      </div>
-      <div class="pure-u-1-4 pure-u-lg-1-8 boxlabel">
-        <router-link to="/testimonials">
-          testimonials
+      <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8 boxlabel">
+        <router-link to="/history">
+          history
         </router-link>
       </div>
     </div>
@@ -63,8 +58,7 @@
   }
 
   .sitelogo {
-    padding: 3px 0 0 0;
-    text-align: center;
+    padding: 3px 0 0 2rem;
   }
 
 </style>

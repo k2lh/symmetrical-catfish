@@ -28,10 +28,10 @@
 </template>
 
 <script>
-  import data from '../static/items.json'
+  import data from '../static/archive.json'
 
   export default {
-    name: 'portfolio',
+    name: 'Archive',
     data() {
       return {
         groups: data,

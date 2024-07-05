@@ -47,10 +47,10 @@
 </template>
 
 <script>
-  import history from '../static/experience.json'
+  import history from '../static/history.json'
 
   export default {
-    name: "experience",
+    name: "History",
     data() {
       return {
         positions: history

@@ -10,14 +10,14 @@ const router = createRouter({
       component: () => import('../views/home.vue')
     },
     {
-      path: '/portfolio',
-      name: 'Portfolio',
-      component: () => import('../views/portfolio.vue')
+      path: '/archive',
+      name: 'Archive',
+      component: () => import('../views/archive.vue')
     },
     {
-      path: '/projects',
-      name: 'Projects',
-      component: () => import('../views/projects.vue')
+      path: '/highlights',
+      name: 'Highlights',
+      component: () => import('../views/highlights.vue')
     },
     {
       path: '/narratives',
@@ -25,14 +25,9 @@ const router = createRouter({
       component: () => import('../views/narratives.vue')
     },
     {
-      path: '/experience',
-      name: 'Experience',
-      component: () => import('../views/experience.vue')
-    },
-    {
-      path: '/testimonials',
-      name: 'Testimonials',
-      component: () => import('../views/testimonials.vue')
+      path: '/history',
+      name: 'History',
+      component: () => import('../views/history.vue')
     }
   ]
 })

@@ -432,8 +432,8 @@
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
 		"link": {
-			"file": "/visuals/t-dev-pres-03-01-160323.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-01-160323.jpg"
+			"file": "/visuals/t-dev-pres-03-09-160324.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-01-160324.jpg"
 		}
 	},
 	{
@@ -455,8 +455,8 @@
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
 		"link": {
-			"file": "/visuals/t-dev-pres-03-01-160323.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-01-160323.jpg"
+			"file": "/visuals/t-dev-pres-03-05-160324.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-05-160324.jpg"
 		}
 	},
 	{
@@ -478,8 +478,8 @@
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
 		"link": {
-			"file": "/visuals/t-dev-pres-03-01-160323.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-01-160323.jpg"
+			"file": "/visuals/t-dev-pres-03-06-160324.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-06-160324.jpg"
 		}
 	},
 	{
@@ -501,8 +501,8 @@
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
 		"link": {
-			"file": "/visuals/t-dev-pres-03-01-160323.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-01-160323.jpg"
+			"file": "/visuals/t-dev-pres-03-07-160324.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-07-160324.jpg"
 		}
 	},
 	{
@@ -524,8 +524,8 @@
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
 		"link": {
-			"file": "/visuals/t-dev-pres-03-01-160323.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-01-160323.jpg"
+			"file": "/visuals/t-dev-pres-03-08-160324.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-08-160324.jpg"
 		}
 	},
 	{
@@ -547,8 +547,8 @@
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
 		"link": {
-			"file": "/visuals/t-dev-pres-03-01-160323.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-01-160323.jpg"
+			"file": "/visuals/t-dev-pres-03-10-160324.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-10-160324.jpg"
 		}
 	},
 	{
@@ -685,8 +685,8 @@
 		"industry": "Cloud",
 		"note": "Co-written API design whitepaper.",
 		"link": {
-			"file": "/texts/api-pres-02-01-171105.txt",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/api-pres-02-01-171105.txt"
+			"file": "/visuals/api-pres-02-01-171105.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-pres-02-01-171105.jpg"
 		}
 	},
 	{
@@ -1725,52 +1725,6 @@
 		}
 	},
 	{
-		"dex": 76,
-		"title": "Data Science and Storytelling",
-		"proj": "t-sda",
-		"vers": "05",
-		"num": "01",
-		"year": 2019,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
-		"anno": false,
-		"industry": "Data Analytics",
-		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
-		"link": {
-			"file": "/visuals/t-sda-pres-05-01-190322.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-sda-pres-05-01-190322.jpg"
-		}
-	},
-	{
-		"dex": 77,
-		"title": "Data Science and Storytelling",
-		"proj": "t-sda",
-		"vers": "05",
-		"num": "03",
-		"year": 2019,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
-		"anno": false,
-		"industry": "Data Analytics",
-		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
-		"link": {
-			"file": "/visuals/t-sda-pres-05-03-190322.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-sda-pres-05-03-190322.jpg"
-		}
-	},
-	{
 		"dex": 78,
 		"title": "Data Science and Storytelling",
 		"proj": "t-sda",
@@ -2040,7 +1994,7 @@
 		},
 		"anno": false,
 		"industry": "Resource Management",
-		"note": "Mock for demonstrating and explaining an advanced-level dataviz.",
+		"note": "Mocked for demonstrating and explaining an advanced-level dataviz.",
 		"link": {
 			"file": "/visuals/dcap-dviz-04-06-200512.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-04-06-200512.jpg"
@@ -2063,7 +2017,7 @@
 		},
 		"anno": false,
 		"industry": "Employee Training",
-		"note": "Mock showing the use of annotation in explaining data sources and calculations.",
+		"note": "Mocked showing the use of annotation in explaining data sources and calculations.",
 		"link": {
 			"file": "/visuals/dskl-divz-04-02-190614.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dskl-divz-04-02-190614.jpg"
@@ -2755,8 +2709,8 @@
 		"industry": "Privacy",
 		"note": "Process flow modified into a swim lane approach.",
 		"link": {
-			"file": "/texts/gdp-lane-10-01-171129.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/gdp-lane-10-01-171129.jpg"
+			"file": "/visuals/gdp-lane-10-01-171129.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/gdp-lane-10-01-171129.jpg"
 		}
 	},
 	{
@@ -3491,8 +3445,8 @@
 		"industry": "Privacy",
 		"note": "The 7th iteration of ultimately 19 versions detailing the complicated GDPR process.",
 		"link": {
-			"file": "/texts/gdp-flow-07-01-171110.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/gdp-flow-07-01-171110.jpg"
+			"file": "/visuals/gdp-flow-07-01-171110.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/gdp-flow-07-01-171110.jpg"
 		}
 	},
 	{
