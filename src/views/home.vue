@@ -9,24 +9,28 @@
             <h2>Architect.</h2>
           </div>
         </div>
-        <div class="pure-u-1 pure-u-md-1-3">
+        <div class="pure-u-1 pure-u-md-2-3">
           <div class="intro-text">
             <div class="boxlabel adjusted">
               the formal (but true) version
             </div>
-            <p>
+            <p class="limited">
               I'm a versatile and inventive Senior UX/UI Architect and Designer-Developer fluent in design thinking and systems thinking, with a strong background in enterprise development and user experience (UX) design. I have proven experience as a data visualization designer, educator, and leader, and as a design system contributor, adviser, advocate, and architect.
             </p>
           </div>
-        </div>
-        <div class="pure-u-1 pure-u-md-1-3">
+        <!-- </div>
+        <div class="pure-u-1 pure-u-md-1-2"> -->
           <div class="intro-text">
             <div class="boxlabel adjusted">
               the casual (and also true) version
             </div>
-            <p>
-              In my wayward youth, I studied philosophy. Contrary to popular assumptions, tt's not just absorbing reams of information. It's <em>distilling</em> it, to discern the underlying system. I can juggle small details without losing sight of the big picture, and vice versa. and these skills inform everything I do,
-            </p>
+            <p>As a process analyst, I learned information architecture to ensure my solutions were clear and coherent.</p>
+            <p>As an IA, I learned user research to gather and analyze my audience's feedback.</p>
+            <p>As a UX researcher, I learned design to grasp the role of research in creating usable and intuitive visuals.</p>
+            <p>As a UX designer, I learned code to better understand the art/tech divide and how to bridge it.</p>
+            <p>As a FED, I learned API and database design to improve my interfaces' performance and efficiency.</p>
+            <p>As a fullstack dev, I learned application architecture to synthesize these displines into complex but elegant systems.</p>
+            <p>...and thus I came full circle.</p>
           </div>
         </div>
       </div>
@@ -53,7 +57,7 @@
         </div>
       </div>
       <div class="pure-u-1-1 pure-u-md-1-3">
-        <div class="boxed">
+        <div class="boxed strong">
           <p>KL does a fantastic job of toeing the line between data and design.</p>
           <p>In my role as the executive sponsor for the data science profession at Kyndryl, she and I collaborated on visualization standards. KL brought a depth of knowledge to this topic that made the end product more compelling than I reasonably could have hoped. She was able to blend respect for brand colors with empathy for accessibility needs in a way that enabled the definition of multiple palettes that were brand adjacent and visible to any potential member of the audience.</p>
           <p>During the development, we had multiple enlightening conversations around how the intent of designers and data analysts/scientists are very different when they create visualizations. Whereas a 'data person' wants to optimize the speed at which the audience can make an informed decision, a designer wants the audience to spend some time interacting with the visualization.</p>
@@ -119,11 +123,15 @@
     }
     & .intro-text {
       margin: 1rem;
-      padding: 3.5rem 1rem 1rem 1rem;
+      padding: 2.5rem 0 1rem 1rem;
       font-size: .95rem;
       font-weight: 400;
-      & p {
+      & p,
+      & ul li {
         line-height: 1.3;
+      }
+      & p.limited {
+        max-width: 50em;
       }
     }
   }
@@ -155,6 +163,14 @@
   .boxlabel.adjusted {
     font-size: 1rem;
     font-weight: 500;
+  }
+
+  ul {
+    padding-left: 1rem;
+  }
+  li {
+    list-style-type: "→";
+    padding-left: .5rem;
   }
 
   /*<500px S - phones */

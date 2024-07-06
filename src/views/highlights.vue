@@ -34,7 +34,6 @@
                     {{ img.vers }}.{{ img.num }}, {{ img.stage }}
                   </div>
                 </div>
-
                 <img :src="img.file" :class="{ 'dashtop': img.top, 'dashbot': img.bot, 'dashside': img.side }">
               </div>
             </div>
@@ -65,28 +64,33 @@
     },
     methods: {
       getImages: function(val) {
-        if (this.isVisible = true) {
+        console.log('currently showing = ', this.isVisible);
+        if (this.isVisible == true) {
+          console.log('is true');
           this.clear();
           this.$nextTick(() => {
-            console.log('$nextTick');
+            console.log('next tick');
             this.retrieve(val);
           })
         } else {
+          console.log('is false');
           this.retrieve(val);
         }
+        this.isVisible = true;
       },
       clear: function() {
-        this.selected = {};
         this.isVisible = false;
-      },
-      retrieve: function(val) {
-        this.ind = val - 1;
+        console.log('CLR 1 -- isVisible=', this.isVisible);
+        this.selected = {};
         this.imgObj = {};
         this.ilink = {};
         this.images = [];
+      },
+      retrieve: function(val) {
+        console.log('retrieve');
+        this.ind = val - 1;
         this.selected = this.categories[this.ind];
         this.selected.files.forEach((num) => {
-          console.log(num);
           this.imgObj = this.items.filter((e) => e.dex == num);
           this.ilink = {
             file: this.imgObj[0].link.file,
@@ -100,11 +104,9 @@
             side: this.imgObj[0].dash.side,
             bot: this.imgObj[0].dash.bot,
           }
-          console.log(this.ilink);
           this.images.push(this.ilink);
-          console.log('--------------------------');
         });
-        this.isVisible = true;
+        console.log('have images');
       }
     }
   };
@@ -112,10 +114,8 @@
 
 <style scoped lang="scss">
   .page {
-    height: 100%;
-    margin-top: 3rem;
     overflow: hidden;
-    max-width: 2000px;
+    margin-top: 6rem;
   }
   .boxed {
     height: 3rem;
