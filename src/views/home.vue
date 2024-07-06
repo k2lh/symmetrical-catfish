@@ -24,13 +24,15 @@
             <div class="boxlabel adjusted">
               the casual (and also true) version
             </div>
-            <p>As a process analyst, I learned information architecture to ensure my solutions were clear and coherent.</p>
-            <p>As an IA, I learned user research to gather and analyze my audience's feedback.</p>
-            <p>As a UX researcher, I learned design to grasp the role of research in creating usable and intuitive visuals.</p>
-            <p>As a UX designer, I learned code to better understand the art/tech divide and how to bridge it.</p>
-            <p>As a FED, I learned API and database design to improve my interfaces' performance and efficiency.</p>
-            <p>As a fullstack dev, I learned application architecture to synthesize these displines into complex but elegant systems.</p>
-            <p>...and thus I came full circle.</p>
+            <ul>
+              <li>As a process analyst, I learned information architecture to ensure my solutions were clear and coherent.</li>
+              <li>As an IA, I learned user research to gather and analyze my audience's feedback.</li>
+              <li>As a UX researcher, I learned design to grasp the role of research in creating usable and intuitive visuals.</li>
+              <li>As a UX designer, I learned code to better understand the art/tech divide and how to bridge it.</li>
+              <li>As a FED, I learned API and database design to improve my interfaces' performance and efficiency.</li>
+              <li>As a fullstack dev, I learned application architecture to synthesize these displines into complex but elegant systems.</li>
+              <li>...and thus I came full circle.</li>
+            </ul>
           </div>
         </div>
       </div>
@@ -126,8 +128,7 @@
       padding: 2.5rem 0 1rem 1rem;
       font-size: .95rem;
       font-weight: 400;
-      & p,
-      & ul li {
+      & p {
         line-height: 1.3;
       }
       & p.limited {
@@ -169,8 +170,9 @@
     padding-left: 1rem;
   }
   li {
-    list-style-type: "→";
+    list-style-type: square;
     padding-left: .5rem;
+    line-height: 1.4;
   }
 
   /*<500px S - phones */

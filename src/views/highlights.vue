@@ -148,7 +148,6 @@
     float: left;
   }
 
-
   .answer {
     font-weight: 300;
   }
