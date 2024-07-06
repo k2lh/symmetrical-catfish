@@ -1,9 +1,33 @@
 <template>
   <div class="page home">
-    <div class="pure-g">
-      <div class="pure-u-1-1 pure-u-md-3-4 pure-u-lg-1-2 pure-u-lg-1-3">
-        <div class="intro">
-          <h1>Developer. Designer. Architect.</h1>
+    <div class="intro">
+      <div class="pure-g">
+        <div class="pure-u-1 pure-u-md-1-3">
+          <div class="intro-list">
+            <h2>Developer.</h2>
+            <h2>Designer.</h2>
+            <h2>Architect.</h2>
+          </div>
+        </div>
+        <div class="pure-u-1 pure-u-md-1-3">
+          <div class="intro-text">
+            <div class="boxlabel adjusted">
+              the formal (but true) version
+            </div>
+            <p>
+              I'm a versatile and inventive Senior UX/UI Architect and Designer-Developer fluent in design thinking and systems thinking, with a strong background in enterprise development and user experience (UX) design. I have proven experience as a data visualization designer, educator, and leader, and as a design system contributor, adviser, advocate, and architect.
+            </p>
+          </div>
+        </div>
+        <div class="pure-u-1 pure-u-md-1-3">
+          <div class="intro-text">
+            <div class="boxlabel adjusted">
+              the casual (and also true) version
+            </div>
+            <p>
+              In my wayward youth, I studied philosophy. Contrary to popular assumptions, tt's not just absorbing reams of information. It's <em>distilling</em> it, to discern the underlying system. I can juggle small details without losing sight of the big picture, and vice versa. and these skills inform everything I do,
+            </p>
+          </div>
         </div>
       </div>
     </div>
@@ -88,19 +112,49 @@
     margin: 4rem auto 0 auto;
   }
   .intro {
-    padding: 2rem;
+    // max-width: 1400px;
     margin-bottom: 8rem;
-    max-width: 1400px;
+    & .intro-list {
+      padding: 2rem;
+    }
+    & .intro-text {
+      margin: 1rem;
+      padding: 3.5rem 1rem 1rem 1rem;
+      font-size: .95rem;
+      font-weight: 400;
+      & p {
+        line-height: 1.3;
+      }
+    }
   }
+  .intro-list h2 {
+    font-size: 3em;
+    margin: .25em 0;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+
   .boxed {
     margin: 1rem;
     padding: 1rem;
-    font-size: .95rem;
+    font-size: .9rem;
     font-weight: 300;
     border-top: 1px solid #c6c5c5;
+    & p {
+      line-height: 1.2;
+    }
+    & .cite {
+      font-style: italic;
+      letter-spacing: .5px;
+    }
   }
   .onclick {
     cursor: pointer;
+  }
+
+  .boxlabel.adjusted {
+    font-size: 1rem;
+    font-weight: 500;
   }
 
   /*<500px S - phones */

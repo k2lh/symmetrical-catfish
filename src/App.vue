@@ -27,19 +27,4 @@
     height: 100vh;
     margin-top: 4rem;
   }
-
-  .col {
-    display: flex;
-    flex-direction: column;
-    flex-basis: 100%;
-    height: 100%;
-    &.limit {
-      display: grid;
-      grid-auto-flow: column;
-      grid-template-columns: 100px 100px;
-      width: 50%;
-      height: 6rem;
-      float: left;
-    }
-  }
 </style>

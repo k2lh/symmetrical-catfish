@@ -18,7 +18,23 @@
           <div class="simple-modal__content" @click="clear()">
             <div class="modal-main">
               <div v-for="(img, iindex) in images">
-                {{ img.dex }} / {{ img.title }}
+                <div class="dtside2">
+                  <div class="">
+                    {{ img.title }}
+                  </div>
+                  <div class="">
+                    {{ img.note }}
+                  </div>
+                </div>
+                <div class="ddside2">
+                  <div class="">
+                    {{ img.industry }}
+                  </div>
+                  <div class="">
+                    {{ img.vers }}.{{ img.num }}, {{ img.stage }}
+                  </div>
+                </div>
+
                 <img :src="img.file" :class="{ 'dashtop': img.top, 'dashbot': img.bot, 'dashside': img.side }">
               </div>
             </div>
@@ -75,7 +91,11 @@
           this.ilink = {
             file: this.imgObj[0].link.file,
             title: this.imgObj[0].title,
-            dex: this.imgObj[0].dex,
+            vers: this.imgObj[0].vers,
+            num: this.imgObj[0].num,
+            stage: this.imgObj[0].stage,
+            industry: this.imgObj[0].industry,
+            note: this.imgObj[0].note,
             top: this.imgObj[0].dash.top,
             side: this.imgObj[0].dash.side,
             bot: this.imgObj[0].dash.bot,
@@ -114,6 +134,21 @@
     display: inline-block;
     float: left;
   }
+  .dtside2 {
+    width: 60%;
+    text-align: left;
+    padding: 0;
+    float: left;
+  }
+  .ddside2 {
+    margin-left: 2%;
+    padding: 0;
+    display: inline-block;
+    text-align: right;
+    float: left;
+  }
+
+
   .answer {
     font-weight: 300;
   }
@@ -133,7 +168,7 @@
         overflow: auto;
         padding-top: 3.5rem;
         & img {
-          margin: 0 0 2rem 0;
+          margin: 0 0 5rem 0;
           border: 1px solid #E5E5E8;
           max-width:99%;
           height:auto;

@@ -8,6 +8,7 @@ body {
   margin: auto;
   background-color: #F9F9F9;
 }
+
 .boxlabel {
   font-weight: 700;
   font-size: .8rem;
@@ -35,6 +36,9 @@ a:hover, a:focus-visible {
 
 .alignright {
   text-align: right;
+}
+.aligncenter {
+  text-align: center;
 }
 
 .tag li {
