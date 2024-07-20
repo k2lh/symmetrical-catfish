@@ -30,7 +30,7 @@
 	},
 	{
 		"cdex": 4,
-		"cat": "data visualizations",
+		"cat": "dataviz",
 		"files": [
 			126,
 			57,
@@ -78,15 +78,6 @@
 			25,
 			117,
 			170
-		]
-	},
-	{
-		"cdex": 16,
-		"cat": "whitepapers",
-		"files": [
-			113,
-			30,
-			114
 		]
 	},
 	{

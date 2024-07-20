@@ -1,45 +1,35 @@
 <template>
-  <div class="history">
+  <div class="page history">
     <div v-for="(job, index) in positions" :key="index" class="">
-      <div class="lining">
-        <div class="title martop1">
-          {{ job.title }}
+      <div class="pure-g rows">
+        <div class="pure-u-1-1 pure-u-md-1-4">
+          <div class="metadata">
+            <div class="title">
+              {{ job.title }}
+            </div>
+            <div class="meta first">
+              <span v-if="job.team">{{ job.team}}, </span>{{ job.company }}
+            </div>
+            <div class="meta second">
+              {{ job.startMonth }} / {{ job.startYear }} &ndash; {{ job.endMonth }} / {{ job.endYear }} <span v-if="job.location"> | {{ job.location }}</span>
+            </div>
+          </div>
         </div>
-        <div class="meta jobline">
-          <span v-if="job.team">{{ job.team}}, </span>{{ job.company }}
+        <div class="pure-u-1-1 pure-u-md-1-2">
+          <div class="description">
+            <ul>
+              <li v-for="(point, pindex) in job.points" :key="pindex">
+                {{ point }}
+              </li>
+            </ul>
+          </div>
         </div>
-        <div class="meta jobline">
-           {{ job.startMonth }} {{ job.startYear }} &ndash; {{ job.endMonth }} {{ job.endYear }} | {{ job.location }}
-        </div>
-      </div>
-      <div class="lining">
-        <div class="description">
-          {{ job.description }}
-        </div>
-        <ul class="highlight martop0">
-          <li v-for="(point, pindex) in job.points" :key="pindex">
-            {{ point }}
-          </li>
-        </ul>
-      </div>
-      <div class="lining">
-        <div class="meta jobline uppercase">
-          tools & technologies
-        </div>
-        <div class="highlight martop0">
-          <span v-for="(techs, tindex) in job.tech" :key="tindex">
-            {{(techs !='' && tindex !=0) ? ' - ' : ''}}{{ techs }}
-          </span>
-        </div>
-      </div>
-      <div class="lining">
-        <div class="meta jobline uppercase">
-          skills
-        </div>
-        <div class="highlight martop0">
-          <span v-for="(skill, sindex) in job.skills" :key="sindex">
-            {{(skill !='' && sindex !=0) ? ' - ' : ''}}{{ skill }}
-          </span>
+        <div class="pure-u-1-1 pure-u-md-1-4">
+          <div class="description">
+            <span v-for="(project, prindex) in job.projects" :key="prindex">
+              {{ project }},
+            </span>
+          </div>
         </div>
       </div>
     </div>
@@ -60,15 +50,26 @@
 </script>
 
 <style scoped lang="scss">
-  .uppercase {
-    text-transform: uppercase;
+  .history {
+    max-width: 1800px;
+    margin: 5rem auto 0 auto;
+    font-size: .9rem;
   }
-
-  .lining {
-    padding-bottom: 1rem;
+  .metadata {
+    text-align: right;
+    padding: 1rem;
   }
-  h2.section.short {
-    margin-bottom: 0;
-    padding-bottom: 0;
+  .description {
+    padding: 1rem;
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    list-style: square;
+  }
+  .rows {
+    border-top: 1px solid #AAA;
   }
 </style>

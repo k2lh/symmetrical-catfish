@@ -24,7 +24,7 @@
 
 <style lang="scss">
   .page {
-    height: 100vh;
-    margin-top: 4rem;
+    // height: 100vh;
+    padding-top: 4rem;
   }
 </style>

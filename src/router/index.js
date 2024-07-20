@@ -29,7 +29,10 @@ const router = createRouter({
       name: 'History',
       component: () => import('../views/history.vue')
     }
-  ]
+  ],
+  scrollBehavior() {
+    return {x: 0, y: 0}
+  }
 })
 
 export default router

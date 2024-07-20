@@ -4,8 +4,8 @@
       <div class="pure-g">
         <div class="pure-u-1 pure-u-md-1-3">
           <div class="intro-list">
-            <h2>Developer.</h2>
             <h2>Designer.</h2>
+            <h2>Developer.</h2>
             <h2>Architect.</h2>
           </div>
         </div>
@@ -30,7 +30,7 @@
               <li>As a UX researcher, I learned design to grasp the role of research in creating usable and intuitive visuals.</li>
               <li>As a UX designer, I learned code to better understand the art/tech divide and how to bridge it.</li>
               <li>As a FED, I learned API and database design to improve my interfaces' performance and efficiency.</li>
-              <li>As a fullstack dev, I learned application architecture to synthesize these displines into complex but elegant systems.</li>
+              <li>As a fullstack dev, I learned application architecture to synthesize these displines into complex yet elegant systems.</li>
               <li>...and thus I came full circle.</li>
             </ul>
           </div>

@@ -1,1143 +1,1200 @@
 [
- {
-   "pdex": 1,
-   "proj": "csaa",
-   "lead": true,
-   "advisor": false,
-   "industry": "Data Analytics",
-   "role": [
-      "Architect",
-      "Fullstack Developer",
-      "UX Researcher"
-   ],
-   "file": [
-      1,
-      131,
-      157
-   ],
-   "goal": "Evolution of CDO team site into a catalog of analytics dashboards.",
-   "year-start": 2018,
-   "year-end": 2019
-},
- {
-   "pdex": 2,
-   "proj": "cat",
-   "lead": false,
-   "advisor": false,
-   "industry": "Animal Rescue",
-   "role": [
-      "Frontend Developer",
-      "UX Designer",
-      "UX Researcher"
-   ],
-   "file": [
-      3,
-      74
-   ],
-   "goal": "Directory for tracking feral and non-feral neighborhood cats.",
-   "year-start": 2011,
-   "year-end": 2013
-},
- {
-   "pdex": 3,
-   "proj": "sda",
-   "lead": true,
-   "advisor": false,
-   "industry": "Service Analytics",
-   "role": [
-      "Architect",
-      "Fullstack Developer",
-      "UX Designer"
-   ],
-   "file": [
-      5,
-      75,
-      106,
-      123
-   ],
-   "goal": "Further evolution of CDO team site with real-time updates.",
-   "year-start": 2019,
-   "year-end": 2020
-},
- {
-   "pdex": 3,
-   "proj": "t-sda",
-   "lead": true,
-   "advisor": false,
-   "industry": "Service Analytics",
-   "role": [
-      "Architect",
-      "Fullstack Developer",
-      "UX Designer"
-   ],
-   "file": [
-      76,
-      77,
-      78,
-      79,
-      80,
-      81,
-      82,
-      83
-   ],
-   "goal": "Further evolution of CDO team site with real-time updates.",
-   "year-start": 2019,
-   "year-end": 2020
-},
- {
-   "pdex": 4,
-   "proj": "dont",
-   "lead": false,
-   "advisor": false,
-   "industry": "HR Analytics",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer"
-   ],
-   "file": [
-      6,
-      7,
-      8,
-      9,
-      10,
-      88
-   ],
-   "goal": "Exploratory employee skills assessment using AI-trained textual inference.",
-   "year-start": 2018,
-   "year-end": 2020
-},
- {
-   "pdex": 5,
-   "proj": "datt",
-   "lead": false,
-   "advisor": true,
-   "industry": "Resource Management",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer",
-      "UX Researcher"
-   ],
-   "file": [
-      13,
-      173
-   ],
-   "goal": "Visualization index with complex data tables for tracking attrition rates.",
-   "year-start": 2021,
-   "year-end": 2022
-},
- {
-   "pdex": 6,
-   "proj": "donb",
-   "lead": true,
-   "advisor": false,
-   "industry": "HR Analytics",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer",
-      "UX Researcher"
-   ],
-   "file": [
-      14
-   ],
-   "goal": "Proposed visualizations for managing onboarding progress.",
-   "year-start": 2021,
-   "year-end": 2021
-},
- {
-   "pdex": 7,
-   "proj": "res",
-   "lead": false,
-   "advisor": false,
-   "industry": "Resume",
-   "role": [
-      "Dataviz Designer",
-      "UX Designer"
-   ],
-   "file": [
-      15,
-      85,
-      148
-   ],
-   "goal": "Visual representation of experience and skill combinations for resumes.",
-   "year-start": 2012,
-   "year-end": 2013
-},
- {
-   "pdex": 8,
-   "proj": "ctta",
-   "lead": true,
-   "advisor": false,
-   "industry": "User Support",
-   "role": [
-      "Architect",
-      "Fullstack Developer",
-      "UX Researcher"
-   ],
-   "file": [
-      17,
-      18,
-      34,
-      69,
-      118
-   ],
-   "goal": "Next-generation analytics catalog, focused on upskill/reskill initiative.",
-   "year-start": 2021,
-   "year-end": 2022
-},
- {
-   "pdex": 9,
-   "proj": "t-dev",
-   "lead": true,
-   "advisor": true,
-   "industry": "Engineering",
-   "role": [
-      "Frontend Developer",
-      "Presenter",
-      "Writer"
-   ],
-   "file": [
-      19,
-      20,
-      21,
-      22,
-      23,
-      24
-   ],
-   "goal": "Presentation on team practices for developers new to large projects.",
-   "year-start": 2016,
-   "year-end": 2016
-},
- {
-   "pdex": 10,
-   "proj": "pow",
-   "lead": false,
-   "advisor": true,
-   "industry": "Mainframe",
-   "role": [
-      "Architect",
-      "Frontend Developer"
-   ],
-   "file": [
-      25
-   ],
-   "goal": "Administration and management webapp for Power servers.",
-   "year-start": 2015,
-   "year-end": 2015
-},
- {
-   "pdex": 11,
-   "proj": "pix",
-   "lead": false,
-   "advisor": false,
-   "industry": "Publishing",
-   "role": [
-      "Architect",
-      "Fullstack Developer",
-      "UX Designer"
-   ],
-   "file": [
-      26,
-      156
-   ],
-   "goal": "Author’s paywalled archive with story and member administration.",
-   "year-start": 2013,
-   "year-end": 2013
-},
- {
-   "pdex": 12,
-   "proj": "arc",
-   "lead": false,
-   "advisor": false,
-   "industry": "Publishing",
-   "role": [
-      "Fullstack Developer",
-      "UX Designer",
-      "UX Researcher"
-   ],
-   "file": [
-      27,
-      16
-   ],
-   "goal": "Long-fiction, short-fiction, and poetry archive for multiple authors.",
-   "year-start": 2010,
-   "year-end": 2015
-},
- {
-   "pdex": 13,
-   "proj": "mrk",
-   "lead": false,
-   "advisor": false,
-   "industry": "Academia",
-   "role": [
-      "Architect",
-      "UX Designer"
-   ],
-   "file": [
-      28,
-      136
-   ],
-   "goal": "Application for researchers to bookmark and store online academic articles.",
-   "year-start": 2012,
-   "year-end": 2012
-},
- {
-   "pdex": 14,
-   "proj": "sls",
-   "lead": false,
-   "advisor": false,
-   "industry": "Sales",
-   "role": [
-      "Analyst",
-      "Architect",
-      "UX Researcher"
-   ],
-   "file": [
-      29,
-      155
-   ],
-   "goal": "App for sales team to track current and potential customers.",
-   "year-start": 2012,
-   "year-end": 2012
-},
- {
-   "pdex": 15,
-   "proj": "api",
-   "lead": true,
-   "advisor": false,
-   "industry": "Cloud",
-   "role": [
-      "Analyst",
-      "API Developer",
-      "Writer"
-   ],
-   "file": [
-      30,
-      109,
-      110,
-      175
-   ],
-   "goal": "Evaluation and documentation of API architecture and processes.",
-   "year-start": 2016,
-   "year-end": 2018
-},
- {
-   "pdex": 16,
-   "proj": "hcr",
-   "lead": false,
-   "advisor": false,
-   "industry": "Healthcare",
-   "role": [
-      "Analyst",
-      "UX Designer"
-   ],
-   "file": [
-      31,
-      142
-   ],
-   "goal": "Patient information and support site for cancer patients.",
-   "year-start": 2012,
-   "year-end": 2012
-},
- {
-   "pdex": 17,
-   "proj": "dskl",
-   "lead": false,
-   "advisor": false,
-   "industry": "Employee Training",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer"
-   ],
-   "file": [
-      32,
-      90
-   ],
-   "goal": "Employee Skills assessment with self-assessment, team-assessment, and company-wide ranking.",
-   "year-start": 2019,
-   "year-end": 2019
-},
- {
-   "pdex": 18,
-   "proj": "dg2m",
-   "lead": true,
-   "advisor": false,
-   "industry": "Sales Analytics",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer",
-      "UX Researcher"
-   ],
-   "file": [
-      33
-   ],
-   "goal": "Complex dashboard for viewing and comparing regional go-to-market data.",
-   "year-start": 2020,
-   "year-end": 2021
-},
- {
-   "pdex": 19,
-   "proj": "dtmt",
-   "lead": true,
-   "advisor": false,
-   "industry": "Team Management",
-   "role": [
-      "Architect",
-      "Fullstack Developer",
-      "UX Designer"
-   ],
-   "file": [
-      35,
-      126
-   ],
-   "goal": "Prototype for employees to track their internal education and their direct reports’.",
-   "year-start": 2020,
-   "year-end": 2020
-},
- {
-   "pdex": 20,
-   "proj": "dcap",
-   "lead": false,
-   "advisor": false,
-   "industry": "Resource Management",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer",
-      "UX Researcher"
-   ],
-   "file": [
-      36,
-      57,
-      86,
-      89,
-      169
-   ],
-   "goal": "Complex dashboard for managing headcount gaps and resolution strategies.",
-   "year-start": 2021,
-   "year-end": 2022
-},
- {
-   "pdex": 21,
-   "proj": "dtcb",
-   "lead": false,
-   "advisor": false,
-   "industry": "Data Analytics",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer"
-   ],
-   "file": [
-      37,
-      39,
-      58
-   ],
-   "goal": "Evolved out of ROI dashboard, with improved user experience and organization.",
-   "year-start": 2020,
-   "year-end": 2020
-},
- {
-   "pdex": 22,
-   "proj": "dlbd",
-   "lead": false,
-   "advisor": false,
-   "industry": "Team Management",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer"
-   ],
-   "file": [
-      38,
-      94
-   ],
-   "goal": "Leaderboard for data scientists, architects, and analysts.",
-   "year-start": 2019,
-   "year-end": 2019
-},
- {
-   "pdex": 23,
-   "proj": "lor",
-   "lead": false,
-   "advisor": false,
-   "industry": "User Support",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer",
-      "UX Researcher"
-   ],
-   "file": [
-      40
-   ],
-   "goal": "Request process for corporate education managers and administrators.",
-   "year-start": 2020,
-   "year-end": 2021
-},
- {
-   "pdex": 24,
-   "proj": "capi",
-   "lead": true,
-   "advisor": false,
-   "industry": "Cloud",
-   "role": [
-      "UX Designer",
-      "UX Researcher",
-      "Presenter"
-   ],
-   "file": [
-      41,
-      42
-   ],
-   "goal": "Catalog for APIs similar to Bluemix Components concept.",
-   "year-start": 2016,
-   "year-end": 2017
-},
- {
-   "pdex": 25,
-   "proj": "tpm",
-   "lead": false,
-   "advisor": true,
-   "industry": "Project Management",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer"
-   ],
-   "file": [
-      43,
-      84
-   ],
-   "goal": "Team project management system based on team input and existing processes.",
-   "year-start": 2018,
-   "year-end": 2018
-},
- {
-   "pdex": 26,
-   "proj": "des",
-   "lead": true,
-   "advisor": false,
-   "industry": "Design System",
-   "role": [
-      "Architect",
-      "Frontend Developer",
-      "UX Designer",
-      "Writer"
-   ],
-   "file": [
-      44,
-      64,
-      147,
-      174
-   ],
-   "goal": "Modern design system including code components using storybook.",
-   "year-start": 2022,
-   "year-end": 2023
-},
- {
-   "pdex": 27,
-   "proj": "dtrn",
-   "lead": false,
-   "advisor": false,
-   "industry": "User Research",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer"
-   ],
-   "file": [
-      46,
-      127,
-      135
-   ],
-   "goal": "Earliest conceptual iterations for Tableau dashboards related to training.",
-   "year-start": 2019,
-   "year-end": 2019
-},
- {
-   "pdex": 28,
-   "proj": "droi",
-   "lead": false,
-   "advisor": false,
-   "industry": "Data Analytics",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer"
-   ],
-   "file": [
-      47,
-      59
-   ],
-   "goal": "Proposed page architecture and interaction, for executive presentation.",
-   "year-start": 2019,
-   "year-end": 2020
-},
- {
-   "pdex": 29,
-   "proj": "ela",
-   "lead": false,
-   "advisor": true,
-   "industry": "Internal Learning",
-   "role": [
-      "Architect",
-      "UX Designer",
-      "UX Researcher",
-      "Writer"
-   ],
-   "file": [
-      48,
-      49,
-      50
-   ],
-   "goal": "Presentation and promotions for internal learning program.",
-   "year-start": 2021,
-   "year-end": 2021
-},
- {
-   "pdex": 30,
-   "proj": "bst",
-   "lead": false,
-   "advisor": true,
-   "industry": "AI",
-   "role": [
-      "Architect",
-      "UX Designer",
-      "Writer"
-   ],
-   "file": [
-      51,
-      140,
-      146,
-      171
-   ],
-   "goal": "Assist and advise pre-seed startup in brand, design, and content styles.",
-   "year-start": 2023,
-   "year-end": 2023
-},
- {
-   "pdex": 31,
-   "proj": "dall",
-   "lead": true,
-   "advisor": false,
-   "industry": "Design System",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer"
-   ],
-   "file": [
-      52,
-      53,
-      54,
-      133,
-      4
-   ],
-   "goal": "Data visualization standards and guide for embedded dashboards in the analytics catalog.",
-   "year-start": 2018,
-   "year-end": 2023
-},
- {
-   "pdex": 32,
-   "proj": "svy",
-   "lead": true,
-   "advisor": false,
-   "industry": "User Research",
-   "role": [
-      "Fullstack Developer",
-      "UX Designer",
-      "Writer"
-   ],
-   "file": [
-      55
-   ],
-   "goal": "Tested and validated survey for reader-writer behaviors and preferences.",
-   "year-start": 2011,
-   "year-end": 2011
-},
- {
-   "pdex": 33,
-   "proj": "erf",
-   "lead": false,
-   "advisor": false,
-   "industry": "User Support",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer",
-      "UX Researcher"
-   ],
-   "file": [
-      56,
-      66,
-      67,
-      119,
-      150
-   ],
-   "goal": "Education request and tracking system.",
-   "year-start": 2018,
-   "year-end": 2020
-},
- {
-   "pdex": 34,
-   "proj": "yin",
-   "lead": true,
-   "advisor": false,
-   "industry": "User Support",
-   "role": [
-      "Architect",
-      "Fullstack Developer",
-      "UX Designer"
-   ],
-   "file": [
-      60,
-      61,
-      145
-   ],
-   "goal": "CRUD pages for employee assessment and skills site.",
-   "year-start": 2021,
-   "year-end": 2022
-},
- {
-   "pdex": 35,
-   "proj": "ift",
-   "lead": true,
-   "advisor": false,
-   "industry": "Cloud",
-   "role": [
-      "UX Designer",
-      "Architect"
-   ],
-   "file": [
-      62,
-      63,
-      137,
-      143,
-      153,
-      154
-   ],
-   "goal": "If/Then-style application embedded in Bluemix system.",
-   "year-start": 2016,
-   "year-end": 2016
-},
- {
-   "pdex": 36,
-   "proj": "hap",
-   "lead": false,
-   "advisor": false,
-   "industry": "Customer Service",
-   "role": [
-      "Architect",
-      "UX Designer",
-      "UX Researcher"
-   ],
-   "file": [
-      65,
-      115,
-      116
-   ],
-   "goal": "User-friendly product help and information site.",
-   "year-start": 2016,
-   "year-end": 2016
-},
- {
-   "pdex": 37,
-   "proj": "cdo",
-   "lead": true,
-   "advisor": false,
-   "industry": "Data Management",
-   "role": [
-      "Architect",
-      "Fullstack Developer",
-      "UX Designer"
-   ],
-   "file": [
-      68,
-      113,
-      114,
-      172
-   ],
-   "goal": "Internal site introducing and explaining the NA Chief Data Office mission.",
-   "year-start": 2018,
-   "year-end": 2020
-},
- {
-   "pdex": 38,
-   "proj": "dseg",
-   "lead": true,
-   "advisor": false,
-   "industry": "Learning Analytics",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer"
-   ],
-   "file": [
-      70,
-      71,
-      95
-   ],
-   "goal": "Preliminary exploration and design for tracking internal training by industry segment.",
-   "year-start": 2019,
-   "year-end": 2020
-},
- {
-   "pdex": 39,
-   "proj": "mim",
-   "lead": false,
-   "advisor": true,
-   "industry": "Servers",
-   "role": [
-      "Architect",
-      "UX Designer"
-   ],
-   "file": [
-      72,
-      73
-   ],
-   "goal": "Application Outage and Issue reporting system.",
-   "year-start": 2019,
-   "year-end": 2019
-},
- {
-   "pdex": 40,
-   "proj": "abc",
-   "lead": false,
-   "advisor": false,
-   "industry": "Pharmacology",
-   "role": [
-      "Analyst",
-      "Architect",
-      "UX Designer"
-   ],
-   "file": [
-      87,
-      112,
-      117
-   ],
-   "goal": "UI architecture and visuals for company intranet redesign.",
-   "year-start": 2007,
-   "year-end": 2008
-},
- {
-   "pdex": 41,
-   "proj": "dexv",
-   "lead": false,
-   "advisor": true,
-   "industry": "User Research",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer",
-      "UX Researcher"
-   ],
-   "file": [
-      91,
-      92,
-      93,
-      97,
-      96,
-      98
-   ],
-   "goal": "Executive overview dashboard with presentation-style charts.",
-   "year-start": 2018,
-   "year-end": 2021
-},
- {
-   "pdex": 42,
-   "proj": "tag",
-   "lead": false,
-   "advisor": true,
-   "industry": "Internal Learning",
-   "role": [
-      "Architect",
-      "Presenter",
-      "UX Designer"
-   ],
-   "file": [
-      99,
-      100
-   ],
-   "goal": "Tagging system for company educational courses and activities.",
-   "year-start": 2021,
-   "year-end": 2021
-},
- {
-   "pdex": 43,
-   "proj": "da2t",
-   "lead": true,
-   "advisor": false,
-   "industry": "Learning Analytics",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer"
-   ],
-   "file": [
-      101,
-      102,
-      103,
-      104,
-      132
-   ],
-   "goal": "Vue/D3 standalone dashboard for tracking reskill/upskill efforts across industries based on Segment Training concept.",
-   "year-start": 2019,
-   "year-end": 2021
-},
- {
-   "pdex": 44,
-   "proj": "zlk",
-   "lead": false,
-   "advisor": false,
-   "industry": "Tourism",
-   "role": [
-      "Architect",
-      "Fullstack Developer",
-      "UX Designer",
-      "UX Researcher"
-   ],
-   "file": [
-      105,
-      144,
-      139
-   ],
-   "goal": "Annual information site for country’s oldest continuously-operating kite festival.",
-   "year-start": 2010,
-   "year-end": 2014
-},
- {
-   "pdex": 45,
-   "proj": "dsvc",
-   "lead": false,
-   "advisor": false,
-   "industry": "Learning Analytics",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer"
-   ],
-   "file": [
-      107,
-      108
-   ],
-   "goal": "Conceptual division of dashboards by operational and presentational.",
-   "year-start": 2019,
-   "year-end": 2019
-},
- {
-   "pdex": 46,
-   "proj": "mob",
-   "lead": true,
-   "advisor": false,
-   "industry": "Sales",
-   "role": [
-      "Architect",
-      "Fullstack Developer"
-   ],
-   "file": [
-      111,
-      141
-   ],
-   "goal": "Web-based phone app for sales people.",
-   "year-start": 2013,
-   "year-end": 2013
-},
- {
-   "pdex": 47,
-   "proj": "gdp",
-   "lead": false,
-   "advisor": true,
-   "industry": "Privacy",
-   "role": [
-      "Architect",
-      "UX Designer"
-   ],
-   "file": [
-      120,
-      152
-   ],
-   "goal": "Clearly documented and outlined GDPR process.",
-   "year-start": 2017,
-   "year-end": 2018
-},
- {
-   "pdex": 48,
-   "proj": "chr",
-   "lead": false,
-   "advisor": false,
-   "industry": "Writing",
-   "role": [
-      "Architect",
-      "Fullstack Developer",
-      "UX Designer"
-   ],
-   "file": [
-      121,
-      122,
-      2,
-      11,
-      12,
-      45,
-      130,
-      129
-   ],
-   "goal": "Archive for writers to manage characters and their details.",
-   "year-start": 2012,
-   "year-end": 2018
-},
- {
-   "pdex": 49,
-   "proj": "hci",
-   "lead": false,
-   "advisor": false,
-   "industry": "Healthcare",
-   "role": [
-      "Architect",
-      "Frontend Developer"
-   ],
-   "file": [
-      124,
-      125
-   ],
-   "goal": "Healthcare POS Analytics site proposal.",
-   "year-start": 2018,
-   "year-end": 2018
-},
- {
-   "pdex": 50,
-   "proj": "hol",
-   "lead": true,
-   "advisor": false,
-   "industry": "Finance",
-   "role": [
-      "Frontend Developer",
-      "UX Designer"
-   ],
-   "file": [
-      128
-   ],
-   "goal": "Prototype hacking new and legacy apps to demonstrate viability of SSO.",
-   "year-start": 2013,
-   "year-end": 2013
-},
- {
-   "pdex": 51,
-   "proj": "dedv",
-   "lead": false,
-   "advisor": false,
-   "industry": "User Research",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer"
-   ],
-   "file": [
-      134
-   ],
-   "goal": "Program enrollment dashboard.",
-   "year-start": 2019,
-   "year-end": 2019
-},
- {
-   "pdex": 52,
-   "proj": "ccts",
-   "lead": false,
-   "advisor": true,
-   "industry": "Platform (PAAS)",
-   "role": [
-      "Dataviz Designer",
-      "UX Designer"
-   ],
-   "file": [
-      138
-   ],
-   "goal": "Redesign of customer platform, applying latest design system patterns.",
-   "year-start": 2017,
-   "year-end": 2017
-},
- {
-   "pdex": 53,
-   "proj": "wst",
-   "lead": false,
-   "advisor": true,
-   "industry": "Finance",
-   "role": [
-      "Architect",
-      "UX Researcher"
-   ],
-   "file": [
-      149
-   ],
-   "goal": "Mapped and clarified data processes for financial institution.",
-   "year-start": 2017,
-   "year-end": 2018
-},
- {
-   "pdex": 54,
-   "proj": "djrs",
-   "lead": false,
-   "advisor": true,
-   "industry": "Resource Management",
-   "role": [
-      "Architect",
-      "Dataviz Designer",
-      "UX Designer",
-      "UX Researcher"
-   ],
-   "file": [
-      151
-   ],
-   "goal": "At-a-glance visualizations with data table for details.",
-   "year-start": 2021,
-   "year-end": 2021
-},
- {
-   "pdex": 55,
-   "proj": "t-ift",
-   "lead": true,
-   "advisor": false,
-   "industry": "Cloud",
-   "role": [
-      "Presenter",
-      "UX Designer"
-   ],
-   "file": [
-      158,
-      159,
-      160,
-      161,
-      162,
-      163,
-      164,
-      165,
-      166,
-      167,
-      168
-   ],
-   "goal": "Metaphorical presentation explaining if/then application logic.",
-   "year-start": 2017,
-   "year-end": 2017
-},
- {
-   "pdex": 56,
-   "proj": "dlk",
-   "lead": false,
-   "advisor": false,
-   "industry": "Data Management",
-   "role": [
-      "Architect",
-      "UX Designer"
-   ],
-   "file": [
-      170
-   ],
-   "goal": "Design and present system map for potential data lake.",
-   "year-start": 2017,
-   "year-end": 2017
-}
+	{
+		"pdex": 1,
+		"proj": "csaa",
+		"title": "",
+		"lead": true,
+		"advisor": false,
+		"industry": "Data Analytics",
+		"role": [
+			"Architect",
+			"Fullstack Developer",
+			"UX Researcher"
+		],
+		"file": [
+			1,
+			131,
+			157
+		],
+		"goal": "Evolution of CDO team site into a catalog of analytics dashboards.",
+		"year-start": 2018,
+		"year-end": 2019
+	},
+	{
+		"pdex": 2,
+		"proj": "cat",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "Animal Rescue",
+		"role": [
+			"Frontend Developer",
+			"UX Designer",
+			"UX Researcher"
+		],
+		"file": [
+			3,
+			74
+		],
+		"goal": "Directory for tracking feral and non-feral neighborhood cats.",
+		"year-start": 2011,
+		"year-end": 2013
+	},
+	{
+		"pdex": 3,
+		"proj": "sda",
+		"title": "",
+		"lead": true,
+		"advisor": false,
+		"industry": "Service Analytics",
+		"role": [
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
+		],
+		"file": [
+			5,
+			75,
+			106,
+			123
+		],
+		"goal": "Further evolution of CDO team site with real-time updates.",
+		"year-start": 2019,
+		"year-end": 2020
+	},
+	{
+		"pdex": 57,
+		"title": "",
+		"proj": "t-sda",
+		"lead": true,
+		"advisor": false,
+		"industry": "Service Analytics",
+		"role": [
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
+		],
+		"file": [
+			76,
+			77,
+			78,
+			79,
+			80,
+			81,
+			82,
+			83
+		],
+		"goal": "Further evolution of CDO team site with real-time updates.",
+		"year-start": 2019,
+		"year-end": 2020
+	},
+	{
+		"pdex": 4,
+		"proj": "dont",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "HR Analytics",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
+		],
+		"file": [
+			6,
+			7,
+			8,
+			9,
+			10,
+			88
+		],
+		"goal": "Exploratory employee skills assessment using AI-trained textual inference.",
+		"year-start": 2018,
+		"year-end": 2020
+	},
+	{
+		"pdex": 5,
+		"proj": "datt",
+		"title": "",
+		"lead": false,
+		"advisor": true,
+		"industry": "Resource Management",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer",
+			"UX Researcher"
+		],
+		"file": [
+			13,
+			173
+		],
+		"goal": "Visualization index with complex data tables for tracking attrition rates.",
+		"year-start": 2021,
+		"year-end": 2022
+	},
+	{
+		"pdex": 6,
+		"proj": "donb",
+		"title": "",
+		"lead": true,
+		"advisor": false,
+		"industry": "HR Analytics",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer",
+			"UX Researcher"
+		],
+		"file": [
+			14
+		],
+		"goal": "Proposed visualizations for managing onboarding progress.",
+		"year-start": 2021,
+		"year-end": 2021
+	},
+	{
+		"pdex": 7,
+		"proj": "res",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "Resume",
+		"role": [
+			"Dataviz Designer",
+			"UX Designer"
+		],
+		"file": [
+			15,
+			85,
+			148
+		],
+		"goal": "Visual representation of experience and skill combinations for resumes.",
+		"year-start": 2012,
+		"year-end": 2013
+	},
+	{
+		"pdex": 8,
+		"proj": "ctta",
+		"title": "",
+		"lead": true,
+		"advisor": false,
+		"industry": "User Support",
+		"role": [
+			"Architect",
+			"Fullstack Developer",
+			"UX Researcher"
+		],
+		"file": [
+			17,
+			18,
+			34,
+			69,
+			118
+		],
+		"goal": "Next-generation analytics catalog, focused on upskill/reskill initiative.",
+		"year-start": 2021,
+		"year-end": 2022
+	},
+	{
+		"pdex": 9,
+		"proj": "t-dev",
+		"title": "",
+		"lead": true,
+		"advisor": true,
+		"industry": "Engineering",
+		"role": [
+			"Frontend Developer",
+			"Presenter",
+			"Writer"
+		],
+		"file": [
+			19,
+			20,
+			21,
+			22,
+			23,
+			24
+		],
+		"goal": "Presentation on team practices for developers new to large projects.",
+		"year-start": 2016,
+		"year-end": 2016
+	},
+	{
+		"pdex": 10,
+		"proj": "pow",
+		"title": "",
+		"lead": false,
+		"advisor": true,
+		"industry": "Mainframe",
+		"role": [
+			"Architect",
+			"Frontend Developer"
+		],
+		"file": [
+			25
+		],
+		"goal": "Administration and management webapp for Power servers.",
+		"year-start": 2015,
+		"year-end": 2015
+	},
+	{
+		"pdex": 11,
+		"proj": "pix",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "Publishing",
+		"role": [
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
+		],
+		"file": [
+			26,
+			156
+		],
+		"goal": "Author’s paywalled archive with story and member administration.",
+		"year-start": 2013,
+		"year-end": 2013
+	},
+	{
+		"pdex": 12,
+		"proj": "arc",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "Publishing",
+		"role": [
+			"Fullstack Developer",
+			"UX Designer",
+			"UX Researcher"
+		],
+		"file": [
+			27,
+			16
+		],
+		"goal": "Long-fiction, short-fiction, and poetry archive for multiple authors.",
+		"year-start": 2010,
+		"year-end": 2015
+	},
+	{
+		"pdex": 13,
+		"proj": "mrk",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "Academia",
+		"role": [
+			"Architect",
+			"UX Designer"
+		],
+		"file": [
+			28,
+			136
+		],
+		"goal": "Application for researchers to bookmark and store online academic articles.",
+		"year-start": 2012,
+		"year-end": 2012
+	},
+	{
+		"pdex": 14,
+		"proj": "sls",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "Sales",
+		"role": [
+			"Analyst",
+			"Architect",
+			"UX Researcher"
+		],
+		"file": [
+			29,
+			155
+		],
+		"goal": "App for sales team to track current and potential customers.",
+		"year-start": 2012,
+		"year-end": 2012
+	},
+	{
+		"pdex": 15,
+		"proj": "api",
+		"title": "",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
+		"role": [
+			"Analyst",
+			"API Developer",
+			"Writer"
+		],
+		"file": [
+			30,
+			109,
+			110,
+			175
+		],
+		"goal": "Evaluation and documentation of API architecture and processes.",
+		"year-start": 2016,
+		"year-end": 2018
+	},
+	{
+		"pdex": 16,
+		"proj": "hcr",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "Healthcare",
+		"role": [
+			"Analyst",
+			"UX Designer"
+		],
+		"file": [
+			31,
+			142
+		],
+		"goal": "Patient information and support site for cancer patients.",
+		"year-start": 2012,
+		"year-end": 2012
+	},
+	{
+		"pdex": 17,
+		"proj": "dskl",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "Employee Training",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
+		],
+		"file": [
+			32,
+			90
+		],
+		"goal": "Employee Skills assessment with self-assessment, team-assessment, and company-wide ranking.",
+		"year-start": 2019,
+		"year-end": 2019
+	},
+	{
+		"pdex": 18,
+		"proj": "dg2m",
+		"title": "",
+		"lead": true,
+		"advisor": false,
+		"industry": "Sales Analytics",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer",
+			"UX Researcher"
+		],
+		"file": [
+			33
+		],
+		"goal": "Complex dashboard for viewing and comparing regional go-to-market data.",
+		"year-start": 2020,
+		"year-end": 2021
+	},
+	{
+		"pdex": 19,
+		"proj": "dtmt",
+		"title": "",
+		"lead": true,
+		"advisor": false,
+		"industry": "Team Management",
+		"role": [
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
+		],
+		"file": [
+			35,
+			126
+		],
+		"goal": "Prototype for employees to track their internal education and their direct reports’.",
+		"year-start": 2020,
+		"year-end": 2020
+	},
+	{
+		"pdex": 20,
+		"proj": "dcap",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "Resource Management",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer",
+			"UX Researcher"
+		],
+		"file": [
+			36,
+			57,
+			86,
+			89,
+			169
+		],
+		"goal": "Complex dashboard for managing headcount gaps and resolution strategies.",
+		"year-start": 2021,
+		"year-end": 2022
+	},
+	{
+		"pdex": 21,
+		"proj": "dtcb",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "Data Analytics",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
+		],
+		"file": [
+			37,
+			39,
+			58
+		],
+		"goal": "Evolved out of ROI dashboard, with improved user experience and organization.",
+		"year-start": 2020,
+		"year-end": 2020
+	},
+	{
+		"pdex": 22,
+		"proj": "dlbd",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "Team Management",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
+		],
+		"file": [
+			38,
+			94
+		],
+		"goal": "Leaderboard for data scientists, architects, and analysts.",
+		"year-start": 2019,
+		"year-end": 2019
+	},
+	{
+		"pdex": 23,
+		"proj": "lor",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "User Support",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer",
+			"UX Researcher"
+		],
+		"file": [
+			40
+		],
+		"goal": "Request process for corporate education managers and administrators.",
+		"year-start": 2020,
+		"year-end": 2021
+	},
+	{
+		"pdex": 24,
+		"proj": "capi",
+		"title": "",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
+		"role": [
+			"UX Designer",
+			"UX Researcher",
+			"Presenter"
+		],
+		"file": [
+			41,
+			42
+		],
+		"goal": "Catalog for APIs similar to Bluemix Components concept.",
+		"year-start": 2016,
+		"year-end": 2017
+	},
+	{
+		"pdex": 25,
+		"proj": "tpm",
+		"title": "",
+		"lead": false,
+		"advisor": true,
+		"industry": "Project Management",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
+		],
+		"file": [
+			43,
+			84
+		],
+		"goal": "Team project management system based on team input and existing processes.",
+		"year-start": 2018,
+		"year-end": 2018
+	},
+	{
+		"pdex": 26,
+		"proj": "des",
+		"title": "",
+		"lead": true,
+		"advisor": false,
+		"industry": "Design System",
+		"role": [
+			"Architect",
+			"Frontend Developer",
+			"UX Designer",
+			"Writer"
+		],
+		"file": [
+			44,
+			64,
+			147,
+			174
+		],
+		"goal": "Modern design system including code components using storybook.",
+		"year-start": 2022,
+		"year-end": 2023
+	},
+	{
+		"pdex": 27,
+		"proj": "dtrn",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "User Research",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
+		],
+		"file": [
+			46,
+			127,
+			135
+		],
+		"goal": "Earliest conceptual iterations for Tableau dashboards related to training.",
+		"year-start": 2019,
+		"year-end": 2019
+	},
+	{
+		"pdex": 28,
+		"proj": "droi",
+		"title": "",
+		"lead": false,
+		"advisor": false,
+		"industry": "Data Analytics",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
+		],
+		"file": [
+			47,
+			59
+		],
+		"goal": "Proposed page architecture and interaction, for executive presentation.",
+		"year-start": 2019,
+		"year-end": 2020
+	},
+	{
+		"pdex": 29,
+		"proj": "ela",
+		"title": "",
+		"lead": false,
+		"advisor": true,
+		"industry": "Internal Learning",
+		"role": [
+			"Architect",
+			"UX Designer",
+			"UX Researcher",
+			"Writer"
+		],
+		"file": [
+			48,
+			49,
+			50
+		],
+		"goal": "Presentation and promotions for internal learning program.",
+		"year-start": 2021,
+		"year-end": 2021
+	},
+	{
+		"pdex": 30,
+		"proj": "bst",
+		"title": "Pre-Seed AI Startup",
+		"lead": false,
+		"advisor": true,
+		"industry": "AI",
+		"role": [
+			"Architect",
+			"UX Designer",
+			"Writer"
+		],
+		"file": [
+			51,
+			140,
+			146,
+			171
+		],
+		"goal": "Assist and advise pre-seed startup in brand, design, and content styles.",
+		"year-start": 2023,
+		"year-end": 2023
+	},
+	{
+		"pdex": 31,
+		"proj": "dall",
+		"title": "Dashboard Design Guides",
+		"lead": true,
+		"advisor": false,
+		"industry": "Design System",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
+		],
+		"file": [
+			52,
+			53,
+			54,
+			133,
+			4
+		],
+		"goal": "Data visualization standards and guide for embedded dashboards in the analytics catalog.",
+		"year-start": 2018,
+		"year-end": 2023
+	},
+	{
+		"pdex": 32,
+		"proj": "svy",
+		"title": "Survey",
+		"lead": true,
+		"advisor": false,
+		"industry": "User Research",
+		"role": [
+			"Fullstack Developer",
+			"UX Designer",
+			"Writer"
+		],
+		"file": [
+			55
+		],
+		"goal": "Tested and validated survey for reader-writer behaviors and preferences.",
+		"year-start": 2011,
+		"year-end": 2011
+	},
+	{
+		"pdex": 33,
+		"proj": "erf",
+		"title": "Request/Tracking Site",
+		"lead": false,
+		"advisor": false,
+		"industry": "User Support",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer",
+			"UX Researcher"
+		],
+		"file": [
+			56,
+			66,
+			67,
+			119,
+			150
+		],
+		"goal": "Education request and tracking system.",
+		"year-start": 2018,
+		"year-end": 2020
+	},
+	{
+		"pdex": 34,
+		"proj": "yin",
+		"title": "Employee Insights",
+		"lead": true,
+		"advisor": false,
+		"industry": "User Support",
+		"role": [
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
+		],
+		"file": [
+			60,
+			61,
+			145
+		],
+		"goal": "CRUD pages for employee assessment and skills site.",
+		"year-start": 2021,
+		"year-end": 2022
+	},
+	{
+		"pdex": 35,
+		"proj": "ift",
+		"title": "If/Then App Drafts",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
+		"role": [
+			"UX Designer",
+			"Architect"
+		],
+		"file": [
+			62,
+			63,
+			137,
+			143,
+			153,
+			154
+		],
+		"goal": "If/Then-style application embedded in Bluemix system.",
+		"year-start": 2016,
+		"year-end": 2016
+	},
+	{
+		"pdex": 36,
+		"proj": "hap",
+		"title": "Customer Happiness Site",
+		"lead": false,
+		"advisor": false,
+		"industry": "Customer Service",
+		"role": [
+			"Architect",
+			"UX Designer",
+			"UX Researcher"
+		],
+		"file": [
+			65,
+			115,
+			116
+		],
+		"goal": "User-friendly product help and information site.",
+		"year-start": 2016,
+		"year-end": 2016
+	},
+	{
+		"pdex": 37,
+		"proj": "cdo",
+		"title": "Chief Data Office Site",
+		"lead": true,
+		"advisor": false,
+		"industry": "Data Management",
+		"role": [
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
+		],
+		"file": [
+			68,
+			113,
+			114,
+			172
+		],
+		"goal": "Internal site introducing and explaining the NA Chief Data Office mission.",
+		"year-start": 2018,
+		"year-end": 2020
+	},
+	{
+		"pdex": 38,
+		"proj": "dseg",
+		"title": "Dashboard: Segments",
+		"lead": true,
+		"advisor": false,
+		"industry": "Learning Analytics",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
+		],
+		"file": [
+			70,
+			71,
+			95
+		],
+		"goal": "Preliminary exploration and design for tracking internal training by industry segment.",
+		"year-start": 2019,
+		"year-end": 2020
+	},
+	{
+		"pdex": 39,
+		"proj": "mim",
+		"title": "Outage Reporting System",
+		"lead": false,
+		"advisor": true,
+		"industry": "Servers",
+		"role": [
+			"Architect",
+			"UX Designer"
+		],
+		"file": [
+			72,
+			73
+		],
+		"goal": "Application Outage and Issue reporting system.",
+		"year-start": 2019,
+		"year-end": 2019
+	},
+	{
+		"pdex": 40,
+		"proj": "abc",
+		"title": "Intranet Site Map",
+		"lead": false,
+		"advisor": false,
+		"industry": "Pharmacology",
+		"role": [
+			"Analyst",
+			"Architect",
+			"UX Designer"
+		],
+		"file": [
+			87,
+			112,
+			117
+		],
+		"goal": "UI architecture and visuals for company intranet redesign.",
+		"year-start": 2007,
+		"year-end": 2008
+	},
+	{
+		"pdex": 41,
+		"proj": "dexv",
+		"title": "Dashboard: Executive View",
+		"lead": false,
+		"advisor": true,
+		"industry": "User Research",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer",
+			"UX Researcher"
+		],
+		"file": [
+			91,
+			92,
+			93,
+			97,
+			96,
+			98
+		],
+		"goal": "Executive overview dashboard with presentation-style charts.",
+		"year-start": 2018,
+		"year-end": 2021
+	},
+	{
+		"pdex": 42,
+		"proj": "tag",
+		"title": "Tagging Process Mockup",
+		"lead": false,
+		"advisor": true,
+		"industry": "Internal Learning",
+		"role": [
+			"Architect",
+			"Presenter",
+			"UX Designer"
+		],
+		"file": [
+			99,
+			100
+		],
+		"goal": "Tagging system for company educational courses and activities.",
+		"year-start": 2021,
+		"year-end": 2021
+	},
+	{
+		"pdex": 43,
+		"proj": "da2t",
+		"title": "Dashboard: Actuals to Targets",
+		"lead": true,
+		"advisor": false,
+		"industry": "Learning Analytics",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
+		],
+		"file": [
+			101,
+			102,
+			103,
+			104,
+			132
+		],
+		"goal": "Vue/D3 standalone dashboard for tracking reskill/upskill efforts across industries based on Segment Training concept.",
+		"year-start": 2019,
+		"year-end": 2021
+	},
+	{
+		"pdex": 44,
+		"proj": "zlk",
+		"title": "Annual Kite Festival",
+		"lead": false,
+		"advisor": false,
+		"industry": "Tourism",
+		"role": [
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer",
+			"UX Researcher"
+		],
+		"file": [
+			105,
+			144,
+			139
+		],
+		"goal": "Annual information site for country’s oldest continuously-operating kite festival.",
+		"year-start": 2010,
+		"year-end": 2014
+	},
+	{
+		"pdex": 45,
+		"proj": "dsvc",
+		"title": "Dashboard: Services",
+		"lead": false,
+		"advisor": false,
+		"industry": "Learning Analytics",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
+		],
+		"file": [
+			107,
+			108
+		],
+		"goal": "Conceptual division of dashboards by operational and presentational.",
+		"year-start": 2019,
+		"year-end": 2019
+	},
+	{
+		"pdex": 46,
+		"proj": "mob",
+		"title": "Sales Application",
+		"lead": true,
+		"advisor": false,
+		"industry": "Sales",
+		"role": [
+			"Architect",
+			"Fullstack Developer"
+		],
+		"file": [
+			111,
+			141
+		],
+		"goal": "Web-based phone app for sales people.",
+		"year-start": 2013,
+		"year-end": 2013
+	},
+	{
+		"pdex": 47,
+		"proj": "gdp",
+		"title": "GDPR Process Analysis",
+		"lead": false,
+		"advisor": true,
+		"industry": "Privacy",
+		"role": [
+			"Architect",
+			"UX Designer"
+		],
+		"file": [
+			120,
+			152
+		],
+		"goal": "Clearly documented and outlined GDPR process.",
+		"year-start": 2017,
+		"year-end": 2018
+	},
+	{
+		"pdex": 48,
+		"proj": "chr",
+		"title": "Character App",
+		"lead": false,
+		"advisor": false,
+		"industry": "Writing",
+		"role": [
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
+		],
+		"file": [
+			121,
+			122,
+			2,
+			11,
+			12,
+			45,
+			130,
+			129
+		],
+		"goal": "Archive for writers to manage characters and their details.",
+		"year-start": 2012,
+		"year-end": 2018
+	},
+	{
+		"pdex": 49,
+		"proj": "hci",
+		"title": "Healthcare Analytics Mockup",
+		"lead": false,
+		"advisor": false,
+		"industry": "Healthcare",
+		"role": [
+			"Architect",
+			"Frontend Developer"
+		],
+		"file": [
+			124,
+			125
+		],
+		"goal": "Healthcare POS Analytics site proposal.",
+		"year-start": 2018,
+		"year-end": 2018
+	},
+	{
+		"pdex": 50,
+		"proj": "hol",
+		"title": "SSO Prototype",
+		"lead": true,
+		"advisor": false,
+		"industry": "Finance",
+		"role": [
+			"Frontend Developer",
+			"UX Designer"
+		],
+		"file": [
+			128
+		],
+		"goal": "Prototype hacking new and legacy apps to demonstrate viability of SSO.",
+		"year-start": 2013,
+		"year-end": 2013
+	},
+	{
+		"pdex": 51,
+		"proj": "dedv",
+		"title": "Dashboard: Education Program",
+		"lead": false,
+		"advisor": false,
+		"industry": "User Research",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer"
+		],
+		"file": [
+			134
+		],
+		"goal": "Program enrollment dashboard.",
+		"year-start": 2019,
+		"year-end": 2019
+	},
+	{
+		"pdex": 52,
+		"proj": "ccts",
+		"title": "Platform UX Design",
+		"lead": false,
+		"advisor": true,
+		"industry": "Platform (PAAS)",
+		"role": [
+			"Dataviz Designer",
+			"UX Designer"
+		],
+		"file": [
+			138
+		],
+		"goal": "Redesign of customer platform, applying latest design system patterns.",
+		"year-start": 2017,
+		"year-end": 2017
+	},
+	{
+		"pdex": 53,
+		"proj": "wst",
+		"title": "Financial Process Analysis",
+		"lead": false,
+		"advisor": true,
+		"industry": "Finance",
+		"role": [
+			"Architect",
+			"UX Researcher"
+		],
+		"file": [
+			149
+		],
+		"goal": "Mapped and clarified data processes for financial institution.",
+		"year-start": 2017,
+		"year-end": 2018
+	},
+	{
+		"pdex": 54,
+		"proj": "djrs",
+		"title": "Dashboard: ",
+		"lead": false,
+		"advisor": true,
+		"industry": "Resource Management",
+		"role": [
+			"Architect",
+			"Dataviz Designer",
+			"UX Designer",
+			"UX Researcher"
+		],
+		"file": [
+			151
+		],
+		"goal": "At-a-glance visualizations with data table for details.",
+		"year-start": 2021,
+		"year-end": 2021
+	},
+	{
+		"pdex": 55,
+		"proj": "t-ift",
+		"title": "Using Metaphor to Explain If/Then Apps",
+		"lead": true,
+		"advisor": false,
+		"industry": "Cloud",
+		"role": [
+			"Presenter",
+			"UX Designer"
+		],
+		"file": [
+			158,
+			159,
+			160,
+			161,
+			162,
+			163,
+			164,
+			165,
+			166,
+			167,
+			168
+		],
+		"goal": "Metaphorical presentation explaining if/then application logic.",
+		"year-start": 2017,
+		"year-end": 2017
+	},
+	{
+		"pdex": 56,
+		"proj": "dlk",
+		"title": "Proposed Data Lake Design",
+		"lead": false,
+		"advisor": false,
+		"industry": "Data Management",
+		"role": [
+			"Architect",
+			"UX Designer"
+		],
+		"file": [
+			170
+		],
+		"goal": "Design and present system map for potential data lake.",
+		"year-start": 2017,
+		"year-end": 2017
+	}
 ]
