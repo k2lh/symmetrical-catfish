@@ -25,8 +25,8 @@
 </template>
 
 <script>
-  import categories from '../static/highlights.json'
-  import items from '../static/archive.json'
+  import categories from '../json/highlights.json'
+  import items from '../json/archive.json'
 
   export default {
     name: "Highlights",

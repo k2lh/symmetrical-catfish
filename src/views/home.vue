@@ -34,6 +34,7 @@
               <li>...and thus I came full circle.</li>
             </ul>
           </div>
+          <img :src="test">
         </div>
       </div>
     </div>
@@ -100,20 +101,14 @@
 </template>
 
 <script>
-  import { mapGetters } from 'vuex';
-  import data from '../static/reviews.json'
+  // import data from '../json/reviews.json'
 
   export default {
     name: "Home",
     data() {
       return {
-        reviews: data
+        test: './datt-viz-07-01-220803.jpg'
       }
-    },
-    computed: {
-      ...mapGetters([
-        'environment'
-      ])
     }
   };
 </script>

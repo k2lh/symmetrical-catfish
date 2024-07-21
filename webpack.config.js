@@ -1,39 +1,44 @@
 const path = require('path');
-const env = process.env.NODE_ENV || process.env.VUE_APP_ENV_NAME || 'production';
 
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const { VueLoaderPlugin } = require("vue-loader");
-const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const { VueLoaderPlugin } = require('vue-loader');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+// const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
-	mode: "production",
-	devtool: "source-map",
+	mode: 'production',
+	// devtool: 'source-map',
   target: 'web',
   entry: './src/main.js',
-	// entry: {	main: "./src/main.js" },
-	// entry: path.join(__dirname, 'src', 'main.js'),
+  // entry: path.join(__dirname, 'src', 'main.js'),
 	output: {
-		path: path.resolve(__dirname, 'dist'),
-		filename: '[name].chunk.js',
+    path: path.resolve(__dirname, 'dist'),
+    filename: '[name].chunk.js',
     clean: true
 	},
+  resolve: {
+    extensions: [
+     '.tsx', '.ts', '.js', '.vue'
+    ]
+  },
 	optimization: {
 		splitChunks: {
-			chunks: 'all',
+      chunks: 'all'
 		}
 	},
 	plugins: [
 		new HtmlWebpackPlugin({
       template: 'src/index.html',
-			filename: path.join(__dirname, 'dist', 'index.html'),
-			// template: path.join(__dirname, 'static', 'index.html'),
-			// inject: true,
-			// template: 'src/index.html', // to import index.html file inside index.js
-			// template: path.resolve(__dirname, "public", "index.html")
+			// filename: path.join(__dirname, 'dist', 'index.html'),
+      filename: path.join(__dirname, 'dist', 'index.html'),
+      // template: path.join(__dirname, 'public', 'index.html'),
+      inject: true,
 			favicon: "./public/favicon.ico"
 		}),
 		new VueLoaderPlugin(),
-    new MiniCssExtractPlugin()
+    new MiniCssExtractPlugin({
+      filename: 'css/[name].css'
+    })
 	],
 	devServer: {
 		port: 8080,
@@ -46,38 +51,33 @@ module.exports = {
 				test: /\.vue$/,
         exclude: /node_modules/,
         use: {
-          loader: 'vue-loader',
+          loader: 'vue-loader'
         }
 			},
 			{
 				test: /\.js$/,
         exclude: /node_modules/,
         use: {
-            loader: 'babel-loader',
+            loader: 'babel-loader'
         }
 			},
-			{
-				test: /\.scss$/,
-				use: [
-					'vue-style-loader',
-					'css-loader',
-					{
-						loader: 'sass-loader',
-					}
-				]
-			},
       {
-        test: /\.css$/i,
-        use: [MiniCssExtractPlugin.loader, "css-loader"]
+        test: /\.((c|sa|sc)ss)$/i,
+        use: [
+          MiniCssExtractPlugin.loader,
+          'css-loader',
+          'postcss-loader',
+          'sass-loader'
+        ]
+      },
+      {
+        test: /\.(png|gif|jpe?g|svg)$/i,
+        loader: 'file-loader',
+        options: {
+          name: '[name].[ext]',
+          outputPath: 'images'
+        }
       }
 		]
-	},
-	resolve: {
-		extensions: [
-			'.tsx', '.ts', '.js', '.vue'
-		],
-    // alias: {
-    //   '@files': path.resolve(__dirname, '../src/assets/json'),
-    // }
 	}
 }

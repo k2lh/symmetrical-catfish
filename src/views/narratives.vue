@@ -18,7 +18,7 @@
 </template>
 
 <script>
-  import data from '../static/tours.json'
+  import data from '../json/tours.json'
 
   export default {
     name: "Narratives",

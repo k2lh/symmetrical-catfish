@@ -45,7 +45,7 @@
 </template>
 
 <script>
-  import history from '../static/history.json'
+  import history from '../json/history.json'
 
   export default {
     name: "History",

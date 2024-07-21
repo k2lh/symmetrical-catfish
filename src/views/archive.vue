@@ -1,4 +1,4 @@
-<template>
+json<template>
   <div class="page archive">
     <div class="pure-g">
       <div class="pure-u-1-1">
@@ -24,7 +24,7 @@
 </template>
 
 <script>
-  import array from '../static/archive.json'
+  import array from '../json/archive.json'
 
   export default {
     name: 'Archive',
@@ -46,12 +46,14 @@
         var set;
         set = array.sort((a, b) => (a.year < b.year) ? 1 : -1);
         for (var i = 0; i < set.length; i++) {
-          if (window.location.href.includes('local')) {
-            set[i].link.file = '../' + set[i].link.file;
-          }
-          // if (window.location.href.includes('app-ionos')) {
-          else {
-            set[i].link.file = '../' + set[i].link.file;
+          if (set[i].ftype === 'img') {
+            if (window.location.href.includes('local')) {
+              set[i].link.file = './' + set[i].link.file;
+            }
+            // if (window.location.href.includes('app-ionos')) {
+            else {
+              set[i].link.file = './' + set[i].link.file;
+            }
           }
         }
         this.groups = set;
