@@ -47,8 +47,8 @@
         set = array.sort((a, b) => (a.year < b.year) ? 1 : -1);
         for (var i = 0; i < set.length; i++) {
           // set[i].link.file = '.' + set[i].link.file;
-          // set[i].link.file = '..' + set[i].link.file;
-          set[i].link.file = '';
+          set[i].link.file = '../' + set[i].link.file;
+          // set[i].link.file = '';
         }
         this.groups = set;
       }
