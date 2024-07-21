@@ -48,9 +48,7 @@
         for (var i = 0; i < set.length; i++) {
           // set[i].link.file = '.' + set[i].link.file;
           // set[i].link.file = '..' + set[i].link.file;
-          // not found -> 8080/assets/visuals/bst-pres-05-07-230728.jpg
-          set[i].link.file = '..' + set[i].link.file;
-          console.log(set[i].link.file);
+          set[i].link.file = '';
         }
         this.groups = set;
       }
