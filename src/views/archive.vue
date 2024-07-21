@@ -47,13 +47,7 @@ json<template>
         set = array.sort((a, b) => (a.year < b.year) ? 1 : -1);
         for (var i = 0; i < set.length; i++) {
           if (set[i].ftype === 'img') {
-            if (window.location.href.includes('local')) {
-              set[i].link.file = './' + set[i].link.file;
-            }
-            // if (window.location.href.includes('app-ionos')) {
-            else {
-              set[i].link.file = './' + set[i].link.file;
-            }
+            set[i].link.file = './' + set[i].link.file;
           }
         }
         this.groups = set;

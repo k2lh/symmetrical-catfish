@@ -14,6 +14,7 @@ module.exports = {
 	output: {
     path: path.resolve(__dirname, 'dist'),
     filename: '[name].chunk.js',
+    assetModuleFilename: 'images/[hash][ext][query]',
     clean: true
 	},
   resolve: {
@@ -72,10 +73,9 @@ module.exports = {
       },
       {
         test: /\.(png|gif|jpe?g|svg)$/i,
-        loader: 'file-loader',
-        options: {
-          name: '[name].[ext]',
-          outputPath: 'images'
+        type: 'asset/resource',
+        generator: {
+          filename: 'images/[hash][ext][query]'
         }
       }
 		]

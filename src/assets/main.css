@@ -66,17 +66,3 @@ a:hover, a:focus-visible {
 .answer {
   font-weight: normal;
 }
-
-
-/*<500px S - phones */
-@media only screen and (max-width: 499px) {
-  .row {
-    height: auto;
-    flex-direction: column;
-  }
-}
-
-/*500-1200 M - tablets */
-@media only screen and (min-width: 500px) and (max-width: 1199px) {
-
-}

@@ -34,7 +34,6 @@
               <li>...and thus I came full circle.</li>
             </ul>
           </div>
-          <img :src="test">
         </div>
       </div>
     </div>
@@ -106,9 +105,7 @@
   export default {
     name: "Home",
     data() {
-      return {
-        test: './datt-viz-07-01-220803.jpg'
-      }
+      return {}
     }
   };
 </script>
