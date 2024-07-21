@@ -1,27 +1,23 @@
 <template>
-  <div class="page portfolio">
-    <div class="row">
-      <div class="col four">
-        <div class="row">
-          <div v-for="(item, index) in groups" :key="index" class="col container limit">
-            <div v-if="item.ftype=='img'" class="left">
-              <img :src="item.link.file" class="clipped">
+  <div class="page archive">
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <div v-for="(item, index) in groups" :key="index" class="container">
+          <div v-if="item.ftype=='img'" class="image-box">
+            <img :src="item.link.file" class="clipped">
+          </div>
+          <div class="text-box">
+            <div class="title">
+              {{ item.title }}
             </div>
-            <div class="right">
-              <div class="answer">
-                {{item.industry}}
-              </div>
-              <div class="label">
-                {{item.vers}}.{{item.num}}, {{ item.stage }}
-              </div>
+            <div class="answer">
+              {{item.industry}}
+            </div>
+            <div class="label">
+              {{item.vers}}.{{item.num}}, {{ item.stage }}
             </div>
           </div>
         </div>
-      </div>
-      <div class="col four">
-        <!-- <div v-if="item.ftype == 'img'">
-          <img :src="item.link.file" class="display">
-        </div> -->
       </div>
     </div>
   </div>
@@ -69,18 +65,42 @@
 </script>
 
 <style scoped lang="scss">
-  .boxlabel {
-    letter-spacing: 1px;
+  .archive {
+    max-width: 1800px;
+    margin: 5rem auto 0 auto;
+    overflow: hidden;
   }
-  .col.container {
-    padding: 0;
+  .container {
+    width: 20%;
+    float: left;
+    padding: 2rem;
   }
-  .limit {
-    width: 200px;
+  .image-box {
+    width: 100px;
     height: 100px;
+    overflow: hidden;
+    float: left;
+  }
+  .text-box {
+    width: 150px;
+    height: 100px;
+    float: left;
+    padding-left: 1rem;
+  }
+  .title {
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 0 0 .5rem 0;
+    border-bottom: 1px solid #c6c5c5;
+    padding: 0 0 .25rem 0;
+  }
+  .label {
+    font-size: .85rem;
   }
   img.clipped {
     border: 1px solid #E5E5E8;
+    width: 100px;
   }
 
 </style>

@@ -9,11 +9,6 @@
 		"ftype": "img",
 		"cat": "page",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "A more complex main page thanks to increasingly detailed metadata for each linked dashboard.",
@@ -32,11 +27,6 @@
 		"ftype": "img",
 		"cat": "sitemap",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Writing",
 		"note": "A simplified and streamlined site map. ",
@@ -55,11 +45,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Animal Rescue",
 		"note": "A slight case of taking a good idea a little too far.",
@@ -78,11 +63,6 @@
 		"ftype": "img",
 		"cat": "design system",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": true,
 		"industry": "Design System",
 		"note": "A thorough and annotated example of design for panels, fonts, charts, and helper text.",
@@ -101,11 +81,6 @@
 		"ftype": "img",
 		"cat": "page",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Service Analytics",
 		"note": "Activity page for stakeholder information, using git hooks and .md files as makeshift db.",
@@ -124,11 +99,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": true,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "HR Analytics",
 		"note": "AI-based education dashboard with annotations.",
@@ -147,11 +117,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": true,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "HR Analytics",
 		"note": "AI-based education dashboard with annotations.",
@@ -170,11 +135,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": true,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "HR Analytics",
 		"note": "AI-based education dashboard, incorporating billing and claims history.",
@@ -193,11 +153,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": true,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "HR Analytics",
 		"note": "AI-based education dashboard, incorporating billing and claims history.",
@@ -216,11 +171,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": true,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "HR Analytics",
 		"note": "AI-based education dashboard, incorporating billing and claims history.",
@@ -239,11 +189,6 @@
 		"ftype": "img",
 		"cat": "wireframe",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Writing",
 		"note": "An attempt to satisfy user requests for a packed data table, but the result was unfortunately inaccessible. ",
@@ -262,11 +207,6 @@
 		"ftype": "img",
 		"cat": "sitemap",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Writing",
 		"note": "An experiment in blending site map and user flow in a circularly-architected UI.",
@@ -285,11 +225,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "At-a-glance charts for tracking attrition data.",
@@ -308,11 +243,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "HR Analytics",
 		"note": "At-a-glance trends for delivery group onboarding.",
@@ -331,11 +261,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Resume",
 		"note": "Attempt to correlate duration of experience with skill set.",
@@ -354,11 +279,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Publishing",
 		"note": "Author administration page, for adding/revising story chapters.",
@@ -377,11 +297,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Support",
 		"note": "Automated routing form to handle growing number of user requests.",
@@ -400,11 +315,6 @@
 		"ftype": "text",
 		"cat": "text",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Basic script for user interviews on new dashboards and/or visualizations.",
@@ -423,11 +333,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
@@ -446,11 +351,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
@@ -469,11 +369,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
@@ -492,11 +387,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
@@ -515,11 +405,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
@@ -538,11 +423,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
@@ -561,11 +441,6 @@
 		"ftype": "img",
 		"cat": "architecture",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": true,
 		"industry": "Mainframe",
 		"note": "Breakdown of page architecture and embedded reusable components.",
@@ -584,11 +459,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Publishing",
 		"note": "Chapter/story template showing metadata and comment form.",
@@ -607,11 +477,6 @@
 		"ftype": "img",
 		"cat": "sitemap",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Publishing",
 		"note": "Circular map, arranged in order of user workflow.",
@@ -630,11 +495,6 @@
 		"ftype": "img",
 		"cat": "sitemap",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Academia",
 		"note": "Circular site map, color-coded to call out specific site components.",
@@ -653,11 +513,6 @@
 		"ftype": "img",
 		"cat": "sitemap",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Sales",
 		"note": "Circular site map, using color-coding to note reused actions.",
@@ -676,11 +531,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Co-written API design whitepaper.",
@@ -699,11 +549,6 @@
 		"ftype": "img",
 		"cat": "wireframe",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": true,
 		"industry": "Healthcare",
 		"note": "Collection of loose wireframes organized to show user flow through the pages.",
@@ -722,11 +567,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": true,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Employee Training",
 		"note": "Comparison of job role expertise, using AI inference and self-assessment, against team’s level of expertise.",
@@ -745,11 +585,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Sales Analytics",
 		"note": "Complex dashboard for viewing regional go-to-market data.",
@@ -768,11 +603,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Support",
 		"note": "CRUD system for data scientists and analysts to manage cards for their respective dashboards.",
@@ -791,11 +621,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Team Management",
 		"note": "Dashboard for first-line managers to track their team, and their own, education progress.",
@@ -814,11 +639,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "Dashboard incorporating interactive form, for user input to calculate and project future trends.",
@@ -837,11 +657,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Dashboard navigation for users to focus on within-group comparisons only.",
@@ -860,11 +675,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Team Management",
 		"note": "Dashboard showing potential views dependent on metadata tracking.",
@@ -883,11 +693,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Dashboard using embedded charts inside data tables.",
@@ -906,11 +711,6 @@
 		"ftype": "img",
 		"cat": "swimlane",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": true,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Support",
 		"note": "Detailed multi-role process for more efficient handling of user requests.",
@@ -929,11 +729,6 @@
 		"ftype": "img",
 		"cat": "wireframe",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Directory of available internal APIs.",
@@ -952,11 +747,6 @@
 		"ftype": "img",
 		"cat": "wireframe",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Directory of available internal APIs.",
@@ -975,11 +765,6 @@
 		"ftype": "img",
 		"cat": "swimlane",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": true,
 		"industry": "Project Management",
 		"note": "Draft of metadata list based on team interviews about their personal processes.",
@@ -998,11 +783,6 @@
 		"ftype": "text",
 		"cat": "text",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Design System",
 		"note": "Draft of presentation text for design system proposal.",
@@ -1021,11 +801,6 @@
 		"ftype": "img",
 		"cat": "wireframe",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Writing",
 		"note": "Drawer slide up/down design for reducing cognitive load of a complicated form.",
@@ -1044,11 +819,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Early draft for user discussion on required and useful dataviz.",
@@ -1067,11 +837,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Early iteration for executive personnel ROI dashboard.",
@@ -1090,11 +855,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Internal Learning",
 		"note": "End-of-year discussion points for internal education programs.",
@@ -1113,11 +873,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Internal Learning",
 		"note": "End-of-year summary on internal education programs.",
@@ -1136,11 +891,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Internal Learning",
 		"note": "End-of-year summary on internal education programs.",
@@ -1159,11 +909,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "AI",
 		"note": "Example of concept in action, with design applied.",
@@ -1182,11 +927,6 @@
 		"ftype": "img",
 		"cat": "design system",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": true,
 		"industry": "Design System",
 		"note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
@@ -1205,11 +945,6 @@
 		"ftype": "img",
 		"cat": "design system",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": true,
 		"industry": "Design System",
 		"note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
@@ -1228,11 +963,6 @@
 		"ftype": "img",
 		"cat": "design system",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": true,
 		"industry": "Design System",
 		"note": "Example of dashboard design, including spacing, fonts, and classes.",
@@ -1251,11 +981,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Excerpt of survey, with multiple user routes depending on choices.",
@@ -1274,11 +999,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "User Support",
 		"note": "Executive management page for education request.",
@@ -1297,11 +1017,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "Experimental visualization for viewing levels of projected needs.",
@@ -1320,11 +1035,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Exploration of filter arrangement and design in sliding drawer.",
@@ -1343,11 +1053,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Exploration of visual patterns for data hierarchy.",
@@ -1366,11 +1071,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Support",
 		"note": "Form for users to report issues in one place, creating better tracking.",
@@ -1389,11 +1089,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Support",
 		"note": "Form to channel user access requests through a single entry point.",
@@ -1412,11 +1107,6 @@
 		"ftype": "img",
 		"cat": "wireframe",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Fourth iteration for possible page structure and organization.",
@@ -1435,11 +1125,6 @@
 		"ftype": "img",
 		"cat": "wireframe",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Fourth iteration for possible page structure and organization.",
@@ -1458,11 +1143,6 @@
 		"ftype": "text",
 		"cat": "text",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Design System",
 		"note": "Full outline for design system documentation, including future topics.",
@@ -1481,11 +1161,6 @@
 		"ftype": "img",
 		"cat": "architecture",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Customer Service",
 		"note": "Full site map, with color-coding to call out re-used modular components.",
@@ -1504,11 +1179,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": true,
 		"industry": "User Support",
 		"note": "Fully-expanded form with logic for user interaction.",
@@ -1527,11 +1197,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "revision",
-		"dash": {
-			"top": true,
-			"side": false,
-			"bot": true
-		},
 		"anno": true,
 		"industry": "User Support",
 		"note": "Fully-expanded form with logic for user interaction.",
@@ -1550,17 +1215,12 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Data Management",
 		"note": "Getting a newly-built team on the same page about management tactics.",
 		"link": {
-			"file": "/texts/cdo-pres-01-01-170821.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/cdo-pres-01-01-170821.jpg"
+			"file": "/visuals/cdo-pres-01-01-170821.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cdo-pres-01-01-170821.jpg"
 		}
 	},
 	{
@@ -1573,11 +1233,6 @@
 		"ftype": "img",
 		"cat": "page",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Support",
 		"note": "Growing catalog size necessitated a more complex filtering system. ",
@@ -1596,11 +1251,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Horizontal dataviz for tracking employee training progress.",
@@ -1619,11 +1269,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Horizontal dataviz for tracking employee training progress.",
@@ -1642,11 +1287,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Servers",
 		"note": "Incident report page, step 3 for walk-through presentation.",
@@ -1665,11 +1305,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Servers",
 		"note": "Incident report page, step 7 for walk-through presentation.",
@@ -1688,11 +1323,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Animal Rescue",
 		"note": "Incorporating accessibility lessons learned while consulting.",
@@ -1711,11 +1341,6 @@
 		"ftype": "img",
 		"cat": "page",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Service Analytics",
 		"note": "Introducing and explaining steps to prepare data for analytics use.",
@@ -1734,11 +1359,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
@@ -1757,11 +1377,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
@@ -1780,11 +1395,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
@@ -1803,11 +1413,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
@@ -1826,11 +1431,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
@@ -1849,11 +1449,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
@@ -1872,11 +1467,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Project Management",
 		"note": "Journey map based on team members’ rankings of tasks by difficulty/stress. ",
@@ -1895,11 +1485,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Resume",
 		"note": "Ladder visualization to show chronology of positions and skills.",
@@ -1918,11 +1503,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "Left-justified bar chart for comparing personnel needs across teams. ",
@@ -1941,11 +1521,6 @@
 		"ftype": "img",
 		"cat": "sitemap",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Pharmacology",
 		"note": "Map including 2nd and 3rd sub-level tiers.",
@@ -1964,11 +1539,6 @@
 		"ftype": "img",
 		"cat": "sitemap",
 		"stage": "idea",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "HR Analytics",
 		"note": "Mapping concept and purpose of new dashboard.",
@@ -1987,11 +1557,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "Mocked for demonstrating and explaining an advanced-level dataviz.",
@@ -2010,11 +1575,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": true,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Employee Training",
 		"note": "Mocked showing the use of annotation in explaining data sources and calculations.",
@@ -2033,11 +1593,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
@@ -2056,11 +1611,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
@@ -2079,11 +1629,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
@@ -2102,11 +1647,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Team Management",
 		"note": "Mocked dashboard using only available types of data.",
@@ -2125,11 +1665,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "Mocked dashboard using split vertical bar charts to show training program trends.",
@@ -2148,11 +1683,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Mocked dashboard with over-use of piecharts.",
@@ -2171,11 +1701,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Mocked dashboard with third iteration dataviz ideas.",
@@ -2194,11 +1719,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Mocked dashboard with too many colors.",
@@ -2217,11 +1737,6 @@
 		"ftype": "img",
 		"cat": "mockup",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Internal Learning",
 		"note": "Mocked series for Invision walk-through, showing one possible conclusion point.",
@@ -2240,11 +1755,6 @@
 		"ftype": "img",
 		"cat": "mockup",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Internal Learning",
 		"note": "Mocked series for Invision walk-through, showing second step in tagging.",
@@ -2263,11 +1773,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a BAN/bullet combination.",
@@ -2286,11 +1791,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a funnel-style visual.",
@@ -2309,11 +1809,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a pie/table combination.",
@@ -2332,11 +1827,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with trending data.",
@@ -2355,11 +1845,6 @@
 		"ftype": "img",
 		"cat": "screenshot",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Tourism",
 		"note": "Modified wordpress features to create sub-site for vendors to apply, pay for, and track their festival spots. ",
@@ -2378,11 +1863,6 @@
 		"ftype": "img",
 		"cat": "page",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Service Analytics",
 		"note": "One of 100+ chart types documented, with tips for when, how, and why to use each.",
@@ -2401,11 +1881,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Operational tab for viewing training program trends.",
@@ -2424,11 +1899,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Operational tab for viewing training program trends.",
@@ -2447,11 +1917,6 @@
 		"ftype": "img",
 		"cat": "architecture",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Option A for API gateway design.",
@@ -2470,11 +1935,6 @@
 		"ftype": "img",
 		"cat": "architecture",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Option B for API gateway design.",
@@ -2493,11 +1953,6 @@
 		"ftype": "img",
 		"cat": "architecture",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": true,
 		"industry": "Sales",
 		"note": "Page architecture demonstrating the structure created by reusable and embedded components.",
@@ -2516,11 +1971,6 @@
 		"ftype": "img",
 		"cat": "sitemap",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Pharmacology",
 		"note": "Page architecture, arranged in a manner slightly less terrifying for shareholders.",
@@ -2536,14 +1986,9 @@
 		"vers": "03",
 		"num": "01",
 		"year": 2017,
-		"ftype": "pdf",
+		"ftype": "img",
 		"cat": "whitepaper",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Data Management",
 		"note": "Paper about the necessity of centralizing data and integrating design for a more efficient business.",
@@ -2559,14 +2004,9 @@
 		"vers": "04",
 		"num": "01",
 		"year": 2017,
-		"ftype": "pdf",
+		"ftype": "img",
 		"cat": "whitepaper",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Data Management",
 		"note": "Paper to support Cognitive Platform initiative. (Boy do those dashboard images make me cringe, now.)",
@@ -2585,11 +2025,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Customer Service",
 		"note": "Preliminary mockup for customer support site.",
@@ -2608,11 +2043,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Customer Service",
 		"note": "Preliminary mockup for customer support site.",
@@ -2631,11 +2061,6 @@
 		"ftype": "img",
 		"cat": "architecture",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Pharmacology",
 		"note": "Preliminary page architecture for development planning.",
@@ -2654,11 +2079,6 @@
 		"ftype": "img",
 		"cat": "sitemap",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Preliminary visual for stakeholder discussion on organizing related dashboards. ",
@@ -2677,11 +2097,6 @@
 		"ftype": "img",
 		"cat": "flowchart",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "User Support",
 		"note": "Process flow identifying involved roles and data movement.",
@@ -2700,11 +2115,6 @@
 		"ftype": "img",
 		"cat": "swimlane",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": true,
-			"bot": false
-		},
 		"anno": true,
 		"industry": "Privacy",
 		"note": "Process flow modified into a swim lane approach.",
@@ -2723,11 +2133,6 @@
 		"ftype": "img",
 		"cat": "page",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Writing",
 		"note": "Production version of character management webapp, showing dropdown contents.",
@@ -2746,11 +2151,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Writing",
 		"note": "Production version of character management webapp, showing dropdown contents.",
@@ -2769,11 +2169,6 @@
 		"ftype": "img",
 		"cat": "page",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Service Analytics",
 		"note": "Production version of site main page.",
@@ -2792,11 +2187,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Healthcare",
 		"note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
@@ -2815,11 +2205,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Healthcare",
 		"note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
@@ -2838,11 +2223,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Team Management",
 		"note": "Proposed dashboard for first-line managers to view team skills and levels of expertise.",
@@ -2861,11 +2241,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Proposed dashboard redesign from Tableau to D3 version.",
@@ -2881,20 +2256,15 @@
 		"vers": "03",
 		"num": "02",
 		"year": 2013,
-		"ftype": "code",
+		"ftype": "img",
 		"cat": "code",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Finance",
 		"note": "Prototype demonstrating viability of SSO between two distinct webapps.",
 		"link": {
-			"file": "/code/hol-cde-03-02-130811.js",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/code/hol-cde-03-02-130811.js"
+			"file": "/visuals/hol-cde-03-02-130811.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hol-cde-03-02-130811.jpg"
 		}
 	},
 	{
@@ -2907,11 +2277,6 @@
 		"ftype": "img",
 		"cat": "page",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Writing",
 		"note": "Prototype for character management webapp. ",
@@ -2930,11 +2295,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Writing",
 		"note": "Prototype for character management webapp. ",
@@ -2953,11 +2313,6 @@
 		"ftype": "img",
 		"cat": "page",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Prototype inventory site tracking the team’s projects.",
@@ -2976,11 +2331,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Prototype of pie/bullet combination with a data table.",
@@ -2999,11 +2349,6 @@
 		"ftype": "img",
 		"cat": "design system",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Design System",
 		"note": "Quick (and regularly updated) cheat sheet for data analysts when building dashboards.",
@@ -3022,11 +2367,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Quick mock created during user discussions, using placeholder dataviz with fake data.",
@@ -3045,11 +2385,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Internal Learning",
 		"note": "Revised version incorporating user and data scientist feedback.",
@@ -3068,11 +2403,6 @@
 		"ftype": "img",
 		"cat": "mid-fidelity",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Academia",
 		"note": "Rough mockup of app’s responsive behavior.",
@@ -3091,11 +2421,6 @@
 		"ftype": "img",
 		"cat": "architecture",
 		"stage": "idea",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": true,
 		"industry": "Cloud",
 		"note": "Rough sketch of application workflows and combinations.",
@@ -3114,11 +2439,6 @@
 		"ftype": "img",
 		"cat": "wireframe",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Platform (PAAS)",
 		"note": "Showing user movement through the webapp, with design system applied.",
@@ -3137,11 +2457,6 @@
 		"ftype": "img",
 		"cat": "screenshot",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Tourism",
 		"note": "Simple wordpress site with information for volunteers and attendants.",
@@ -3160,11 +2475,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "AI",
 		"note": "Simplified visuals for non-technical investors.",
@@ -3183,11 +2493,6 @@
 		"ftype": "img",
 		"cat": "architecture",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Sales",
 		"note": "Site architecture demonstrating each page’s composition of modular components.",
@@ -3206,11 +2511,6 @@
 		"ftype": "img",
 		"cat": "flowchart",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": true,
 		"industry": "Healthcare",
 		"note": "Site map showing user choices, interactions, and overlaps between paths.",
@@ -3229,11 +2529,6 @@
 		"ftype": "img",
 		"cat": "architecture",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Site map, color-coded to show identified reusable components.",
@@ -3252,11 +2547,6 @@
 		"ftype": "img",
 		"cat": "screenshot",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Tourism",
 		"note": "Site redesign to be fully responsive. (Attendants liked it so much, they crashed the hosting company’s servers.)",
@@ -3275,11 +2565,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Support",
 		"note": "Standardized information collection for report and dashboard requests.",
@@ -3298,11 +2583,6 @@
 		"ftype": "img",
 		"cat": "mockup",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "AI",
 		"note": "Start-point of animation in login page.",
@@ -3321,11 +2601,6 @@
 		"ftype": "text",
 		"cat": "text",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Design System",
 		"note": "Summaries of research results comparing competitors’ design systems.",
@@ -3344,11 +2619,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Resume",
 		"note": "Sunburst visualization adapted to show experience by skill.",
@@ -3367,11 +2637,6 @@
 		"ftype": "img",
 		"cat": "swimlane",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Finance",
 		"note": "Swim lane modified to include notations for data movement and user interaction.",
@@ -3390,11 +2655,6 @@
 		"ftype": "img",
 		"cat": "swimlane",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": true,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Swim lanes based on user interviews and executive input.",
@@ -3413,11 +2673,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "Target tracking by region, with RAG-style visualizations.",
@@ -3436,11 +2691,6 @@
 		"ftype": "img",
 		"cat": "flowchart",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": true,
 		"industry": "Privacy",
 		"note": "The 7th iteration of ultimately 19 versions detailing the complicated GDPR process.",
@@ -3459,11 +2709,6 @@
 		"ftype": "img",
 		"cat": "wireframe",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Third iteration covering page structure and organization.",
@@ -3482,11 +2727,6 @@
 		"ftype": "img",
 		"cat": "wireframe",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Third iteration covering page structure and organization.",
@@ -3505,11 +2745,6 @@
 		"ftype": "img",
 		"cat": "sitemap",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Sales",
 		"note": "Traditional site map, also with color-coding to identify patterns.",
@@ -3528,11 +2763,6 @@
 		"ftype": "img",
 		"cat": "form",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Publishing",
 		"note": "Two screenshots of admin pages, for managing tagging and multi-part stories.",
@@ -3551,11 +2781,6 @@
 		"ftype": "img",
 		"cat": "page",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Users nicknamed the boxes ‘cards’, inspiring the metaphor of a card catalog.",
@@ -3574,11 +2799,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
@@ -3597,11 +2817,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
@@ -3620,11 +2835,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
@@ -3643,11 +2853,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
@@ -3666,11 +2871,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
@@ -3689,11 +2889,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
@@ -3712,11 +2907,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
@@ -3735,11 +2925,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
@@ -3758,11 +2943,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
@@ -3781,11 +2961,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
@@ -3804,11 +2979,6 @@
 		"ftype": "img",
 		"cat": "presentation",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
@@ -3827,11 +2997,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "idea",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "User Research",
 		"note": "Variations to help users identify which dataviz best matches with their ‘view’ of the data.",
@@ -3850,11 +3015,6 @@
 		"ftype": "img",
 		"cat": "architecture",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Data Management",
 		"note": "Visual for possible data lake organization and architecture.",
@@ -3873,11 +3033,6 @@
 		"ftype": "img",
 		"cat": "mockup",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "AI",
 		"note": "Visual metaphor for the creation of AI-based ontologies.",
@@ -3896,11 +3051,6 @@
 		"ftype": "img",
 		"cat": "sitemap",
 		"stage": "final",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Data Management",
 		"note": "Visual representation of how a centralized data office connects and integrates with its client teams.",
@@ -3919,11 +3069,6 @@
 		"ftype": "img",
 		"cat": "dataviz",
 		"stage": "revision",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": true
-		},
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "Visualization index with complex data tables for tracking attrition rates.",
@@ -3942,11 +3087,6 @@
 		"ftype": "text",
 		"cat": "text",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Design System",
 		"note": "Whitepaper draft on the design, use, and value of good dataviz.",
@@ -3965,17 +3105,30 @@
 		"ftype": "img",
 		"cat": "architecture",
 		"stage": "draft",
-		"dash": {
-			"top": false,
-			"side": false,
-			"bot": false
-		},
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Working version of the proposed API architecture.",
 		"link": {
 			"file": "/visuals/api-arch-01-01-170127.jpg",
-			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-arch-01-01-170127.png"
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-arch-01-01-170127.jpg"
+		}
+	},
+	{
+		"dex": 176,
+		"title": "Tableau/SSO Logic & Methods",
+		"proj": "cssa",
+		"vers": "05",
+		"num": "01",
+		"year": 2020,
+		"ftype": "img",
+		"cat": "code",
+		"stage": "revision",
+		"anno": false,
+		"industry": "Data Analytics",
+		"note": "Snapshot of complex logic required for internal/tableau SSO setup.",
+		"link": {
+			"file": "/visuals/csaa-code-05-01-20052.jpg",
+			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/csaa-code-05-01-20052.jpg"
 		}
 	}
 ]

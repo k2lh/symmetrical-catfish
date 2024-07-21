@@ -19,11 +19,11 @@
           archive
         </router-link>
       </div>
-      <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8 boxlabel">
+      <!-- <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8 boxlabel">
         <router-link to="/narratives">
           narratives
         </router-link>
-      </div>
+      </div> -->
       <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8 boxlabel">
         <router-link to="/history">
           history

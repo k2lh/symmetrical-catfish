@@ -17,7 +17,7 @@
         </div>
         <div class="pure-u-1-1 pure-u-md-1-2">
           <div class="description">
-            <ul>
+            <ul class="points">
               <li v-for="(point, pindex) in job.points" :key="pindex">
                 {{ point }}
               </li>
@@ -26,9 +26,17 @@
         </div>
         <div class="pure-u-1-1 pure-u-md-1-4">
           <div class="description">
-            <span v-for="(project, prindex) in job.projects" :key="prindex">
-              {{ project }},
-            </span>
+            <div v-if="job.lead" class="boxlabel">
+              Team Leader
+            </div>
+            <div v-if="job.advisor" class="boxlabel">
+              Advisor
+            </div>
+            <ul class="roles">
+              <li v-for="(role, rodex) in job.role" :key="rodex">
+                {{ role }}
+              </li>
+            </ul>
           </div>
         </div>
       </div>
@@ -55,6 +63,10 @@
     margin: 5rem auto 0 auto;
     font-size: .9rem;
   }
+  .title {
+    font-weight: 700;
+    padding-bottom: .5rem;
+  }
   .metadata {
     text-align: right;
     padding: 1rem;
@@ -62,7 +74,7 @@
   .description {
     padding: 1rem;
   }
-  ul {
+  ul.points {
     margin: 0;
     padding: 0;
   }
@@ -71,5 +83,20 @@
   }
   .rows {
     border-top: 1px solid #AAA;
+  }
+  ul.roles {
+    margin: .5rem 0 0 .75rem;
+    padding: 0;
+    & li {
+      font-size: .85rem;
+      font-weight: 500;
+      letter-spacing: 1px;
+    }
+  }
+  .boxlabel {
+    font-weight: 500;
+    font-size: .85rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
   }
 </style>

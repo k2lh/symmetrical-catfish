@@ -8,19 +8,13 @@
           </li>
         </ul>
       </div>
-      <div class="pure-u-1-1 pure-u-md-5-8">
+      <div class="pure-u-1-1 pure-u-md-5-8 outlines">
         <div :class="{ hidden: !isVisible }">
           <div class="simple-modal__content" @click="clear()">
             <div class="modal-main">
               <div id="resetAtTop"></div>
-              <div v-for="(img, iindex) in images">
-                <div class="boxlabel adjusted">
-                  {{ img.title }} &nbsp;~&nbsp; <span class="answer">v{{ img.vers }}.{{ img.num }}, {{ img.stage }}</span>
-                </div>
-                <div class="undertext">
-                  {{ img.industry }} &nbsp;~&nbsp; <span class="">{{ img.note }}</span>
-                </div>
-                <img :src="img.file" :class="{ 'dashtop': img.top, 'dashbot': img.bot, 'dashside': img.side }">
+              <div v-for="(img, iindex) in images" class="image-box">
+                <img :src="img.file">
               </div>
             </div>
           </div>
@@ -96,7 +90,6 @@
   .boxed {
     padding: .5rem 1rem .5rem .25rem;
   }
-
   ul {
     padding: 0;
     margin: 0 0 0 2rem;
@@ -120,22 +113,25 @@
   .simple-modal {
     &__content {
       height: 100vh;
-      max-width: 62.5%;
+      width: 62.5%;
       position: absolute;
+      overflow: hidden;
       top: 0;
       right: 0;
       display: flex;
       flex: 6;
       flex-direction: column;
       .modal-main {
-        width: 100%;
         display: block;
-        overflow: auto;
-        & img {
-          margin: 0 0 2rem 0;
-          border: 1px solid #E5E5E8;
-          max-width:99%;
-          height:auto;
+        overflow-x: auto;
+        & .image-box {
+          margin: 0 23% 0 6%;
+          & img {
+            margin: 0 0 2rem 0;
+            border: 1px solid #E5E5E8;
+            width:100%;
+            height:auto;
+          }
         }
       }
     }

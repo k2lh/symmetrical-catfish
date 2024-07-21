@@ -21,16 +21,12 @@
 		"startYear": 2023,
 		"endMonth": 12,
 		"endYear": 2023,
-		"projects": [
-			{
-				"lead": false,
-				"advisor": true,
-				"role": [
-					"Architect",
-					"UX Designer",
-					"Writer"
-				]
-			}
+		"lead": false,
+		"advisor": true,
+		"role": [
+			"Architect",
+			"UX Designer",
+			"Writer"
 		],
 		"title": "Senior UX Designer & Content Strategy Consultant",
 		"team": "",
@@ -47,15 +43,12 @@
 		"startYear": 2023,
 		"endMonth": 4,
 		"endYear": 2023,
-		"projects": [
-			{
-				"lead": true,
-				"advisor": false,
-				"role": [
-					"Architect",
-					"Fullstack Developer"
-				]
-			}
+		"lead": true,
+		"advisor": false,
+		"role": [
+			"Architect",
+			"Fullstack Developer",
+			"Dataviz Designer"
 		],
 		"title": "Design System Architect & Development Lead",
 		"team": "Digital Marketing",
@@ -72,17 +65,13 @@
 		"startYear": 2021,
 		"endMonth": 6,
 		"endYear": 2022,
-		"projects": [
-			{
-				"lead": false,
-				"advisor": true,
-				"role": [
-					"Dataviz Designer",
-					"Architect",
-					"Fullstack Developer",
-					"UX Designer"
-				]
-			}
+		"lead": true,
+		"advisor": true,
+		"role": [
+			"Dataviz Designer",
+			"Architect",
+			"Fullstack Developer",
+			"UX Designer"
 		],
 		"title": "Data Visualization Design Lead & Principal UX/UI Developer",
 		"team": "People Analytics",
@@ -100,16 +89,6 @@
 		"startYear": 2020,
 		"endMonth": 10,
 		"endYear": 2021,
-		"projects": [
-			4,
-			6,
-			18,
-			21,
-			23,
-			29,
-			42,
-			54
-		],
 		"title": "Data Visualization Design Lead & Principal UX/UI Developer",
 		"team": "HR Analytics",
 		"company": "IBM",
@@ -119,12 +98,12 @@
 			"Founded HR Dataviz Guild; hosted 11 guild best practice interviews and 15 ‘open office’ hours for mentoring data scientists in design.",
 			"Expanded MongoDB/NoSQL backend to include complex site administration; built and maintained Vue3 analytics site personalization and faceted search."
 		],
-		"lead": false,
+		"lead": true,
 		"advisor": true,
 		"role": [
-			"Dataviz Designer",
 			"Architect",
 			"Fullstack Developer",
+			"Dataviz Designer",
 			"UX Designer"
 		]
 	},
@@ -133,19 +112,6 @@
 		"startYear": 2018,
 		"endMonth": 6,
 		"endYear": 2020,
-		"projects": [
-			5,
-			8,
-			17,
-			20,
-			22,
-			33,
-			38,
-			41,
-			43,
-			45,
-			51
-		],
 		"title": "Development Lead & Data Visualization Designer",
 		"team": "Talent Transformation Analytics",
 		"company": "IBM",
@@ -155,6 +121,15 @@
 			"Developed database, authorization, and authentication APIs. Instrumental in achieving 67% increase in analytics automation for 200+ active daily HR and HQ users.",
 			"Mentored 5 junior devs in API design and component patterns; instructed 32 data scientists in UX principles with regular presentations and weekly ‘open office’ hours.",
 			"Redesigned analytics intake process to manage 50-60 requests per month."
+		],
+		"lead": true,
+		"advisor": true,
+		"role": [
+			"Architect",
+			"Fullstack Developer",
+			"Dataviz Designer",
+			"UX Designer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -162,22 +137,6 @@
 		"startYear": 2017,
 		"endMonth": 6,
 		"endYear": 2018,
-		"projects": [
-			1,
-			3,
-			57,
-			19,
-			25,
-			27,
-			28,
-			31,
-			37,
-			39,
-			47,
-			52,
-			53,
-			56
-		],
 		"title": "UX Strategist & UX Designer",
 		"team": "NA Chief Data Office",
 		"company": "IBM",
@@ -187,10 +146,11 @@
 			"Specified design specifications for 16 projects, and supervised task and process analyses for 29 projects.",
 			"Initiated and constructed dynamic web application to drive data-based decision making. Prototyped with Git hooks and APIs as temporary data (flat file) storage; used SQL, NoSQL, and MongoDB for production version."
 		],
-		"lead": false,
-		"advisor": true,
+		"lead": true,
+		"advisor": false,
 		"role": [
-			"Dataviz Designer",
+			"Design Strategist",
+			"UX Researcher",
 			"Architect",
 			"Fullstack Developer",
 			"UX Designer"
@@ -201,9 +161,6 @@
 		"startYear": 2016,
 		"endMonth": 3,
 		"endYear": 2017,
-		"projects": [
-			15
-		],
 		"title": "API Developer",
 		"team": "Cloud Platform",
 		"company": "IBM",
@@ -211,6 +168,15 @@
 			"Orchestrated partnership between design, backend, and frontend teams to evaluate 50+ API processes.",
 			"Consolidated stakeholder input, user feedback, industry standards, and functional requirements, and assessed against issues of scalability, performance, robustness, and security.",
 			"Championed streamlined process for designing, documenting, developing, and deploying platform APIs."
+		],
+		"lead": false,
+		"advisor": true,
+		"role": [
+			"Architect",
+			"API Developer",
+			"UX Researcher",
+			"Presenter",
+			"Writer"
 		]
 	},
 	{
@@ -218,12 +184,6 @@
 		"startYear": 2015,
 		"endMonth": 9,
 		"endYear": 2016,
-		"projects": [
-			9,
-			24,
-			34,
-			55
-		],
 		"title": "Senior UX/UI Developer",
 		"team": "Cloud Platform (Bluemix)",
 		"company": "IBM",
@@ -234,6 +194,13 @@
 			"Developed 20+ app interactions in asynchronous environment; coordinated with designers to solve high friction and low performance points.",
 			"Advised product managers and designers on proposed features’ technical feasibility; advocated strongly for accessibility and usability.",
 			"Mentored and instructed junior developers on RESTful APIs, microservice technology, architecture, and strategy."
+		],
+		"lead": false,
+		"advisor": true,
+		"role": [
+			"Frontend Developer",
+			"API Developer",
+			"Architect"
 		]
 	},
 	{
@@ -249,6 +216,13 @@
 			"Spearheaded, crafted, and deployed a more performant modular AngularJS application architecture; identified 3 UX approaches to shift user mental models.",
 			"Researched data sources to resolve data limitations and surfaced 4 new data opportunities for an improved user experience.",
 			"Assisted backend devs in improving API performance in frontend ingestion; envisioned and implemented advanced filtering."
+		],
+		"lead": false,
+		"advisor": false,
+		"role": [
+			"Frontend Developer",
+			"UX Designer",
+			"UX Researcher"
 		]
 	},
 	{
@@ -256,10 +230,6 @@
 		"startYear": 2013,
 		"endMonth": 12,
 		"endYear": 2014,
-		"projects": [
-			46,
-			50
-		],
 		"title": "UX/UI Developer",
 		"team": "36,50",
 		"company": "Dun & Bradstreet",
@@ -271,6 +241,12 @@
 			"Merged visual elements to visually link old and new applications, and reduced user friction during transition to new application.",
 			"Architected mobile-friendly asynchronous web application; advised stakeholders on technical constraints and component feasibility.",
 			"Designed, prototyped, tested, and released 7 data visualizations calling multiple APIs and based on complex data sets for better user analysis."
+		],
+		"lead": true,
+		"advisor": true,
+		"role": [
+			"Frontend Developer",
+			"UX Designer"
 		]
 	}
 ]
