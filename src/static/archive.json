@@ -13,7 +13,7 @@
 		"industry": "Data Analytics",
 		"note": "A more complex main page thanks to increasingly detailed metadata for each linked dashboard.",
 		"link": {
-			"file": "/visuals/csaa-page-09-01-190516.jpg",
+			"file": "/assets/visuals/csaa-page-09-01-190516.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/csaa-page-09-01-190516.jpg"
 		}
 	},
@@ -31,7 +31,7 @@
 		"industry": "Writing",
 		"note": "A simplified and streamlined site map. ",
 		"link": {
-			"file": "/visuals/chr-map-04-03-120712.jpg",
+			"file": "/assets/visuals/chr-map-04-03-120712.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-map-04-03-120712.jpg"
 		}
 	},
@@ -49,7 +49,7 @@
 		"industry": "Animal Rescue",
 		"note": "A slight case of taking a good idea a little too far.",
 		"link": {
-			"file": "/visuals/cat-form-01-07-120209.jpg",
+			"file": "/assets/visuals/cat-form-01-07-120209.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cat-form-01-07-120209.jpg"
 		}
 	},
@@ -67,7 +67,7 @@
 		"industry": "Design System",
 		"note": "A thorough and annotated example of design for panels, fonts, charts, and helper text.",
 		"link": {
-			"file": "/visuals/dall-des-09-03-190215.jpg",
+			"file": "/assets/visuals/dall-des-09-03-190215.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-09-03-190215.jpg"
 		}
 	},
@@ -85,7 +85,7 @@
 		"industry": "Service Analytics",
 		"note": "Activity page for stakeholder information, using git hooks and .md files as makeshift db.",
 		"link": {
-			"file": "/visuals/sda-page-05-03-191115.jpg",
+			"file": "/assets/visuals/sda-page-05-03-191115.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-03-191115.jpg"
 		}
 	},
@@ -103,7 +103,7 @@
 		"industry": "HR Analytics",
 		"note": "AI-based education dashboard with annotations.",
 		"link": {
-			"file": "/visuals/dont-divz-05-00-190829.jpg",
+			"file": "/assets/visuals/dont-divz-05-00-190829.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-divz-05-00-190829.jpg"
 		}
 	},
@@ -121,7 +121,7 @@
 		"industry": "HR Analytics",
 		"note": "AI-based education dashboard with annotations.",
 		"link": {
-			"file": "/visuals/dont-divz-05-00-190829.jpg",
+			"file": "/assets/visuals/dont-divz-05-00-190829.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-divz-05-00-190829.jpg"
 		}
 	},
@@ -139,7 +139,7 @@
 		"industry": "HR Analytics",
 		"note": "AI-based education dashboard, incorporating billing and claims history.",
 		"link": {
-			"file": "/visuals/dont-divz-06-05-191001.jpg",
+			"file": "/assets/visuals/dont-divz-06-05-191001.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-divz-06-05-191001.jpg"
 		}
 	},
@@ -157,7 +157,7 @@
 		"industry": "HR Analytics",
 		"note": "AI-based education dashboard, incorporating billing and claims history.",
 		"link": {
-			"file": "/visuals/dont-divz-06-05-191001.jpg",
+			"file": "/assets/visuals/dont-divz-06-05-191001.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-divz-06-05-191001.jpg"
 		}
 	},
@@ -175,7 +175,7 @@
 		"industry": "HR Analytics",
 		"note": "AI-based education dashboard, incorporating billing and claims history.",
 		"link": {
-			"file": "/visuals/dont-divz-06-05-191001.jpg",
+			"file": "/assets/visuals/dont-divz-06-05-191001.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-divz-06-05-191001.jpg"
 		}
 	},
@@ -193,7 +193,7 @@
 		"industry": "Writing",
 		"note": "An attempt to satisfy user requests for a packed data table, but the result was unfortunately inaccessible. ",
 		"link": {
-			"file": "/visuals/chr-wire-02-02-120216.jpg",
+			"file": "/assets/visuals/chr-wire-02-02-120216.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-wire-02-02-120216.jpg"
 		}
 	},
@@ -211,7 +211,7 @@
 		"industry": "Writing",
 		"note": "An experiment in blending site map and user flow in a circularly-architected UI.",
 		"link": {
-			"file": "/visuals/chr-map-02-01-120712.jpg",
+			"file": "/assets/visuals/chr-map-02-01-120712.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-map-02-01-120712.jpg"
 		}
 	},
@@ -229,7 +229,7 @@
 		"industry": "Resource Management",
 		"note": "At-a-glance charts for tracking attrition data.",
 		"link": {
-			"file": "/visuals/datt-viz-07-01-220803.jpg",
+			"file": "/assets/visuals/datt-viz-07-01-220803.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/datt-viz-07-01-220803.jpg"
 		}
 	},
@@ -247,7 +247,7 @@
 		"industry": "HR Analytics",
 		"note": "At-a-glance trends for delivery group onboarding.",
 		"link": {
-			"file": "/visuals/donb-dviz-02-01-210318.jpg",
+			"file": "/assets/visuals/donb-dviz-02-01-210318.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/donb-dviz-02-01-210318.jpg"
 		}
 	},
@@ -265,7 +265,7 @@
 		"industry": "Resume",
 		"note": "Attempt to correlate duration of experience with skill set.",
 		"link": {
-			"file": "/visuals/res-dviz-04-01-120707.jpg",
+			"file": "/assets/visuals/res-dviz-04-01-120707.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/res-dviz-04-01-120707.jpg"
 		}
 	},
@@ -283,7 +283,7 @@
 		"industry": "Publishing",
 		"note": "Author administration page, for adding/revising story chapters.",
 		"link": {
-			"file": "/visuals/arc-form-05-02-110512.jpg",
+			"file": "/assets/visuals/arc-form-05-02-110512.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/arc-form-05-02-110512.jpg"
 		}
 	},
@@ -301,7 +301,7 @@
 		"industry": "User Support",
 		"note": "Automated routing form to handle growing number of user requests.",
 		"link": {
-			"file": "/visuals/ctta-form-07-01-200507.jpg",
+			"file": "/assets/visuals/ctta-form-07-01-200507.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-form-07-01-200507.jpg"
 		}
 	},
@@ -319,7 +319,7 @@
 		"industry": "User Research",
 		"note": "Basic script for user interviews on new dashboards and/or visualizations.",
 		"link": {
-			"file": "/texts/ctta-text-01-01-200604.txt",
+			"file": "/assets/texts/ctta-text-01-01-200604.txt",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/ctta-text-01-01-200604.txt"
 		}
 	},
@@ -337,7 +337,7 @@
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
 		"link": {
-			"file": "/visuals/t-dev-pres-03-09-160324.jpg",
+			"file": "/assets/visuals/t-dev-pres-03-09-160324.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-01-160324.jpg"
 		}
 	},
@@ -355,7 +355,7 @@
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
 		"link": {
-			"file": "/visuals/t-dev-pres-03-05-160324.jpg",
+			"file": "/assets/visuals/t-dev-pres-03-05-160324.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-05-160324.jpg"
 		}
 	},
@@ -373,7 +373,7 @@
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
 		"link": {
-			"file": "/visuals/t-dev-pres-03-06-160324.jpg",
+			"file": "/assets/visuals/t-dev-pres-03-06-160324.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-06-160324.jpg"
 		}
 	},
@@ -391,7 +391,7 @@
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
 		"link": {
-			"file": "/visuals/t-dev-pres-03-07-160324.jpg",
+			"file": "/assets/visuals/t-dev-pres-03-07-160324.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-07-160324.jpg"
 		}
 	},
@@ -409,7 +409,7 @@
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
 		"link": {
-			"file": "/visuals/t-dev-pres-03-08-160324.jpg",
+			"file": "/assets/visuals/t-dev-pres-03-08-160324.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-08-160324.jpg"
 		}
 	},
@@ -427,7 +427,7 @@
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
 		"link": {
-			"file": "/visuals/t-dev-pres-03-10-160324.jpg",
+			"file": "/assets/visuals/t-dev-pres-03-10-160324.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-dev-pres-03-10-160324.jpg"
 		}
 	},
@@ -445,7 +445,7 @@
 		"industry": "Mainframe",
 		"note": "Breakdown of page architecture and embedded reusable components.",
 		"link": {
-			"file": "/visuals/pow-arch-03-01-151030.jpg",
+			"file": "/assets/visuals/pow-arch-03-01-151030.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/pow-arch-03-01-151030.jpg"
 		}
 	},
@@ -463,7 +463,7 @@
 		"industry": "Publishing",
 		"note": "Chapter/story template showing metadata and comment form.",
 		"link": {
-			"file": "/visuals/pix-form-03-01-130326.jpg",
+			"file": "/assets/visuals/pix-form-03-01-130326.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/pix-form-03-01-130326.jpg"
 		}
 	},
@@ -481,7 +481,7 @@
 		"industry": "Publishing",
 		"note": "Circular map, arranged in order of user workflow.",
 		"link": {
-			"file": "/visuals/arc-map-05-01-120217.jpg",
+			"file": "/assets/visuals/arc-map-05-01-120217.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/arc-map-05-01-120217.jpg"
 		}
 	},
@@ -499,7 +499,7 @@
 		"industry": "Academia",
 		"note": "Circular site map, color-coded to call out specific site components.",
 		"link": {
-			"file": "/visuals/mrk-map-02-01-110207.jpg",
+			"file": "/assets/visuals/mrk-map-02-01-110207.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mrk-map-02-01-110207.jpg"
 		}
 	},
@@ -517,7 +517,7 @@
 		"industry": "Sales",
 		"note": "Circular site map, using color-coding to note reused actions.",
 		"link": {
-			"file": "/visuals/sls-map-01-01-120705.jpg",
+			"file": "/assets/visuals/sls-map-01-01-120705.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sls-map-01-01-120705.jpg"
 		}
 	},
@@ -535,7 +535,7 @@
 		"industry": "Cloud",
 		"note": "Co-written API design whitepaper.",
 		"link": {
-			"file": "/visuals/api-pres-02-01-170314.jpg",
+			"file": "/assets/visuals/api-pres-02-01-170314.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-pres-02-01-170314.jpg"
 		}
 	},
@@ -553,7 +553,7 @@
 		"industry": "Healthcare",
 		"note": "Collection of loose wireframes organized to show user flow through the pages.",
 		"link": {
-			"file": "/visuals/hcr-map-04-01-120712.jpg",
+			"file": "/assets/visuals/hcr-map-04-01-120712.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hcr-map-04-01-120712.jpg"
 		}
 	},
@@ -571,7 +571,7 @@
 		"industry": "Employee Training",
 		"note": "Comparison of job role expertise, using AI inference and self-assessment, against team’s level of expertise.",
 		"link": {
-			"file": "/visuals/dskl-divz-04-01-190611.jpg",
+			"file": "/assets/visuals/dskl-divz-04-01-190611.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dskl-divz-04-01-190611.jpg"
 		}
 	},
@@ -589,7 +589,7 @@
 		"industry": "Sales Analytics",
 		"note": "Complex dashboard for viewing regional go-to-market data.",
 		"link": {
-			"file": "/visuals/dg2m-viz-02-01-201029.jpg",
+			"file": "/assets/visuals/dg2m-viz-02-01-201029.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dg2m-viz-02-01-201029.jpg"
 		}
 	},
@@ -607,7 +607,7 @@
 		"industry": "User Support",
 		"note": "CRUD system for data scientists and analysts to manage cards for their respective dashboards.",
 		"link": {
-			"file": "/visuals/ctta-form-07-02-200507.jpg",
+			"file": "/assets/visuals/ctta-form-07-02-200507.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-form-07-02-200507.jpg"
 		}
 	},
@@ -625,7 +625,7 @@
 		"industry": "Team Management",
 		"note": "Dashboard for first-line managers to track their team, and their own, education progress.",
 		"link": {
-			"file": "/visuals/dtmt-divz-03-01-190731.jpg",
+			"file": "/assets/visuals/dtmt-divz-03-01-190731.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtmt-divz-03-01-190731.jpg"
 		}
 	},
@@ -643,7 +643,7 @@
 		"industry": "Resource Management",
 		"note": "Dashboard incorporating interactive form, for user input to calculate and project future trends.",
 		"link": {
-			"file": "/visuals/dcap-form-06-02-200316.jpg",
+			"file": "/assets/visuals/dcap-form-06-02-200316.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-form-06-02-200316.jpg"
 		}
 	},
@@ -661,7 +661,7 @@
 		"industry": "Data Analytics",
 		"note": "Dashboard navigation for users to focus on within-group comparisons only.",
 		"link": {
-			"file": "/visuals/dtcb-divz-04-02-200609.jpg",
+			"file": "/assets/visuals/dtcb-divz-04-02-200609.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtcb-divz-04-02-200609.jpg"
 		}
 	},
@@ -679,7 +679,7 @@
 		"industry": "Team Management",
 		"note": "Dashboard showing potential views dependent on metadata tracking.",
 		"link": {
-			"file": "/visuals/dlbd-divz-01-01-190415.jpg",
+			"file": "/assets/visuals/dlbd-divz-01-01-190415.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dlbd-divz-01-01-190415.jpg"
 		}
 	},
@@ -697,7 +697,7 @@
 		"industry": "Data Analytics",
 		"note": "Dashboard using embedded charts inside data tables.",
 		"link": {
-			"file": "/visuals/dtcb-divz-03-03-200127.jpg",
+			"file": "/assets/visuals/dtcb-divz-03-03-200127.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtcb-divz-03-03-200127.jpg"
 		}
 	},
@@ -715,7 +715,7 @@
 		"industry": "User Support",
 		"note": "Detailed multi-role process for more efficient handling of user requests.",
 		"link": {
-			"file": "/visuals/lor-lane-08-01-200430.jpg",
+			"file": "/assets/visuals/lor-lane-08-01-200430.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/lor-lane-08-01-200430.jpg"
 		}
 	},
@@ -733,7 +733,7 @@
 		"industry": "Cloud",
 		"note": "Directory of available internal APIs.",
 		"link": {
-			"file": "/visuals/capi-wire-01-01-160630.jpg",
+			"file": "/assets/visuals/capi-wire-01-01-160630.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/capi-wire-01-01-160630.png"
 		}
 	},
@@ -751,7 +751,7 @@
 		"industry": "Cloud",
 		"note": "Directory of available internal APIs.",
 		"link": {
-			"file": "/visuals/capi-wire-01-02-160630.jpg",
+			"file": "/assets/visuals/capi-wire-01-02-160630.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/capi-wire-01-02-160630.png"
 		}
 	},
@@ -769,7 +769,7 @@
 		"industry": "Project Management",
 		"note": "Draft of metadata list based on team interviews about their personal processes.",
 		"link": {
-			"file": "/visuals/tpm-lane-02-01-180410.jpg",
+			"file": "/assets/visuals/tpm-lane-02-01-180410.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tpm-lane-02-01-180410.png"
 		}
 	},
@@ -787,7 +787,7 @@
 		"industry": "Design System",
 		"note": "Draft of presentation text for design system proposal.",
 		"link": {
-			"file": "/texts/des-text-01-04-230120.txt",
+			"file": "/assets/texts/des-text-01-04-230120.txt",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-text-01-04-230120.txt"
 		}
 	},
@@ -805,7 +805,7 @@
 		"industry": "Writing",
 		"note": "Drawer slide up/down design for reducing cognitive load of a complicated form.",
 		"link": {
-			"file": "/visuals/chr-wire-02-03-120216.jpg",
+			"file": "/assets/visuals/chr-wire-02-03-120216.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-wire-02-03-120216.png"
 		}
 	},
@@ -823,7 +823,7 @@
 		"industry": "User Research",
 		"note": "Early draft for user discussion on required and useful dataviz.",
 		"link": {
-			"file": "/visuals/dtrn-divz-05-04-190423.jpg",
+			"file": "/assets/visuals/dtrn-divz-05-04-190423.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtrn-divz-05-04-190423.jpg"
 		}
 	},
@@ -841,7 +841,7 @@
 		"industry": "Data Analytics",
 		"note": "Early iteration for executive personnel ROI dashboard.",
 		"link": {
-			"file": "/visuals/droi-divz-01-04-191029.jpg",
+			"file": "/assets/visuals/droi-divz-01-04-191029.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/droi-divz-01-04-191029.jpg"
 		}
 	},
@@ -859,7 +859,7 @@
 		"industry": "Internal Learning",
 		"note": "End-of-year discussion points for internal education programs.",
 		"link": {
-			"file": "/visuals/ela-dviz-03-01-211019.jpg",
+			"file": "/assets/visuals/ela-dviz-03-01-211019.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ela-dviz-03-01-211019.jpg"
 		}
 	},
@@ -877,7 +877,7 @@
 		"industry": "Internal Learning",
 		"note": "End-of-year summary on internal education programs.",
 		"link": {
-			"file": "/visuals/ela-pres-05-02-210311.jpg",
+			"file": "/assets/visuals/ela-pres-05-02-210311.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ela-pres-05-02-210311.png"
 		}
 	},
@@ -895,7 +895,7 @@
 		"industry": "Internal Learning",
 		"note": "End-of-year summary on internal education programs.",
 		"link": {
-			"file": "/visuals/ela-pres-05-03-210311.jpg",
+			"file": "/assets/visuals/ela-pres-05-03-210311.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ela-pres-05-03-210311.png"
 		}
 	},
@@ -913,7 +913,7 @@
 		"industry": "AI",
 		"note": "Example of concept in action, with design applied.",
 		"link": {
-			"file": "/visuals/bst-pres-05-07-230728.jpg",
+			"file": "/assets/visuals/bst-pres-05-07-230728.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-pres-05-07-230728.jpg"
 		}
 	},
@@ -931,7 +931,7 @@
 		"industry": "Design System",
 		"note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
 		"link": {
-			"file": "/visuals/dall-des-06-01-221003.jpg",
+			"file": "/assets/visuals/dall-des-06-01-221003.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-06-01-221003.jpg"
 		}
 	},
@@ -949,7 +949,7 @@
 		"industry": "Design System",
 		"note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
 		"link": {
-			"file": "/visuals/dall-des-06-02-221003.jpg",
+			"file": "/assets/visuals/dall-des-06-02-221003.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-06-02-221003.jpg"
 		}
 	},
@@ -967,7 +967,7 @@
 		"industry": "Design System",
 		"note": "Example of dashboard design, including spacing, fonts, and classes.",
 		"link": {
-			"file": "/visuals/dall-des-03-04-210325.jpg",
+			"file": "/assets/visuals/dall-des-03-04-210325.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-03-04-210325.png"
 		}
 	},
@@ -985,7 +985,7 @@
 		"industry": "User Research",
 		"note": "Excerpt of survey, with multiple user routes depending on choices.",
 		"link": {
-			"file": "/visuals/svy-form-04-01-110111.jpg",
+			"file": "/assets/visuals/svy-form-04-01-110111.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/svy-form-04-01-110111.jpg"
 		}
 	},
@@ -1003,7 +1003,7 @@
 		"industry": "User Support",
 		"note": "Executive management page for education request.",
 		"link": {
-			"file": "/visuals/erf-form-03-07-190315.jpg",
+			"file": "/assets/visuals/erf-form-03-07-190315.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-form-03-07-190315.jpg"
 		}
 	},
@@ -1021,7 +1021,7 @@
 		"industry": "Resource Management",
 		"note": "Experimental visualization for viewing levels of projected needs.",
 		"link": {
-			"file": "/visuals/dcap-dviz-04-04-200512.jpg",
+			"file": "/assets/visuals/dcap-dviz-04-04-200512.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-04-04-200512.jpg"
 		}
 	},
@@ -1039,7 +1039,7 @@
 		"industry": "User Research",
 		"note": "Exploration of filter arrangement and design in sliding drawer.",
 		"link": {
-			"file": "/visuals/dtcb-form-01-14-200110.jpg",
+			"file": "/assets/visuals/dtcb-form-01-14-200110.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtcb-form-01-14-200110.jpg"
 		}
 	},
@@ -1057,7 +1057,7 @@
 		"industry": "Data Analytics",
 		"note": "Exploration of visual patterns for data hierarchy.",
 		"link": {
-			"file": "/visuals/droi-divz-02-01-191103.jpg",
+			"file": "/assets/visuals/droi-divz-02-01-191103.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/droi-divz-02-01-191103.jpg"
 		}
 	},
@@ -1075,7 +1075,7 @@
 		"industry": "User Support",
 		"note": "Form for users to report issues in one place, creating better tracking.",
 		"link": {
-			"file": "/visuals/yin-form-02-02-210706.jpg",
+			"file": "/assets/visuals/yin-form-02-02-210706.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/yin-form-02-02-210706.jpg"
 		}
 	},
@@ -1093,7 +1093,7 @@
 		"industry": "User Support",
 		"note": "Form to channel user access requests through a single entry point.",
 		"link": {
-			"file": "/visuals/yin-form-02-01-210706.jpg",
+			"file": "/assets/visuals/yin-form-02-01-210706.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/yin-form-02-01-210706.jpg"
 		}
 	},
@@ -1111,7 +1111,7 @@
 		"industry": "Cloud",
 		"note": "Fourth iteration for possible page structure and organization.",
 		"link": {
-			"file": "/visuals/ift-wire-04-01-160822.jpg",
+			"file": "/assets/visuals/ift-wire-04-01-160822.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-wire-04-01-160822.png"
 		}
 	},
@@ -1129,7 +1129,7 @@
 		"industry": "Cloud",
 		"note": "Fourth iteration for possible page structure and organization.",
 		"link": {
-			"file": "/visuals/ift-wire-04-10-160822.jpg",
+			"file": "/assets/visuals/ift-wire-04-10-160822.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-wire-04-10-160822.png"
 		}
 	},
@@ -1147,7 +1147,7 @@
 		"industry": "Design System",
 		"note": "Full outline for design system documentation, including future topics.",
 		"link": {
-			"file": "/texts/des-text-01-02-221219.txt",
+			"file": "/assets/texts/des-text-01-02-221219.txt",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-text-01-02-221219.txt"
 		}
 	},
@@ -1165,7 +1165,7 @@
 		"industry": "Customer Service",
 		"note": "Full site map, with color-coding to call out re-used modular components.",
 		"link": {
-			"file": "/visuals/hap-map-02-01-141109.jpg",
+			"file": "/assets/visuals/hap-map-02-01-141109.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hap-map-02-01-141109.jpg"
 		}
 	},
@@ -1183,7 +1183,7 @@
 		"industry": "User Support",
 		"note": "Fully-expanded form with logic for user interaction.",
 		"link": {
-			"file": "/visuals/erf-form-03-01-190313.jpg",
+			"file": "/assets/visuals/erf-form-03-01-190313.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-form-03-01-190313.jpg"
 		}
 	},
@@ -1201,7 +1201,7 @@
 		"industry": "User Support",
 		"note": "Fully-expanded form with logic for user interaction.",
 		"link": {
-			"file": "/visuals/erf-form-03-01-190313.jpg",
+			"file": "/assets/visuals/erf-form-03-01-190313.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-form-03-01-190313.jpg"
 		}
 	},
@@ -1219,7 +1219,7 @@
 		"industry": "Data Management",
 		"note": "Getting a newly-built team on the same page about management tactics.",
 		"link": {
-			"file": "/visuals/cdo-pres-01-01-170821.jpg",
+			"file": "/assets/visuals/cdo-pres-01-01-170821.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cdo-pres-01-01-170821.jpg"
 		}
 	},
@@ -1237,7 +1237,7 @@
 		"industry": "User Support",
 		"note": "Growing catalog size necessitated a more complex filtering system. ",
 		"link": {
-			"file": "/visuals/ctta-page-12-01-200609.jpg",
+			"file": "/assets/visuals/ctta-page-12-01-200609.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-page-12-01-200609.jpg"
 		}
 	},
@@ -1255,7 +1255,7 @@
 		"industry": "Learning Analytics",
 		"note": "Horizontal dataviz for tracking employee training progress.",
 		"link": {
-			"file": "/visuals/dseg-divz-05-01-190503.jpg",
+			"file": "/assets/visuals/dseg-divz-05-01-190503.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dseg-divz-05-01-190503.jpg"
 		}
 	},
@@ -1273,7 +1273,7 @@
 		"industry": "Learning Analytics",
 		"note": "Horizontal dataviz for tracking employee training progress.",
 		"link": {
-			"file": "/visuals/dseg-divz-05-02-190503.jpg",
+			"file": "/assets/visuals/dseg-divz-05-02-190503.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dseg-divz-05-02-190503.jpg"
 		}
 	},
@@ -1291,7 +1291,7 @@
 		"industry": "Servers",
 		"note": "Incident report page, step 3 for walk-through presentation.",
 		"link": {
-			"file": "/visuals/mim-form-02-03-190510.jpg",
+			"file": "/assets/visuals/mim-form-02-03-190510.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mim-form-02-03-190510.png"
 		}
 	},
@@ -1309,7 +1309,7 @@
 		"industry": "Servers",
 		"note": "Incident report page, step 7 for walk-through presentation.",
 		"link": {
-			"file": "/visuals/mim-form-01-07-190509.jpg",
+			"file": "/assets/visuals/mim-form-01-07-190509.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mim-form-01-07-190509.jpg"
 		}
 	},
@@ -1327,7 +1327,7 @@
 		"industry": "Animal Rescue",
 		"note": "Incorporating accessibility lessons learned while consulting.",
 		"link": {
-			"file": "/visuals/cat-form-01-04-120209.jpg",
+			"file": "/assets/visuals/cat-form-01-04-120209.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cat-form-01-04-120209.jpg"
 		}
 	},
@@ -1345,7 +1345,7 @@
 		"industry": "Service Analytics",
 		"note": "Introducing and explaining steps to prepare data for analytics use.",
 		"link": {
-			"file": "/visuals/sda-page-05-09-191115.jpg",
+			"file": "/assets/visuals/sda-page-05-09-191115.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-09-191115.jpg"
 		}
 	},
@@ -1363,7 +1363,7 @@
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
 		"link": {
-			"file": "/visuals/t-sda-pres-05-04-190322.jpg",
+			"file": "/assets/visuals/t-sda-pres-05-04-190322.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-sda-pres-05-04-190322.jpg"
 		}
 	},
@@ -1381,7 +1381,7 @@
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
 		"link": {
-			"file": "/visuals/t-sda-pres-05-05-190322.jpg",
+			"file": "/assets/visuals/t-sda-pres-05-05-190322.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-sda-pres-05-05-190322.jpg"
 		}
 	},
@@ -1399,7 +1399,7 @@
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
 		"link": {
-			"file": "/visuals/t-sda-pres-05-17-190322.jpg",
+			"file": "/assets/visuals/t-sda-pres-05-17-190322.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-sda-pres-05-17-190322.jpg"
 		}
 	},
@@ -1417,7 +1417,7 @@
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
 		"link": {
-			"file": "/visuals/t-sda-pres-05-23-190322.jpg",
+			"file": "/assets/visuals/t-sda-pres-05-23-190322.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-sda-pres-05-23-190322.jpg"
 		}
 	},
@@ -1435,7 +1435,7 @@
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
 		"link": {
-			"file": "/visuals/t-sda-pres-05-24-190322.jpg",
+			"file": "/assets/visuals/t-sda-pres-05-24-190322.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-sda-pres-05-24-190322.jpg"
 		}
 	},
@@ -1453,7 +1453,7 @@
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
 		"link": {
-			"file": "/visuals/t-sda-pres-05-25-190322.jpg",
+			"file": "/assets/visuals/t-sda-pres-05-25-190322.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-sda-pres-05-25-190322.jpg"
 		}
 	},
@@ -1471,7 +1471,7 @@
 		"industry": "Project Management",
 		"note": "Journey map based on team members’ rankings of tasks by difficulty/stress. ",
 		"link": {
-			"file": "/visuals/tpm-form-01-01-180402.jpg",
+			"file": "/assets/visuals/tpm-form-01-01-180402.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tpm-form-01-01-180402.jpg"
 		}
 	},
@@ -1489,7 +1489,7 @@
 		"industry": "Resume",
 		"note": "Ladder visualization to show chronology of positions and skills.",
 		"link": {
-			"file": "/visuals/res-dviz-05-02-120708.jpg",
+			"file": "/assets/visuals/res-dviz-05-02-120708.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/res-dviz-05-02-120708.jpg"
 		}
 	},
@@ -1507,7 +1507,7 @@
 		"industry": "Resource Management",
 		"note": "Left-justified bar chart for comparing personnel needs across teams. ",
 		"link": {
-			"file": "/visuals/dcap-dviz-04-03-200512.jpg",
+			"file": "/assets/visuals/dcap-dviz-04-03-200512.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-04-03-200512.jpg"
 		}
 	},
@@ -1525,7 +1525,7 @@
 		"industry": "Pharmacology",
 		"note": "Map including 2nd and 3rd sub-level tiers.",
 		"link": {
-			"file": "/visuals/abc-map-07-01-080229.jpg",
+			"file": "/assets/visuals/abc-map-07-01-080229.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/abc-map-07-01-080229.png"
 		}
 	},
@@ -1543,7 +1543,7 @@
 		"industry": "HR Analytics",
 		"note": "Mapping concept and purpose of new dashboard.",
 		"link": {
-			"file": "/visuals/dont-map-01-01-181202.jpg",
+			"file": "/assets/visuals/dont-map-01-01-181202.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dont-map-01-01-181202.jpg"
 		}
 	},
@@ -1561,7 +1561,7 @@
 		"industry": "Resource Management",
 		"note": "Mocked for demonstrating and explaining an advanced-level dataviz.",
 		"link": {
-			"file": "/visuals/dcap-dviz-04-06-200512.jpg",
+			"file": "/assets/visuals/dcap-dviz-04-06-200512.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-04-06-200512.jpg"
 		}
 	},
@@ -1579,7 +1579,7 @@
 		"industry": "Employee Training",
 		"note": "Mocked showing the use of annotation in explaining data sources and calculations.",
 		"link": {
-			"file": "/visuals/dskl-divz-04-02-190614.jpg",
+			"file": "/assets/visuals/dskl-divz-04-02-190614.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dskl-divz-04-02-190614.jpg"
 		}
 	},
@@ -1597,7 +1597,7 @@
 		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
 		"link": {
-			"file": "/visuals/dexv-divz-06-01-190419.jpg",
+			"file": "/assets/visuals/dexv-divz-06-01-190419.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-06-01-190419.jpg"
 		}
 	},
@@ -1615,7 +1615,7 @@
 		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
 		"link": {
-			"file": "/visuals/dexv-divz-06-04-190419.jpg",
+			"file": "/assets/visuals/dexv-divz-06-04-190419.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-06-04-190419.jpg"
 		}
 	},
@@ -1633,7 +1633,7 @@
 		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
 		"link": {
-			"file": "/visuals/dexv-divz-06-05-190417.jpg",
+			"file": "/assets/visuals/dexv-divz-06-05-190417.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-06-05-190417.jpg"
 		}
 	},
@@ -1651,7 +1651,7 @@
 		"industry": "Team Management",
 		"note": "Mocked dashboard using only available types of data.",
 		"link": {
-			"file": "/visuals/dlbd-divz-02-01-190418.jpg",
+			"file": "/assets/visuals/dlbd-divz-02-01-190418.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dlbd-divz-02-01-190418.jpg"
 		}
 	},
@@ -1669,7 +1669,7 @@
 		"industry": "Resource Management",
 		"note": "Mocked dashboard using split vertical bar charts to show training program trends.",
 		"link": {
-			"file": "/visuals/dseg-dviz-05-12-190510.jpg",
+			"file": "/assets/visuals/dseg-dviz-05-12-190510.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dseg-dviz-05-12-190510.jpg"
 		}
 	},
@@ -1687,7 +1687,7 @@
 		"industry": "User Research",
 		"note": "Mocked dashboard with over-use of piecharts.",
 		"link": {
-			"file": "/visuals/dexv-divz-01-01-180928.jpg",
+			"file": "/assets/visuals/dexv-divz-01-01-180928.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-01-01-180928.jpg"
 		}
 	},
@@ -1705,7 +1705,7 @@
 		"industry": "User Research",
 		"note": "Mocked dashboard with third iteration dataviz ideas.",
 		"link": {
-			"file": "/visuals/dexv-divz-04-01-190116.jpg",
+			"file": "/assets/visuals/dexv-divz-04-01-190116.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-04-01-190116.jpg"
 		}
 	},
@@ -1723,7 +1723,7 @@
 		"industry": "User Research",
 		"note": "Mocked dashboard with too many colors.",
 		"link": {
-			"file": "/visuals/dexv-divz-02-01-180927.jpg",
+			"file": "/assets/visuals/dexv-divz-02-01-180927.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dexv-divz-02-01-180927.jpg"
 		}
 	},
@@ -1741,7 +1741,7 @@
 		"industry": "Internal Learning",
 		"note": "Mocked series for Invision walk-through, showing one possible conclusion point.",
 		"link": {
-			"file": "/visuals/tag-mock-03-08-210301.jpg",
+			"file": "/assets/visuals/tag-mock-03-08-210301.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tag-mock-03-08-210301.jpg"
 		}
 	},
@@ -1759,7 +1759,7 @@
 		"industry": "Internal Learning",
 		"note": "Mocked series for Invision walk-through, showing second step in tagging.",
 		"link": {
-			"file": "/visuals/tag-mock-03-04-210301.jpg",
+			"file": "/assets/visuals/tag-mock-03-04-210301.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/tag-mock-03-04-210301.jpg"
 		}
 	},
@@ -1777,7 +1777,7 @@
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a BAN/bullet combination.",
 		"link": {
-			"file": "/visuals/da2t-dviz-02-01-191016.jpg",
+			"file": "/assets/visuals/da2t-dviz-02-01-191016.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-02-01-191016.jpg"
 		}
 	},
@@ -1795,7 +1795,7 @@
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a funnel-style visual.",
 		"link": {
-			"file": "/visuals/da2t-dviz-04-01-190612.jpg",
+			"file": "/assets/visuals/da2t-dviz-04-01-190612.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-04-01-190612.jpg"
 		}
 	},
@@ -1813,7 +1813,7 @@
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a pie/table combination.",
 		"link": {
-			"file": "/visuals/da2t-dviz-01-02-190719.jpg",
+			"file": "/assets/visuals/da2t-dviz-01-02-190719.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-01-02-190719.jpg"
 		}
 	},
@@ -1831,7 +1831,7 @@
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with trending data.",
 		"link": {
-			"file": "/visuals/da2t-dviz-03-01-190613.jpg",
+			"file": "/assets/visuals/da2t-dviz-03-01-190613.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-03-01-190613.jpg"
 		}
 	},
@@ -1849,7 +1849,7 @@
 		"industry": "Tourism",
 		"note": "Modified wordpress features to create sub-site for vendors to apply, pay for, and track their festival spots. ",
 		"link": {
-			"file": "/visuals/zlk-page-03-01-130505.jpg",
+			"file": "/assets/visuals/zlk-page-03-01-130505.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/zlk-page-03-01-130505.png"
 		}
 	},
@@ -1867,7 +1867,7 @@
 		"industry": "Service Analytics",
 		"note": "One of 100+ chart types documented, with tips for when, how, and why to use each.",
 		"link": {
-			"file": "/visuals/sda-page-05-08-191115.jpg",
+			"file": "/assets/visuals/sda-page-05-08-191115.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-08-191115.jpg"
 		}
 	},
@@ -1885,7 +1885,7 @@
 		"industry": "Learning Analytics",
 		"note": "Operational tab for viewing training program trends.",
 		"link": {
-			"file": "/visuals/dsvc-divz-03-01-191010.jpg",
+			"file": "/assets/visuals/dsvc-divz-03-01-191010.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dsvc-divz-03-01-191010.png"
 		}
 	},
@@ -1903,7 +1903,7 @@
 		"industry": "Learning Analytics",
 		"note": "Operational tab for viewing training program trends.",
 		"link": {
-			"file": "/visuals/dsvc-divz-04-01-191011.jpg",
+			"file": "/assets/visuals/dsvc-divz-04-01-191011.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dsvc-divz-04-01-191011.jpg"
 		}
 	},
@@ -1921,7 +1921,7 @@
 		"industry": "Cloud",
 		"note": "Option A for API gateway design.",
 		"link": {
-			"file": "/visuals/api-arch-06-04-170205.jpg",
+			"file": "/assets/visuals/api-arch-06-04-170205.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-arch-06-04-170205.jpg"
 		}
 	},
@@ -1939,7 +1939,7 @@
 		"industry": "Cloud",
 		"note": "Option B for API gateway design.",
 		"link": {
-			"file": "/visuals/api-arch-06-05-170206.jpg",
+			"file": "/assets/visuals/api-arch-06-05-170206.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-arch-06-05-170206.jpg"
 		}
 	},
@@ -1957,7 +1957,7 @@
 		"industry": "Sales",
 		"note": "Page architecture demonstrating the structure created by reusable and embedded components.",
 		"link": {
-			"file": "/visuals/mob-arch-02-01-131001.jpg",
+			"file": "/assets/visuals/mob-arch-02-01-131001.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mob-arch-02-01-131001.jpg"
 		}
 	},
@@ -1975,7 +1975,7 @@
 		"industry": "Pharmacology",
 		"note": "Page architecture, arranged in a manner slightly less terrifying for shareholders.",
 		"link": {
-			"file": "/visuals/abc-map-05-01-080117.jpg",
+			"file": "/assets/visuals/abc-map-05-01-080117.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/abc-map-05-01-080117.png"
 		}
 	},
@@ -1993,7 +1993,7 @@
 		"industry": "Data Management",
 		"note": "Paper about the necessity of centralizing data and integrating design for a more efficient business.",
 		"link": {
-			"file": "/visuals/cdo-paper-03-01-170523.jpg",
+			"file": "/assets/visuals/cdo-paper-03-01-170523.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cdo-paper-03-01-170523.jpg"
 		}
 	},
@@ -2011,7 +2011,7 @@
 		"industry": "Data Management",
 		"note": "Paper to support Cognitive Platform initiative. (Boy do those dashboard images make me cringe, now.)",
 		"link": {
-			"file": "/visuals/cdo-paper-04-01-170523.jpg",
+			"file": "/assets/visuals/cdo-paper-04-01-170523.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cdo-paper-04-01-170523.jpg"
 		}
 	},
@@ -2029,7 +2029,7 @@
 		"industry": "Customer Service",
 		"note": "Preliminary mockup for customer support site.",
 		"link": {
-			"file": "/visuals/hap-page-01-06-141105.jpg",
+			"file": "/assets/visuals/hap-page-01-06-141105.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hap-page-01-06-141105.jpg"
 		}
 	},
@@ -2047,7 +2047,7 @@
 		"industry": "Customer Service",
 		"note": "Preliminary mockup for customer support site.",
 		"link": {
-			"file": "/visuals/hap-page-01-13-141105.jpg",
+			"file": "/assets/visuals/hap-page-01-13-141105.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hap-page-01-13-141105.jpg"
 		}
 	},
@@ -2065,7 +2065,7 @@
 		"industry": "Pharmacology",
 		"note": "Preliminary page architecture for development planning.",
 		"link": {
-			"file": "/visuals/abc-arch-04-01-070712.jpg",
+			"file": "/assets/visuals/abc-arch-04-01-070712.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/abc-arch-04-01-070712.png"
 		}
 	},
@@ -2083,7 +2083,7 @@
 		"industry": "User Research",
 		"note": "Preliminary visual for stakeholder discussion on organizing related dashboards. ",
 		"link": {
-			"file": "/visuals/ctta-map-02-02-191005.jpg",
+			"file": "/assets/visuals/ctta-map-02-02-191005.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ctta-map-02-02-191005.jpg"
 		}
 	},
@@ -2101,7 +2101,7 @@
 		"industry": "User Support",
 		"note": "Process flow identifying involved roles and data movement.",
 		"link": {
-			"file": "/visuals/erf-flow-02-01-190311.jpg",
+			"file": "/assets/visuals/erf-flow-02-01-190311.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-flow-02-01-190311.jpg"
 		}
 	},
@@ -2119,7 +2119,7 @@
 		"industry": "Privacy",
 		"note": "Process flow modified into a swim lane approach.",
 		"link": {
-			"file": "/visuals/gdp-lane-10-01-171129.jpg",
+			"file": "/assets/visuals/gdp-lane-10-01-171129.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/gdp-lane-10-01-171129.jpg"
 		}
 	},
@@ -2137,7 +2137,7 @@
 		"industry": "Writing",
 		"note": "Production version of character management webapp, showing dropdown contents.",
 		"link": {
-			"file": "/visuals/chr-page-03-05-151116.jpg",
+			"file": "/assets/visuals/chr-page-03-05-151116.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-form-03-05-151116.png"
 		}
 	},
@@ -2155,7 +2155,7 @@
 		"industry": "Writing",
 		"note": "Production version of character management webapp, showing dropdown contents.",
 		"link": {
-			"file": "/visuals/chr-form-03-07-151116.jpg",
+			"file": "/assets/visuals/chr-form-03-07-151116.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-page-03-07-151116.png"
 		}
 	},
@@ -2173,7 +2173,7 @@
 		"industry": "Service Analytics",
 		"note": "Production version of site main page.",
 		"link": {
-			"file": "/visuals/sda-page-05-01-191115.jpg",
+			"file": "/assets/visuals/sda-page-05-01-191115.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sda-page-05-01-191115.jpg"
 		}
 	},
@@ -2191,7 +2191,7 @@
 		"industry": "Healthcare",
 		"note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
 		"link": {
-			"file": "/visuals/hci-page-01-01-180412.jpg",
+			"file": "/assets/visuals/hci-page-01-01-180412.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hci-page-01-01-180412.jpg"
 		}
 	},
@@ -2209,7 +2209,7 @@
 		"industry": "Healthcare",
 		"note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
 		"link": {
-			"file": "/visuals/hci-page-01-02-180412.jpg",
+			"file": "/assets/visuals/hci-page-01-02-180412.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hci-page-01-02-180412.jpg"
 		}
 	},
@@ -2227,7 +2227,7 @@
 		"industry": "Team Management",
 		"note": "Proposed dashboard for first-line managers to view team skills and levels of expertise.",
 		"link": {
-			"file": "/visuals/dtmt-divz-01-01-190527.jpg",
+			"file": "/assets/visuals/dtmt-divz-01-01-190527.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtmt-divz-01-01-190527.jpg"
 		}
 	},
@@ -2245,7 +2245,7 @@
 		"industry": "User Research",
 		"note": "Proposed dashboard redesign from Tableau to D3 version.",
 		"link": {
-			"file": "/visuals/dtrn-divz-07-01-190531.jpg",
+			"file": "/assets/visuals/dtrn-divz-07-01-190531.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtrn-divz-07-01-190531.jpg"
 		}
 	},
@@ -2263,7 +2263,7 @@
 		"industry": "Finance",
 		"note": "Prototype demonstrating viability of SSO between two distinct webapps.",
 		"link": {
-			"file": "/visuals/hol-cde-03-02-130811.jpg",
+			"file": "/assets/visuals/hol-cde-03-02-130811.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hol-cde-03-02-130811.jpg"
 		}
 	},
@@ -2281,7 +2281,7 @@
 		"industry": "Writing",
 		"note": "Prototype for character management webapp. ",
 		"link": {
-			"file": "/visuals/chr-page-02-04-110509.jpg",
+			"file": "/assets/visuals/chr-page-02-04-110509.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-page-02-04-110509.png"
 		}
 	},
@@ -2299,7 +2299,7 @@
 		"industry": "Writing",
 		"note": "Prototype for character management webapp. ",
 		"link": {
-			"file": "/visuals/chr-form-02-07-120705.jpg",
+			"file": "/assets/visuals/chr-form-02-07-120705.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/chr-form-02-07-120705.jpg"
 		}
 	},
@@ -2317,7 +2317,7 @@
 		"industry": "Data Analytics",
 		"note": "Prototype inventory site tracking the team’s projects.",
 		"link": {
-			"file": "/visuals/csaa-page-01-01-181105.jpg",
+			"file": "/assets/visuals/csaa-page-01-01-181105.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/csaa-page-01-01-181105.jpg"
 		}
 	},
@@ -2335,7 +2335,7 @@
 		"industry": "Learning Analytics",
 		"note": "Prototype of pie/bullet combination with a data table.",
 		"link": {
-			"file": "/visuals/da2t-dviz-01-01-190719.jpg",
+			"file": "/assets/visuals/da2t-dviz-01-01-190719.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/da2t-dviz-01-01-190719.jpg"
 		}
 	},
@@ -2353,7 +2353,7 @@
 		"industry": "Design System",
 		"note": "Quick (and regularly updated) cheat sheet for data analysts when building dashboards.",
 		"link": {
-			"file": "/visuals/dall-des-09-02-190215.jpg",
+			"file": "/assets/visuals/dall-des-09-02-190215.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dall-des-09-02-190215.jpg"
 		}
 	},
@@ -2371,7 +2371,7 @@
 		"industry": "User Research",
 		"note": "Quick mock created during user discussions, using placeholder dataviz with fake data.",
 		"link": {
-			"file": "/visuals/dedv-dviz-01-03-191010.jpg",
+			"file": "/assets/visuals/dedv-dviz-01-03-191010.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dedv-dviz-01-03-191010.jpg"
 		}
 	},
@@ -2389,7 +2389,7 @@
 		"industry": "Internal Learning",
 		"note": "Revised version incorporating user and data scientist feedback.",
 		"link": {
-			"file": "/visuals/dtrn-divz-05-01-190422.jpg",
+			"file": "/assets/visuals/dtrn-divz-05-01-190422.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dtrn-divz-05-01-190422.jpg"
 		}
 	},
@@ -2407,7 +2407,7 @@
 		"industry": "Academia",
 		"note": "Rough mockup of app’s responsive behavior.",
 		"link": {
-			"file": "/visuals/mrk-mid-02-05-110709.jpg",
+			"file": "/assets/visuals/mrk-mid-02-05-110709.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mrk-mid-02-05-110709.jpg"
 		}
 	},
@@ -2425,7 +2425,7 @@
 		"industry": "Cloud",
 		"note": "Rough sketch of application workflows and combinations.",
 		"link": {
-			"file": "/visuals/ift-arch-01-01-160901.jpg",
+			"file": "/assets/visuals/ift-arch-01-01-160901.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-arch-01-01-160901.png"
 		}
 	},
@@ -2443,7 +2443,7 @@
 		"industry": "Platform (PAAS)",
 		"note": "Showing user movement through the webapp, with design system applied.",
 		"link": {
-			"file": "/visuals/ccts-tour-01-01-170505.jpg",
+			"file": "/assets/visuals/ccts-tour-01-01-170505.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ccts-tour-01-01-170505.jpg"
 		}
 	},
@@ -2461,7 +2461,7 @@
 		"industry": "Tourism",
 		"note": "Simple wordpress site with information for volunteers and attendants.",
 		"link": {
-			"file": "/visuals/zlk-page-01-01-110516.jpg",
+			"file": "/assets/visuals/zlk-page-01-01-110516.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/zlk-page-01-01-110516.png"
 		}
 	},
@@ -2479,7 +2479,7 @@
 		"industry": "AI",
 		"note": "Simplified visuals for non-technical investors.",
 		"link": {
-			"file": "/visuals/bst-pres-05-05-230728.jpg",
+			"file": "/assets/visuals/bst-pres-05-05-230728.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-pres-05-05-230728.jpg"
 		}
 	},
@@ -2497,7 +2497,7 @@
 		"industry": "Sales",
 		"note": "Site architecture demonstrating each page’s composition of modular components.",
 		"link": {
-			"file": "/visuals/mob-arch-03-02-131004.jpg",
+			"file": "/assets/visuals/mob-arch-03-02-131004.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/mob-arch-03-02-131004.jpg"
 		}
 	},
@@ -2515,7 +2515,7 @@
 		"industry": "Healthcare",
 		"note": "Site map showing user choices, interactions, and overlaps between paths.",
 		"link": {
-			"file": "/visuals/hcr-map-03-02-120705.jpg",
+			"file": "/assets/visuals/hcr-map-03-02-120705.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/hcr-map-03-02-120705.png"
 		}
 	},
@@ -2533,7 +2533,7 @@
 		"industry": "Cloud",
 		"note": "Site map, color-coded to show identified reusable components.",
 		"link": {
-			"file": "/visuals/ift-arch-07-02-160830.jpg",
+			"file": "/assets/visuals/ift-arch-07-02-160830.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-arch-07-02-160830.jpg"
 		}
 	},
@@ -2551,7 +2551,7 @@
 		"industry": "Tourism",
 		"note": "Site redesign to be fully responsive. (Attendants liked it so much, they crashed the hosting company’s servers.)",
 		"link": {
-			"file": "/visuals/zlk-page-02-02-120706.jpg",
+			"file": "/assets/visuals/zlk-page-02-02-120706.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/zlk-page-02-02-120706.jpg"
 		}
 	},
@@ -2569,7 +2569,7 @@
 		"industry": "User Support",
 		"note": "Standardized information collection for report and dashboard requests.",
 		"link": {
-			"file": "/visuals/yin-form-02-04-210706.jpg",
+			"file": "/assets/visuals/yin-form-02-04-210706.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/yin-form-02-04-210706.jpg"
 		}
 	},
@@ -2587,7 +2587,7 @@
 		"industry": "AI",
 		"note": "Start-point of animation in login page.",
 		"link": {
-			"file": "/visuals/bst-mock-02-01-230718.jpg",
+			"file": "/assets/visuals/bst-mock-02-01-230718.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-mock-02-01-230718.png"
 		}
 	},
@@ -2605,7 +2605,7 @@
 		"industry": "Design System",
 		"note": "Summaries of research results comparing competitors’ design systems.",
 		"link": {
-			"file": "/texts/des-text-01-01-221219.txt",
+			"file": "/assets/texts/des-text-01-01-221219.txt",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-text-01-01-221219.txt"
 		}
 	},
@@ -2623,7 +2623,7 @@
 		"industry": "Resume",
 		"note": "Sunburst visualization adapted to show experience by skill.",
 		"link": {
-			"file": "/visuals/res-dviz-02-07-110922.jpg",
+			"file": "/assets/visuals/res-dviz-02-07-110922.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/res-dviz-02-07-110922.jpg"
 		}
 	},
@@ -2641,7 +2641,7 @@
 		"industry": "Finance",
 		"note": "Swim lane modified to include notations for data movement and user interaction.",
 		"link": {
-			"file": "/visuals/wst-lane-01-07-171103.jpg",
+			"file": "/assets/visuals/wst-lane-01-07-171103.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/wst-lane-01-07-171103.jpg"
 		}
 	},
@@ -2659,7 +2659,7 @@
 		"industry": "User Research",
 		"note": "Swim lanes based on user interviews and executive input.",
 		"link": {
-			"file": "/visuals/erf-lane-01-01-190220.jpg",
+			"file": "/assets/visuals/erf-lane-01-01-190220.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/erf-lane-01-01-190220.png"
 		}
 	},
@@ -2677,7 +2677,7 @@
 		"industry": "Resource Management",
 		"note": "Target tracking by region, with RAG-style visualizations.",
 		"link": {
-			"file": "/visuals/djrs-dviz-02-01-210505.jpg",
+			"file": "/assets/visuals/djrs-dviz-02-01-210505.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/djrs-dviz-02-01-210505.jpg"
 		}
 	},
@@ -2695,7 +2695,7 @@
 		"industry": "Privacy",
 		"note": "The 7th iteration of ultimately 19 versions detailing the complicated GDPR process.",
 		"link": {
-			"file": "/visuals/gdp-flow-07-01-171110.jpg",
+			"file": "/assets/visuals/gdp-flow-07-01-171110.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/gdp-flow-07-01-171110.jpg"
 		}
 	},
@@ -2713,7 +2713,7 @@
 		"industry": "Cloud",
 		"note": "Third iteration covering page structure and organization.",
 		"link": {
-			"file": "/visuals/ift-form-03-07-160817.jpg",
+			"file": "/assets/visuals/ift-form-03-07-160817.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-form-03-07-160817.png"
 		}
 	},
@@ -2731,7 +2731,7 @@
 		"industry": "Cloud",
 		"note": "Third iteration covering page structure and organization.",
 		"link": {
-			"file": "/visuals/ift-wire-03-04-160817.jpg",
+			"file": "/assets/visuals/ift-wire-03-04-160817.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/ift-wire-03-04-160817.png"
 		}
 	},
@@ -2749,7 +2749,7 @@
 		"industry": "Sales",
 		"note": "Traditional site map, also with color-coding to identify patterns.",
 		"link": {
-			"file": "/visuals/sls-map-02-01-120712.jpg",
+			"file": "/assets/visuals/sls-map-02-01-120712.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/sls-map-02-01-120712.png"
 		}
 	},
@@ -2767,7 +2767,7 @@
 		"industry": "Publishing",
 		"note": "Two screenshots of admin pages, for managing tagging and multi-part stories.",
 		"link": {
-			"file": "/visuals/pix-form-03-02-130326.jpg",
+			"file": "/assets/visuals/pix-form-03-02-130326.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/pix-form-03-02-130326.jpg"
 		}
 	},
@@ -2785,7 +2785,7 @@
 		"industry": "Data Analytics",
 		"note": "Users nicknamed the boxes ‘cards’, inspiring the metaphor of a card catalog.",
 		"link": {
-			"file": "/visuals/csaa-page-03-01-181107.jpg",
+			"file": "/assets/visuals/csaa-page-03-01-181107.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/csaa-page-03-01-181107.jpg"
 		}
 	},
@@ -2803,7 +2803,7 @@
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
 		"link": {
-			"file": "/visuals/t-ift-pres-02-01-170702.jpg",
+			"file": "/assets/visuals/t-ift-pres-02-01-170702.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-ift-pres-02-01-170702.jpg"
 		}
 	},
@@ -2821,7 +2821,7 @@
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
 		"link": {
-			"file": "/visuals/t-ift-pres-02-02-170702.jpg",
+			"file": "/assets/visuals/t-ift-pres-02-02-170702.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-ift-pres-02-02-170702.jpg"
 		}
 	},
@@ -2839,7 +2839,7 @@
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
 		"link": {
-			"file": "/visuals/t-ift-pres-02-03-170702.jpg",
+			"file": "/assets/visuals/t-ift-pres-02-03-170702.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-ift-pres-02-03-170702.jpg"
 		}
 	},
@@ -2857,7 +2857,7 @@
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
 		"link": {
-			"file": "/visuals/t-ift-pres-02-04-170702.jpg",
+			"file": "/assets/visuals/t-ift-pres-02-04-170702.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-ift-pres-02-04-170702.jpg"
 		}
 	},
@@ -2875,7 +2875,7 @@
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
 		"link": {
-			"file": "/visuals/t-ift-pres-02-05-170702.jpg",
+			"file": "/assets/visuals/t-ift-pres-02-05-170702.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-ift-pres-02-05-170702.jpg"
 		}
 	},
@@ -2893,7 +2893,7 @@
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
 		"link": {
-			"file": "/visuals/t-ift-pres-02-06-170702.jpg",
+			"file": "/assets/visuals/t-ift-pres-02-06-170702.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-ift-pres-02-06-170702.jpg"
 		}
 	},
@@ -2911,7 +2911,7 @@
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
 		"link": {
-			"file": "/visuals/t-ift-pres-02-07-170702.jpg",
+			"file": "/assets/visuals/t-ift-pres-02-07-170702.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-ift-pres-02-07-170702.jpg"
 		}
 	},
@@ -2929,7 +2929,7 @@
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
 		"link": {
-			"file": "/visuals/t-ift-pres-02-08-170702.jpg",
+			"file": "/assets/visuals/t-ift-pres-02-08-170702.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-ift-pres-02-08-170702.jpg"
 		}
 	},
@@ -2947,7 +2947,7 @@
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
 		"link": {
-			"file": "/visuals/t-ift-pres-02-09-170702.jpg",
+			"file": "/assets/visuals/t-ift-pres-02-09-170702.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-ift-pres-02-09-170702.jpg"
 		}
 	},
@@ -2965,7 +2965,7 @@
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
 		"link": {
-			"file": "/visuals/t-ift-pres-02-10-170702.jpg",
+			"file": "/assets/visuals/t-ift-pres-02-10-170702.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-ift-pres-02-10-170702.jpg"
 		}
 	},
@@ -2983,7 +2983,7 @@
 		"industry": "Cloud",
 		"note": "Using metaphor to explain how trigger-action apps work.",
 		"link": {
-			"file": "/visuals/t-ift-pres-02-11-170702.jpg",
+			"file": "/assets/visuals/t-ift-pres-02-11-170702.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/t-ift-pres-02-11-170702.jpg"
 		}
 	},
@@ -3001,7 +3001,7 @@
 		"industry": "User Research",
 		"note": "Variations to help users identify which dataviz best matches with their ‘view’ of the data.",
 		"link": {
-			"file": "/visuals/dcap-dviz-01-00-191204.jpg",
+			"file": "/assets/visuals/dcap-dviz-01-00-191204.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dcap-dviz-01-00-191204.jpg"
 		}
 	},
@@ -3019,7 +3019,7 @@
 		"industry": "Data Management",
 		"note": "Visual for possible data lake organization and architecture.",
 		"link": {
-			"file": "/visuals/dlk-arch-02-06-180217.jpg",
+			"file": "/assets/visuals/dlk-arch-02-06-180217.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/dlk-arch-02-06-180217.png"
 		}
 	},
@@ -3037,7 +3037,7 @@
 		"industry": "AI",
 		"note": "Visual metaphor for the creation of AI-based ontologies.",
 		"link": {
-			"file": "/visuals/bst-mock-04-05-230831.jpg",
+			"file": "/assets/visuals/bst-mock-04-05-230831.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/bst-mock-04-05-230831.jpg"
 		}
 	},
@@ -3055,7 +3055,7 @@
 		"industry": "Data Management",
 		"note": "Visual representation of how a centralized data office connects and integrates with its client teams.",
 		"link": {
-			"file": "/visuals/cdo-map-04-01-170510.jpg",
+			"file": "/assets/visuals/cdo-map-04-01-170510.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/cdo-map-04-01-170510.jpg"
 		}
 	},
@@ -3073,7 +3073,7 @@
 		"industry": "Resource Management",
 		"note": "Visualization index with complex data tables for tracking attrition rates.",
 		"link": {
-			"file": "/visuals/datt-viz-07-02-220806.jpg",
+			"file": "/assets/visuals/datt-viz-07-02-220806.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/datt-viz-07-02-220806.jpg"
 		}
 	},
@@ -3091,7 +3091,7 @@
 		"industry": "Design System",
 		"note": "Whitepaper draft on the design, use, and value of good dataviz.",
 		"link": {
-			"file": "/texts/des-pres-03-01-230128.txt",
+			"file": "/assets/texts/des-pres-03-01-230128.txt",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/texts/des-pres-03-01-230128.txt"
 		}
 	},
@@ -3109,7 +3109,7 @@
 		"industry": "Cloud",
 		"note": "Working version of the proposed API architecture.",
 		"link": {
-			"file": "/visuals/api-arch-01-01-170127.jpg",
+			"file": "/assets/visuals/api-arch-01-01-170127.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/api-arch-01-01-170127.jpg"
 		}
 	},
@@ -3127,7 +3127,7 @@
 		"industry": "Data Analytics",
 		"note": "Snapshot of complex logic required for internal/tableau SSO setup.",
 		"link": {
-			"file": "/visuals/csaa-code-05-01-20052.jpg",
+			"file": "/assets/visuals/csaa-code-05-01-20052.jpg",
 			"git": "https://github.com/k2lh/symmetrical-catfish/src/assets/visuals/csaa-code-05-01-20052.jpg"
 		}
 	}

@@ -100,6 +100,7 @@
 </template>
 
 <script>
+  import { mapGetters } from 'vuex';
   import data from '../static/reviews.json'
 
   export default {
@@ -108,6 +109,11 @@
       return {
         reviews: data
       }
+    },
+    computed: {
+      ...mapGetters([
+        'environment'
+      ])
     }
   };
 </script>

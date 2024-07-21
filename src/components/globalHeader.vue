@@ -37,7 +37,7 @@
   import siteLogo from '../components/siteLogo.vue';
 
   export default {
-    name: "siteHeader",
+    name: "globalHeader",
     components: {
       siteLogo
     }

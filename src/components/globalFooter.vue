@@ -1,5 +1,5 @@
 <template>
-  <div class="global-footer">
+  <div class="globalFooter">
     <div class="pure-u-1-3">
       <p class="padtop1 description centered">
         <a href="https://github.com/k2lh/" target="_blank" aria-label="(opens in new window)">github repository (k2lh)</a>
@@ -31,7 +31,7 @@
 </script>
 
 <style scoped>
-  .global-footer {
+  .globalFooter {
     padding: 2rem 0;
   }
   .inset {

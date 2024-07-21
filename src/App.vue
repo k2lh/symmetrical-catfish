@@ -1,18 +1,21 @@
 <template>
-  <siteHeader />
-  <RouterView />
+  <div id="app">
+    <globalHeader />
+    <routerView />
+    <!-- <globalFooter /> -->
+  </div>
 </template>
 
 <script>
-  import { RouterLink, RouterView } from 'vue-router';
-  import siteHeader from './components/siteHeader.vue';
-  // import siteFooter from './components/siteFooter.vue';
+  import { RouterLink, routerView } from 'vue-router';
+  import globalHeader from './components/globalHeader.vue';
+  // import globalFooter from './components/globalFooter.vue';
 
   export default {
-    name: 'App',
+    name: 'app',
     components: {
-      siteHeader
-      // siteFooter
+      globalHeader
+      // globalFooter
     },
     data() {
       return {

@@ -27,7 +27,6 @@
 <script>
   import categories from '../static/highlights.json'
   import items from '../static/archive.json'
-  import { ref } from 'vue'
 
   export default {
     name: "Highlights",
@@ -64,12 +63,7 @@
           this.imgObj = this.items.filter((e) => e.dex == num);
           this.ilink = {
             file: this.imgObj[0].link.file,
-            title: this.imgObj[0].title,
-            vers: this.imgObj[0].vers,
-            num: this.imgObj[0].num,
-            stage: this.imgObj[0].stage,
-            industry: this.imgObj[0].industry,
-            note: this.imgObj[0].note
+            num: this.imgObj[0].num
           }
           this.images.push(this.ilink);
         });

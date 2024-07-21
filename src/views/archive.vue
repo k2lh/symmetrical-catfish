@@ -24,41 +24,35 @@
 </template>
 
 <script>
-  import data from '../static/archive.json'
+  import array from '../static/archive.json'
 
   export default {
     name: 'Archive',
     data() {
       return {
-        groups: data,
+        groups: [],
         ind: 0,
         selected: {},
-        isVisible: false
+        isVisible: false,
+        prefix: '..'
       }
     },
+    created() {
+      this.getData(array);
+    },
     methods: {
-      getImages: function(val) {
-        if (this.isVisible = true) {
-          this.clear();
-          console.log('getImages --> isVisible=', this.isVisible);
-          this.$nextTick(() => {
-            console.log('$nextTick');
-            this.ind = val - 1;
-            this.selected = this.groups[this.ind];
-            this.isVisible = true;
-            console.log('if route --> isVisible=', this.isVisible);
-          })
-        } else {
-          this.ind = val - 1;
-          this.selected = this.groups[this.ind];
-          this.isVisible = true;
-          console.log('then route --> isVisible=', this.isVisible);
+      getData: function(array) {
+        var img;
+        var set;
+        set = array.sort((a, b) => (a.year < b.year) ? 1 : -1);
+        for (var i = 0; i < set.length; i++) {
+          // set[i].link.file = '.' + set[i].link.file;
+          // set[i].link.file = '..' + set[i].link.file;
+          // not found -> 8080/assets/visuals/bst-pres-05-07-230728.jpg
+          set[i].link.file = '..' + set[i].link.file;
+          console.log(set[i].link.file);
         }
-      },
-      clear: function() {
-        this.selected = {};
-        this.isVisible = false;
-        console.log('clear --> isVisible=', this.isVisible);
+        this.groups = set;
       }
     }
   };
