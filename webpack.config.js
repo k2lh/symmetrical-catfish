@@ -14,7 +14,7 @@ module.exports = {
 	output: {
     path: path.resolve(__dirname, 'dist'),
     filename: '[name].chunk.js',
-    assetModuleFilename: 'images/[hash][ext][query]',
+    // assetModuleFilename: 'images/[hash][ext][query]',
     clean: true
 	},
   resolve: {
@@ -73,9 +73,16 @@ module.exports = {
       },
       {
         test: /\.(png|gif|jpe?g|svg)$/i,
-        type: 'asset/resource',
-        generator: {
-          filename: 'images/[hash][ext][query]'
+        loader: 'file-loader',
+        options: {
+          name: '/images/[name].[ext]'
+        }
+      },
+      {
+        test: /\.(pdf|txt)$/i,
+        loader: 'file-loader',
+        options: {
+          name: '/texts/[name].[ext]'
         }
       }
 		]
