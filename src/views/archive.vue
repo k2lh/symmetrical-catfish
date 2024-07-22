@@ -4,7 +4,7 @@ json<template>
       <div class="pure-u-1-1">
         <div v-for="(item, index) in groups" :key="index" class="container">
           <div v-if="item.ftype=='img'" class="image-box">
-            <img :src="item.link.file" class="clipped">
+            <img :src="item.link.visual" class="clipped">
           </div>
           <div class="text-box">
             <div class="title">
@@ -45,11 +45,6 @@ json<template>
         var img;
         var set;
         set = array.sort((a, b) => (a.year < b.year) ? 1 : -1);
-        for (var i = 0; i < set.length; i++) {
-          if (set[i].ftype === 'img') {
-            set[i].link.file = './' + set[i].link.file;
-          }
-        }
         this.groups = set;
       }
     }

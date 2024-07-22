@@ -16,7 +16,6 @@ const router = createRouter({
     { path: '/highlights', name: 'Highlights', component: () => import('./views/highlights.vue') },
     { path: '/narratives', name: 'Narratives', component: () => import('./views/narratives.vue') },
     { path: '/history', name: 'History', component: () => import('./views/history.vue') },
-    { path: '/ignoreme', name: 'IgnoreMe', component: () => import('./views/ignoreme.vue') },
     { path: '/:pathMatch(.*)*', name: 'NotFound', component:() => import('./views/home.vue') }
   ],
   scrollBehavior() {
