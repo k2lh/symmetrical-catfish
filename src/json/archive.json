@@ -3052,14 +3052,14 @@
 		"num": "01",
 		"year": 2020,
 		"ftype": "git",
-		"has_img": true,
+		"has_img": false,
 		"has_set": false,
 		"quan": 1,
 		"cat": "code",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Data Analytics",
-		"note": "Snapshot of complex logic required for internal/tableau SSO setup.",
+		"note": "Frame page for embedded dashboards, with logic for SSO setup.",
 		"link": {
 			"img": "",
 			"url": "https://github.com/k2lh/catalog-v4-frontend/blob/master/src/views/frame.vue"

@@ -1,0 +1,39 @@
+<template>
+  <div class="linkTXT">
+    <svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+        <g id="Artboard1" transform="matrix(0.970874,0,0,1,33.9806,68)">
+            <rect x="-35" y="-68" width="103" height="100" style="fill:none;"/>
+            <g transform="matrix(1,0,0,1,0.513391,3.77476e-15)">
+                <g id="file--transfer_1_" transform="matrix(3.21875,0,0,3.125,-35.515,-11.75)">
+                    <path d="M31,13.36L1,13.36C0.801,13.36 0.64,13.199 0.64,13L0.64,-3L1.36,-3L1.36,12.64L30.64,12.64L30.64,-6.8L31.361,-7.48L31.361,13C31.36,13.199 31.199,13.36 31,13.36Z" style="fill:rgb(89,89,89);fill-rule:nonzero;"/>
+                </g>
+                <g id="file--transfer_1_1" serif:id="file--transfer_1_" transform="matrix(3.21875,0,0,3.125,-35.5118,-114.875)">
+                    <path d="M22,15.64C22.096,15.64 21.64,16.36 21.64,16.36L1.36,16.36L1.36,31L0.64,31L0.64,16C0.64,15.801 0.801,15.64 1,15.64L22,15.64Z" style="fill:rgb(89,89,89);fill-rule:nonzero;"/>
+                </g>
+                <g id="arrow" transform="matrix(2.276,2.20971,-2.276,2.20971,11.9217,-128.83)">
+                    <path d="M26.36,14.522L25.64,14.522L25.64,3.869L22.255,7.254L21.745,6.745L26,2.491L30.255,6.746L29.745,7.255L26.36,3.869L26.36,14.522Z" style="fill:rgb(89,89,89);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(13.7328,0,0,3.90625,-95.4224,-18.7187)">
+                    <path d="M5.616,4.323L5.037,4.323L5.037,3.36L6.61,3.36L6.61,4.323L6.023,4.323L6.023,10.481L5.616,10.481L5.616,4.323Z" style="fill:rgb(24,24,24);fill-rule:nonzero;"/>
+                    <path d="M7.192,3.36L8.434,10.481L7.978,10.481L6.739,3.36L7.192,3.36ZM7.958,3.36L8.355,3.36L7.095,10.481L6.699,10.481L7.958,3.36Z" style="fill:rgb(24,24,24);fill-rule:nonzero;"/>
+                    <path d="M9.101,4.323L8.523,4.323L8.523,3.36L10.096,3.36L10.096,4.323L9.509,4.323L9.509,10.481L9.101,10.481L9.101,4.323Z" style="fill:rgb(24,24,24);fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </svg>
+  </div>
+</template>
+
+<script>
+  export default {
+    name: 'linkTXT',
+  }
+</script>
+
+<style scoped>
+  svg {
+    fill: #111;
+    width: 4.5rem;
+    height: 4.5rem;
+  }
+</style>
