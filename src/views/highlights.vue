@@ -14,7 +14,7 @@
             <div class="modal-main">
               <div id="resetAtTop"></div>
               <div v-for="(img, iindex) in images" class="image-box">
-                <img :src="img.visual">
+                <img :src="img.image">
               </div>
             </div>
           </div>
@@ -36,7 +36,7 @@
         items: items,
         ind: 0,
         selected: {},
-        imgObj: {},
+        obj: {},
         ilink: {},
         images: [],
         isVisible: false
@@ -60,10 +60,10 @@
         this.ind = val - 1;
         this.selected = this.categories[this.ind];
         this.selected.files.forEach((num) => {
-          this.imgObj = this.items.filter((e) => e.dex == num);
+          this.obj = this.items.filter((e) => e.dex == num);
           this.ilink = {
-            visual: this.imgObj[0].link.visual,
-            num: this.imgObj[0].num
+            image: this.obj[0].link.img,
+            num: this.obj[0].num
           }
           this.images.push(this.ilink);
         });

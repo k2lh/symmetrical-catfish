@@ -1,0 +1,25 @@
+backend: "Here are forty endpoints we've created. Twenty are simple queries: everything from bus routes, to bus mileage, to bus stops. The rest are complex queries, which calculate on-the-fly values for mileage until next tune-up, holiday fares, and average delays by route."
+fromtend: "This page in the UI lets the user find a route, choose a departure time, see traffic statistics, find the nearest stop, calculate fares, and provide feedback on routes. But we don't want to make forty calls. We just want one endpoint that will contain all that data, in one call."
+user: "I just want to find a route, pick a departure time, and find out how much it'll cost."
+
+
+
+
+Start by designing the conceptual model, ‘begin by designing what to design’.
+Aim to make the conceptual model ‘obvious, task oriented and simple’
+Use concepts familiar to the target users, and define the target user before this stage.
+Document your conceptual model (UML is your friend, but keep it dynamic and up to date!)
+Base your design UI/UX decisions on this conceptual model (hence keeping it up to date should be automatic as you use the model while making design decisions).
+Iterate this conceptual model based on real user feedback and testing, BUT be careful on the impact on your existing user base.
+
+
+
+A conceptual model provides a starting point for the development of a product vocabulary, i.e., a dictionary of terms that will be used to identify each of the objects and operations embodied in the software. This helps ensure that terms are used consistently thoughout the app and its documentation.
+Once designers have a conceptual model for an app, they can write scenarios depicting people using the app to perform tasks, using only concepts from the conceptual model and terms from the vocabulary. For example, a conceptual-level scenario for the calendar application might be: “John checks his appointments for the week. He schedules a team meeting, inviting team members, and adds a dental appointment.” Such scenarios (which can be separated into use-cases), help validate the design in functional reviews. They can also be included in product documentation and training. Conceptual scenarios describe tasks and goals without revealing the UI-level user interactions required to achieve those goals, so they can be used as task descriptions in usability tests.
+
+An actively-maintained conceptual model supports a better development process. It can insure that all user-visible aspects of an application (functionality, terminology, UI, documentation, support, …) are consistent. By making the conceptual model the joint responsibility of all team members, the application can be made coherent. Both of these also reduce development resources by reducing rework.
+
+
+
+Once the Conceptual Model is designed, you can write the use cases detailing the scenarios of how the user will interact with the application while carrying out the various tasks within the application.
+

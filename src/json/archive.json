@@ -6,16 +6,18 @@
 		"vers": "09",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "page",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "A more complex main page thanks to increasingly detailed metadata for each linked dashboard.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/csaa-page-09-01-190516.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/csaa-page-09-01-190516.jpg"
+			"img": "https://klh.karinoyo.com/public/csaa-09-01-190516-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -25,16 +27,18 @@
 		"vers": "04",
 		"num": "03",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "sitemap",
 		"stage": "final",
 		"anno": false,
 		"industry": "Writing",
 		"note": "A simplified and streamlined site map. ",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/chr-map-04-03-120712.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/chr-map-04-03-120712.jpg"
+			"img": "https://klh.karinoyo.com/public/chr-04-03-120712-map.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -44,16 +48,18 @@
 		"vers": "01",
 		"num": "07",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Animal Rescue",
 		"note": "A slight case of taking a good idea a little too far.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/cat-form-01-07-120209.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/cat-form-01-07-120209.jpg"
+			"img": "https://klh.karinoyo.com/public/cat-120209-01-04-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -63,16 +69,18 @@
 		"vers": "09",
 		"num": "03",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "pdf",
+		"has_img": true,
+		"has_set": true,
+		"quan": 2,
 		"cat": "design system",
 		"stage": "final",
 		"anno": true,
 		"industry": "Design System",
-		"note": "A thorough and annotated example of design for panels, fonts, charts, and helper text.",
+		"note": "Annotated (and regularly updated) guidelines for panels, fonts, charts, and helper text.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dall-des-09-03-190215.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dall-des-09-03-190215.jpg"
+			"img": "https://klh.karinoyo.com/public/dall-09-03-190215-des.jpg",
+			"url": "https://klh.karinoyo.com/public/dall-09-02-190215-des.pdf"
 		}
 	},
 	{
@@ -82,16 +90,18 @@
 		"vers": "05",
 		"num": "03",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "page",
 		"stage": "final",
 		"anno": false,
 		"industry": "Service Analytics",
 		"note": "Activity page for stakeholder information, using git hooks and .md files as makeshift db.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/sda-page-05-03-191115.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/sda-page-05-03-191115.jpg"
+			"img": "https://klh.karinoyo.com/public/sda-05-03-191115-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -101,35 +111,18 @@
 		"vers": "05",
 		"num": "00",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "HR Analytics",
 		"note": "AI-based education dashboard with annotations.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dont-divz-05-00-190829.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dont-divz-05-00-190829.jpg"
-		}
-	},
-	{
-		"dex": 7,
-		"title": "AI Skills Analysis",
-		"proj": "dont",
-		"vers": "05",
-		"num": "01",
-		"year": 2019,
-		"ftype": "img",
-		"cat": "dataviz",
-		"stage": "revision",
-		"anno": false,
-		"industry": "HR Analytics",
-		"note": "AI-based education dashboard with annotations.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dont-divz-05-00-190829.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dont-divz-05-00-190829.jpg"
+			"img": "https://klh.karinoyo.com/public/dont-05-00-190829-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -139,54 +132,18 @@
 		"vers": "06",
 		"num": "05",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "HR Analytics",
 		"note": "AI-based education dashboard, incorporating billing and claims history.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dont-divz-06-05-191001.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dont-divz-06-05-191001.jpg"
-		}
-	},
-	{
-		"dex": 9,
-		"title": "AI Education Analysis",
-		"proj": "dont",
-		"vers": "06",
-		"num": "06",
-		"year": 2019,
-		"ftype": "img",
-		"cat": "dataviz",
-		"stage": "revision",
-		"anno": false,
-		"industry": "HR Analytics",
-		"note": "AI-based education dashboard, incorporating billing and claims history.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dont-divz-06-05-191001.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dont-divz-06-05-191001.jpg"
-		}
-	},
-	{
-		"dex": 10,
-		"title": "AI Education Analysis",
-		"proj": "dont",
-		"vers": "06",
-		"num": "07",
-		"year": 2019,
-		"ftype": "img",
-		"cat": "dataviz",
-		"stage": "revision",
-		"anno": false,
-		"industry": "HR Analytics",
-		"note": "AI-based education dashboard, incorporating billing and claims history.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dont-divz-06-05-191001.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dont-divz-06-05-191001.jpg"
+			"img": "https://klh.karinoyo.com/public/dont-06-05-191001-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -196,16 +153,18 @@
 		"vers": "02",
 		"num": "02",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "wireframe",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Writing",
 		"note": "An attempt to satisfy user requests for a packed data table, but the result was unfortunately inaccessible. ",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/chr-wire-02-02-120216.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/chr-wire-02-02-120216.jpg"
+			"img": "https://klh.karinoyo.com/public/chr-02-02-120216-wire.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -215,16 +174,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "sitemap",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Writing",
 		"note": "An experiment in blending site map and user flow in a circularly-architected UI.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/chr-map-02-01-120712.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/chr-map-02-01-120712.jpg"
+			"img": "https://klh.karinoyo.com/public/chr-02-01-120712-map.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -234,16 +195,18 @@
 		"vers": "07",
 		"num": "01",
 		"year": 2022,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "At-a-glance charts for tracking attrition data.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/datt-viz-07-01-220803.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/datt-viz-07-01-220803.jpg"
+			"img": "https://klh.karinoyo.com/public/datt-07-01-220803-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -253,16 +216,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2021,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "HR Analytics",
 		"note": "At-a-glance trends for delivery group onboarding.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/donb-dviz-02-01-210318.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/donb-dviz-02-01-210318.jpg"
+			"img": "https://klh.karinoyo.com/public/donb-02-01-210318-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -272,16 +237,18 @@
 		"vers": "04",
 		"num": "01",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Resume",
 		"note": "Attempt to correlate duration of experience with skill set.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/res-dviz-04-01-120707.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/res-dviz-04-01-120707.jpg"
+			"img": "https://klh.karinoyo.com/public/res-04-01-120707-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -291,16 +258,18 @@
 		"vers": "05",
 		"num": "02",
 		"year": 2011,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "final",
 		"anno": false,
 		"industry": "Publishing",
 		"note": "Author administration page, for adding/revising story chapters.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/arc-form-05-02-110512.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/arc-form-05-02-110512.jpg"
+			"img": "https://klh.karinoyo.com/public/arc-05-01-120217-map.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -310,16 +279,18 @@
 		"vers": "07",
 		"num": "01",
 		"year": 2020,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "final",
 		"anno": false,
 		"industry": "User Support",
 		"note": "Automated routing form to handle growing number of user requests.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/ctta-form-07-01-200507.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ctta-form-07-01-200507.jpg"
+			"img": "https://klh.karinoyo.com/public/ctta-200507-07-01-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -329,130 +300,39 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2020,
-		"ftype": "text",
+		"ftype": "txt",
+		"has_img": false,
+		"has_set": false,
+		"quan": 1,
 		"cat": "text",
 		"stage": "final",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Basic script for user interviews on new dashboards and/or visualizations.",
 		"link": {
-			"visual": "",
-			"file": "https://klh.karinoyo.com/static/texts/ctta-text-01-01-200604.txt",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ctta-text-01-01-200604.txt"
+			"img": "",
+			"url": "https://github.com/k2lh/symmetrical-catfish/public/ctta-text-01-01-200604.txt"
 		}
 	},
 	{
 		"dex": 19,
 		"title": "Development Guidelines",
-		"proj": "t-dev",
+		"proj": "dev",
 		"vers": "03",
 		"num": "01",
 		"year": 2016,
-		"ftype": "img",
+		"ftype": "pdf",
+		"has_img": true,
+		"has_set": true,
+		"quan": 1,
 		"cat": "presentation",
 		"stage": "final",
 		"anno": false,
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-dev-pres-03-09-160324.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-dev-pres-03-01-160324.jpg"
-		}
-	},
-	{
-		"dex": 20,
-		"title": "Development Guidelines",
-		"proj": "t-dev",
-		"vers": "03",
-		"num": "05",
-		"year": 2016,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Engineering",
-		"note": "Best practices for keeping team development from turning into chaos.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-dev-pres-03-05-160324.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-dev-pres-03-05-160324.jpg"
-		}
-	},
-	{
-		"dex": 21,
-		"title": "Development Guidelines",
-		"proj": "t-dev",
-		"vers": "03",
-		"num": "06",
-		"year": 2016,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Engineering",
-		"note": "Best practices for keeping team development from turning into chaos.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-dev-pres-03-06-160324.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-dev-pres-03-06-160324.jpg"
-		}
-	},
-	{
-		"dex": 22,
-		"title": "Development Guidelines",
-		"proj": "t-dev",
-		"vers": "03",
-		"num": "07",
-		"year": 2016,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Engineering",
-		"note": "Best practices for keeping team development from turning into chaos.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-dev-pres-03-07-160324.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-dev-pres-03-07-160324.jpg"
-		}
-	},
-	{
-		"dex": 23,
-		"title": "Development Guidelines",
-		"proj": "t-dev",
-		"vers": "03",
-		"num": "08",
-		"year": 2016,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Engineering",
-		"note": "Best practices for keeping team development from turning into chaos.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-dev-pres-03-08-160324.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-dev-pres-03-08-160324.jpg"
-		}
-	},
-	{
-		"dex": 24,
-		"title": "Development Guidelines",
-		"proj": "t-dev",
-		"vers": "03",
-		"num": "10",
-		"year": 2016,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Engineering",
-		"note": "Best practices for keeping team development from turning into chaos.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-dev-pres-03-10-160324.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-dev-pres-03-10-160324.jpg"
+			"img": "https://klh.karinoyo.com/public/dev-03-09-160324-pres.jpg",
+			"url": "https://klh.karinoyo.com/public/dev-03-00-160324-pres.pdf"
 		}
 	},
 	{
@@ -462,16 +342,18 @@
 		"vers": "03",
 		"num": "01",
 		"year": 2015,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "architecture",
 		"stage": "final",
 		"anno": true,
 		"industry": "Mainframe",
 		"note": "Breakdown of page architecture and embedded reusable components.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/pow-arch-03-01-151030.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/pow-arch-03-01-151030.jpg"
+			"img": "https://klh.karinoyo.com/public/pow-03-01-151030-arch.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -481,16 +363,18 @@
 		"vers": "03",
 		"num": "01",
 		"year": 2013,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "final",
 		"anno": false,
 		"industry": "Publishing",
 		"note": "Chapter/story template showing metadata and comment form.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/pix-form-03-01-130326.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/pix-form-03-01-130326.jpg"
+			"img": "https://klh.karinoyo.com/public/pix-130326-03-01-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -500,16 +384,18 @@
 		"vers": "05",
 		"num": "01",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "sitemap",
 		"stage": "final",
 		"anno": false,
 		"industry": "Publishing",
 		"note": "Circular map, arranged in order of user workflow.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/arc-map-05-01-120217.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/arc-map-05-01-120217.jpg"
+			"img": "https://klh.karinoyo.com/public/arc-110512-05-02-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -519,16 +405,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "sitemap",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Academia",
 		"note": "Circular site map, color-coded to call out specific site components.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/mrk-map-02-01-110207.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/mrk-map-02-01-110207.jpg"
+			"img": "https://klh.karinoyo.com/public/mrk-02-01-110207-map.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -538,16 +426,18 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "sitemap",
 		"stage": "final",
 		"anno": false,
 		"industry": "Sales",
 		"note": "Circular site map, using color-coding to note reused actions.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/sls-map-01-01-120705.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/sls-map-01-01-120705.jpg"
+			"img": "https://klh.karinoyo.com/public/sls-01-01-120705-map.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -557,16 +447,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2017,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": true,
+		"quan": 3,
 		"cat": "presentation",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Co-written API design whitepaper.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/api-pres-02-01-170314.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/api-pres-02-01-170314.jpg"
+			"img": "https://klh.karinoyo.com/public/api-02-01-170314-pres.jpg",
+			"url": "https://klh.karinoyo.com/public/api-02-01-170314-pres.pdf"
 		}
 	},
 	{
@@ -576,16 +468,18 @@
 		"vers": "03",
 		"num": "02",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "wireframe",
 		"stage": "draft",
 		"anno": true,
 		"industry": "Healthcare",
 		"note": "Collection of loose wireframes organized to show user flow through the pages.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/hcr-map-04-01-120712.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/hcr-map-04-01-120712.jpg"
+			"img": "https://klh.karinoyo.com/public/hcr-03-02-120705-map.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -595,16 +489,18 @@
 		"vers": "04",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Employee Training",
 		"note": "Comparison of job role expertise, using AI inference and self-assessment, against team’s level of expertise.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dskl-divz-04-01-190611.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dskl-divz-04-01-190611.jpg"
+			"img": "https://klh.karinoyo.com/public/dskl-04-01-190611-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -614,16 +510,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2020,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Sales Analytics",
 		"note": "Complex dashboard for viewing regional go-to-market data.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dg2m-viz-02-01-201029.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dg2m-viz-02-01-201029.jpg"
+			"img": "https://klh.karinoyo.com/public/dg2m-02-01-201029-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -633,16 +531,18 @@
 		"vers": "07",
 		"num": "02",
 		"year": 2020,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "final",
 		"anno": false,
 		"industry": "User Support",
 		"note": "CRUD system for data scientists and analysts to manage cards for their respective dashboards.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/ctta-form-07-02-200507.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ctta-form-07-02-200507.jpg"
+			"img": "https://klh.karinoyo.com/public/ctta-200507-07-02-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -652,16 +552,18 @@
 		"vers": "03",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Team Management",
 		"note": "Dashboard for first-line managers to track their team, and their own, education progress.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dtmt-divz-03-01-190731.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dtmt-divz-03-01-190731.jpg"
+			"img": "https://klh.karinoyo.com/public/dtmt-03-01-190731-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -671,16 +573,18 @@
 		"vers": "06",
 		"num": "02",
 		"year": 2020,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "Dashboard incorporating interactive form, for user input to calculate and project future trends.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dcap-form-06-02-200316.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dcap-form-06-02-200316.jpg"
+			"img": "https://klh.karinoyo.com/public/dcap-06-02-200316-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -690,16 +594,18 @@
 		"vers": "04",
 		"num": "02",
 		"year": 2020,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Dashboard navigation for users to focus on within-group comparisons only.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dtcb-divz-04-02-200609.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dtcb-divz-04-02-200609.jpg"
+			"img": "https://klh.karinoyo.com/public/dtcb-04-02-200609-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -709,16 +615,18 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "final",
 		"anno": false,
 		"industry": "Team Management",
 		"note": "Dashboard showing potential views dependent on metadata tracking.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dlbd-divz-01-01-190415.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dlbd-divz-01-01-190415.jpg"
+			"img": "https://klh.karinoyo.com/public/dlbd-01-01-190415-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -728,16 +636,18 @@
 		"vers": "03",
 		"num": "03",
 		"year": 2020,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Dashboard using embedded charts inside data tables.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dtcb-divz-03-03-200127.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dtcb-divz-03-03-200127.jpg"
+			"img": "https://klh.karinoyo.com/public/dtcb-03-03-200127-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -747,16 +657,18 @@
 		"vers": "08",
 		"num": "01",
 		"year": 2020,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "swimlane",
 		"stage": "revision",
 		"anno": false,
 		"industry": "User Support",
 		"note": "Detailed multi-role process for more efficient handling of user requests.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/lor-lane-08-01-200430.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/lor-lane-08-01-200430.jpg"
+			"img": "https://klh.karinoyo.com/public/lor-08-01-200430-lane.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -766,16 +678,18 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2016,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "wireframe",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Directory of available internal APIs.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/capi-wire-01-01-160630.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/capi-wire-01-01-160630.png"
+			"img": "https://klh.karinoyo.com/public/capi-01-01-160630-wire.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -785,16 +699,18 @@
 		"vers": "01",
 		"num": "02",
 		"year": 2016,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "wireframe",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Directory of available internal APIs.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/capi-wire-01-02-160630.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/capi-wire-01-02-160630.png"
+			"img": "https://klh.karinoyo.com/public/capi-01-02-160630-wire.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -804,16 +720,18 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2018,
-		"ftype": "img",
-		"cat": "swimlane",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
+		"cat": "form",
 		"stage": "draft",
 		"anno": true,
 		"industry": "Project Management",
 		"note": "Draft of metadata list based on team interviews about their personal processes.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/tpm-lane-02-01-180410.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/tpm-lane-02-01-180410.png"
+			"img": "https://klh.karinoyo.com/public/tpm-180402-01-01-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -823,16 +741,18 @@
 		"vers": "03",
 		"num": "01",
 		"year": 2023,
-		"ftype": "text",
+		"ftype": "txt",
+		"has_img": false,
+		"has_set": false,
+		"quan": 1,
 		"cat": "text",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Design System",
 		"note": "Draft of presentation text for design system proposal.",
 		"link": {
-			"visual": "",
-			"file": "https://klh.karinoyo.com/static/texts/des-text-01-04-230120.txt",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/des-text-01-04-230120.txt"
+			"img": "",
+			"url": "https://github.com/k2lh/symmetrical-catfish/public/des-text-01-04-230120.txt"
 		}
 	},
 	{
@@ -842,16 +762,18 @@
 		"vers": "02",
 		"num": "03",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "wireframe",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Writing",
 		"note": "Drawer slide up/down design for reducing cognitive load of a complicated form.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/chr-wire-02-03-120216.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/chr-wire-02-03-120216.png"
+			"img": "https://klh.karinoyo.com/public/chr-02-03-120216-wire.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -861,16 +783,18 @@
 		"vers": "05",
 		"num": "04",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "draft",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Early draft for user discussion on required and useful dataviz.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dtrn-divz-05-04-190423.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dtrn-divz-05-04-190423.jpg"
+			"img": "https://klh.karinoyo.com/public/dtrn-05-04-190423-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -880,16 +804,18 @@
 		"vers": "01",
 		"num": "04",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Early iteration for executive personnel ROI dashboard.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/droi-divz-01-04-191029.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/droi-divz-01-04-191029.jpg"
+			"img": "https://klh.karinoyo.com/public/droi-01-04-191029-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -899,16 +825,18 @@
 		"vers": "03",
 		"num": "01",
 		"year": 2021,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "presentation",
 		"stage": "final",
 		"anno": false,
 		"industry": "Internal Learning",
 		"note": "End-of-year discussion points for internal education programs.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/ela-dviz-03-01-211019.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ela-dviz-03-01-211019.jpg"
+			"img": "https://klh.karinoyo.com/public/ela-03-01-211019-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -918,16 +846,18 @@
 		"vers": "05",
 		"num": "02",
 		"year": 2021,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "presentation",
 		"stage": "final",
 		"anno": false,
 		"industry": "Internal Learning",
 		"note": "End-of-year summary on internal education programs.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/ela-pres-05-02-210311.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ela-pres-05-02-210311.png"
+			"img": "https://klh.karinoyo.com/public/ela-05-02-210311-pres.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -937,16 +867,18 @@
 		"vers": "05",
 		"num": "03",
 		"year": 2021,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "presentation",
 		"stage": "final",
 		"anno": false,
 		"industry": "Internal Learning",
 		"note": "End-of-year summary on internal education programs.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/ela-pres-05-03-210311.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ela-pres-05-03-210311.png"
+			"img": "https://klh.karinoyo.com/public/ela-05-03-210311-pres.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -956,16 +888,18 @@
 		"vers": "05",
 		"num": "07",
 		"year": 2023,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "presentation",
 		"stage": "revision",
 		"anno": false,
 		"industry": "AI",
 		"note": "Example of concept in action, with design applied.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/bst-pres-05-07-230728.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/bst-pres-05-07-230728.jpg"
+			"img": "https://klh.karinoyo.com/public/bst-05-05-230728-pres.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -975,16 +909,18 @@
 		"vers": "06",
 		"num": "01",
 		"year": 2022,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "design system",
 		"stage": "final",
 		"anno": true,
 		"industry": "Design System",
 		"note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dall-des-06-01-221003.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dall-des-06-01-221003.jpg"
+			"img": "https://klh.karinoyo.com/public/dall-06-01-221003-des.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -994,16 +930,18 @@
 		"vers": "06",
 		"num": "02",
 		"year": 2022,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "design system",
 		"stage": "final",
 		"anno": true,
 		"industry": "Design System",
 		"note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dall-des-06-02-221003.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dall-des-06-02-221003.jpg"
+			"img": "https://klh.karinoyo.com/public/dall-06-02-221003-des.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1013,16 +951,18 @@
 		"vers": "03",
 		"num": "04",
 		"year": 2021,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "design system",
 		"stage": "final",
 		"anno": true,
 		"industry": "Design System",
 		"note": "Example of dashboard design, including spacing, fonts, and classes.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dall-des-03-04-210325.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dall-des-03-04-210325.png"
+			"img": "https://klh.karinoyo.com/public/dall-03-04-210325-des.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1032,16 +972,18 @@
 		"vers": "04",
 		"num": "01",
 		"year": 2011,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "final",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Excerpt of survey, with multiple user routes depending on choices.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/svy-form-04-01-110111.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/svy-form-04-01-110111.jpg"
+			"img": "https://klh.karinoyo.com/public/svy-04-01-110111-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1051,16 +993,18 @@
 		"vers": "03",
 		"num": "07",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "revision",
 		"anno": false,
 		"industry": "User Support",
 		"note": "Executive management page for education request.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/erf-form-03-07-190315.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/erf-form-03-07-190315.jpg"
+			"img": "https://klh.karinoyo.com/public/erf-190315-03-07-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1070,16 +1014,18 @@
 		"vers": "04",
 		"num": "04",
 		"year": 2020,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "Experimental visualization for viewing levels of projected needs.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dcap-dviz-04-04-200512.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dcap-dviz-04-04-200512.jpg"
+			"img": "https://klh.karinoyo.com/public/dcap-04-04-200512-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1089,16 +1035,18 @@
 		"vers": "01",
 		"num": "14",
 		"year": 2020,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "revision",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Exploration of filter arrangement and design in sliding drawer.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dtcb-form-01-14-200110.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dtcb-form-01-14-200110.jpg"
+			"img": "https://klh.karinoyo.com/public/dtcb-01-14-200110-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1108,16 +1056,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Exploration of visual patterns for data hierarchy.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/droi-divz-02-01-191103.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/droi-divz-02-01-191103.jpg"
+			"img": "https://klh.karinoyo.com/public/droi-02-01-191103-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1127,16 +1077,18 @@
 		"vers": "02",
 		"num": "02",
 		"year": 2021,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "final",
 		"anno": false,
 		"industry": "User Support",
 		"note": "Form for users to report issues in one place, creating better tracking.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/yin-form-02-02-210706.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/yin-form-02-02-210706.jpg"
+			"img": "https://klh.karinoyo.com/public/yin-02-02-210706-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1146,16 +1098,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2021,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "final",
 		"anno": false,
 		"industry": "User Support",
 		"note": "Form to channel user access requests through a single entry point.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/yin-form-02-01-210706.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/yin-form-02-01-210706.jpg"
+			"img": "https://klh.karinoyo.com/public/yin-02-01-210706-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1163,37 +1117,41 @@
 		"title": "Automated Workflow",
 		"proj": "ift",
 		"vers": "04",
-		"num": "01",
+		"num": "10",
 		"year": 2016,
-		"ftype": "img",
+		"ftype": "pdf",
+		"has_img": true,
+		"has_set": true,
+		"quan": 10,
 		"cat": "wireframe",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Cloud",
-		"note": "Fourth iteration for possible page structure and organization.",
+		"note": "Fourth iteration at addressing UX concerns.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/ift-wire-04-01-160822.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ift-wire-04-01-160822.png"
+			"img": "https://klh.karinoyo.com/public/ift-04-10-160822-wire.jpg",
+			"url": "https://klh.karinoyo.com/public/ift-04-00-160822-wire.pdf"
 		}
 	},
 	{
 		"dex": 63,
 		"title": "Automated Workflow",
 		"proj": "ift",
-		"vers": "04",
-		"num": "10",
+		"vers": "05",
+		"num": "05",
 		"year": 2016,
-		"ftype": "img",
+		"ftype": "pdf",
+		"has_img": true,
+		"has_set": true,
+		"quan": 24,
 		"cat": "wireframe",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Cloud",
-		"note": "Fourth iteration for possible page structure and organization.",
+		"note": "Fifth iteration for possible page structure and organization.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/ift-wire-04-10-160822.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ift-wire-04-10-160822.png"
+			"img": "https://klh.karinoyo.com/public/ift-05-05-160914-wire.png",
+			"url": "https://klh.karinoyo.com/public/ift-05-00-160914-wire.pdf"
 		}
 	},
 	{
@@ -1203,16 +1161,18 @@
 		"vers": "01",
 		"num": "04",
 		"year": 2023,
-		"ftype": "text",
+		"ftype": "txt",
+		"has_img": false,
+		"has_set": false,
+		"quan": 1,
 		"cat": "text",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Design System",
 		"note": "Full outline for design system documentation, including future topics.",
 		"link": {
-			"visual": "",
-			"file": "https://klh.karinoyo.com/static/texts/des-text-01-02-221219.txt",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/des-text-01-02-221219.txt"
+			"img": "",
+			"url": "https://github.com/k2lh/symmetrical-catfish/public/des-text-01-02-221219.txt"
 		}
 	},
 	{
@@ -1222,16 +1182,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2014,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "architecture",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Customer Service",
 		"note": "Full site map, with color-coding to call out re-used modular components.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/hap-map-02-01-141109.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/hap-map-02-01-141109.jpg"
+			"img": "https://klh.karinoyo.com/public/hap-02-01-141109-map.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1241,35 +1203,18 @@
 		"vers": "03",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "revision",
 		"anno": true,
 		"industry": "User Support",
 		"note": "Fully-expanded form with logic for user interaction.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/erf-form-03-01-190313.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/erf-form-03-01-190313.jpg"
-		}
-	},
-	{
-		"dex": 67,
-		"title": "Education Request, Expanded",
-		"proj": "erf",
-		"vers": "03",
-		"num": "02",
-		"year": 2019,
-		"ftype": "img",
-		"cat": "form",
-		"stage": "revision",
-		"anno": true,
-		"industry": "User Support",
-		"note": "Fully-expanded form with logic for user interaction.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/erf-form-03-01-190313.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/erf-form-03-01-190313.jpg"
+			"img": "https://klh.karinoyo.com/public/erf-190313-03-01-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1279,35 +1224,39 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2017,
-		"ftype": "img",
+		"ftype": "pdf",
+		"has_img": true,
+		"has_set": true,
+		"quan": 6,
 		"cat": "presentation",
 		"stage": "final",
 		"anno": false,
 		"industry": "Data Management",
 		"note": "Getting a newly-built team on the same page about management tactics.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/cdo-pres-01-01-170821.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/cdo-pres-01-01-170821.jpg"
+			"img": "https://klh.karinoyo.com/public/cdo-01-01-170821-pres.jpg",
+			"url": "https://klh.karinoyo.com/public/cdo-01-01-170821-pres.pdf"
 		}
 	},
 	{
 		"dex": 69,
-		"title": "Mature Catalog Design",
+		"title": "Catalog Design, 1st Anniversary",
 		"proj": "ctta",
 		"vers": "12",
 		"num": "01",
 		"year": 2020,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "page",
 		"stage": "final",
 		"anno": false,
 		"industry": "User Support",
 		"note": "Growing catalog size necessitated a more complex filtering system. ",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/ctta-page-12-01-200609.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ctta-page-12-01-200609.jpg"
+			"img": "https://klh.karinoyo.com/public/ctta-12-01-200609-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1317,16 +1266,18 @@
 		"vers": "05",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Horizontal dataviz for tracking employee training progress.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dseg-divz-05-01-190503.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dseg-divz-05-01-190503.jpg"
+			"img": "https://klh.karinoyo.com/public/dseg-05-01-190503-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1336,54 +1287,60 @@
 		"vers": "05",
 		"num": "02",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Horizontal dataviz for tracking employee training progress.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dseg-divz-05-02-190503.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dseg-divz-05-02-190503.jpg"
+			"img": "https://klh.karinoyo.com/public/dseg-05-02-190503-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
 		"dex": 72,
 		"title": "Server Incident Report System",
 		"proj": "mim",
-		"vers": "02",
-		"num": "03",
-		"year": 2019,
-		"ftype": "img",
+		"vers": "03",
+		"num": "07",
+		"year": 2018,
+		"ftype": "pdf",
+		"has_img": true,
+		"has_set": true,
+		"quan": 12,
 		"cat": "form",
 		"stage": "final",
 		"anno": false,
 		"industry": "Servers",
 		"note": "Incident report page, step 3 for walk-through presentation.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/mim-form-02-03-190510.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/mim-form-02-03-190510.png"
+			"img": "https://klh.karinoyo.com/public/mim-180508-03-07-form.jpg",
+			"url": "https://klh.karinoyo.com/public/mim-03-00-180508-mock.pdf"
 		}
 	},
 	{
 		"dex": 73,
 		"title": "Server Incident Report System",
 		"proj": "mim",
-		"vers": "01",
-		"num": "07",
-		"year": 2019,
-		"ftype": "img",
+		"vers": "02",
+		"num": "04",
+		"year": 2018,
+		"ftype": "pdf",
+		"has_img": true,
+		"has_set": true,
+		"quan": 4,
 		"cat": "form",
 		"stage": "final",
 		"anno": false,
 		"industry": "Servers",
 		"note": "Incident report page, step 7 for walk-through presentation.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/mim-form-01-07-190509.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/mim-form-01-07-190509.jpg"
+			"img": "https://klh.karinoyo.com/public/mim-02-04-180429-mock.png",
+			"url": "https://klh.karinoyo.com/public/mim-02-00-180429-mock.pdf"
 		}
 	},
 	{
@@ -1393,16 +1350,18 @@
 		"vers": "01",
 		"num": "04",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Animal Rescue",
 		"note": "Incorporating accessibility lessons learned while consulting.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/cat-form-01-04-120209.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/cat-form-01-04-120209.jpg"
+			"img": "https://klh.karinoyo.com/public/cat-120209-01-07-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1412,130 +1371,39 @@
 		"vers": "05",
 		"num": "09",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "page",
 		"stage": "final",
 		"anno": false,
 		"industry": "Service Analytics",
 		"note": "Introducing and explaining steps to prepare data for analytics use.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/sda-page-05-09-191115.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/sda-page-05-09-191115.jpg"
-		}
-	},
-	{
-		"dex": 78,
-		"title": "Data Science and Storytelling",
-		"proj": "t-sda",
-		"vers": "05",
-		"num": "04",
-		"year": 2019,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Data Analytics",
-		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-sda-pres-05-04-190322.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-sda-pres-05-04-190322.jpg"
+			"img": "https://klh.karinoyo.com/public/sda-05-09-191115-page.jpg",
+			"url": ""
 		}
 	},
 	{
 		"dex": 79,
 		"title": "Data Science and Storytelling",
-		"proj": "t-sda",
+		"proj": "sda",
 		"vers": "05",
 		"num": "05",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "pdf",
+		"has_img": true,
+		"has_set": true,
+		"quan": 26,
 		"cat": "presentation",
 		"stage": "final",
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-sda-pres-05-05-190322.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-sda-pres-05-05-190322.jpg"
-		}
-	},
-	{
-		"dex": 80,
-		"title": "Data Science and Storytelling",
-		"proj": "t-sda",
-		"vers": "05",
-		"num": "17",
-		"year": 2019,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Data Analytics",
-		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-sda-pres-05-17-190322.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-sda-pres-05-17-190322.jpg"
-		}
-	},
-	{
-		"dex": 81,
-		"title": "Data Science and Storytelling",
-		"proj": "t-sda",
-		"vers": "05",
-		"num": "23",
-		"year": 2019,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Data Analytics",
-		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-sda-pres-05-23-190322.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-sda-pres-05-23-190322.jpg"
-		}
-	},
-	{
-		"dex": 82,
-		"title": "Data Science and Storytelling",
-		"proj": "t-sda",
-		"vers": "05",
-		"num": "24",
-		"year": 2019,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Data Analytics",
-		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-sda-pres-05-24-190322.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-sda-pres-05-24-190322.jpg"
-		}
-	},
-	{
-		"dex": 83,
-		"title": "Data Science and Storytelling",
-		"proj": "t-sda",
-		"vers": "05",
-		"num": "25",
-		"year": 2019,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Data Analytics",
-		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-sda-pres-05-25-190322.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-sda-pres-05-25-190322.jpg"
+			"img": "https://klh.karinoyo.com/public/sda-05-05-190322-pres.jpg",
+			"url": "https://klh.karinoyo.com/public/sda-05-05-190322-pres.pdf"
 		}
 	},
 	{
@@ -1545,16 +1413,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2018,
-		"ftype": "img",
-		"cat": "form",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
+		"cat": "swimlane",
 		"stage": "final",
 		"anno": false,
 		"industry": "Project Management",
-		"note": "Journey map based on team members’ rankings of tasks by difficulty/stress. ",
+		"note": "Journey map based on team members’ rankings of tasks by difficulty/stress.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/tpm-form-01-01-180402.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/tpm-form-01-01-180402.jpg"
+			"img": "https://klh.karinoyo.com/public/tpm-02-01-180410-lane.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1564,16 +1434,18 @@
 		"vers": "05",
 		"num": "02",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "final",
 		"anno": false,
 		"industry": "Resume",
 		"note": "Ladder visualization to show chronology of positions and skills.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/res-dviz-05-02-120708.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/res-dviz-05-02-120708.jpg"
+			"img": "https://klh.karinoyo.com/public/res-05-02-120708-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1583,35 +1455,39 @@
 		"vers": "04",
 		"num": "03",
 		"year": 2020,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "Left-justified bar chart for comparing personnel needs across teams. ",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dcap-dviz-04-03-200512.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dcap-dviz-04-03-200512.jpg"
+			"img": "https://klh.karinoyo.com/public/dcap-04-03-200512-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
 		"dex": 87,
 		"title": "Intranet Site Map",
 		"proj": "abc",
-		"vers": "07",
-		"num": "01",
+		"vers": "05",
+		"num": "02",
 		"year": 2008,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "sitemap",
 		"stage": "final",
 		"anno": false,
 		"industry": "Pharmacology",
 		"note": "Map including 2nd and 3rd sub-level tiers.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/abc-map-07-01-080229.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/abc-map-07-01-080229.png"
+			"img": "https://klh.karinoyo.com/public/abc-05-02-080229-map.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1621,16 +1497,18 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2018,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "sitemap",
 		"stage": "idea",
 		"anno": false,
 		"industry": "HR Analytics",
 		"note": "Mapping concept and purpose of new dashboard.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dont-map-01-01-181202.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dont-map-01-01-181202.jpg"
+			"img": "https://klh.karinoyo.com/public/dont-01-01-181202-map.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1640,16 +1518,18 @@
 		"vers": "04",
 		"num": "06",
 		"year": 2020,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "Mocked for demonstrating and explaining an advanced-level dataviz.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dcap-dviz-04-06-200512.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dcap-dviz-04-06-200512.jpg"
+			"img": "https://klh.karinoyo.com/public/dcap-04-06-200512-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1659,16 +1539,18 @@
 		"vers": "04",
 		"num": "02",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Employee Training",
 		"note": "Mocked showing the use of annotation in explaining data sources and calculations.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dskl-divz-04-02-190614.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dskl-divz-04-02-190614.jpg"
+			"img": "https://klh.karinoyo.com/public/dskl-04-02-190614-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1678,16 +1560,18 @@
 		"vers": "06",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "draft",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dexv-divz-06-01-190419.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dexv-divz-06-01-190419.jpg"
+			"img": "https://klh.karinoyo.com/public/dexv-06-01-190419-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1697,16 +1581,18 @@
 		"vers": "06",
 		"num": "04",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "draft",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dexv-divz-06-04-190419.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dexv-divz-06-04-190419.jpg"
+			"img": "https://klh.karinoyo.com/public/dexv-06-04-190419-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1716,16 +1602,18 @@
 		"vers": "06",
 		"num": "05",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dexv-divz-06-05-190417.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dexv-divz-06-05-190417.jpg"
+			"img": "https://klh.karinoyo.com/public/dexv-06-05-190417-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1735,16 +1623,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "final",
 		"anno": false,
 		"industry": "Team Management",
 		"note": "Mocked dashboard using only available types of data.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dlbd-divz-02-01-190418.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dlbd-divz-02-01-190418.jpg"
+			"img": "https://klh.karinoyo.com/public/dlbd-02-01-190418-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1754,16 +1644,18 @@
 		"vers": "05",
 		"num": "12",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "Mocked dashboard using split vertical bar charts to show training program trends.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dseg-dviz-05-12-190510.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dseg-dviz-05-12-190510.jpg"
+			"img": "https://klh.karinoyo.com/public/dseg-05-12-190510-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1773,16 +1665,18 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2018,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "draft",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Mocked dashboard with over-use of piecharts.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dexv-divz-01-01-180928.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dexv-divz-01-01-180928.jpg"
+			"img": "https://klh.karinoyo.com/public/dexv-01-01-180928-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1792,16 +1686,18 @@
 		"vers": "04",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "draft",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Mocked dashboard with third iteration dataviz ideas.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dexv-divz-04-01-190116.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dexv-divz-04-01-190116.jpg"
+			"img": "https://klh.karinoyo.com/public/dexv-04-01-190116-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1811,54 +1707,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2018,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "draft",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Mocked dashboard with too many colors.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dexv-divz-02-01-180927.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dexv-divz-02-01-180927.jpg"
-		}
-	},
-	{
-		"dex": 99,
-		"title": "Course Tagging Page",
-		"proj": "tag",
-		"vers": "03",
-		"num": "08",
-		"year": 2021,
-		"ftype": "img",
-		"cat": "mockup",
-		"stage": "final",
-		"anno": false,
-		"industry": "Internal Learning",
-		"note": "Mocked series for Invision walk-through, showing one possible conclusion point.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/tag-mock-03-08-210301.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/tag-mock-03-08-210301.jpg"
-		}
-	},
-	{
-		"dex": 100,
-		"title": "Course Tagging Page",
-		"proj": "tag",
-		"vers": "03",
-		"num": "04",
-		"year": 2021,
-		"ftype": "img",
-		"cat": "mockup",
-		"stage": "final",
-		"anno": false,
-		"industry": "Internal Learning",
-		"note": "Mocked series for Invision walk-through, showing second step in tagging.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/tag-mock-03-04-210301.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/tag-mock-03-04-210301.jpg"
+			"img": "https://klh.karinoyo.com/public/dexv-02-01-180927-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1868,16 +1728,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a BAN/bullet combination.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/da2t-dviz-02-01-191016.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/da2t-dviz-02-01-191016.jpg"
+			"img": "https://klh.karinoyo.com/public/da2t-02-01-191016-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1887,16 +1749,18 @@
 		"vers": "04",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a funnel-style visual.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/da2t-dviz-04-01-190612.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/da2t-dviz-04-01-190612.jpg"
+			"img": "https://klh.karinoyo.com/public/da2t-04-01-190612-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1904,18 +1768,20 @@
 		"title": "Dataviz Pie/Table Exploration",
 		"proj": "da2t",
 		"vers": "01",
-		"num": "02",
+		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a pie/table combination.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/da2t-dviz-01-02-190719.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/da2t-dviz-01-02-190719.jpg"
+			"img": "https://klh.karinoyo.com/public/da2t-01-01-190719-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1925,16 +1791,18 @@
 		"vers": "03",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with trending data.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/da2t-dviz-03-01-190613.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/da2t-dviz-03-01-190613.jpg"
+			"img": "https://klh.karinoyo.com/public/da2t-03-01-190613-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1944,16 +1812,18 @@
 		"vers": "03",
 		"num": "01",
 		"year": 2013,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "screenshot",
 		"stage": "final",
 		"anno": false,
 		"industry": "Tourism",
 		"note": "Modified wordpress features to create sub-site for vendors to apply, pay for, and track their festival spots. ",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/zlk-page-03-01-130505.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/zlk-page-03-01-130505.png"
+			"img": "https://klh.karinoyo.com/public/zlk-03-01-130505-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1963,16 +1833,18 @@
 		"vers": "05",
 		"num": "08",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "page",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Service Analytics",
 		"note": "One of 100+ chart types documented, with tips for when, how, and why to use each.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/sda-page-05-08-191115.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/sda-page-05-08-191115.jpg"
+			"img": "https://klh.karinoyo.com/public/sda-05-08-191115-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -1982,16 +1854,18 @@
 		"vers": "03",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Operational tab for viewing training program trends.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dsvc-divz-03-01-191010.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dsvc-divz-03-01-191010.png"
+			"img": "https://klh.karinoyo.com/public/dsvc-03-01-191010-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2001,16 +1875,18 @@
 		"vers": "04",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Operational tab for viewing training program trends.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dsvc-divz-04-01-191011.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dsvc-divz-04-01-191011.jpg"
+			"img": "https://klh.karinoyo.com/public/dsvc-04-01-191011-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2020,16 +1896,18 @@
 		"vers": "06",
 		"num": "04",
 		"year": 2017,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "architecture",
 		"stage": "final",
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Option A for API gateway design.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/api-arch-06-04-170205.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/api-arch-06-04-170205.jpg"
+			"img": "https://klh.karinoyo.com/public/api-06-04-170205-arch.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2039,16 +1917,18 @@
 		"vers": "06",
 		"num": "05",
 		"year": 2017,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "architecture",
 		"stage": "final",
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Option B for API gateway design.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/api-arch-06-05-170206.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/api-arch-06-05-170206.jpg"
+			"img": "https://klh.karinoyo.com/public/api-06-05-170206-arch.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2058,16 +1938,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2013,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "architecture",
 		"stage": "final",
 		"anno": true,
 		"industry": "Sales",
 		"note": "Page architecture demonstrating the structure created by reusable and embedded components.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/mob-arch-02-01-131001.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/mob-arch-02-01-131001.jpg"
+			"img": "https://klh.karinoyo.com/public/mob-02-01-131001-arch.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2077,54 +1959,60 @@
 		"vers": "05",
 		"num": "01",
 		"year": 2008,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "sitemap",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Pharmacology",
 		"note": "Page architecture, arranged in a manner slightly less terrifying for shareholders.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/abc-map-05-01-080117.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/abc-map-05-01-080117.png"
+			"img": "https://klh.karinoyo.com/public/abc-05-01-080117-map.jpg",
+			"url": ""
 		}
 	},
 	{
 		"dex": 113,
-		"title": "Turning Business Inside-out: How a Cognitive Approach Can Transform IT",
+		"title": "Turning Business Inside-out",
 		"proj": "cdo",
 		"vers": "03",
 		"num": "01",
 		"year": 2017,
-		"ftype": "img",
+		"ftype": "pdf",
+		"has_img": true,
+		"has_set": true,
+		"quan": 10,
 		"cat": "whitepaper",
 		"stage": "final",
 		"anno": false,
 		"industry": "Data Management",
 		"note": "Paper about the necessity of centralizing data and integrating design for a more efficient business.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/cdo-paper-03-01-170523.jpg",
-			"file": "https://klh.karinoyo.com/static/texts/cdo-paper-03-01-170523.pdf",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/cdo-paper-03-01-170523.jpg"
+			"img": "https://klh.karinoyo.com/public/cdo-03-01-170523-paper.jpg",
+			"url": "https://klh.karinoyo.com/public/cdo-03-01-170523-paper.pdf"
 		}
 	},
 	{
 		"dex": 114,
-		"title": "Leveraging the Data: Using a Cognitive Platform to Transform Business Outcomes",
+		"title": "Leveraging the Data",
 		"proj": "cdo",
 		"vers": "04",
 		"num": "01",
 		"year": 2017,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 13,
 		"cat": "whitepaper",
 		"stage": "final",
 		"anno": false,
 		"industry": "Data Management",
 		"note": "Paper to support Cognitive Platform initiative. (Boy do those dashboard images make me cringe, now.)",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/cdo-paper-04-01-170523.jpg",
-			"file": "https://klh.karinoyo.com/static/texts/cdo-paper-04-01-170523.pdf",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/cdo-paper-04-01-170523.jpg"
+			"img": "https://klh.karinoyo.com/public/cdo-04-01-170523-paper.jpg",
+			"url": "https://klh.karinoyo.com/public/cdo-04-01-170523-paper.pdf"
 		}
 	},
 	{
@@ -2134,16 +2022,18 @@
 		"vers": "01",
 		"num": "06",
 		"year": 2014,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Customer Service",
 		"note": "Preliminary mockup for customer support site.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/hap-page-01-06-141105.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/hap-page-01-06-141105.jpg"
+			"img": "https://klh.karinoyo.com/public/hap-01-06-141105-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2153,16 +2043,18 @@
 		"vers": "01",
 		"num": "13",
 		"year": 2014,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Customer Service",
 		"note": "Preliminary mockup for customer support site.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/hap-page-01-13-141105.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/hap-page-01-13-141105.jpg"
+			"img": "https://klh.karinoyo.com/public/hap-01-13-141105-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2172,16 +2064,18 @@
 		"vers": "04",
 		"num": "01",
 		"year": 2007,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "architecture",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Pharmacology",
 		"note": "Preliminary page architecture for development planning.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/abc-arch-04-01-070712.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/abc-arch-04-01-070712.png"
+			"img": "https://klh.karinoyo.com/public/abc-04-01-070712-arch.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2191,16 +2085,18 @@
 		"vers": "02",
 		"num": "02",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "sitemap",
 		"stage": "draft",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Preliminary visual for stakeholder discussion on organizing related dashboards. ",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/ctta-map-02-02-191005.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ctta-map-02-02-191005.jpg"
+			"img": "https://klh.karinoyo.com/public/ctta-02-02-191005-map.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2210,16 +2106,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "flowchart",
 		"stage": "draft",
 		"anno": false,
 		"industry": "User Support",
 		"note": "Process flow identifying involved roles and data movement.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/erf-flow-02-01-190311.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/erf-flow-02-01-190311.jpg"
+			"img": "https://klh.karinoyo.com/public/erf-02-01-190311-flow.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2229,16 +2127,18 @@
 		"vers": "10",
 		"num": "01",
 		"year": 2017,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "swimlane",
 		"stage": "draft",
 		"anno": true,
 		"industry": "Privacy",
 		"note": "Process flow modified into a swim lane approach.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/gdp-lane-10-01-171129.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/gdp-lane-10-01-171129.jpg"
+			"img": "https://klh.karinoyo.com/public/gdp-10-01-171129-lane.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2248,16 +2148,18 @@
 		"vers": "03",
 		"num": "05",
 		"year": 2015,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "page",
 		"stage": "final",
 		"anno": false,
 		"industry": "Writing",
 		"note": "Production version of character management webapp, showing dropdown contents.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/chr-page-03-05-151116.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/chr-form-03-05-151116.png"
+			"img": "https://klh.karinoyo.com/public/chr-03-05-151116-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2267,35 +2169,39 @@
 		"vers": "03",
 		"num": "07",
 		"year": 2015,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "final",
 		"anno": false,
 		"industry": "Writing",
 		"note": "Production version of character management webapp, showing dropdown contents.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/chr-form-03-07-151116.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/chr-page-03-07-151116.png"
+			"img": "https://klh.karinoyo.com/public/chr-151116-03-07-form.jpg",
+			"url": ""
 		}
 	},
 	{
 		"dex": 123,
-		"title": "Internal Team Site",
+		"title": "Internal Team Site (home)",
 		"proj": "sda",
 		"vers": "05",
-		"num": "01",
+		"num": "05",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "page",
 		"stage": "final",
 		"anno": false,
 		"industry": "Service Analytics",
 		"note": "Production version of site main page.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/sda-page-05-01-191115.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/sda-page-05-01-191115.jpg"
+			"img": "https://klh.karinoyo.com/public/sda-05-01-191115-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2305,16 +2211,18 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2018,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Healthcare",
 		"note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/hci-page-01-01-180412.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/hci-page-01-01-180412.jpg"
+			"img": "https://klh.karinoyo.com/public/hci-01-01-180412-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2324,16 +2232,18 @@
 		"vers": "01",
 		"num": "02",
 		"year": 2018,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Healthcare",
 		"note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/hci-page-01-02-180412.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/hci-page-01-02-180412.jpg"
+			"img": "https://klh.karinoyo.com/public/hci-01-02-180412-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2343,16 +2253,18 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Team Management",
 		"note": "Proposed dashboard for first-line managers to view team skills and levels of expertise.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dtmt-divz-01-01-190527.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dtmt-divz-01-01-190527.jpg"
+			"img": "https://klh.karinoyo.com/public/dtmt-01-01-190527-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2362,16 +2274,18 @@
 		"vers": "07",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "draft",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Proposed dashboard redesign from Tableau to D3 version.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dtrn-divz-07-01-190531.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dtrn-divz-07-01-190531.jpg"
+			"img": "https://klh.karinoyo.com/public/dtrn-07-01-190531-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2381,16 +2295,18 @@
 		"vers": "03",
 		"num": "02",
 		"year": 2013,
-		"ftype": "img",
+		"ftype": "git",
+		"has_img": false,
+		"has_set": false,
+		"quan": 1,
 		"cat": "code",
 		"stage": "final",
 		"anno": false,
 		"industry": "Finance",
 		"note": "Prototype demonstrating viability of SSO between two distinct webapps.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/hol-cde-03-02-130811.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/hol-cde-03-02-130811.jpg"
+			"img": "",
+			"url": "https://github.com/k2lh/symmetrical-catfish/texts/hol-cde-03-02-130811.js"
 		}
 	},
 	{
@@ -2400,16 +2316,18 @@
 		"vers": "02",
 		"num": "04",
 		"year": 2011,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "page",
 		"stage": "final",
 		"anno": false,
 		"industry": "Writing",
 		"note": "Prototype for character management webapp. ",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/chr-page-02-04-110509.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/chr-page-02-04-110509.png"
+			"img": "https://klh.karinoyo.com/public/chr-02-04-110509-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2419,16 +2337,18 @@
 		"vers": "02",
 		"num": "07",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "final",
 		"anno": false,
 		"industry": "Writing",
 		"note": "Prototype for character management webapp. ",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/chr-form-02-07-120705.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/chr-form-02-07-120705.jpg"
+			"img": "https://klh.karinoyo.com/public/chr-120705-02-07-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2438,16 +2358,18 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2018,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "page",
 		"stage": "final",
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Prototype inventory site tracking the team’s projects.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/csaa-page-01-01-181105.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/csaa-page-01-01-181105.jpg"
+			"img": "https://klh.karinoyo.com/public/csaa-01-01-181105-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2455,37 +2377,20 @@
 		"title": "Dataviz Pie/Bullet Exploration",
 		"proj": "da2t",
 		"vers": "01",
-		"num": "01",
+		"num": "02",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Learning Analytics",
 		"note": "Prototype of pie/bullet combination with a data table.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/da2t-dviz-01-01-190719.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/da2t-dviz-01-01-190719.jpg"
-		}
-	},
-	{
-		"dex": 133,
-		"title": "Dashboard Design by Type",
-		"proj": "dall",
-		"vers": "09",
-		"num": "02",
-		"year": 2019,
-		"ftype": "img",
-		"cat": "design system",
-		"stage": "final",
-		"anno": false,
-		"industry": "Design System",
-		"note": "Quick (and regularly updated) cheat sheet for data analysts when building dashboards.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dall-des-09-02-190215.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dall-des-09-02-190215.jpg"
+			"img": "https://klh.karinoyo.com/public/da2t-01-02-190719-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2495,16 +2400,18 @@
 		"vers": "01",
 		"num": "03",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Quick mock created during user discussions, using placeholder dataviz with fake data.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dedv-dviz-01-03-191010.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dedv-dviz-01-03-191010.jpg"
+			"img": "https://klh.karinoyo.com/public/dedv-01-03-191010-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2514,16 +2421,18 @@
 		"vers": "05",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Internal Learning",
 		"note": "Revised version incorporating user and data scientist feedback.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dtrn-divz-05-01-190422.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dtrn-divz-05-01-190422.jpg"
+			"img": "https://klh.karinoyo.com/public/dtrn-05-01-190422-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2533,35 +2442,39 @@
 		"vers": "02",
 		"num": "05",
 		"year": 2011,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "mid-fidelity",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Academia",
 		"note": "Rough mockup of app’s responsive behavior.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/mrk-mid-02-05-110709.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/mrk-mid-02-05-110709.jpg"
+			"img": "https://klh.karinoyo.com/public/mrk-02-05-110709-mock.jpg",
+			"url": ""
 		}
 	},
 	{
 		"dex": 137,
-		"title": "Automated Workflow",
+		"title": "Metaphor for Mental Model",
 		"proj": "ift",
 		"vers": "01",
-		"num": "01",
+		"num": "03",
 		"year": 2016,
-		"ftype": "img",
-		"cat": "architecture",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
+		"cat": "presentation",
 		"stage": "idea",
 		"anno": true,
 		"industry": "Cloud",
 		"note": "Rough sketch of application workflows and combinations.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/ift-arch-01-01-160901.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ift-arch-01-01-160901.png"
+			"img": "https://klh.karinoyo.com/public/ift-01-03-160702-pres.jpg",
+			"url": "https://klh.karinoyo.com/public/ift-01-00-160702-pres.pdf"
 		}
 	},
 	{
@@ -2571,16 +2484,18 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2017,
-		"ftype": "img",
+		"ftype": "pdf",
+		"has_img": true,
+		"has_set": true,
+		"quan": 11,
 		"cat": "wireframe",
 		"stage": "final",
 		"anno": false,
 		"industry": "Platform (PAAS)",
 		"note": "Showing user movement through the webapp, with design system applied.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/ccts-tour-01-01-170505.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ccts-tour-01-01-170505.jpg"
+			"img": "https://klh.karinoyo.com/public/ccts-01-01-170505-tour.jpg",
+			"url": "https://klh.karinoyo.com/public/ccts-01-01-170505-tour.pdf"
 		}
 	},
 	{
@@ -2590,16 +2505,18 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2011,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "screenshot",
 		"stage": "final",
 		"anno": false,
 		"industry": "Tourism",
 		"note": "Simple wordpress site with information for volunteers and attendants.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/zlk-page-01-01-110516.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/zlk-page-01-01-110516.png"
+			"img": "https://klh.karinoyo.com/public/zlk-01-01-110516-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2609,16 +2526,18 @@
 		"vers": "05",
 		"num": "05",
 		"year": 2023,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "presentation",
 		"stage": "final",
 		"anno": false,
 		"industry": "AI",
 		"note": "Simplified visuals for non-technical investors.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/bst-pres-05-05-230728.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/bst-pres-05-05-230728.jpg"
+			"img": "https://klh.karinoyo.com/public/bst-05-07-230728-pres.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2628,16 +2547,18 @@
 		"vers": "03",
 		"num": "02",
 		"year": 2013,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "architecture",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Sales",
 		"note": "Site architecture demonstrating each page’s composition of modular components.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/mob-arch-03-02-131004.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/mob-arch-03-02-131004.jpg"
+			"img": "https://klh.karinoyo.com/public/mob-03-02-131004-arch.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2647,16 +2568,18 @@
 		"vers": "04",
 		"num": "01",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "flowchart",
 		"stage": "revision",
 		"anno": true,
 		"industry": "Healthcare",
 		"note": "Site map showing user choices, interactions, and overlaps between paths.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/hcr-map-03-02-120705.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/hcr-map-03-02-120705.png"
+			"img": "https://klh.karinoyo.com/public/hcr-04-01-120712-map.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2664,18 +2587,20 @@
 		"title": "Automated Workflow",
 		"proj": "ift",
 		"vers": "07",
-		"num": "02",
+		"num": "01",
 		"year": 2016,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "architecture",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Site map, color-coded to show identified reusable components.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/ift-arch-07-02-160830.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ift-arch-07-02-160830.jpg"
+			"img": "https://klh.karinoyo.com/public/ift-07-01-160920-map.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2685,16 +2610,18 @@
 		"vers": "02",
 		"num": "02",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "screenshot",
 		"stage": "final",
 		"anno": false,
 		"industry": "Tourism",
 		"note": "Site redesign to be fully responsive. (Attendants liked it so much, they crashed the hosting company’s servers.)",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/zlk-page-02-02-120706.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/zlk-page-02-02-120706.jpg"
+			"img": "https://klh.karinoyo.com/public/zlk-02-02-120706-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2704,16 +2631,18 @@
 		"vers": "02",
 		"num": "04",
 		"year": 2021,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "final",
 		"anno": false,
 		"industry": "User Support",
 		"note": "Standardized information collection for report and dashboard requests.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/yin-form-02-04-210706.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/yin-form-02-04-210706.jpg"
+			"img": "https://klh.karinoyo.com/public/yin-02-04-210706-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2723,16 +2652,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2023,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "mockup",
 		"stage": "final",
 		"anno": false,
 		"industry": "AI",
 		"note": "Start-point of animation in login page.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/bst-mock-02-01-230718.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/bst-mock-02-01-230718.png"
+			"img": "https://klh.karinoyo.com/public/bst-02-01-230718-mock.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2742,16 +2673,18 @@
 		"vers": "01",
 		"num": "02",
 		"year": 2022,
-		"ftype": "text",
+		"ftype": "txt",
+		"has_img": false,
+		"has_set": false,
+		"quan": 1,
 		"cat": "text",
 		"stage": "final",
 		"anno": false,
 		"industry": "Design System",
 		"note": "Summaries of research results comparing competitors’ design systems.",
 		"link": {
-			"visual": "",
-			"file": "https://klh.karinoyo.com/static/texts/des-text-01-01-221219.txt",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/des-text-01-01-221219.txt"
+			"img": "",
+			"url": "https://github.com/k2lh/symmetrical-catfish/public/des-text-01-01-221219.txt"
 		}
 	},
 	{
@@ -2761,16 +2694,18 @@
 		"vers": "02",
 		"num": "07",
 		"year": 2011,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "final",
 		"anno": false,
 		"industry": "Resume",
 		"note": "Sunburst visualization adapted to show experience by skill.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/res-dviz-02-07-110922.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/res-dviz-02-07-110922.jpg"
+			"img": "https://klh.karinoyo.com/public/res-02-07-110922-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2780,16 +2715,18 @@
 		"vers": "01",
 		"num": "07",
 		"year": 2017,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "swimlane",
 		"stage": "final",
 		"anno": false,
 		"industry": "Finance",
 		"note": "Swim lane modified to include notations for data movement and user interaction.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/wst-lane-01-07-171103.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/wst-lane-01-07-171103.jpg"
+			"img": "https://klh.karinoyo.com/public/wst-01-07-171103-lane.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2799,16 +2736,18 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "swimlane",
 		"stage": "revision",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Swim lanes based on user interviews and executive input.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/erf-lane-01-01-190220.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/erf-lane-01-01-190220.png"
+			"img": "https://klh.karinoyo.com/public/erf-01-01-190220-lane.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2818,16 +2757,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2021,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "Target tracking by region, with RAG-style visualizations.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/djrs-dviz-02-01-210505.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/djrs-dviz-02-01-210505.jpg"
+			"img": "https://klh.karinoyo.com/public/djrs-02-01-210505-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2837,35 +2778,39 @@
 		"vers": "07",
 		"num": "01",
 		"year": 2017,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "flowchart",
 		"stage": "draft",
 		"anno": true,
 		"industry": "Privacy",
 		"note": "The 7th iteration of ultimately 19 versions detailing the complicated GDPR process.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/gdp-flow-07-01-171110.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/gdp-flow-07-01-171110.jpg"
+			"img": "https://klh.karinoyo.com/public/gdp-07-01-171110-flow.jpg",
+			"url": ""
 		}
 	},
 	{
 		"dex": 153,
 		"title": "Automated Workflow",
 		"proj": "ift",
-		"vers": "03",
-		"num": "04",
+		"vers": "04",
+		"num": "13",
 		"year": 2016,
-		"ftype": "img",
-		"cat": "wireframe",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
+		"cat": "architecture",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Cloud",
-		"note": "Third iteration covering page structure and organization.",
+		"note": "Fourth iteration of application UI architecture.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/ift-form-03-07-160817.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ift-form-03-07-160817.png"
+			"img": "https://klh.karinoyo.com/public/ift-04-13-160830-arch.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2875,16 +2820,18 @@
 		"vers": "03",
 		"num": "07",
 		"year": 2016,
-		"ftype": "img",
+		"ftype": "pdf",
+		"has_img": true,
+		"has_set": true,
+		"quan": 16,
 		"cat": "wireframe",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Third iteration covering page structure and organization.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/ift-wire-03-04-160817.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/ift-wire-03-04-160817.png"
+			"img": "https://klh.karinoyo.com/public/ift-160817-03-07-form.jpg",
+			"url": "https://klh.karinoyo.com/public/ift-03-00-160817-wire.pdf"
 		}
 	},
 	{
@@ -2894,16 +2841,18 @@
 		"vers": "02",
 		"num": "01",
 		"year": 2012,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "sitemap",
 		"stage": "final",
 		"anno": false,
 		"industry": "Sales",
 		"note": "Traditional site map, also with color-coding to identify patterns.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/sls-map-02-01-120712.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/sls-map-02-01-120712.png"
+			"img": "https://klh.karinoyo.com/public/sls-02-01-120712-map.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2913,16 +2862,18 @@
 		"vers": "03",
 		"num": "02",
 		"year": 2013,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "form",
 		"stage": "final",
 		"anno": false,
 		"industry": "Publishing",
 		"note": "Two screenshots of admin pages, for managing tagging and multi-part stories.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/pix-form-03-02-130326.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/pix-form-03-02-130326.jpg"
+			"img": "https://klh.karinoyo.com/public/pix-03-02-130326-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2932,225 +2883,18 @@
 		"vers": "03",
 		"num": "01",
 		"year": 2018,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "page",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Users nicknamed the boxes ‘cards’, inspiring the metaphor of a card catalog.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/csaa-page-03-01-181107.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/csaa-page-03-01-181107.jpg"
-		}
-	},
-	{
-		"dex": 158,
-		"title": "Metaphor Explanation",
-		"proj": "t-ift",
-		"vers": "02",
-		"num": "01",
-		"year": 2017,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Cloud",
-		"note": "Using metaphor to explain how trigger-action apps work.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-ift-pres-02-01-170702.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-ift-pres-02-01-170702.jpg"
-		}
-	},
-	{
-		"dex": 159,
-		"title": "Metaphor Explanation",
-		"proj": "t-ift",
-		"vers": "02",
-		"num": "02",
-		"year": 2017,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Cloud",
-		"note": "Using metaphor to explain how trigger-action apps work.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-ift-pres-02-02-170702.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-ift-pres-02-02-170702.jpg"
-		}
-	},
-	{
-		"dex": 160,
-		"title": "Metaphor Explanation",
-		"proj": "t-ift",
-		"vers": "02",
-		"num": "03",
-		"year": 2017,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Cloud",
-		"note": "Using metaphor to explain how trigger-action apps work.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-ift-pres-02-03-170702.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-ift-pres-02-03-170702.jpg"
-		}
-	},
-	{
-		"dex": 161,
-		"title": "Metaphor Explanation",
-		"proj": "t-ift",
-		"vers": "02",
-		"num": "04",
-		"year": 2017,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Cloud",
-		"note": "Using metaphor to explain how trigger-action apps work.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-ift-pres-02-04-170702.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-ift-pres-02-04-170702.jpg"
-		}
-	},
-	{
-		"dex": 162,
-		"title": "Metaphor Explanation",
-		"proj": "t-ift",
-		"vers": "02",
-		"num": "05",
-		"year": 2017,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Cloud",
-		"note": "Using metaphor to explain how trigger-action apps work.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-ift-pres-02-05-170702.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-ift-pres-02-05-170702.jpg"
-		}
-	},
-	{
-		"dex": 163,
-		"title": "Metaphor Explanation",
-		"proj": "t-ift",
-		"vers": "02",
-		"num": "06",
-		"year": 2017,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Cloud",
-		"note": "Using metaphor to explain how trigger-action apps work.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-ift-pres-02-06-170702.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-ift-pres-02-06-170702.jpg"
-		}
-	},
-	{
-		"dex": 164,
-		"title": "Metaphor Explanation",
-		"proj": "t-ift",
-		"vers": "02",
-		"num": "07",
-		"year": 2017,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Cloud",
-		"note": "Using metaphor to explain how trigger-action apps work.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-ift-pres-02-07-170702.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-ift-pres-02-07-170702.jpg"
-		}
-	},
-	{
-		"dex": 165,
-		"title": "Metaphor Explanation",
-		"proj": "t-ift",
-		"vers": "02",
-		"num": "08",
-		"year": 2017,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Cloud",
-		"note": "Using metaphor to explain how trigger-action apps work.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-ift-pres-02-08-170702.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-ift-pres-02-08-170702.jpg"
-		}
-	},
-	{
-		"dex": 166,
-		"title": "Metaphor Explanation",
-		"proj": "t-ift",
-		"vers": "02",
-		"num": "09",
-		"year": 2017,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Cloud",
-		"note": "Using metaphor to explain how trigger-action apps work.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-ift-pres-02-09-170702.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-ift-pres-02-09-170702.jpg"
-		}
-	},
-	{
-		"dex": 167,
-		"title": "Metaphor Explanation",
-		"proj": "t-ift",
-		"vers": "02",
-		"num": "10",
-		"year": 2017,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Cloud",
-		"note": "Using metaphor to explain how trigger-action apps work.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-ift-pres-02-10-170702.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-ift-pres-02-10-170702.jpg"
-		}
-	},
-	{
-		"dex": 168,
-		"title": "Metaphor Explanation",
-		"proj": "t-ift",
-		"vers": "02",
-		"num": "11",
-		"year": 2017,
-		"ftype": "img",
-		"cat": "presentation",
-		"stage": "final",
-		"anno": false,
-		"industry": "Cloud",
-		"note": "Using metaphor to explain how trigger-action apps work.",
-		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/t-ift-pres-02-11-170702.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/t-ift-pres-02-11-170702.jpg"
+			"img": "https://klh.karinoyo.com/public/csaa-03-01-181107-page.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -3160,16 +2904,18 @@
 		"vers": "01",
 		"num": "00",
 		"year": 2019,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "idea",
 		"anno": false,
 		"industry": "User Research",
 		"note": "Variations to help users identify which dataviz best matches with their ‘view’ of the data.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dcap-dviz-01-00-191204.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dcap-dviz-01-00-191204.jpg"
+			"img": "https://klh.karinoyo.com/public/dcap-01-00-191204-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -3179,16 +2925,18 @@
 		"vers": "02",
 		"num": "06",
 		"year": 2018,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "architecture",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Data Management",
 		"note": "Visual for possible data lake organization and architecture.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/dlk-arch-02-06-180217.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/dlk-arch-02-06-180217.png"
+			"img": "https://klh.karinoyo.com/public/dlk-02-06-180217-arch.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -3198,16 +2946,18 @@
 		"vers": "04",
 		"num": "05",
 		"year": 2023,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "mockup",
 		"stage": "revision",
 		"anno": false,
 		"industry": "AI",
 		"note": "Visual metaphor for the creation of AI-based ontologies.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/bst-mock-04-05-230831.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/bst-mock-04-05-230831.jpg"
+			"img": "https://klh.karinoyo.com/public/bst-04-05-230831-mock.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -3217,16 +2967,18 @@
 		"vers": "04",
 		"num": "01",
 		"year": 2017,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "sitemap",
 		"stage": "final",
 		"anno": false,
 		"industry": "Data Management",
 		"note": "Visual representation of how a centralized data office connects and integrates with its client teams.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/cdo-map-04-01-170510.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/cdo-map-04-01-170510.jpg"
+			"img": "https://klh.karinoyo.com/public/cdo-04-01-170510-map.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -3236,16 +2988,18 @@
 		"vers": "07",
 		"num": "02",
 		"year": 2022,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "dataviz",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Resource Management",
 		"note": "Visualization index with complex data tables for tracking attrition rates.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/datt-viz-07-02-220806.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/datt-viz-07-02-220806.jpg"
+			"img": "https://klh.karinoyo.com/public/datt-07-02-220806-dviz.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -3255,16 +3009,18 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2022,
-		"ftype": "text",
+		"ftype": "txt",
+		"has_img": false,
+		"has_set": false,
+		"quan": 1,
 		"cat": "text",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Design System",
 		"note": "Whitepaper draft on the design, use, and value of good dataviz.",
 		"link": {
-			"visual": "",
-			"file": "https://klh.karinoyo.com/static/texts/des-pres-03-01-230128.txt",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/des-pres-03-01-230128.txt"
+			"img": "",
+			"url": "https://github.com/k2lh/symmetrical-catfish/public/des-pres-03-01-230128.txt"
 		}
 	},
 	{
@@ -3274,16 +3030,18 @@
 		"vers": "01",
 		"num": "01",
 		"year": 2017,
-		"ftype": "img",
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "architecture",
 		"stage": "draft",
 		"anno": false,
 		"industry": "Cloud",
 		"note": "Working version of the proposed API architecture.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/api-arch-01-01-170127.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/api-arch-01-01-170127.jpg"
+			"img": "https://klh.karinoyo.com/public/api-01-01-170127-arch.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -3293,16 +3051,144 @@
 		"vers": "05",
 		"num": "01",
 		"year": 2020,
-		"ftype": "img",
+		"ftype": "git",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
 		"cat": "code",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Data Analytics",
 		"note": "Snapshot of complex logic required for internal/tableau SSO setup.",
 		"link": {
-			"visual": "https://klh.karinoyo.com/static/images/csaa-code-05-01-20052.jpg",
-			"file": "",
-			"git": "https://github.com/k2lh/symmetrical-catfish/public/csaa-code-05-01-20052.jpg"
+			"img": "",
+			"url": "https://github.com/k2lh/catalog-v4-frontend/blob/master/src/views/frame.vue"
+		}
+	},
+	{
+		"dex": 177,
+		"title": "Design Concept for Analytical Process",
+		"proj": "dont",
+		"vers": "07",
+		"num": "00",
+		"year": 2019,
+		"ftype": "pdf",
+		"has_img": true,
+		"has_set": true,
+		"quan": 6,
+		"cat": "tour",
+		"stage": "revision",
+		"anno": false,
+		"industry": "Data Analytics",
+		"note": "Walk-through of one idea of how to represent and explain the process to users.",
+		"link": {
+			"img": "https://klh.karinoyo.com/public/dont-07-00-190724-tour.jpg",
+			"url": "https://klh.karinoyo.com/public/dont-07-00-190724-tour.pdf"
+		}
+	},
+	{
+		"dex": 178,
+		"title": "Automated Workflow",
+		"proj": "ift",
+		"vers": "04",
+		"num": "18",
+		"year": 2016,
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
+		"cat": "flowchart",
+		"stage": "draft",
+		"anno": false,
+		"industry": "Cloud",
+		"note": "An off-the-cuff workflow concept using mocked images.",
+		"link": {
+			"img": "https://klh.karinoyo.com/public/ift-04-18-160830-flow.png",
+			"url": ""
+		}
+	},
+	{
+		"dex": 179,
+		"title": "Automated Workflow",
+		"proj": "ift",
+		"vers": "04",
+		"num": "19",
+		"year": 2016,
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
+		"cat": "flowchart",
+		"stage": "draft",
+		"anno": false,
+		"industry": "Cloud",
+		"note": "A deeper dive into user and application workflow.",
+		"link": {
+			"img": "https://klh.karinoyo.com/public/ift-04-19-160824-flow.jpg",
+			"url": ""
+		}
+	},
+	{
+		"dex": 180,
+		"title": "Automated Workflow",
+		"proj": "ift",
+		"vers": "05",
+		"num": "03",
+		"year": 2016,
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
+		"cat": "architecture",
+		"stage": "idea",
+		"anno": false,
+		"industry": "Cloud",
+		"note": "On-the-fly visual for application processes.",
+		"link": {
+			"img": "https://klh.karinoyo.com/public/ift-05-03-160901-arch.jpg",
+			"url": ""
+		}
+	},
+	{
+		"dex": 181,
+		"title": "Automated Workflow",
+		"proj": "ift",
+		"vers": "02",
+		"num": "04",
+		"year": 2016,
+		"ftype": "pdf",
+		"has_img": false,
+		"has_set": false,
+		"quan": 1,
+		"cat": "wireframe",
+		"stage": "draft",
+		"anno": false,
+		"industry": "Cloud",
+		"note": "Second iteration covering page structure and organization.",
+		"link": {
+			"img": "",
+			"url": "https://klh.karinoyo.com/public/ift-02-04-160712-tour.pdf"
+		}
+	},
+	{
+		"dex": 182,
+		"title": "Tagging Proposal",
+		"proj": "tag",
+		"vers": "03",
+		"num": "04",
+		"year": 2021,
+		"ftype": "pdf",
+		"has_img": true,
+		"has_set": true,
+		"quan": 11,
+		"cat": "mockup",
+		"stage": "revision",
+		"anno": false,
+		"industry": "Learning",
+		"note": "Walk-through mockups for proposed course tagging process.",
+		"link": {
+			"img": "https://klh.karinoyo.com/public/tag-03-04-210301-mock.jpg",
+			"url": "https://klh.karinoyo.com/public/tag-03-00-210301-mock.pdf"
 		}
 	}
 ]
