@@ -7,7 +7,7 @@
 </template>
 
 <script>
-  // import { RouterLink, routerView } from 'vue-router';
+  import { routerLink, routerView } from 'vue-router';
   import globalHeader from './components/globalHeader.vue';
   // import globalFooter from './components/globalFooter.vue';
 

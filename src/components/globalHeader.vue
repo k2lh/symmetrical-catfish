@@ -5,29 +5,29 @@
         <siteLogo/>
       </div>
       <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-3-8 boxlabel">
-        <router-link :to="'/'" class="exception">
+        <routerLink :to="'/'" class="exception">
           K L Hamilton
-        </router-link>
+        </routerLink>
       </div>
       <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8 boxlabel">
-        <router-link :to="'/highlights'">
+        <routerLink :to="'/highlights'">
           highlights
-        </router-link>
+        </routerLink>
       </div>
       <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8 boxlabel">
-        <router-link :to="'/archive'">
+        <routerLink :to="'/archive'">
           archive
-        </router-link>
+        </routerLink>
       </div>
       <!-- <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8 boxlabel">
-        <router-link to="/narratives">
+        <routerLink to="/narratives">
           narratives
-        </router-link>
+        </routerLink>
       </div> -->
       <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8 boxlabel">
-        <router-link :to="'/history'">
+        <routerLink :to="'/history'">
           history
-        </router-link>
+        </routerLink>
       </div>
     </div>
   </div>
