@@ -24,7 +24,7 @@ const router = createRouter({
   mode: 'history',
   routes: routes,
   navigationFallback: {
-    'rewrite': '/index.html',
+    'rewrite': '/',
     'exclude': ['/images/*.{png,jpg,gif}', '/css/*']
   },
   scrollBehavior() {

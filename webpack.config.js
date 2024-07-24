@@ -20,7 +20,10 @@ module.exports = {
   resolve: {
     extensions: [
      '.tsx', '.ts', '.js', '.vue'
-    ]
+   ],
+   alias: {
+     'vue$': 'vue/dist/vue.runtime.esm-bundler.js'
+   }
   },
 	optimization: {
 		splitChunks: {
