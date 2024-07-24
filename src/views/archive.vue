@@ -86,10 +86,7 @@
 
 <style scoped lang="scss">
   .archive {
-    max-width: 1800px;
-    margin: 5rem auto 0 auto;
     overflow: hidden;
-    font-size: .85rem;
   }
   .categories-pane {
     display: grid;

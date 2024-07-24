@@ -77,8 +77,6 @@
 
 <style scoped lang="scss">
   .highlights {
-    max-width: 1800px;
-    margin: 5rem auto 0 auto;
     overflow: hidden;
   }
   .boxed {

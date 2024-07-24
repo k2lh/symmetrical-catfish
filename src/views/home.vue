@@ -111,10 +111,6 @@
 </script>
 
 <style scoped lang="scss">
-  .home {
-    max-width: 1800px;
-    margin: 4rem auto 0 auto;
-  }
   .intro {
     // max-width: 1400px;
     margin-bottom: 8rem;

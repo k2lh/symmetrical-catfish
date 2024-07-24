@@ -10,8 +10,6 @@ const routes = [
   { path: '/:pathMatch(.*)', name: 'NotFound', component:() => import('./views/404.vue') }
 ]
 
-console.log('router touch');
-
 if (window.location.href.includes('local')) {
   window.document.title = 'DEV: klh';
 }

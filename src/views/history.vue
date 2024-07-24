@@ -88,14 +88,12 @@
     margin: .5rem 0 0 .75rem;
     padding: 0;
     & li {
-      font-size: .85rem;
       font-weight: 500;
       letter-spacing: 1px;
     }
   }
   .boxlabel {
     font-weight: 500;
-    font-size: .85rem;
     text-transform: uppercase;
     letter-spacing: 1px;
   }

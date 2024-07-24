@@ -4,9 +4,14 @@ body {
   -moz-osx-font-smoothing: grayscale;
   color: #111;
   font-weight: 500;
-  font-size: .8rem;
+  font-size: .85rem;
   margin: auto;
+  max-width: 1800px;
   background-color: #F9F9F9;
+}
+
+.page {
+  margin: 5rem auto 0 auto;
 }
 
 .boxlabel {
@@ -65,4 +70,26 @@ a:hover, a:focus-visible {
 }
 .answer {
   font-weight: normal;
+}
+
+.intro-text {
+  font-size: 1rem;
+  padding: 2.5rem 0 1rem 1rem;
+}
+.intro-text p {
+  line-height: 1.3;
+}
+.intro-text p.limited {
+  max-width: 50em;
+  margin: .5rem 0 3rem 0;
+}
+.intro-text p.list {
+  font-weight: 500;
+  font-size: .9rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.intro-text .boxlabel.adjusted {
+  font-size: 1.25rem;
+  font-weight: 500;
 }
