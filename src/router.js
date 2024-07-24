@@ -12,7 +12,7 @@ const router = createRouter({
   history: createWebHistory(),
   historyApiFallback: true,
   routes: [
-    { path: '/', name: 'Home', component: () => import('./views/home.vue') },
+    { path: '/', name: 'Home', component: () => import('./views/home.vue'), alias:'/home' },
     { path: '/archive', name: 'Archive', component: () => import('./views/archive.vue') },
     { path: '/highlights', name: 'Highlights', component: () => import('./views/highlights.vue') },
     { path: '/narratives', name: 'Narratives', component: () => import('./views/narratives.vue') },
