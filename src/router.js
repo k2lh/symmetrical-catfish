@@ -9,7 +9,7 @@ const routes = [
   { path: '/404', name: 'NotFound', component: () => import('./views/404.vue') },
   // { path: '/:pathMatch(.*)*', name: 'NotFound', component:() => import('./views/404.vue') }
   // { path: '/:catchAll(.*)*', name: 'NotFound', component:() => import('./views/404.vue') }
-  { path: '/:catchAll(.*)*', redirect: { name: 'NotFound' }
+  { path: '/:catchAll(.*)*', redirect: { name: 'NotFound' } }
   // { path: '/:catchAll(.*)*', redirect: { name: 'NotFound', component:() => import('./views/404.vue') }
 ]
 
