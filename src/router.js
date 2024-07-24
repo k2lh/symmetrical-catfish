@@ -10,7 +10,7 @@ if (window.location.href.includes('app-ionos')) {
 const router = createRouter({
   linkActiveClass: 'active-link',
   history: createWebHistory(),
-  // mode: 'history',
+  historyApiFallback: true,
   routes: [
     { path: '/', name: 'Home', component: () => import('./views/home.vue') },
     { path: '/archive', name: 'Archive', component: () => import('./views/archive.vue') },
