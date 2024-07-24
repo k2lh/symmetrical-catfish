@@ -5,17 +5,17 @@
         <siteLogo/>
       </div>
       <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-3-8 boxlabel">
-        <router-link class="exception" to="/">
+        <router-link :to="'/'" class="exception">
           K L Hamilton
         </router-link>
       </div>
       <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8 boxlabel">
-        <router-link to="/highlights">
+        <router-link :to="'/highlights'">
           highlights
         </router-link>
       </div>
       <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8 boxlabel">
-        <router-link to="/archive">
+        <router-link :to="'/archive'">
           archive
         </router-link>
       </div>
@@ -25,7 +25,7 @@
         </router-link>
       </div> -->
       <div class="pure-u-1-4 pure-u-md-1-6 pure-u-lg-1-8 boxlabel">
-        <router-link to="/history">
+        <router-link :to="'/history'">
           history
         </router-link>
       </div>
