@@ -1186,11 +1186,11 @@
 		"has_img": true,
 		"has_set": false,
 		"quan": 1,
-		"cat": "architecture",
+		"cat": "sitemap",
 		"stage": "revision",
 		"anno": false,
 		"industry": "Customer Service",
-		"note": "Full site map, with color-coding to call out re-used modular components.",
+		"note": "Color-coding used to call out re-used modular components.",
 		"link": {
 			"img": "https://klh.karinoyo.com/images/hap-02-01-141109-map.jpg",
 			"url": ""
