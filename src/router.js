@@ -2,10 +2,10 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
   { path: '/', name: 'Home', component: () => import('./views/home.vue'), alias:'/home' },
-  { path: '/archive', name: 'Archive', component: () => import('./views/archive.vue') },
-  { path: '/highlights', name: 'Highlights', component: () => import('./views/highlights.vue') },
-  { path: '/narratives', name: 'Narratives', component: () => import('./views/narratives.vue') },
-  { path: '/history', name: 'History', component: () => import('./views/history.vue') },
+  { path: '/archive', name: 'Archive', component: () => import('./views/archive.vue'), alias:'/archive' },
+  { path: '/highlights', name: 'Highlights', component: () => import('./views/highlights.vue'), alias:'/highlights' },
+  { path: '/narratives', name: 'Narratives', component: () => import('./views/narratives.vue'), alias:'/narratives' },
+  { path: '/history', name: 'History', component: () => import('./views/history.vue'), alias:'/history' },
 
   // { path: '/:pathMatch(.*)*', name: 'NotFound', component:() => import('./views/404.vue') }
   { path: '/:catchAll(.*)*', name: 'NotFound', component:() => import('./views/404.vue') }
