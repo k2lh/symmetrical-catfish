@@ -19,9 +19,13 @@ const router = createRouter({
     { path: '/narratives', name: 'Narratives', component: () => import('./views/narratives.vue') },
     { path: '/history', name: 'History', component: () => import('./views/history.vue') },
 
-    { path: '/:pathMatch(.*)*', name: 'NotFound', component:() => import('./views/404.vue') }
-    // { path: '/:catchAll(.*)*', name: 'NotFound', component:() => import('./views/404.vue') }
+    // { path: '/:pathMatch(.*)*', name: 'NotFound', component:() => import('./views/404.vue') }
+    { path: '/:catchAll(.*)*', component:() => import('./views/404.vue') }
   ],
+  navigationFallback: {
+    'rewrite': '/index.html',
+    'exclude': ['/images/*.{png,jpg,gif}', '/css/*']
+  },
   scrollBehavior() {
     return {x: 0, y: 0}
   }
