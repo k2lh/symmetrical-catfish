@@ -3,10 +3,10 @@
     <div class="pure-u-1-1">
       <div class="intro-text">
         <div class="boxlabel adjusted">
-          I bet you got here by refreshing the page.
+          Sorry, can't find that.
         </div>
         <p class="limited">
-          Known issue. Still hammering on it. In the meantime, try one of these:
+          Maybe you wanted one of these?
         </p>
         <p class="list">
           &rsaquo; <router-link :to="'/'">entry page</router-link>

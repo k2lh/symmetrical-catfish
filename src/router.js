@@ -7,7 +7,7 @@ const routes = [
   { path: '/narratives', name: 'Narratives', component: () => import('./views/narratives.vue'), alias:'/narratives' },
   { path: '/history', name: 'History', component: () => import('./views/history.vue'), alias:'/history' },
   // { path: '/:pathMatch(.*)*', name: 'NotFound', component:() => import('./views/404.vue') }
-  { path: '/:pathMatch(.*)', name: 'Home', component: () => import('./views/home.vue') }
+  { path: '/:pathMatch(.*)', name: 'NotFound', component:() => import('./views/404.vue') }
 ]
 
 console.log('router touch');
