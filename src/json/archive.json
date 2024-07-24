@@ -311,7 +311,7 @@
 		"note": "Basic script for user interviews on new dashboards and/or visualizations.",
 		"link": {
 			"img": "",
-			"url": "https://github.com/k2lh/symmetrical-catfish/public/ctta-text-01-01-200604.txt"
+			"url": "https://raw.githubusercontent.com/k2lh/symmetrical-catfish/main/public/ctta-01-01-200604-text.txt"
 		}
 	},
 	{
@@ -752,7 +752,7 @@
 		"note": "Draft of presentation text for design system proposal.",
 		"link": {
 			"img": "",
-			"url": "https://github.com/k2lh/symmetrical-catfish/public/des-text-01-04-230120.txt"
+			"url": "https://raw.githubusercontent.com/k2lh/symmetrical-catfish/main/public/des-01-04-230120-text.txt"
 		}
 	},
 	{
@@ -1172,7 +1172,7 @@
 		"note": "Full outline for design system documentation, including future topics.",
 		"link": {
 			"img": "",
-			"url": "https://github.com/k2lh/symmetrical-catfish/public/des-text-01-02-221219.txt"
+			"url": "https://raw.githubusercontent.com/k2lh/symmetrical-catfish/main/public/des-01-02-221219-text.txt"
 		}
 	},
 	{
@@ -2306,7 +2306,7 @@
 		"note": "Prototype demonstrating viability of SSO between two distinct webapps.",
 		"link": {
 			"img": "",
-			"url": "https://github.com/k2lh/symmetrical-catfish/texts/hol-cde-03-02-130811.js"
+			"url": "https://raw.githubusercontent.com/k2lh/symmetrical-catfish/main/public/hol-cde-03-02-130811.js"
 		}
 	},
 	{
@@ -2684,7 +2684,7 @@
 		"note": "Summaries of research results comparing competitors’ design systems.",
 		"link": {
 			"img": "",
-			"url": "https://github.com/k2lh/symmetrical-catfish/public/des-text-01-01-221219.txt"
+			"url": "https://raw.githubusercontent.com/k2lh/symmetrical-catfish/main/public/des-01-01-221219-text.txt"
 		}
 	},
 	{
@@ -3020,7 +3020,7 @@
 		"note": "Whitepaper draft on the design, use, and value of good dataviz.",
 		"link": {
 			"img": "",
-			"url": "https://github.com/k2lh/symmetrical-catfish/public/des-pres-03-01-230128.txt"
+			"url": "https://raw.githubusercontent.com/k2lh/symmetrical-catfish/main/public/des-03-01-230128-pres.txt"
 		}
 	},
 	{

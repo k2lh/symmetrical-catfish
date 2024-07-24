@@ -29,7 +29,7 @@
                 {{item.vers}}.{{item.num}}, {{ item.stage }}
               </div>
               <div v-if="item.link.url" class="amswer link">
-                <a :href="item.link.url" target="new">
+                <a :href="item.link.url" target="_new">
                   view file &#8594;
                 </a>
               </div>
