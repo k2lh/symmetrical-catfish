@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
+
 if (window.location.href.includes('local')) {
   window.document.title = 'DEV: klh';
 }
@@ -10,7 +11,7 @@ if (window.location.href.includes('app-ionos')) {
 const router = createRouter({
   linkActiveClass: 'active-link',
   history: createWebHistory(),
-  historyApiFallback: true,
+  mode: 'history',
   routes: [
     { path: '/', name: 'Home', component: () => import('./views/home.vue'), alias:'/home' },
     { path: '/archive', name: 'Archive', component: () => import('./views/archive.vue') },

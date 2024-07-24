@@ -1,13 +1,13 @@
 <template>
   <div id="app">
     <globalHeader />
-    <routerView />
+    <router-view />
     <!-- <globalFooter /> -->
   </div>
 </template>
 
 <script>
-  import { routerLink, routerView } from 'vue-router';
+  import { RouterLink, RouterView } from 'vue-router';
   import globalHeader from './components/globalHeader.vue';
   // import globalFooter from './components/globalFooter.vue';
 
