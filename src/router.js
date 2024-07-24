@@ -18,7 +18,7 @@ const router = createRouter({
     { path: '/highlights', name: 'Highlights', component: () => import('./views/highlights.vue') },
     { path: '/narratives', name: 'Narratives', component: () => import('./views/narratives.vue') },
     { path: '/history', name: 'History', component: () => import('./views/history.vue') },
-    { path: '/:pathMatch(.*)*', name: 'NotFound', component:() => import('./views/404.vue') }
+    { path: '/:catchAll(.*)*', name: 'NotFound', component:() => import('./views/404.vue') }
   ],
   scrollBehavior() {
     return {x: 0, y: 0}
