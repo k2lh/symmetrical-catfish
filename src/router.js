@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 
 const routes = [
   { path: '/', name: 'Home', component: () => import('./views/home.vue'), alias:'/home' },
@@ -6,9 +6,8 @@ const routes = [
   { path: '/highlights', name: 'Highlights', component: () => import('./views/highlights.vue'), alias:'/highlights' },
   { path: '/narratives', name: 'Narratives', component: () => import('./views/narratives.vue'), alias:'/narratives' },
   { path: '/history', name: 'History', component: () => import('./views/history.vue'), alias:'/history' },
-  { path: '/404', name: 'NotFound', component: () => import('./views/404.vue') },
   // { path: '/:pathMatch(.*)*', name: 'NotFound', component:() => import('./views/404.vue') }
-  { path: '/:pathMatch(.*)*', name: 'Home', component: () => import('./views/home.vue') }
+  { path: '/:pathMatch(.*)', name: 'Home', component: () => import('./views/home.vue') }
 ]
 
 console.log('router touch');
@@ -22,13 +21,9 @@ if (window.location.href.includes('app-ionos')) {
 
 const router = createRouter({
   linkActiveClass: 'active-link',
-  history: createWebHistory(),
-  mode: 'history',
+  history: createWebHashHistory(),
+  // mode: 'history',
   routes: routes,
-  navigationFallback: {
-    'rewrite': '/',
-    'exclude': ['/images/*.{png,jpg,gif}', '/css/*']
-  },
   scrollBehavior() {
     return {x: 0, y: 0}
   }
