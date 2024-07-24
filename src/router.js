@@ -6,9 +6,11 @@ const routes = [
   { path: '/highlights', name: 'Highlights', component: () => import('./views/highlights.vue'), alias:'/highlights' },
   { path: '/narratives', name: 'Narratives', component: () => import('./views/narratives.vue'), alias:'/narratives' },
   { path: '/history', name: 'History', component: () => import('./views/history.vue'), alias:'/history' },
-
+  { path: '/404', name: 'NotFound', component:() => import('./views/404.vue') },
   // { path: '/:pathMatch(.*)*', name: 'NotFound', component:() => import('./views/404.vue') }
-  { path: '/:catchAll(.*)*', name: 'NotFound', component:() => import('./views/404.vue') }
+  // { path: '/:catchAll(.*)*', name: 'NotFound', component:() => import('./views/404.vue') }
+  { path: '/:catchAll(.*)*', redirect: { name: 'NotFound' }
+  // { path: '/:catchAll(.*)*', redirect: { name: 'NotFound', component:() => import('./views/404.vue') }
 ];
 
 if (window.location.href.includes('local')) {
