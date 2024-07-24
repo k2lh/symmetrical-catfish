@@ -18,21 +18,26 @@
             </div>
           </div>
           <div class="lower">
-            <div class="text-box">
-              <div class="title">
-                {{ item.title }}
-              </div>
-              <div class="answer">
-                {{item.industry}}
-              </div>
-              <div class="label">
-                {{item.vers}}.{{item.num}}, {{ item.stage }}
-              </div>
-              <div v-if="item.link.url" class="amswer link">
-                <a :href="item.link.url" target="_new">
-                  view file &#8594;
-                </a>
-              </div>
+            <div class="title">
+              {{ item.title }}
+            </div>
+            <div class="answer">
+              {{item.industry}}
+            </div>
+            <div class="label">
+              {{item.vers}}.{{item.num}}, {{ item.stage }}
+            </div>
+          </div>
+          <div class="footer">
+            <div v-if="item.link.url" class="answer link">
+              <a :href="item.link.url" target="_new">
+                view ({{ item.quan }}) &#8594;
+              </a>
+            </div>
+            <div v-if="!item.link.url" class="answer link">
+              <a :href="item.link.img" target="_new">
+                view ({{ item.quan }}) &#8594;
+              </a>
             </div>
           </div>
         </div>
@@ -84,6 +89,7 @@
     max-width: 1800px;
     margin: 5rem auto 0 auto;
     overflow: hidden;
+    font-size: .85rem;
   }
   .categories-pane {
     display: grid;
@@ -99,11 +105,12 @@
   }
   .container {
     padding: 1rem;
+    background: #FEFEFE;
+    height: 14rem;
   }
   .upper {
     height: 5rem;
     align-content: end;
-    padding: 0 0 .5rem 0;
   }
   .image-box {
     width: 6.5rem;
@@ -111,10 +118,13 @@
     overflow: hidden;
   }
   .lower {
-    height: 6rem;
+    height: 7rem;
   }
-  .text-box {
-
+  .footer {
+    height: 2rem;
+    margin: .5rem 0 0 0;
+    border-top: 1px solid #dfdfdf;
+    padding: .5rem 0 0  0;
   }
   .title {
     font-weight: 500;
@@ -122,16 +132,18 @@
     letter-spacing: 1px;
     margin: 0 0 .5rem 0;
     border-bottom: 1px solid #c6c5c5;
-    padding: 0 0 .25rem 0;
+    padding: .5rem 0 .25rem 0;
+    font-size: .9rem;
+    height: 2.5rem;
+  }
+  .answer, .label {
+    line-height: 1.2;
   }
   .link {
-    margin: .5rem 0 0 0;
-    padding: .25rem 0 0 0;
-    border-top: 1px dashed #c6c5c5;
-  }
-
-  .label {
-    font-size: .85rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: right;
   }
   img.clipped {
     width: 6.39rem;

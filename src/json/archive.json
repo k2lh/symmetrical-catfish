@@ -16,7 +16,7 @@
 		"industry": "Data Analytics",
 		"note": "A more complex main page thanks to increasingly detailed metadata for each linked dashboard.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/csaa-09-01-190516-page.jpg",
+			"img": "https://klh.karinoyo.com/images/csaa-09-01-190516-page.jpg",
 			"url": ""
 		}
 	},
@@ -37,7 +37,7 @@
 		"industry": "Writing",
 		"note": "A simplified and streamlined site map. ",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/chr-04-03-120712-map.jpg",
+			"img": "https://klh.karinoyo.com/images/chr-04-03-120712-map.jpg",
 			"url": ""
 		}
 	},
@@ -58,7 +58,7 @@
 		"industry": "Animal Rescue",
 		"note": "A slight case of taking a good idea a little too far.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/cat-120209-01-04-form.jpg",
+			"img": "https://klh.karinoyo.com/images/cat-120209-01-04-form.jpg",
 			"url": ""
 		}
 	},
@@ -79,8 +79,8 @@
 		"industry": "Design System",
 		"note": "Annotated (and regularly updated) guidelines for panels, fonts, charts, and helper text.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dall-09-03-190215-des.jpg",
-			"url": "https://klh.karinoyo.com/public/dall-09-02-190215-des.pdf"
+			"img": "https://klh.karinoyo.com/images/dall-09-03-190215-des.jpg",
+			"url": "https://klh.karinoyo.com/files/dall-09-02-190215-des.pdf"
 		}
 	},
 	{
@@ -100,7 +100,7 @@
 		"industry": "Service Analytics",
 		"note": "Activity page for stakeholder information, using git hooks and .md files as makeshift db.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/sda-05-03-191115-page.jpg",
+			"img": "https://klh.karinoyo.com/images/sda-05-03-191115-page.jpg",
 			"url": ""
 		}
 	},
@@ -121,7 +121,7 @@
 		"industry": "HR Analytics",
 		"note": "AI-based education dashboard with annotations.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dont-05-00-190829-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dont-05-00-190829-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -142,7 +142,7 @@
 		"industry": "HR Analytics",
 		"note": "AI-based education dashboard, incorporating billing and claims history.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dont-06-05-191001-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dont-06-05-191001-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -163,7 +163,7 @@
 		"industry": "Writing",
 		"note": "An attempt to satisfy user requests for a packed data table, but the result was unfortunately inaccessible. ",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/chr-02-02-120216-wire.jpg",
+			"img": "https://klh.karinoyo.com/images/chr-02-02-120216-wire.jpg",
 			"url": ""
 		}
 	},
@@ -184,7 +184,7 @@
 		"industry": "Writing",
 		"note": "An experiment in blending site map and user flow in a circularly-architected UI.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/chr-02-01-120712-map.jpg",
+			"img": "https://klh.karinoyo.com/images/chr-02-01-120712-map.jpg",
 			"url": ""
 		}
 	},
@@ -205,7 +205,7 @@
 		"industry": "Resource Management",
 		"note": "At-a-glance charts for tracking attrition data.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/datt-07-01-220803-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/datt-07-01-220803-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -226,7 +226,7 @@
 		"industry": "HR Analytics",
 		"note": "At-a-glance trends for delivery group onboarding.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/donb-02-01-210318-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/donb-02-01-210318-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -247,7 +247,7 @@
 		"industry": "Resume",
 		"note": "Attempt to correlate duration of experience with skill set.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/res-04-01-120707-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/res-04-01-120707-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -268,7 +268,7 @@
 		"industry": "Publishing",
 		"note": "Author administration page, for adding/revising story chapters.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/arc-05-01-120217-map.jpg",
+			"img": "https://klh.karinoyo.com/images/arc-05-01-120217-map.jpg",
 			"url": ""
 		}
 	},
@@ -289,7 +289,7 @@
 		"industry": "User Support",
 		"note": "Automated routing form to handle growing number of user requests.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ctta-200507-07-01-form.jpg",
+			"img": "https://klh.karinoyo.com/images/ctta-200507-07-01-form.jpg",
 			"url": ""
 		}
 	},
@@ -331,8 +331,8 @@
 		"industry": "Engineering",
 		"note": "Best practices for keeping team development from turning into chaos.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dev-03-09-160324-pres.jpg",
-			"url": "https://klh.karinoyo.com/public/dev-03-00-160324-pres.pdf"
+			"img": "https://klh.karinoyo.com/images/dev-03-09-160324-pres.jpg",
+			"url": "https://klh.karinoyo.com/files/dev-03-00-160324-pres.pdf"
 		}
 	},
 	{
@@ -352,7 +352,7 @@
 		"industry": "Mainframe",
 		"note": "Breakdown of page architecture and embedded reusable components.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/pow-03-01-151030-arch.jpg",
+			"img": "https://klh.karinoyo.com/images/pow-03-01-151030-arch.jpg",
 			"url": ""
 		}
 	},
@@ -373,7 +373,7 @@
 		"industry": "Publishing",
 		"note": "Chapter/story template showing metadata and comment form.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/pix-130326-03-01-form.jpg",
+			"img": "https://klh.karinoyo.com/images/pix-130326-03-01-form.jpg",
 			"url": ""
 		}
 	},
@@ -394,7 +394,7 @@
 		"industry": "Publishing",
 		"note": "Circular map, arranged in order of user workflow.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/arc-110512-05-02-form.jpg",
+			"img": "https://klh.karinoyo.com/images/arc-110512-05-02-form.jpg",
 			"url": ""
 		}
 	},
@@ -415,7 +415,7 @@
 		"industry": "Academia",
 		"note": "Circular site map, color-coded to call out specific site components.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/mrk-02-01-110207-map.jpg",
+			"img": "https://klh.karinoyo.com/images/mrk-02-01-110207-map.jpg",
 			"url": ""
 		}
 	},
@@ -436,7 +436,7 @@
 		"industry": "Sales",
 		"note": "Circular site map, using color-coding to note reused actions.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/sls-01-01-120705-map.jpg",
+			"img": "https://klh.karinoyo.com/images/sls-01-01-120705-map.jpg",
 			"url": ""
 		}
 	},
@@ -457,8 +457,8 @@
 		"industry": "Cloud",
 		"note": "Co-written API design whitepaper.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/api-02-01-170314-pres.jpg",
-			"url": "https://klh.karinoyo.com/public/api-02-01-170314-pres.pdf"
+			"img": "https://klh.karinoyo.com/images/api-02-01-170314-pres.jpg",
+			"url": "https://klh.karinoyo.com/files/api-02-01-170314-pres.pdf"
 		}
 	},
 	{
@@ -478,7 +478,7 @@
 		"industry": "Healthcare",
 		"note": "Collection of loose wireframes organized to show user flow through the pages.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/hcr-03-02-120705-map.jpg",
+			"img": "https://klh.karinoyo.com/images/hcr-03-02-120705-map.jpg",
 			"url": ""
 		}
 	},
@@ -499,7 +499,7 @@
 		"industry": "Employee Training",
 		"note": "Comparison of job role expertise, using AI inference and self-assessment, against team’s level of expertise.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dskl-04-01-190611-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dskl-04-01-190611-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -520,7 +520,7 @@
 		"industry": "Sales Analytics",
 		"note": "Complex dashboard for viewing regional go-to-market data.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dg2m-02-01-201029-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dg2m-02-01-201029-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -541,7 +541,7 @@
 		"industry": "User Support",
 		"note": "CRUD system for data scientists and analysts to manage cards for their respective dashboards.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ctta-200507-07-02-form.jpg",
+			"img": "https://klh.karinoyo.com/images/ctta-200507-07-02-form.jpg",
 			"url": ""
 		}
 	},
@@ -562,7 +562,7 @@
 		"industry": "Team Management",
 		"note": "Dashboard for first-line managers to track their team, and their own, education progress.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dtmt-03-01-190731-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dtmt-03-01-190731-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -583,7 +583,7 @@
 		"industry": "Resource Management",
 		"note": "Dashboard incorporating interactive form, for user input to calculate and project future trends.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dcap-06-02-200316-form.jpg",
+			"img": "https://klh.karinoyo.com/images/dcap-06-02-200316-form.jpg",
 			"url": ""
 		}
 	},
@@ -604,7 +604,7 @@
 		"industry": "Data Analytics",
 		"note": "Dashboard navigation for users to focus on within-group comparisons only.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dtcb-04-02-200609-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dtcb-04-02-200609-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -625,7 +625,7 @@
 		"industry": "Team Management",
 		"note": "Dashboard showing potential views dependent on metadata tracking.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dlbd-01-01-190415-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dlbd-01-01-190415-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -646,7 +646,7 @@
 		"industry": "Data Analytics",
 		"note": "Dashboard using embedded charts inside data tables.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dtcb-03-03-200127-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dtcb-03-03-200127-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -667,7 +667,7 @@
 		"industry": "User Support",
 		"note": "Detailed multi-role process for more efficient handling of user requests.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/lor-08-01-200430-lane.jpg",
+			"img": "https://klh.karinoyo.com/images/lor-08-01-200430-lane.jpg",
 			"url": ""
 		}
 	},
@@ -688,7 +688,7 @@
 		"industry": "Cloud",
 		"note": "Directory of available internal APIs.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/capi-01-01-160630-wire.jpg",
+			"img": "https://klh.karinoyo.com/images/capi-01-01-160630-wire.jpg",
 			"url": ""
 		}
 	},
@@ -709,7 +709,7 @@
 		"industry": "Cloud",
 		"note": "Directory of available internal APIs.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/capi-01-02-160630-wire.jpg",
+			"img": "https://klh.karinoyo.com/images/capi-01-02-160630-wire.jpg",
 			"url": ""
 		}
 	},
@@ -730,7 +730,7 @@
 		"industry": "Project Management",
 		"note": "Draft of metadata list based on team interviews about their personal processes.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/tpm-180402-01-01-form.jpg",
+			"img": "https://klh.karinoyo.com/images/tpm-180402-01-01-form.jpg",
 			"url": ""
 		}
 	},
@@ -772,7 +772,7 @@
 		"industry": "Writing",
 		"note": "Drawer slide up/down design for reducing cognitive load of a complicated form.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/chr-02-03-120216-wire.jpg",
+			"img": "https://klh.karinoyo.com/images/chr-02-03-120216-wire.jpg",
 			"url": ""
 		}
 	},
@@ -793,7 +793,7 @@
 		"industry": "User Research",
 		"note": "Early draft for user discussion on required and useful dataviz.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dtrn-05-04-190423-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dtrn-05-04-190423-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -814,7 +814,7 @@
 		"industry": "Data Analytics",
 		"note": "Early iteration for executive personnel ROI dashboard.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/droi-01-04-191029-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/droi-01-04-191029-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -835,7 +835,7 @@
 		"industry": "Internal Learning",
 		"note": "End-of-year discussion points for internal education programs.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ela-03-01-211019-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/ela-03-01-211019-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -856,7 +856,7 @@
 		"industry": "Internal Learning",
 		"note": "End-of-year summary on internal education programs.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ela-05-02-210311-pres.jpg",
+			"img": "https://klh.karinoyo.com/images/ela-05-02-210311-pres.jpg",
 			"url": ""
 		}
 	},
@@ -877,7 +877,7 @@
 		"industry": "Internal Learning",
 		"note": "End-of-year summary on internal education programs.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ela-05-03-210311-pres.jpg",
+			"img": "https://klh.karinoyo.com/images/ela-05-03-210311-pres.jpg",
 			"url": ""
 		}
 	},
@@ -898,7 +898,7 @@
 		"industry": "AI",
 		"note": "Example of concept in action, with design applied.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/bst-05-05-230728-pres.jpg",
+			"img": "https://klh.karinoyo.com/images/bst-05-05-230728-pres.jpg",
 			"url": ""
 		}
 	},
@@ -919,7 +919,7 @@
 		"industry": "Design System",
 		"note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dall-06-01-221003-des.jpg",
+			"img": "https://klh.karinoyo.com/images/dall-06-01-221003-des.jpg",
 			"url": ""
 		}
 	},
@@ -940,7 +940,7 @@
 		"industry": "Design System",
 		"note": "Example of dashboard design for Cognos, with modified spacing, fonts, and classes.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dall-06-02-221003-des.jpg",
+			"img": "https://klh.karinoyo.com/images/dall-06-02-221003-des.jpg",
 			"url": ""
 		}
 	},
@@ -961,7 +961,7 @@
 		"industry": "Design System",
 		"note": "Example of dashboard design, including spacing, fonts, and classes.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dall-03-04-210325-des.jpg",
+			"img": "https://klh.karinoyo.com/images/dall-03-04-210325-des.jpg",
 			"url": ""
 		}
 	},
@@ -982,7 +982,7 @@
 		"industry": "User Research",
 		"note": "Excerpt of survey, with multiple user routes depending on choices.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/svy-04-01-110111-form.jpg",
+			"img": "https://klh.karinoyo.com/images/svy-04-01-110111-form.jpg",
 			"url": ""
 		}
 	},
@@ -1003,7 +1003,7 @@
 		"industry": "User Support",
 		"note": "Executive management page for education request.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/erf-190315-03-07-form.jpg",
+			"img": "https://klh.karinoyo.com/images/erf-190315-03-07-form.jpg",
 			"url": ""
 		}
 	},
@@ -1024,7 +1024,7 @@
 		"industry": "Resource Management",
 		"note": "Experimental visualization for viewing levels of projected needs.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dcap-04-04-200512-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dcap-04-04-200512-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1045,7 +1045,7 @@
 		"industry": "User Research",
 		"note": "Exploration of filter arrangement and design in sliding drawer.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dtcb-01-14-200110-form.jpg",
+			"img": "https://klh.karinoyo.com/images/dtcb-01-14-200110-form.jpg",
 			"url": ""
 		}
 	},
@@ -1066,7 +1066,7 @@
 		"industry": "Data Analytics",
 		"note": "Exploration of visual patterns for data hierarchy.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/droi-02-01-191103-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/droi-02-01-191103-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1087,7 +1087,7 @@
 		"industry": "User Support",
 		"note": "Form for users to report issues in one place, creating better tracking.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/yin-02-02-210706-form.jpg",
+			"img": "https://klh.karinoyo.com/images/yin-02-02-210706-form.jpg",
 			"url": ""
 		}
 	},
@@ -1108,7 +1108,7 @@
 		"industry": "User Support",
 		"note": "Form to channel user access requests through a single entry point.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/yin-02-01-210706-form.jpg",
+			"img": "https://klh.karinoyo.com/images/yin-02-01-210706-form.jpg",
 			"url": ""
 		}
 	},
@@ -1129,8 +1129,8 @@
 		"industry": "Cloud",
 		"note": "Fourth iteration at addressing UX concerns.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ift-04-10-160822-wire.jpg",
-			"url": "https://klh.karinoyo.com/public/ift-04-00-160822-wire.pdf"
+			"img": "https://klh.karinoyo.com/images/ift-04-10-160822-wire.jpg",
+			"url": "https://klh.karinoyo.com/files/ift-04-00-160822-wire.pdf"
 		}
 	},
 	{
@@ -1150,8 +1150,8 @@
 		"industry": "Cloud",
 		"note": "Fifth iteration for possible page structure and organization.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ift-05-05-160914-wire.png",
-			"url": "https://klh.karinoyo.com/public/ift-05-00-160914-wire.pdf"
+			"img": "https://klh.karinoyo.com/images/ift-05-05-160914-wire.png",
+			"url": "https://klh.karinoyo.com/files/ift-05-00-160914-wire.pdf"
 		}
 	},
 	{
@@ -1192,7 +1192,7 @@
 		"industry": "Customer Service",
 		"note": "Full site map, with color-coding to call out re-used modular components.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/hap-02-01-141109-map.jpg",
+			"img": "https://klh.karinoyo.com/images/hap-02-01-141109-map.jpg",
 			"url": ""
 		}
 	},
@@ -1213,7 +1213,7 @@
 		"industry": "User Support",
 		"note": "Fully-expanded form with logic for user interaction.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/erf-190313-03-01-form.jpg",
+			"img": "https://klh.karinoyo.com/images/erf-190313-03-01-form.jpg",
 			"url": ""
 		}
 	},
@@ -1234,8 +1234,8 @@
 		"industry": "Data Management",
 		"note": "Getting a newly-built team on the same page about management tactics.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/cdo-01-01-170821-pres.jpg",
-			"url": "https://klh.karinoyo.com/public/cdo-01-01-170821-pres.pdf"
+			"img": "https://klh.karinoyo.com/images/cdo-01-01-170821-pres.jpg",
+			"url": "https://klh.karinoyo.com/files/cdo-01-01-170821-pres.pdf"
 		}
 	},
 	{
@@ -1255,7 +1255,7 @@
 		"industry": "User Support",
 		"note": "Growing catalog size necessitated a more complex filtering system. ",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ctta-12-01-200609-page.jpg",
+			"img": "https://klh.karinoyo.com/images/ctta-12-01-200609-page.jpg",
 			"url": ""
 		}
 	},
@@ -1276,7 +1276,7 @@
 		"industry": "Learning Analytics",
 		"note": "Horizontal dataviz for tracking employee training progress.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dseg-05-01-190503-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dseg-05-01-190503-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1297,7 +1297,7 @@
 		"industry": "Learning Analytics",
 		"note": "Horizontal dataviz for tracking employee training progress.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dseg-05-02-190503-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dseg-05-02-190503-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1318,8 +1318,8 @@
 		"industry": "Servers",
 		"note": "Incident report page, step 3 for walk-through presentation.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/mim-180508-03-07-form.jpg",
-			"url": "https://klh.karinoyo.com/public/mim-03-00-180508-mock.pdf"
+			"img": "https://klh.karinoyo.com/images/mim-180508-03-07-form.jpg",
+			"url": "https://klh.karinoyo.com/files/mim-03-00-180508-mock.pdf"
 		}
 	},
 	{
@@ -1339,8 +1339,8 @@
 		"industry": "Servers",
 		"note": "Incident report page, step 7 for walk-through presentation.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/mim-02-04-180429-mock.png",
-			"url": "https://klh.karinoyo.com/public/mim-02-00-180429-mock.pdf"
+			"img": "https://klh.karinoyo.com/images/mim-02-04-180429-mock.png",
+			"url": "https://klh.karinoyo.com/files/mim-02-00-180429-mock.pdf"
 		}
 	},
 	{
@@ -1360,7 +1360,7 @@
 		"industry": "Animal Rescue",
 		"note": "Incorporating accessibility lessons learned while consulting.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/cat-120209-01-07-form.jpg",
+			"img": "https://klh.karinoyo.com/images/cat-120209-01-07-form.jpg",
 			"url": ""
 		}
 	},
@@ -1381,7 +1381,7 @@
 		"industry": "Service Analytics",
 		"note": "Introducing and explaining steps to prepare data for analytics use.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/sda-05-09-191115-page.jpg",
+			"img": "https://klh.karinoyo.com/images/sda-05-09-191115-page.jpg",
 			"url": ""
 		}
 	},
@@ -1402,8 +1402,8 @@
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/sda-05-05-190322-pres.jpg",
-			"url": "https://klh.karinoyo.com/public/sda-05-05-190322-pres.pdf"
+			"img": "https://klh.karinoyo.com/images/sda-05-05-190322-pres.jpg",
+			"url": "https://klh.karinoyo.com/files/sda-05-05-190322-pres.pdf"
 		}
 	},
 	{
@@ -1423,7 +1423,7 @@
 		"industry": "Project Management",
 		"note": "Journey map based on team members’ rankings of tasks by difficulty/stress.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/tpm-02-01-180410-lane.jpg",
+			"img": "https://klh.karinoyo.com/images/tpm-02-01-180410-lane.jpg",
 			"url": ""
 		}
 	},
@@ -1444,7 +1444,7 @@
 		"industry": "Resume",
 		"note": "Ladder visualization to show chronology of positions and skills.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/res-05-02-120708-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/res-05-02-120708-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1465,7 +1465,7 @@
 		"industry": "Resource Management",
 		"note": "Left-justified bar chart for comparing personnel needs across teams. ",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dcap-04-03-200512-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dcap-04-03-200512-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1486,7 +1486,7 @@
 		"industry": "Pharmacology",
 		"note": "Map including 2nd and 3rd sub-level tiers.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/abc-05-02-080229-map.jpg",
+			"img": "https://klh.karinoyo.com/images/abc-05-02-080229-map.jpg",
 			"url": ""
 		}
 	},
@@ -1507,7 +1507,7 @@
 		"industry": "HR Analytics",
 		"note": "Mapping concept and purpose of new dashboard.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dont-01-01-181202-map.jpg",
+			"img": "https://klh.karinoyo.com/images/dont-01-01-181202-map.jpg",
 			"url": ""
 		}
 	},
@@ -1528,7 +1528,7 @@
 		"industry": "Resource Management",
 		"note": "Mocked for demonstrating and explaining an advanced-level dataviz.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dcap-04-06-200512-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dcap-04-06-200512-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1549,7 +1549,7 @@
 		"industry": "Employee Training",
 		"note": "Mocked showing the use of annotation in explaining data sources and calculations.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dskl-04-02-190614-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dskl-04-02-190614-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1570,7 +1570,7 @@
 		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dexv-06-01-190419-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dexv-06-01-190419-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1591,7 +1591,7 @@
 		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dexv-06-04-190419-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dexv-06-04-190419-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1612,7 +1612,7 @@
 		"industry": "User Research",
 		"note": "Mocked dashboard for gathering user thoughts and reactions.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dexv-06-05-190417-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dexv-06-05-190417-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1633,7 +1633,7 @@
 		"industry": "Team Management",
 		"note": "Mocked dashboard using only available types of data.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dlbd-02-01-190418-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dlbd-02-01-190418-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1654,7 +1654,7 @@
 		"industry": "Resource Management",
 		"note": "Mocked dashboard using split vertical bar charts to show training program trends.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dseg-05-12-190510-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dseg-05-12-190510-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1675,7 +1675,7 @@
 		"industry": "User Research",
 		"note": "Mocked dashboard with over-use of piecharts.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dexv-01-01-180928-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dexv-01-01-180928-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1696,7 +1696,7 @@
 		"industry": "User Research",
 		"note": "Mocked dashboard with third iteration dataviz ideas.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dexv-04-01-190116-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dexv-04-01-190116-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1717,7 +1717,7 @@
 		"industry": "User Research",
 		"note": "Mocked dashboard with too many colors.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dexv-02-01-180927-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dexv-02-01-180927-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1738,7 +1738,7 @@
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a BAN/bullet combination.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/da2t-02-01-191016-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/da2t-02-01-191016-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1759,7 +1759,7 @@
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a funnel-style visual.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/da2t-04-01-190612-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/da2t-04-01-190612-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1780,7 +1780,7 @@
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with a pie/table combination.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/da2t-01-01-190719-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/da2t-01-01-190719-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1801,7 +1801,7 @@
 		"industry": "Learning Analytics",
 		"note": "Mockup for user interviews to measure speed and depth of user comprehension with trending data.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/da2t-03-01-190613-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/da2t-03-01-190613-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1822,7 +1822,7 @@
 		"industry": "Tourism",
 		"note": "Modified wordpress features to create sub-site for vendors to apply, pay for, and track their festival spots. ",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/zlk-03-01-130505-page.jpg",
+			"img": "https://klh.karinoyo.com/images/zlk-03-01-130505-page.jpg",
 			"url": ""
 		}
 	},
@@ -1843,7 +1843,7 @@
 		"industry": "Service Analytics",
 		"note": "One of 100+ chart types documented, with tips for when, how, and why to use each.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/sda-05-08-191115-page.jpg",
+			"img": "https://klh.karinoyo.com/images/sda-05-08-191115-page.jpg",
 			"url": ""
 		}
 	},
@@ -1864,7 +1864,7 @@
 		"industry": "Learning Analytics",
 		"note": "Operational tab for viewing training program trends.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dsvc-03-01-191010-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dsvc-03-01-191010-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1885,7 +1885,7 @@
 		"industry": "Learning Analytics",
 		"note": "Operational tab for viewing training program trends.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dsvc-04-01-191011-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dsvc-04-01-191011-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -1906,7 +1906,7 @@
 		"industry": "Cloud",
 		"note": "Option A for API gateway design.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/api-06-04-170205-arch.jpg",
+			"img": "https://klh.karinoyo.com/images/api-06-04-170205-arch.jpg",
 			"url": ""
 		}
 	},
@@ -1927,7 +1927,7 @@
 		"industry": "Cloud",
 		"note": "Option B for API gateway design.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/api-06-05-170206-arch.jpg",
+			"img": "https://klh.karinoyo.com/images/api-06-05-170206-arch.jpg",
 			"url": ""
 		}
 	},
@@ -1948,7 +1948,7 @@
 		"industry": "Sales",
 		"note": "Page architecture demonstrating the structure created by reusable and embedded components.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/mob-02-01-131001-arch.jpg",
+			"img": "https://klh.karinoyo.com/images/mob-02-01-131001-arch.jpg",
 			"url": ""
 		}
 	},
@@ -1969,7 +1969,7 @@
 		"industry": "Pharmacology",
 		"note": "Page architecture, arranged in a manner slightly less terrifying for shareholders.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/abc-05-01-080117-map.jpg",
+			"img": "https://klh.karinoyo.com/images/abc-05-01-080117-map.jpg",
 			"url": ""
 		}
 	},
@@ -1990,8 +1990,8 @@
 		"industry": "Data Management",
 		"note": "Paper about the necessity of centralizing data and integrating design for a more efficient business.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/cdo-03-01-170523-paper.jpg",
-			"url": "https://klh.karinoyo.com/public/cdo-03-01-170523-paper.pdf"
+			"img": "https://klh.karinoyo.com/images/cdo-03-01-170523-paper.jpg",
+			"url": "https://klh.karinoyo.com/files/cdo-03-01-170523-paper.pdf"
 		}
 	},
 	{
@@ -2011,8 +2011,8 @@
 		"industry": "Data Management",
 		"note": "Paper to support Cognitive Platform initiative. (Boy do those dashboard images make me cringe, now.)",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/cdo-04-01-170523-paper.jpg",
-			"url": "https://klh.karinoyo.com/public/cdo-04-01-170523-paper.pdf"
+			"img": "https://klh.karinoyo.com/images/cdo-04-01-170523-paper.jpg",
+			"url": "https://klh.karinoyo.com/files/cdo-04-01-170523-paper.pdf"
 		}
 	},
 	{
@@ -2032,7 +2032,7 @@
 		"industry": "Customer Service",
 		"note": "Preliminary mockup for customer support site.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/hap-01-06-141105-page.jpg",
+			"img": "https://klh.karinoyo.com/images/hap-01-06-141105-page.jpg",
 			"url": ""
 		}
 	},
@@ -2053,7 +2053,7 @@
 		"industry": "Customer Service",
 		"note": "Preliminary mockup for customer support site.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/hap-01-13-141105-page.jpg",
+			"img": "https://klh.karinoyo.com/images/hap-01-13-141105-page.jpg",
 			"url": ""
 		}
 	},
@@ -2074,7 +2074,7 @@
 		"industry": "Pharmacology",
 		"note": "Preliminary page architecture for development planning.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/abc-04-01-070712-arch.jpg",
+			"img": "https://klh.karinoyo.com/images/abc-04-01-070712-arch.jpg",
 			"url": ""
 		}
 	},
@@ -2095,7 +2095,7 @@
 		"industry": "User Research",
 		"note": "Preliminary visual for stakeholder discussion on organizing related dashboards. ",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ctta-02-02-191005-map.jpg",
+			"img": "https://klh.karinoyo.com/images/ctta-02-02-191005-map.jpg",
 			"url": ""
 		}
 	},
@@ -2116,7 +2116,7 @@
 		"industry": "User Support",
 		"note": "Process flow identifying involved roles and data movement.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/erf-02-01-190311-flow.jpg",
+			"img": "https://klh.karinoyo.com/images/erf-02-01-190311-flow.jpg",
 			"url": ""
 		}
 	},
@@ -2137,7 +2137,7 @@
 		"industry": "Privacy",
 		"note": "Process flow modified into a swim lane approach.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/gdp-10-01-171129-lane.jpg",
+			"img": "https://klh.karinoyo.com/images/gdp-10-01-171129-lane.jpg",
 			"url": ""
 		}
 	},
@@ -2158,7 +2158,7 @@
 		"industry": "Writing",
 		"note": "Production version of character management webapp, showing dropdown contents.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/chr-03-05-151116-page.jpg",
+			"img": "https://klh.karinoyo.com/images/chr-03-05-151116-page.jpg",
 			"url": ""
 		}
 	},
@@ -2179,7 +2179,7 @@
 		"industry": "Writing",
 		"note": "Production version of character management webapp, showing dropdown contents.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/chr-151116-03-07-form.jpg",
+			"img": "https://klh.karinoyo.com/images/chr-151116-03-07-form.jpg",
 			"url": ""
 		}
 	},
@@ -2200,7 +2200,7 @@
 		"industry": "Service Analytics",
 		"note": "Production version of site main page.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/sda-05-01-191115-page.jpg",
+			"img": "https://klh.karinoyo.com/images/sda-05-01-191115-page.jpg",
 			"url": ""
 		}
 	},
@@ -2221,7 +2221,7 @@
 		"industry": "Healthcare",
 		"note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/hci-01-01-180412-page.jpg",
+			"img": "https://klh.karinoyo.com/images/hci-01-01-180412-page.jpg",
 			"url": ""
 		}
 	},
@@ -2242,7 +2242,7 @@
 		"industry": "Healthcare",
 		"note": "Proposed dashboard for a new analytics feature in the client’s intranet.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/hci-01-02-180412-page.jpg",
+			"img": "https://klh.karinoyo.com/images/hci-01-02-180412-page.jpg",
 			"url": ""
 		}
 	},
@@ -2263,7 +2263,7 @@
 		"industry": "Team Management",
 		"note": "Proposed dashboard for first-line managers to view team skills and levels of expertise.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dtmt-01-01-190527-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dtmt-01-01-190527-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -2284,7 +2284,7 @@
 		"industry": "User Research",
 		"note": "Proposed dashboard redesign from Tableau to D3 version.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dtrn-07-01-190531-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dtrn-07-01-190531-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -2306,7 +2306,7 @@
 		"note": "Prototype demonstrating viability of SSO between two distinct webapps.",
 		"link": {
 			"img": "",
-			"url": "https://raw.githubusercontent.com/k2lh/symmetrical-catfish/main/public/hol-cde-03-02-130811.js"
+			"url": "https://github.com/k2lh/symmetrical-catfish/blob/main/public/hol-cde-03-02-130811.js"
 		}
 	},
 	{
@@ -2326,7 +2326,7 @@
 		"industry": "Writing",
 		"note": "Prototype for character management webapp. ",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/chr-02-04-110509-page.jpg",
+			"img": "https://klh.karinoyo.com/images/chr-02-04-110509-page.jpg",
 			"url": ""
 		}
 	},
@@ -2347,7 +2347,7 @@
 		"industry": "Writing",
 		"note": "Prototype for character management webapp. ",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/chr-120705-02-07-form.jpg",
+			"img": "https://klh.karinoyo.com/images/chr-120705-02-07-form.jpg",
 			"url": ""
 		}
 	},
@@ -2368,7 +2368,7 @@
 		"industry": "Data Analytics",
 		"note": "Prototype inventory site tracking the team’s projects.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/csaa-01-01-181105-page.jpg",
+			"img": "https://klh.karinoyo.com/images/csaa-01-01-181105-page.jpg",
 			"url": ""
 		}
 	},
@@ -2389,7 +2389,7 @@
 		"industry": "Learning Analytics",
 		"note": "Prototype of pie/bullet combination with a data table.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/da2t-01-02-190719-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/da2t-01-02-190719-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -2410,7 +2410,7 @@
 		"industry": "User Research",
 		"note": "Quick mock created during user discussions, using placeholder dataviz with fake data.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dedv-01-03-191010-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dedv-01-03-191010-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -2431,7 +2431,7 @@
 		"industry": "Internal Learning",
 		"note": "Revised version incorporating user and data scientist feedback.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dtrn-05-01-190422-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dtrn-05-01-190422-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -2452,7 +2452,7 @@
 		"industry": "Academia",
 		"note": "Rough mockup of app’s responsive behavior.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/mrk-02-05-110709-mock.jpg",
+			"img": "https://klh.karinoyo.com/images/mrk-02-05-110709-mock.jpg",
 			"url": ""
 		}
 	},
@@ -2473,8 +2473,8 @@
 		"industry": "Cloud",
 		"note": "Rough sketch of application workflows and combinations.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ift-01-03-160702-pres.jpg",
-			"url": "https://klh.karinoyo.com/public/ift-01-00-160702-pres.pdf"
+			"img": "https://klh.karinoyo.com/images/ift-01-03-160702-pres.jpg",
+			"url": "https://klh.karinoyo.com/files/ift-01-00-160702-pres.pdf"
 		}
 	},
 	{
@@ -2494,8 +2494,8 @@
 		"industry": "Platform (PAAS)",
 		"note": "Showing user movement through the webapp, with design system applied.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ccts-01-01-170505-tour.jpg",
-			"url": "https://klh.karinoyo.com/public/ccts-01-01-170505-tour.pdf"
+			"img": "https://klh.karinoyo.com/images/ccts-01-01-170505-tour.jpg",
+			"url": "https://klh.karinoyo.com/files/ccts-01-01-170505-tour.pdf"
 		}
 	},
 	{
@@ -2515,7 +2515,7 @@
 		"industry": "Tourism",
 		"note": "Simple wordpress site with information for volunteers and attendants.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/zlk-01-01-110516-page.jpg",
+			"img": "https://klh.karinoyo.com/images/zlk-01-01-110516-page.jpg",
 			"url": ""
 		}
 	},
@@ -2536,7 +2536,7 @@
 		"industry": "AI",
 		"note": "Simplified visuals for non-technical investors.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/bst-05-07-230728-pres.jpg",
+			"img": "https://klh.karinoyo.com/images/bst-05-07-230728-pres.jpg",
 			"url": ""
 		}
 	},
@@ -2557,7 +2557,7 @@
 		"industry": "Sales",
 		"note": "Site architecture demonstrating each page’s composition of modular components.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/mob-03-02-131004-arch.jpg",
+			"img": "https://klh.karinoyo.com/images/mob-03-02-131004-arch.jpg",
 			"url": ""
 		}
 	},
@@ -2578,7 +2578,7 @@
 		"industry": "Healthcare",
 		"note": "Site map showing user choices, interactions, and overlaps between paths.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/hcr-04-01-120712-map.jpg",
+			"img": "https://klh.karinoyo.com/images/hcr-04-01-120712-map.jpg",
 			"url": ""
 		}
 	},
@@ -2599,7 +2599,7 @@
 		"industry": "Cloud",
 		"note": "Site map, color-coded to show identified reusable components.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ift-07-01-160920-map.jpg",
+			"img": "https://klh.karinoyo.com/images/ift-07-01-160920-map.jpg",
 			"url": ""
 		}
 	},
@@ -2620,7 +2620,7 @@
 		"industry": "Tourism",
 		"note": "Site redesign to be fully responsive. (Attendants liked it so much, they crashed the hosting company’s servers.)",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/zlk-02-02-120706-page.jpg",
+			"img": "https://klh.karinoyo.com/images/zlk-02-02-120706-page.jpg",
 			"url": ""
 		}
 	},
@@ -2641,7 +2641,7 @@
 		"industry": "User Support",
 		"note": "Standardized information collection for report and dashboard requests.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/yin-02-04-210706-form.jpg",
+			"img": "https://klh.karinoyo.com/images/yin-02-04-210706-form.jpg",
 			"url": ""
 		}
 	},
@@ -2662,7 +2662,7 @@
 		"industry": "AI",
 		"note": "Start-point of animation in login page.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/bst-02-01-230718-mock.jpg",
+			"img": "https://klh.karinoyo.com/images/bst-02-01-230718-mock.jpg",
 			"url": ""
 		}
 	},
@@ -2704,7 +2704,7 @@
 		"industry": "Resume",
 		"note": "Sunburst visualization adapted to show experience by skill.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/res-02-07-110922-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/res-02-07-110922-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -2725,7 +2725,7 @@
 		"industry": "Finance",
 		"note": "Swim lane modified to include notations for data movement and user interaction.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/wst-01-07-171103-lane.jpg",
+			"img": "https://klh.karinoyo.com/images/wst-01-07-171103-lane.jpg",
 			"url": ""
 		}
 	},
@@ -2746,7 +2746,7 @@
 		"industry": "User Research",
 		"note": "Swim lanes based on user interviews and executive input.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/erf-01-01-190220-lane.jpg",
+			"img": "https://klh.karinoyo.com/images/erf-01-01-190220-lane.jpg",
 			"url": ""
 		}
 	},
@@ -2767,7 +2767,7 @@
 		"industry": "Resource Management",
 		"note": "Target tracking by region, with RAG-style visualizations.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/djrs-02-01-210505-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/djrs-02-01-210505-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -2788,7 +2788,7 @@
 		"industry": "Privacy",
 		"note": "The 7th iteration of ultimately 19 versions detailing the complicated GDPR process.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/gdp-07-01-171110-flow.jpg",
+			"img": "https://klh.karinoyo.com/images/gdp-07-01-171110-flow.jpg",
 			"url": ""
 		}
 	},
@@ -2809,7 +2809,7 @@
 		"industry": "Cloud",
 		"note": "Fourth iteration of application UI architecture.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ift-04-13-160830-arch.jpg",
+			"img": "https://klh.karinoyo.com/images/ift-04-13-160830-arch.jpg",
 			"url": ""
 		}
 	},
@@ -2830,8 +2830,8 @@
 		"industry": "Cloud",
 		"note": "Third iteration covering page structure and organization.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ift-160817-03-07-form.jpg",
-			"url": "https://klh.karinoyo.com/public/ift-03-00-160817-wire.pdf"
+			"img": "https://klh.karinoyo.com/images/ift-160817-03-07-form.jpg",
+			"url": "https://klh.karinoyo.com/files/ift-03-00-160817-wire.pdf"
 		}
 	},
 	{
@@ -2851,7 +2851,7 @@
 		"industry": "Sales",
 		"note": "Traditional site map, also with color-coding to identify patterns.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/sls-02-01-120712-map.jpg",
+			"img": "https://klh.karinoyo.com/images/sls-02-01-120712-map.jpg",
 			"url": ""
 		}
 	},
@@ -2872,7 +2872,7 @@
 		"industry": "Publishing",
 		"note": "Two screenshots of admin pages, for managing tagging and multi-part stories.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/pix-03-02-130326-form.jpg",
+			"img": "https://klh.karinoyo.com/images/pix-03-02-130326-form.jpg",
 			"url": ""
 		}
 	},
@@ -2893,7 +2893,7 @@
 		"industry": "Data Analytics",
 		"note": "Users nicknamed the boxes ‘cards’, inspiring the metaphor of a card catalog.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/csaa-03-01-181107-page.jpg",
+			"img": "https://klh.karinoyo.com/images/csaa-03-01-181107-page.jpg",
 			"url": ""
 		}
 	},
@@ -2914,7 +2914,7 @@
 		"industry": "User Research",
 		"note": "Variations to help users identify which dataviz best matches with their ‘view’ of the data.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dcap-01-00-191204-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/dcap-01-00-191204-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -2935,7 +2935,7 @@
 		"industry": "Data Management",
 		"note": "Visual for possible data lake organization and architecture.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dlk-02-06-180217-arch.jpg",
+			"img": "https://klh.karinoyo.com/images/dlk-02-06-180217-arch.jpg",
 			"url": ""
 		}
 	},
@@ -2956,7 +2956,7 @@
 		"industry": "AI",
 		"note": "Visual metaphor for the creation of AI-based ontologies.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/bst-04-05-230831-mock.jpg",
+			"img": "https://klh.karinoyo.com/images/bst-04-05-230831-mock.jpg",
 			"url": ""
 		}
 	},
@@ -2977,7 +2977,7 @@
 		"industry": "Data Management",
 		"note": "Visual representation of how a centralized data office connects and integrates with its client teams.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/cdo-04-01-170510-map.jpg",
+			"img": "https://klh.karinoyo.com/images/cdo-04-01-170510-map.jpg",
 			"url": ""
 		}
 	},
@@ -2998,7 +2998,7 @@
 		"industry": "Resource Management",
 		"note": "Visualization index with complex data tables for tracking attrition rates.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/datt-07-02-220806-dviz.jpg",
+			"img": "https://klh.karinoyo.com/images/datt-07-02-220806-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -3040,7 +3040,7 @@
 		"industry": "Cloud",
 		"note": "Working version of the proposed API architecture.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/api-01-01-170127-arch.jpg",
+			"img": "https://klh.karinoyo.com/images/api-01-01-170127-arch.jpg",
 			"url": ""
 		}
 	},
@@ -3082,8 +3082,8 @@
 		"industry": "Data Analytics",
 		"note": "Walk-through of one idea of how to represent and explain the process to users.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/dont-07-00-190724-tour.jpg",
-			"url": "https://klh.karinoyo.com/public/dont-07-00-190724-tour.pdf"
+			"img": "https://klh.karinoyo.com/images/dont-07-00-190724-tour.jpg",
+			"url": "https://klh.karinoyo.com/files/dont-07-00-190724-tour.pdf"
 		}
 	},
 	{
@@ -3103,7 +3103,7 @@
 		"industry": "Cloud",
 		"note": "An off-the-cuff workflow concept using mocked images.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ift-04-18-160830-flow.png",
+			"img": "https://klh.karinoyo.com/images/ift-04-18-160830-flow.png",
 			"url": ""
 		}
 	},
@@ -3124,7 +3124,7 @@
 		"industry": "Cloud",
 		"note": "A deeper dive into user and application workflow.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ift-04-19-160824-flow.jpg",
+			"img": "https://klh.karinoyo.com/images/ift-04-19-160824-flow.jpg",
 			"url": ""
 		}
 	},
@@ -3145,7 +3145,7 @@
 		"industry": "Cloud",
 		"note": "On-the-fly visual for application processes.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/ift-05-03-160901-arch.jpg",
+			"img": "https://klh.karinoyo.com/images/ift-05-03-160901-arch.jpg",
 			"url": ""
 		}
 	},
@@ -3167,7 +3167,7 @@
 		"note": "Second iteration covering page structure and organization.",
 		"link": {
 			"img": "",
-			"url": "https://klh.karinoyo.com/public/ift-02-04-160712-tour.pdf"
+			"url": "https://klh.karinoyo.com/files/ift-02-04-160712-tour.pdf"
 		}
 	},
 	{
@@ -3187,8 +3187,8 @@
 		"industry": "Learning",
 		"note": "Walk-through mockups for proposed course tagging process.",
 		"link": {
-			"img": "https://klh.karinoyo.com/public/tag-03-04-210301-mock.jpg",
-			"url": "https://klh.karinoyo.com/public/tag-03-00-210301-mock.pdf"
+			"img": "https://klh.karinoyo.com/images/tag-03-04-210301-mock.jpg",
+			"url": "https://klh.karinoyo.com/files/tag-03-00-210301-mock.pdf"
 		}
 	}
 ]
