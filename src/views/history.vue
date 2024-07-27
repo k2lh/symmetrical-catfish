@@ -25,7 +25,7 @@
           </div>
         </div>
         <div class="pure-u-1-1 pure-u-md-1-4">
-          <div class="description">
+          <div class="description roles">
             <div v-if="job.lead" class="boxlabel">
               Team Leader
             </div>
@@ -60,7 +60,7 @@
 <style scoped lang="scss">
   .history {
     max-width: 1800px;
-    margin: 5rem auto 0 auto;
+    padding: 2rem 0 0 0;
     font-size: .9rem;
   }
   .title {
@@ -70,9 +70,13 @@
   .metadata {
     text-align: right;
     padding: 1rem;
+    margin: 0 1rem;
   }
   .description {
     padding: 1rem;
+    &.roles {
+      margin: 0 1rem;
+    }
   }
   ul.points {
     margin: 0;

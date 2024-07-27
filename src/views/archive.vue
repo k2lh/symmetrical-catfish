@@ -63,23 +63,23 @@
     },
     data() {
       return {
-        groups: [],
+        groups: array,
         ind: 0,
         selected: {},
         isVisible: false,
         prefix: '..'
       }
-    },
-    created() {
-      this.getData(array);
-    },
-    methods: {
-      getData: function(array) {
-        var img;
-        var set;
-        set = array.sort((a, b) => (a.year < b.year) ? 1 : -1);
-        this.groups = set;
-      }
+    // },
+    // created() {
+    //   this.getData(array);
+    // },
+    // methods: {
+    //   getData: function(array) {
+    //     var img;
+    //     var set;
+    //     // set = array.sort((a, b) => (a.year < b.year) ? 1 : -1);
+    //     this.groups = set;
+    //   }
     }
   };
 </script>
@@ -87,10 +87,10 @@
 <style scoped lang="scss">
   .archive {
     overflow: hidden;
+    padding: 2rem;
   }
   .categories-pane {
     display: grid;
-    margin: 0 auto;
   }
   .category {
     margin-bottom: 0;
@@ -147,7 +147,7 @@
   }
   @media only screen and (max-width: 2040px) {
     .categories-pane {
-      max-width: 80%;
+      max-width: 100%;
     }
   }
 </style>

@@ -78,6 +78,7 @@
 <style scoped lang="scss">
   .highlights {
     overflow: hidden;
+    padding: 2rem 0 0 0;
   }
   .boxed {
     padding: .5rem 1rem .5rem .25rem;
