@@ -1,22 +1,22 @@
 [
 	{
 		"dex": 1,
-		"title": "Onboarding Tracking",
-		"proj": "donb",
-		"vers": "02",
+		"title": "Catalog Design, 1st Anniversary",
+		"proj": "ctta",
+		"vers": "12",
 		"num": "01",
-		"year": 2021,
+		"year": 2020,
 		"ftype": "",
 		"has_img": true,
 		"has_set": false,
 		"quan": 1,
-		"cat": "dataviz",
-		"stage": "revision",
+		"cat": "page",
+		"stage": "final",
 		"anno": false,
-		"industry": "HR Analytics",
-		"note": "Trending data for delivery group onboarding, at-a-glance style.",
+		"industry": "User Support",
+		"note": "Growing catalog size necessitated a more complex filtering system. ",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/donb-02-01-210318-dviz.jpg",
+			"img": "https://klh.karinoyo.com/static/ctta-12-01-200609-page.jpg",
 			"url": ""
 		}
 	},
@@ -43,6 +43,27 @@
 	},
 	{
 		"dex": 3,
+		"title": "Tableau/SSO Logic & Methods",
+		"proj": "cssa",
+		"vers": "05",
+		"num": "01",
+		"year": 2020,
+		"ftype": "git",
+		"has_img": false,
+		"has_set": false,
+		"quan": 1,
+		"cat": "code",
+		"stage": "revision",
+		"anno": false,
+		"industry": "Data Analytics",
+		"note": "Frame page for embedded dashboards, with logic for SSO setup.",
+		"link": {
+			"img": "",
+			"url": "https://github.com/k2lh/catalog-v4-frontend/blob/master/src/views/frame.vue"
+		}
+	},
+	{
+		"dex": 4,
 		"title": "Dataviz Funnel Exploration",
 		"proj": "da2t",
 		"vers": "04",
@@ -59,27 +80,6 @@
 		"note": "User interview visual for determining user comprehension of a funnel-style visual.",
 		"link": {
 			"img": "https://klh.karinoyo.com/static/da2t-04-01-190612-dviz.jpg",
-			"url": ""
-		}
-	},
-	{
-		"dex": 4,
-		"title": "GDPR Process Mapping",
-		"proj": "gdp",
-		"vers": "10",
-		"num": "01",
-		"year": 2017,
-		"ftype": "",
-		"has_img": true,
-		"has_set": false,
-		"quan": 1,
-		"cat": "swimlane",
-		"stage": "draft",
-		"anno": true,
-		"industry": "Privacy",
-		"note": "Process flow modified into a swim lane approach.",
-		"link": {
-			"img": "https://klh.karinoyo.com/static/gdp-10-01-171129-lane.jpg",
 			"url": ""
 		}
 	},
@@ -148,48 +148,69 @@
 	},
 	{
 		"dex": 8,
-		"title": "Legacy-to-Modern SSO",
-		"proj": "hol",
-		"vers": "03",
-		"num": "02",
-		"year": 2013,
-		"ftype": "git",
-		"has_img": false,
-		"has_set": false,
-		"quan": 1,
-		"cat": "code",
-		"stage": "final",
-		"anno": false,
-		"industry": "Finance",
-		"note": "Prototype demonstrating viability of SSO between two distinct webapps.",
-		"link": {
-			"img": "",
-			"url": "https://github.com/k2lh/symmetrical-catfish/blob/main/public/hol-cde-03-02-130811.js"
-		}
-	},
-	{
-		"dex": 9,
-		"title": "Reader-Writer Survey",
-		"proj": "svy",
-		"vers": "04",
-		"num": "01",
-		"year": 2011,
+		"title": "Points for EOY Discussion",
+		"proj": "ela",
+		"vers": "05",
+		"num": "03",
+		"year": 2021,
 		"ftype": "",
 		"has_img": true,
 		"has_set": false,
 		"quan": 1,
-		"cat": "form",
+		"cat": "presentation",
 		"stage": "final",
 		"anno": false,
-		"industry": "User Research",
-		"note": "Excerpt of survey, with multiple user routes depending on choices.",
+		"industry": "Internal Learning",
+		"note": "End-of-year summary on internal education programs.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/svy-04-01-110111-form.jpg",
+			"img": "https://klh.karinoyo.com/static/ela-05-03-210311-pres.jpg",
+			"url": ""
+		}
+	},
+	{
+		"dex": 9,
+		"title": "Time Contribution",
+		"proj": "dtcb",
+		"vers": "04",
+		"num": "02",
+		"year": 2020,
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
+		"cat": "dataviz",
+		"stage": "revision",
+		"anno": false,
+		"industry": "Data Analytics",
+		"note": "Navigation idea for users to focus on within-group comparisons only.",
+		"link": {
+			"img": "https://klh.karinoyo.com/static/dtcb-04-02-200609-dviz.jpg",
 			"url": ""
 		}
 	},
 	{
 		"dex": 10,
+		"title": "System Content Architecture",
+		"proj": "des",
+		"vers": "03",
+		"num": "01",
+		"year": 2023,
+		"ftype": "txt",
+		"has_img": false,
+		"has_set": false,
+		"quan": 1,
+		"cat": "text",
+		"stage": "revision",
+		"anno": false,
+		"industry": "Design System",
+		"note": "Full outline for design system documentation, including future topics.",
+		"link": {
+			"img": "",
+			"url": "https://raw.githubusercontent.com/k2lh/symmetrical-catfish/main/public/des-01-04-230120-text.txt"
+		}
+	},
+	{
+		"dex": 11,
 		"title": "Character Physiology Page",
 		"proj": "chr",
 		"vers": "02",
@@ -210,7 +231,7 @@
 		}
 	},
 	{
-		"dex": 11,
+		"dex": 12,
 		"title": "Applying Design Thinking to APIs",
 		"proj": "api",
 		"vers": "02",
@@ -231,7 +252,7 @@
 		}
 	},
 	{
-		"dex": 12,
+		"dex": 13,
 		"title": "Team Management",
 		"proj": "dtmt",
 		"vers": "03",
@@ -248,27 +269,6 @@
 		"note": "First-line managers’ dashboard for tracking their team’s (and their own) education progress.",
 		"link": {
 			"img": "https://klh.karinoyo.com/static/dtmt-03-01-190731-dviz.jpg",
-			"url": ""
-		}
-	},
-	{
-		"dex": 13,
-		"title": "Time Contribution",
-		"proj": "dtcb",
-		"vers": "04",
-		"num": "02",
-		"year": 2020,
-		"ftype": "",
-		"has_img": true,
-		"has_set": false,
-		"quan": 1,
-		"cat": "dataviz",
-		"stage": "revision",
-		"anno": false,
-		"industry": "Data Analytics",
-		"note": "Navigation idea for users to focus on within-group comparisons only.",
-		"link": {
-			"img": "https://klh.karinoyo.com/static/dtcb-04-02-200609-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -337,22 +337,22 @@
 	},
 	{
 		"dex": 18,
-		"title": "Catalog Design, 1st Anniversary",
-		"proj": "ctta",
-		"vers": "12",
+		"title": "Onboarding Tracking",
+		"proj": "donb",
+		"vers": "02",
 		"num": "01",
-		"year": 2020,
+		"year": 2021,
 		"ftype": "",
 		"has_img": true,
 		"has_set": false,
 		"quan": 1,
-		"cat": "page",
-		"stage": "final",
+		"cat": "dataviz",
+		"stage": "revision",
 		"anno": false,
-		"industry": "User Support",
-		"note": "Growing catalog size necessitated a more complex filtering system. ",
+		"industry": "HR Analytics",
+		"note": "Trending data for delivery group onboarding, at-a-glance style.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/ctta-12-01-200609-page.jpg",
+			"img": "https://klh.karinoyo.com/static/donb-02-01-210318-dviz.jpg",
 			"url": ""
 		}
 	},
@@ -379,23 +379,23 @@
 	},
 	{
 		"dex": 20,
-		"title": "Points for EOY Discussion",
-		"proj": "ela",
-		"vers": "05",
-		"num": "03",
-		"year": 2021,
-		"ftype": "",
-		"has_img": true,
+		"title": "Legacy-to-Modern SSO",
+		"proj": "hol",
+		"vers": "03",
+		"num": "02",
+		"year": 2013,
+		"ftype": "git",
+		"has_img": false,
 		"has_set": false,
 		"quan": 1,
-		"cat": "presentation",
+		"cat": "code",
 		"stage": "final",
 		"anno": false,
-		"industry": "Internal Learning",
-		"note": "End-of-year summary on internal education programs.",
+		"industry": "Finance",
+		"note": "Prototype demonstrating viability of SSO between two distinct webapps.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/ela-05-03-210311-pres.jpg",
-			"url": ""
+			"img": "",
+			"url": "https://github.com/k2lh/symmetrical-catfish/blob/main/public/hol-cde-03-02-130811.js"
 		}
 	},
 	{
@@ -415,7 +415,7 @@
 		"industry": "Cloud",
 		"note": "Third iteration covering page structure and organization.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/ift-160817-03-07-form.jpg",
+			"img": "https://klh.karinoyo.com/static/ift-03-10-160817-wire.jpg",
 			"url": "https://klh.karinoyo.com/static/ift-03-00-160817-wire.pdf"
 		}
 	},
@@ -499,7 +499,7 @@
 		"industry": "Data Management",
 		"note": "Spoke-and-wheel diagram of how a centralized data office connects and integrates with its client teams.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/cdo-04-01-170510-map.jpg",
+			"img": "https://klh.karinoyo.com/static/cdo-170510-04-01-map.jpg",
 			"url": ""
 		}
 	},
@@ -652,23 +652,23 @@
 	},
 	{
 		"dex": 33,
-		"title": "Tableau/SSO Logic & Methods",
-		"proj": "cssa",
-		"vers": "05",
+		"title": "GDPR Process Mapping",
+		"proj": "gdp",
+		"vers": "10",
 		"num": "01",
-		"year": 2020,
-		"ftype": "git",
-		"has_img": false,
+		"year": 2017,
+		"ftype": "",
+		"has_img": true,
 		"has_set": false,
 		"quan": 1,
-		"cat": "code",
-		"stage": "revision",
-		"anno": false,
-		"industry": "Data Analytics",
-		"note": "Frame page for embedded dashboards, with logic for SSO setup.",
+		"cat": "swimlane",
+		"stage": "draft",
+		"anno": true,
+		"industry": "Privacy",
+		"note": "Process flow modified into a swim lane approach.",
 		"link": {
-			"img": "",
-			"url": "https://github.com/k2lh/catalog-v4-frontend/blob/master/src/views/frame.vue"
+			"img": "https://klh.karinoyo.com/static/gdp-10-01-171129-lane.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -757,7 +757,7 @@
 	},
 	{
 		"dex": 38,
-		"title": "Welcome Tour for Application",
+		"title": "Welcome Tour",
 		"proj": "ift",
 		"vers": "02",
 		"num": "01",
@@ -793,8 +793,8 @@
 		"industry": "Data Management",
 		"note": "Article discussing centralizing data and integrating design for a more efficient business.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/cdo-03-01-170523-paper.jpg",
-			"url": "https://klh.karinoyo.com/static/cdo-03-01-170523-paper.pdf"
+			"img": "https://klh.karinoyo.com/static/cdo-170523-03-01-paper.jpg",
+			"url": "https://klh.karinoyo.com/static/cdo-170523-03-01-paper.pdf"
 		}
 	},
 	{
@@ -987,27 +987,6 @@
 		}
 	},
 	{
-		"dex": 49,
-		"title": "Experience Visualization",
-		"proj": "res",
-		"vers": "02",
-		"num": "07",
-		"year": 2011,
-		"ftype": "",
-		"has_img": true,
-		"has_set": false,
-		"quan": 1,
-		"cat": "dataviz",
-		"stage": "final",
-		"anno": false,
-		"industry": "Resume",
-		"note": "Sunburst visualization adapted to show experience by skill.",
-		"link": {
-			"img": "https://klh.karinoyo.com/static/res-02-07-110922-dviz.jpg",
-			"url": ""
-		}
-	},
-	{
 		"dex": 50,
 		"title": "Pitch Deck",
 		"proj": "bst",
@@ -1064,15 +1043,15 @@
 		"stage": "draft",
 		"anno": false,
 		"industry": "Cloud",
-		"note": "Second iteration covering page structure and organization.",
+		"note": "Second iteration of stepping through user experience.",
 		"link": {
-			"img": "",
-			"url": "https://klh.karinoyo.com/static/ift-02-04-160712-tour.pdf"
+			"img": "https://klh.karinoyo.com/static/ift-02-01-160712-tour.pdf",
+			"url": "https://klh.karinoyo.com/static/ift-02-00-160712-tour.pdf"
 		}
 	},
 	{
 		"dex": 53,
-		"title": "Internal Team Site (home)",
+		"title": "Internal Team Site",
 		"proj": "sda",
 		"vers": "05",
 		"num": "01",
@@ -1171,15 +1150,15 @@
 		"industry": "Design System",
 		"note": "Annotated (and regularly updated) guidelines for panels, fonts, charts, and helper text.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/dall-09-03-190215-des.jpg",
-			"url": "https://klh.karinoyo.com/static/dall-09-02-190215-des.pdf"
+			"img": "https://klh.karinoyo.com/static/dall-190215-09-03-des.jpg",
+			"url": "https://klh.karinoyo.com/static/dall-190215-09-02-des.pdf"
 		}
 	},
 	{
 		"dex": 58,
 		"title": "Sales Team Tool",
 		"proj": "sls",
-		"vers": "02",
+		"vers": "01",
 		"num": "01",
 		"year": 2012,
 		"ftype": "",
@@ -1190,9 +1169,9 @@
 		"stage": "final",
 		"anno": false,
 		"industry": "Sales",
-		"note": "Traditional site map, also with color-coding to identify patterns.",
+		"note": "Circular site map, with color-coding to note reused actions.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/sls-02-01-120712-map.jpg",
+			"img": "https://klh.karinoyo.com/static/sls-01-01-120705-map.jpg",
 			"url": ""
 		}
 	},
@@ -1297,7 +1276,7 @@
 		"industry": "User Support",
 		"note": "Process flow that includes the involved roles and data movement.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/erf-02-01-190311-flow.jpg",
+			"img": "https://klh.karinoyo.com/static/erf-190311-04-06-flow.jpg",
 			"url": ""
 		}
 	},
@@ -1368,7 +1347,7 @@
 		"dex": 67,
 		"title": "Sales Team Tool",
 		"proj": "sls",
-		"vers": "01",
+		"vers": "02",
 		"num": "01",
 		"year": 2012,
 		"ftype": "",
@@ -1379,30 +1358,9 @@
 		"stage": "final",
 		"anno": false,
 		"industry": "Sales",
-		"note": "Circular site map, with color-coding to note reused actions.",
+		"note": "Traditional site map, also with color-coding to identify patterns.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/sls-01-01-120705-map.jpg",
-			"url": ""
-		}
-	},
-	{
-		"dex": 68,
-		"title": "Experience Visualization",
-		"proj": "res",
-		"vers": "05",
-		"num": "02",
-		"year": 2012,
-		"ftype": "",
-		"has_img": true,
-		"has_set": false,
-		"quan": 1,
-		"cat": "dataviz",
-		"stage": "final",
-		"anno": false,
-		"industry": "Resume",
-		"note": "Ladder visualization to show chronology of positions and skills.",
-		"link": {
-			"img": "https://klh.karinoyo.com/static/res-05-02-120708-dviz.jpg",
+			"img": "https://klh.karinoyo.com/static/sls-02-01-120712-map.jpg",
 			"url": ""
 		}
 	},
@@ -1694,7 +1652,7 @@
 		"stage": "draft",
 		"anno": false,
 		"industry": "User Research",
-		"note": "Stakeholder discussions about organizing related dashboards requires visuals. ",
+		"note": "First, figure out the logic. Then, organize for findability.",
 		"link": {
 			"img": "https://klh.karinoyo.com/static/ctta-02-02-191005-map.jpg",
 			"url": ""
@@ -1738,8 +1696,8 @@
 		"industry": "Platform (PAAS)",
 		"note": "Showing user movement through the webapp, with design system applied.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/ccts-01-01-170505-tour.jpg",
-			"url": "https://klh.karinoyo.com/static/ccts-01-01-170505-tour.pdf"
+			"img": "https://klh.karinoyo.com/static/ccts-170505-01-01-tour.jpg",
+			"url": "https://klh.karinoyo.com/static/ccts-170505-01-01-tour.pdf"
 		}
 	},
 	{
@@ -1933,23 +1891,23 @@
 	},
 	{
 		"dex": 94,
-		"title": "System Content Architecture",
-		"proj": "des",
-		"vers": "03",
+		"title": "Reader-Writer Survey",
+		"proj": "svy",
+		"vers": "04",
 		"num": "01",
-		"year": 2023,
-		"ftype": "txt",
-		"has_img": false,
+		"year": 2011,
+		"ftype": "",
+		"has_img": true,
 		"has_set": false,
 		"quan": 1,
-		"cat": "text",
-		"stage": "revision",
+		"cat": "form",
+		"stage": "final",
 		"anno": false,
-		"industry": "Design System",
-		"note": "Full outline for design system documentation, including future topics.",
+		"industry": "User Research",
+		"note": "Excerpt of survey, with multiple user routes depending on choices.",
 		"link": {
-			"img": "",
-			"url": "https://raw.githubusercontent.com/k2lh/symmetrical-catfish/main/public/des-01-04-230120-text.txt"
+			"img": "https://klh.karinoyo.com/static/svy-04-01-110111-form.jpg",
+			"url": ""
 		}
 	},
 	{
@@ -2011,8 +1969,8 @@
 		"industry": "Design System",
 		"note": "Dataviz design for Cognos, with modified spacing, fonts, and classes.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/dall-06-01-221003-des.jpg",
-			"url": "https://klh.karinoyo.com/static/dall-06-00-221003-des.pdf"
+			"img": "https://klh.karinoyo.com/static/dall-221003-06-01-des.jpg",
+			"url": "https://klh.karinoyo.com/static/dall-221003-06-00-des.pdf"
 		}
 	},
 	{
@@ -2049,7 +2007,7 @@
 		"quan": 24,
 		"cat": "wireframe",
 		"stage": "draft",
-		"anno": false,
+		"anno": true,
 		"industry": "Cloud",
 		"note": "Fifth iteration for possible page structure and organization.",
 		"link": {
@@ -2394,27 +2352,6 @@
 		}
 	},
 	{
-		"dex": 116,
-		"title": "Experience Visualization",
-		"proj": "res",
-		"vers": "04",
-		"num": "01",
-		"year": 2012,
-		"ftype": "",
-		"has_img": true,
-		"has_set": false,
-		"quan": 1,
-		"cat": "dataviz",
-		"stage": "draft",
-		"anno": false,
-		"industry": "Resume",
-		"note": "Attempt to correlate duration of experience with skill set.",
-		"link": {
-			"img": "https://klh.karinoyo.com/static/res-04-01-120707-dviz.jpg",
-			"url": ""
-		}
-	},
-	{
 		"dex": 117,
 		"title": "Add a Cat Profile",
 		"proj": "cat",
@@ -2563,7 +2500,7 @@
 	},
 	{
 		"dex": 124,
-		"title": "Request Management ",
+		"title": "Request Management",
 		"proj": "lor",
 		"vers": "02",
 		"num": "01",
@@ -2746,7 +2683,7 @@
 		"industry": "User Support",
 		"note": "Proposed education request process.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/erf-190217-02-06-form.pdf",
+			"img": "https://klh.karinoyo.com/static/erf-190217-02-06-form.jpg",
 			"url": "https://klh.karinoyo.com/static/erf-190217-02-00-form.pdf"
 		}
 	},
@@ -2893,7 +2830,7 @@
 		"industry": "Design System",
 		"note": "Example of dashboard design, including spacing, fonts, and classes.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/dall-03-04-210325-des.jpg",
+			"img": "https://klh.karinoyo.com/static/dall-210325-03-04-des.jpg",
 			"url": ""
 		}
 	},
@@ -2914,7 +2851,7 @@
 		"industry": "User Research",
 		"note": "User interviews and executive input were the basis of this diagram.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/erf-01-01-190220-lane.jpg",
+			"img": "https://klh.karinoyo.com/static/erf-190215-01-02-lane.jpg",
 			"url": ""
 		}
 	},
@@ -3040,8 +2977,8 @@
 		"industry": "Data Management",
 		"note": "Getting a newly-built team on the same page about management tactics.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/cdo-01-01-170821-pres.jpg",
-			"url": "https://klh.karinoyo.com/static/cdo-01-01-170821-pres.pdf"
+			"img": "https://klh.karinoyo.com/static/cdo-170821-01-01-pres.jpg",
+			"url": "https://klh.karinoyo.com/static/cdo-170821-01-01-pres.pdf"
 		}
 	},
 	{
@@ -3124,8 +3061,8 @@
 		"industry": "Data Management",
 		"note": "Written in support of the Cognitive Platform initiative. (Boy do those dashboards make me cringe, now.)",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/cdo-04-01-170523-paper.jpg",
-			"url": "https://klh.karinoyo.com/static/cdo-04-01-170523-paper.pdf"
+			"img": "https://klh.karinoyo.com/static/cdo-170523-04-01-paper.jpg",
+			"url": "https://klh.karinoyo.com/static/cdo-170523-04-01-paper.pdf"
 		}
 	},
 	{
@@ -3166,7 +3103,7 @@
 		"industry": "Data Analytics",
 		"note": "Joint presentation with Distinguished Engineer, teaching data scientists and analysts about crafting a narrative.",
 		"link": {
-			"img": "https://klh.karinoyo.com/static/sda-05-05-191115-page.jpg",
+			"img": "https://klh.karinoyo.com/static/sda-05-05-190322-pres.jpg",
 			"url": "https://klh.karinoyo.com/static/sda-05-05-190322-pres.pdf"
 		}
 	},
@@ -3230,6 +3167,48 @@
 		"note": "A slight case of taking a good idea a little too far.",
 		"link": {
 			"img": "https://klh.karinoyo.com/static/cat-120209-01-04-form.jpg",
+			"url": ""
+		}
+	},
+	{
+		"dex": 157,
+		"title": "CDO Clarification Steps",
+		"proj": "sda",
+		"vers": "05",
+		"num": "03",
+		"year": 2019,
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
+		"cat": "form",
+		"stage": "revision",
+		"anno": false,
+		"industry": "Data Management",
+		"note": "Why, when, and how the CDO applied UX principles to find solutions.",
+		"link": {
+			"img": "https://klh.karinoyo.com/static/sda-190712-05-03-page.jpg",
+			"url": "https://klh.karinoyo.com/static/sda-190712-05-02-page.pdf"
+		}
+	},
+	{
+		"dex": 158,
+		"title": "Detailed App Structure",
+		"proj": "mob",
+		"vers": "03",
+		"num": "01",
+		"year": 2019,
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
+		"cat": "architecture",
+		"stage": "revision",
+		"anno": false,
+		"industry": "Sales",
+		"note": "Full breakdown of all parts in play.",
+		"link": {
+			"img": "https://klh.karinoyo.com/static/mob-130915-03-01-arch.jpg",
 			"url": ""
 		}
 	}

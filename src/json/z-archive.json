@@ -1,5 +1,68 @@
 [
 	{
+		"dex": 200,
+		"title": "Experience Visualization",
+		"proj": "res",
+		"vers": "05",
+		"num": "02",
+		"year": 2012,
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
+		"cat": "dataviz",
+		"stage": "final",
+		"anno": false,
+		"industry": "Resume",
+		"note": "Ladder visualization to show chronology of positions and skills.",
+		"link": {
+			"img": "https://klh.karinoyo.com/static/res-05-02-120708-dviz.jpg",
+			"url": ""
+		}
+	},
+	{
+		"dex": 201,
+		"title": "Experience Visualization",
+		"proj": "res",
+		"vers": "04",
+		"num": "01",
+		"year": 2012,
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
+		"cat": "dataviz",
+		"stage": "draft",
+		"anno": false,
+		"industry": "Resume",
+		"note": "Attempt to correlate duration of experience with skill set.",
+		"link": {
+			"img": "https://klh.karinoyo.com/static/res-04-01-120707-dviz.jpg",
+			"url": ""
+		}
+	},
+	{
+		"dex": 202,
+		"title": "Experience Visualization",
+		"proj": "res",
+		"vers": "02",
+		"num": "07",
+		"year": 2011,
+		"ftype": "",
+		"has_img": true,
+		"has_set": false,
+		"quan": 1,
+		"cat": "dataviz",
+		"stage": "final",
+		"anno": false,
+		"industry": "Resume",
+		"note": "Sunburst visualization adapted to show experience by skill.",
+		"link": {
+			"img": "https://klh.karinoyo.com/static/res-02-07-110922-dviz.jpg",
+			"url": ""
+		}
+	},
+	{
 		"dex": 1,
 		"title": "Expanded Analytics Catalog",
 		"proj": "csaa",
