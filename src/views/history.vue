@@ -1,6 +1,6 @@
 <template>
   <div class="page history">
-    <div class="pure-g">
+    <div class="pure-g rows-external">
       <div class="pure-u-1-1">
         <div class="section-title">
           <div class="boxlabel adjusted">
@@ -136,7 +136,7 @@
         </div>
       </div>
     </div>
-    <div class="pure-g rows">
+    <div class="pure-g rows-external">
       <div class="pure-u-1-1">
         <div class="section-title">
           <div class="boxlabel adjusted">
@@ -146,7 +146,7 @@
       </div>
     </div>
     <div v-for="(job, index) in positions" :key="index" class="">
-      <div class="pure-g rows-border">
+      <div class="pure-g rows-internal">
         <div class="pure-u-1-1 pure-u-md-1-4 rows">
           <div class="metadata">
             <div class="title">
@@ -187,15 +187,19 @@
       </div>
     </div>
     <div class="pure-g">
-      <div class="pure-u-1-1">
+      <div class="pure-u-1-1 rows-external">
         <div class="section-title">
           <div class="boxlabel adjusted">
             education
           </div>
         </div>
-        <div class="description">
-          <p>Bachelor of Science in Interdisciplinary Studies</p>
-          <p>George Mason University • Fairfax, VA</p>
+        <div class="metadata end">
+          <div class="title">
+            Bachelor of Science in Interdisciplinary Studies
+          </div>
+          <div class="meta first">
+            George Mason University • Fairfax, VA
+          </div>
         </div>
       </div>
     </div>
@@ -221,7 +225,10 @@
     padding: 2rem 0 0 0;
     font-size: .9rem;
   }
-  .rows-border {
+  .rows-external {
+    border-top: 1px solid #AAA;
+  }
+  .rows-internal {
     border-top: 1px dotted #AAA;
   }
   .cols.boxed {
@@ -251,6 +258,9 @@
     text-align: right;
     padding: 1rem;
     margin: 0 1rem;
+    &.end {
+      text-align: left;
+    }
   }
   .description {
     padding: 1rem;
@@ -258,21 +268,15 @@
       margin: 0 1rem;
     }
   }
-  ul.points {
-    margin: 0;
+  ul {
+    margin: 0 0 .25rem 0;
+    font-size: .85rem;
     padding: 0;
+  &.roles {
+    margin: .5rem 0 0 .75rem;
   }
   li {
     list-style: square;
-  }
-
-  ul.roles {
-    font-size: .85rem;
-    margin: .5rem 0 0 .75rem;
-    padding: 0;
-    & li {
-      font-weight: 500;
-        margin: 0 0 .25rem 0;
-    }
+    margin: 0 0 .25rem 0;
   }
 </style>
