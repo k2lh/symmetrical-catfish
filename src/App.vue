@@ -2,20 +2,20 @@
   <div id="app">
     <globalHeader />
     <router-view />
-    <!-- <globalFooter /> -->
+    <globalFooter />
   </div>
 </template>
 
 <script>
   import { RouterLink, RouterView } from 'vue-router';
   import globalHeader from './components/globalHeader.vue';
-  // import globalFooter from './components/globalFooter.vue';
+  import globalFooter from './components/globalFooter.vue';
 
   export default {
     name: 'app',
     components: {
-      globalHeader
-      // globalFooter
+      globalHeader,
+      globalFooter
     },
     data() {
       return {
