@@ -272,8 +272,9 @@
     margin: 0 0 .25rem 0;
     font-size: .85rem;
     padding: 0;
-  &.roles {
-    margin: .5rem 0 0 .75rem;
+    &.roles {
+      margin: .5rem 0 0 .75rem;
+    }
   }
   li {
     list-style: square;
