@@ -16,15 +16,17 @@
             </div>
           </div>
           <ul class="roles">
-            <li>curiosity</li>
-            <li>reusable patterns</li>
-            <li>agile</li>
-            <li>kanban</li>
-            <li>leadership</li>
-            <li>written / verbal / digital communication</li>
-            <li>cross-cultural communication</li>
-            <li>critical thinking</li>
-            <li>empathy</li>
+            <li>Curiosity</li>
+            <li>Respect</li>
+            <li>Leadership</li>
+            <li>Insight</li>
+            <li>Design thinking</li>
+            <li>Writing / Speaking</li>
+            <li>Ingenuity</li>
+            <li>Narratives</li>
+            <li>Agile / Kanban</li>
+            <li>Critical thinking</li>
+            <li>Empathy</li>
           </ul>
         </div>
       </div>
@@ -36,13 +38,14 @@
             </div>
           </div>
           <ul class="roles">
-            <li>process analysis</li>
-            <li>task analysis</li>
-            <li>comparative analysis</li>
-            <li>ethnographic studies</li>
-            <li>contextual studies</li>
-            <li>agile</li>
-            <li>kanban</li>
+            <li>User Interviews</li>
+            <li>Cross-cultural communication</li>
+            <li>Ethnographic studies</li>
+            <li>Contextual studies</li>
+            <li>Process analysis</li>
+            <li>Task Analysis</li>
+            <li>Comparative analysis</li>
+            <li>Workshop facilitation</li>
           </ul>
         </div>
       </div>
@@ -54,19 +57,19 @@
             </div>
           </div>
           <ul class="roles">
-            <li>findability</li>
-            <li>usability</li>
-            <li>interaction</li>
-            <li>low/high fidelity</li>
-            <li>wireframes</li>
-            <li>mockups</li>
-            <li>design critiques</li>
-            <li>information architecture</li>
-            <li>workflows</li>
-            <li>design principles</li>
-            <li>responsive design</li>
-            <li>adaptability</li>
-            <li>reliability</li>
+            <li>Design principles</li>
+            <li>Accessibility</li>
+            <li>Findability</li>
+            <li>Usability</li>
+            <li>Interaction design</li>
+            <li>Responsive design</li>
+            <li>Adaptability</li>
+            <li>Low/Mid/High fidelity</li>
+            <li>Wireframes</li>
+            <li>Mockups</li>
+            <li>Design critiques</li>
+            <li>Information architecture</li>
+            <li>Workflows</li>
           </ul>
         </div>
       </div>
@@ -78,14 +81,15 @@
             </div>
           </div>
           <ul class="roles">
-            <li>coding standards</li>
-            <li>maintainable code</li>
-            <li>reusable components</li>
-            <li>code reviews</li>
-            <li>rapid prototyping</li>
+            <li>Coding standards</li>
+            <li>Maintainable code</li>
+            <li>Reusable components</li>
+            <li>Rapid prototyping</li>
+            <li>Code reviews</li>
             <li>RESTful API design</li>
-            <li>application architecture</li>
-            <li>database architecture</li>
+            <li>Application architecture</li>
+            <li>Database architecture</li>
+            <li>Enterprise architecture</li>
             <li>CI/CD/CD</li>
             <li>version control</li>
           </ul>
@@ -100,17 +104,20 @@
           </div>
           <ul class="roles">
             <li>Vue</li>
-            <li>D3.js</li>
+            <li>Vue2</li>
+            <li>D3</li>
             <li>AngularJS</li>
             <li>javascript</li>
             <li>typescript</li>
             <li>SCSS / CSS3</li>
-            <li>NPM / Yarn</li>
+            <li>Sketch</li>
+            <li>Figma</li>
+            <li>Invision</li>
             <li>Node</li>
             <li>Express</li>
+            <li>NPM / Yarn</li>
             <li>Webpack</li>
-            <li>MongoDB</li>
-            <li>SQL</li>
+            <li>Grunt / Gulp</li>
           </ul>
         </div>
       </div>
@@ -122,10 +129,13 @@
             </div>
           </div>
           <ul class="roles">
-            <li>Sketch</li>
-            <li>Figma</li>
+            <li>Jest</li>
+            <li>Vuex</li>
+            <li>Mocha</li>
+            <li>Jasmine</li>
+            <li>MongoDB</li>
+            <li>SQL</li>
             <li>Mural</li>
-            <li>Invision</li>
             <li>AEM</li>
             <li>Docker</li>
             <li>Jenkins</li>
