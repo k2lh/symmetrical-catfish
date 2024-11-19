@@ -126,10 +126,9 @@
         </ul>
       </div>
     </div>
-    </div>
     <div class="pure-g rows">
       <div class="pure-u-1-1">
-        <div class="intro-text">
+        <div class="section-title">
           <div class="boxlabel adjusted">
             experience
           </div>
@@ -179,11 +178,13 @@
     </div>
     <div class="pure-g rows">
       <div class="pure-u-1-1">
-        <div class="intro-text">
+        <div class="section-title">
           <div class="boxlabel adjusted">
             education
           </div>
-          <p class="title">Bachelor of Science in Interdisciplinary Studies</p>
+        </div>
+        <div class="description">
+          <p>Bachelor of Science in Interdisciplinary Studies</p>
           <p>George Mason University • Fairfax, VA</p>
         </div>
       </div>
