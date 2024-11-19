@@ -93,8 +93,7 @@
               tools
             </div>
           <ul class="roles">
-            <li>Vue</li>
-            <li>Vue2</li>
+            <li>Vue / Vue2</li>
             <li>D3</li>
             <li>AngularJS</li>
             <li>javascript</li>
