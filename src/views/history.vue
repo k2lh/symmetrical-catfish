@@ -10,12 +10,10 @@
       </div>
       <div class="pure-u-1-2 pure-u-md-1-6">
         <div class="cols boxed">
-          <div class="description roles">
             <div class="boxlabel">
               principles
             </div>
-          </div>
-          <ul class="roles">
+          <ul class="roles list">
             <li>Curiosity</li>
             <li>Respect</li>
             <li>Leadership</li>
@@ -32,12 +30,10 @@
       </div>
       <div class="pure-u-1-2 pure-u-md-1-6">
         <div class="cols boxed">
-          <div class="description roles">
             <div class="boxlabel">
               research
             </div>
-          </div>
-          <ul class="roles">
+          <ul class="roles list">
             <li>User Interviews</li>
             <li>Cross-cultural communication</li>
             <li>Ethnographic studies</li>
@@ -51,12 +47,10 @@
       </div>
       <div class="pure-u-1-2 pure-u-md-1-6">
         <div class="cols boxed">
-          <div class="description roles">
             <div class="boxlabel">
               design
             </div>
-          </div>
-          <ul class="roles">
+          <ul class="roles list">
             <li>Design principles</li>
             <li>Accessibility</li>
             <li>Findability</li>
@@ -75,12 +69,10 @@
       </div>
       <div class="pure-u-1-2 pure-u-md-1-6">
         <div class="cols boxed">
-          <div class="description roles">
             <div class="boxlabel">
               development
             </div>
-          </div>
-          <ul class="roles">
+          <ul class="roles list">
             <li>Coding standards</li>
             <li>Maintainable code</li>
             <li>Reusable components</li>
@@ -97,12 +89,10 @@
       </div>
       <div class="pure-u-1-2 pure-u-md-1-6">
         <div class="cols boxed">
-          <div class="description roles">
             <div class="boxlabel">
               tools
             </div>
-          </div>
-          <ul class="roles">
+          <ul class="roles list">
             <li>Vue</li>
             <li>Vue2</li>
             <li>D3</li>
@@ -123,12 +113,10 @@
       </div>
       <div class="pure-u-1-2 pure-u-md-1-6">
         <div class="cols boxed">
-          <div class="description roles">
             <div class="boxlabel">
               &nbsp;
             </div>
-          </div>
-          <ul class="roles">
+          <ul class="roles list">
             <li>Jest</li>
             <li>Vuex</li>
             <li>Mocha</li>
@@ -280,12 +268,15 @@
   }
 
   ul.roles {
+    font-size: .85rem;
     margin: .5rem 0 0 .75rem;
     padding: 0;
     & li {
       font-weight: 500;
       letter-spacing: 1px;
     }
+    &.list li {
+      letter-spacing: 0;
+    }
   }
-
 </style>
