@@ -13,7 +13,7 @@
             <div class="boxlabel">
               principles
             </div>
-          <ul class="roles list">
+          <ul class="roles">
             <li>Curiosity</li>
             <li>Respect</li>
             <li>Leadership</li>
@@ -33,7 +33,7 @@
             <div class="boxlabel">
               research
             </div>
-          <ul class="roles list">
+          <ul class="roles">
             <li>User Interviews</li>
             <li>Cross-cultural communication</li>
             <li>Ethnographic studies</li>
@@ -50,7 +50,7 @@
             <div class="boxlabel">
               design
             </div>
-          <ul class="roles list">
+          <ul class="roles">
             <li>Design principles</li>
             <li>Accessibility</li>
             <li>Findability</li>
@@ -72,7 +72,7 @@
             <div class="boxlabel">
               development
             </div>
-          <ul class="roles list">
+          <ul class="roles">
             <li>Coding standards</li>
             <li>Maintainable code</li>
             <li>Reusable components</li>
@@ -92,7 +92,7 @@
             <div class="boxlabel">
               tools
             </div>
-          <ul class="roles list">
+          <ul class="roles">
             <li>Vue</li>
             <li>Vue2</li>
             <li>D3</li>
@@ -116,7 +116,7 @@
             <div class="boxlabel">
               &nbsp;
             </div>
-          <ul class="roles list">
+          <ul class="roles">
             <li>Jest</li>
             <li>Vuex</li>
             <li>Mocha</li>
@@ -146,8 +146,8 @@
       </div>
     </div>
     <div v-for="(job, index) in positions" :key="index" class="">
-      <div class="pure-g rows">
-        <div class="pure-u-1-1 pure-u-md-1-4">
+      <div class="pure-g rows-border">
+        <div class="pure-u-1-1 pure-u-md-1-4 rows">
           <div class="metadata">
             <div class="title">
               {{ job.title }}
@@ -273,10 +273,7 @@
     padding: 0;
     & li {
       font-weight: 500;
-      letter-spacing: 1px;
-    }
-    &.list li {
-      letter-spacing: 0;
+        margin: 0 0 .25rem 0;
     }
   }
 </style>
