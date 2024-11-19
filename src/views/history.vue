@@ -186,7 +186,7 @@
         </div>
       </div>
     </div>
-    <div class="pure-g rows">
+    <div class="pure-g">
       <div class="pure-u-1-1">
         <div class="section-title">
           <div class="boxlabel adjusted">
@@ -225,18 +225,17 @@
     border-top: 1px dotted #AAA;
   }
   .cols.boxed {
-    margin: 1rem;
-    padding: 1rem;
+    margin: 0 1rem 1rem 1rem;
+    padding: 0 1rem 1rem 1rem;
   }
   .title {
     font-weight: 700;
     padding-bottom: .5rem;
   }
   .section-title {
-    font-size: 1rem;
-    font-weight: 500;
-    letter-spacing: 3px;
-    margin: 1rem 0 1rem 2rem;
+    margin: 1rem 0 2rem 2rem;
+    border-top: 1px solid #AAA;
+    padding-top: 1rem;
   }
   .boxlabel {
     font-weight: 500;
@@ -246,7 +245,7 @@
   .boxlabel.adjusted {
     letter-spacing: 3px;
     font-size: 1rem;
-    font-weight: 500;
+    font-weight: 700;
   }
   .metadata {
     text-align: right;
