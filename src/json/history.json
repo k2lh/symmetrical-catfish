@@ -3,17 +3,26 @@
 		"startMonth": 1,
 		"startYear": 2024,
 		"endMonth": "now",
-		"endYear": "2024",
+		"endYear": "",
 		"projects": [],
-		"title": "Architectural Designer & Historical Preservationist",
-		"team": "Restoration Sabbatical",
+		"lead": true,
+		"advisor": true,
+		"role": [
+			"Architect",
+			"UX Designer",
+			"Writer",
+			"UX Strategist",
+			"UX Researcher"
+		],
+		"title": "UX Architect & Design Strategist",
+		"team": "",
 		"company": "Mesta-Martin House",
-		"location": "",
+		"location": "Pittsburgh, PA",
 		"points": [
-			"Applied systems thinking, woodworking skills, architectural knowledge, and historical research to plan and execute full restoration of former State Representative's house, built c1898.",
+			"Applied systems thinking, woodworking skills, architectural knowledge, historical research, and project management skills to plan and execute full restoration of former State Representative's house, built c1898.",
 			"Researched house history extensively; utilized buildings archaeology to find previous renovation evidence; documented with floor plans, elevations, and photography.",
 			"Cataloged doorknobs, doors, millwork, windows, corners, locks, archways, and floorings; identified repeating architectural motifs, and composed new complementary millwork profiles.",
-			"Finalized window, door, millwork, cabinetry, and electrical plans for 18 rooms, 3 bathrooms, 2 staircases, 2 pantries, and 3 porches. 47 restoration projects nearing or at completion."
+			"Finalized window, door, millwork, cabinetry, and electrical plans for 18 rooms, 3 bathrooms, 2 staircases, 2 pantries, 3 porches, and 1 secret passageway."
 		]
 	},
 	{
