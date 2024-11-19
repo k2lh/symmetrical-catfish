@@ -241,7 +241,6 @@
   }
   .section-title {
     margin: 1rem 0 2rem 2rem;
-    border-top: 1px solid #AAA;
     padding-top: 1rem;
   }
   .boxlabel {
@@ -260,6 +259,7 @@
     margin: 0 1rem;
     &.end {
       text-align: left;
+      margin-top: -1rem;
     }
   }
   .description {
