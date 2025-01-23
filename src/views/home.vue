@@ -15,7 +15,11 @@
               the formal (but true) version
             </div>
             <p class="limited">
-              I'm a versatile and inventive Senior UX/UI Architect and Designer-Developer fluent in design thinking and systems thinking, with a strong background in enterprise development and user experience (UX) design. I have proven experience as a data visualization designer, educator, and leader, and as a design system contributor, adviser, advocate, and architect.
+              I'm a dynamic and versatile Senior UX Architect and Designer-Developer with 10+ years experience crafting and executing design
+              strategies for business-aligned and user-centered solutions. I have a strong background in building scalable, performant, and
+              secure RESTful enterprise-level applications. I'm fluent in design thinking, systems thinking, and cross-functional and cross-cultural
+              communication, and I'm an accomplished leader, mentor, advocate, and educator in design strategy, data visualization, design systems,
+              and application architecture.
             </p>
           </div>
         <!-- </div>

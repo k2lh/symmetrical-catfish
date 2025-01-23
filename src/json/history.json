@@ -2,8 +2,8 @@
 	{
 		"startMonth": 1,
 		"startYear": 2024,
-		"endMonth": "now",
-		"endYear": "",
+		"endMonth": 12,
+		"endYear": 2024,
 		"projects": [],
 		"lead": true,
 		"advisor": true,
@@ -14,15 +14,15 @@
 			"UX Strategist",
 			"UX Researcher"
 		],
-		"title": "UX Architect & Design Strategist",
+		"title": "Designer & Architect (Sabbatical)",
 		"team": "",
 		"company": "Mesta-Martin House",
 		"location": "Pittsburgh, PA",
 		"points": [
-			"Applied systems thinking, woodworking skills, architectural knowledge, historical research, and project management skills to plan and execute full restoration of former State Representative's house, built c1898.",
-			"Researched house history extensively; utilized buildings archaeology to find previous renovation evidence; documented with floor plans, elevations, and photography.",
-			"Cataloged doorknobs, doors, millwork, windows, corners, locks, archways, and floorings; identified repeating architectural motifs, and composed new complementary millwork profiles.",
-			"Finalized window, door, millwork, cabinetry, and electrical plans for 18 rooms, 3 bathrooms, 2 staircases, 2 pantries, 3 porches, and 1 secret passageway."
+			"Took time off to fulfill a longtime passion for historical architecture, buildings archaeology, and woodworking by planning, researching, designing, and executing the restoration of a former State Representative's 1898 home.",
+			"Cataloged 72 unique design elements and documented with floor plans, elevations, and photography.",
+			"Identified repeating architectural motifs, and composed new complementary millwork profiles.",
+			"Drafted, tested, and finalized 24 blueprints and 21 cabinetry schematics."
 		]
 	},
 	{
@@ -37,7 +37,7 @@
 			"UX Designer",
 			"Writer"
 		],
-		"title": "Senior UX Designer & Content Strategy Consultant",
+		"title": "Sr UX Designer & Content Strategy Consultant",
 		"team": "",
 		"company": "Bast AI",
 		"points": [
@@ -59,7 +59,7 @@
 			"Fullstack Developer",
 			"Dataviz Designer"
 		],
-		"title": "Design System Architect & Development Lead",
+		"title": "Dev Lead & Design System Architect",
 		"team": "Digital Marketing",
 		"company": "Kyndryl",
 		"points": [
@@ -82,7 +82,7 @@
 			"Fullstack Developer",
 			"UX Designer"
 		],
-		"title": "Data Visualization Design Lead & Principal UX/UI Developer",
+		"title": "Design Lead & Sr UX/UI Developer",
 		"team": "People Analytics",
 		"company": "Kyndryl",
 		"points": [
@@ -98,7 +98,7 @@
 		"startYear": 2020,
 		"endMonth": 10,
 		"endYear": 2021,
-		"title": "Data Visualization Design Lead & Principal UX/UI Developer",
+		"title": "Design Lead & Sr UX/UI Developer",
 		"team": "HR Analytics",
 		"company": "IBM",
 		"points": [
@@ -121,7 +121,7 @@
 		"startYear": 2018,
 		"endMonth": 6,
 		"endYear": 2020,
-		"title": "Development Lead & Data Visualization Designer",
+		"title": "Dev Lead & Sr UX Designer",
 		"team": "Talent Transformation Analytics",
 		"company": "IBM",
 		"points": [
@@ -255,7 +255,8 @@
 		"advisor": true,
 		"role": [
 			"Frontend Developer",
-			"UX Designer"
+			"UX Designer",
+			"Prototype Developer"
 		]
 	}
 ]
