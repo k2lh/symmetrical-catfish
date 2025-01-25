@@ -31,11 +31,11 @@
             <ul>
               <li>As a process analyst, I learned information architecture to ensure my solutions were clear and coherent.</li>
               <li>As an IA, I learned user research to gather and analyze my audience's feedback.</li>
-              <li>As a UX researcher, I learned design to grasp the role of research in creating usable and intuitive visuals.</li>
-              <li>As a UX designer, I learned code to better understand the art/tech divide and how to bridge it.</li>
+              <li>As a UX researcher, I learned design for a deeper grasp on usable and intuitive visuals.</li>
+              <li>As a UX designer, I learned code to see how images are transformed into interactions.</li>
               <li>As a FED, I learned API and database design to improve my interfaces' performance and efficiency.</li>
-              <li>As a fullstack dev, I learned application architecture to synthesize these displines into complex yet elegant systems.</li>
-              <li>...and thus I came full circle.</li>
+              <li>As a fullstack dev, I learned application architecture to synthesize these disciplines to create complex and elegant systems.</li>
+              <li>...and thus I come full circle.</li>
             </ul>
           </div>
         </div>
