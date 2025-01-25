@@ -35,7 +35,7 @@
               <li>As a UX designer, I learned code to see how images are transformed into interactions.</li>
               <li>As a FED, I learned API and database design to improve application performance and efficiency.</li>
               <li>As a fullstack dev, I learned application architecture to synthesize all these disciplines into complex and elegant systems.</li>
-              <li>...and thus I come full circle, where determining a function's process will inform a system's form.</li>
+              <li>...and thus I come full circle, using process and function to design system and form.</li>
             </ul>
           </div>
         </div>
