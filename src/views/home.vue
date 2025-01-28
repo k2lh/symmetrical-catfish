@@ -15,10 +15,10 @@
               the formal (but true) version
             </div>
             <p class="limited">
-              I'm a dynamic and versatile Senior UX Architect and Designer-Developer with 10+ years experience crafting and executing design
-              strategies for business-aligned and user-centered solutions. I have a strong background in building scalable, performant, and
-              secure RESTful enterprise-level applications. I'm fluent in design thinking, systems thinking, and cross-functional and cross-cultural
-              communication, and I'm an accomplished leader, mentor, advocate, and educator in design strategy, data visualization, design systems,
+              Senior UX Designer/Developer/Architect with 10+ years envisioning and executing business-aligned
+              and user-centered web application solutions. Accomplished at building scalable, performant, and secure RESTful enterprise-level applications.
+              Proficient in systems thinking and design thinking, and fluent in cross-functional and cross-cultural
+              communication. Proven leader, mentor, advocate, and educator in design strategy, data visualization, design systems,
               and application architecture.
             </p>
           </div>
@@ -34,7 +34,7 @@
               <li>As a UX researcher, I learned design for a deeper grasp on usable and intuitive visuals.</li>
               <li>As a UX designer, I learned code to see how images are transformed into interactions.</li>
               <li>As a FED, I learned API and database design to improve application performance and efficiency.</li>
-              <li>As a fullstack dev, I learned application architecture to synthesize all these disciplines into complex and elegant systems.</li>
+              <li>As a fullstack dev, I learned application architecture to synthesize these disciplines and create elegant systems.</li>
               <li>...and thus I come full circle, using process and function to design system and form.</li>
             </ul>
           </div>
